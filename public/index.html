@@ -7,19 +7,78 @@
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    /* Theme variables */
+    :root {
+      --bg: #121212;
+      --bg-surface: #1a1a1a;
+      --text: #e0dcd6;
+      --text-muted: #888;
+      --text-heading: #f0ece6;
+      --border: #2a2a2a;
+      --border-double: #e0dcd6;
+      --accent: #c0a060;
+      --accent-hover: #d4b87a;
+      --link: #c0a060;
+      --link-hover: #d4b87a;
+      --blockquote-bg: rgba(192,160,96,0.08);
+      --blockquote-text: #bbb;
+      --btn-bg: #222;
+      --btn-text: #ccc;
+      --btn-border: #444;
+      --btn-active-bg: #e0dcd6;
+      --btn-active-text: #111;
+      --btn-active-border: #e0dcd6;
+      --nav-arrow-bg: #1a1a1a;
+      --nav-arrow-text: #ccc;
+      --nav-arrow-border: #444;
+      --error: #e07070;
+      --spinner-track: #333;
+      --spinner-head: #888;
+      --raw-bg: #1e1e1e;
+    }
+    body.light {
+      --bg: #faf9f6;
+      --bg-surface: #fff;
+      --text: #2c2c2c;
+      --text-muted: #888;
+      --text-heading: #111;
+      --border: #e8e4de;
+      --border-double: #222;
+      --accent: #c0a060;
+      --accent-hover: #a08040;
+      --link: #8b5e3c;
+      --link-hover: #5a3a22;
+      --blockquote-bg: rgba(192,160,96,0.06);
+      --blockquote-text: #555;
+      --btn-bg: #fff;
+      --btn-text: #666;
+      --btn-border: #ccc;
+      --btn-active-bg: #222;
+      --btn-active-text: #fff;
+      --btn-active-border: #222;
+      --nav-arrow-bg: #fff;
+      --nav-arrow-text: #444;
+      --nav-arrow-border: #ccc;
+      --error: #a04040;
+      --spinner-track: #ddd;
+      --spinner-head: #555;
+      --raw-bg: #f5f3ef;
+    }
+
     body {
       font-family: Georgia, 'Times New Roman', serif;
       font-size: 18px;
       line-height: 1.8;
-      color: #2c2c2c;
-      background: #faf9f6;
+      color: var(--text);
+      background: var(--bg);
+      transition: background 0.3s ease, color 0.3s ease;
     }
 
     /* Magazine Header */
     header {
       text-align: center;
       padding: 3rem 1rem 2rem;
-      border-bottom: 3px double #222;
+      border-bottom: 3px double var(--border-double);
       max-width: 720px;
       margin: 0 auto;
     }
@@ -29,11 +88,11 @@
       font-weight: 400;
       letter-spacing: 6px;
       text-transform: uppercase;
-      color: #111;
+      color: var(--text-heading);
     }
     header .edition {
       font-size: 0.85rem;
-      color: #888;
+      color: var(--text-muted);
       margin-top: 0.5rem;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       letter-spacing: 1px;
@@ -41,7 +100,7 @@
     header .divider {
       width: 60px;
       height: 2px;
-      background: #111;
+      background: var(--text-heading);
       margin: 1rem auto 0;
     }
 
@@ -55,23 +114,23 @@
       align-items: center;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 0.8rem;
-      border-bottom: 1px solid #e8e4de;
+      border-bottom: 1px solid var(--border);
     }
     .toolbar .group { display: flex; align-items: center; gap: 0.3rem; }
-    .toolbar .group-label { color: #999; margin-right: 0.3rem; }
+    .toolbar .group-label { color: var(--text-muted); margin-right: 0.3rem; }
     .toolbar button {
       padding: 0.25rem 0.7rem;
-      border: 1px solid #ccc;
-      background: #fff;
-      color: #666;
+      border: 1px solid var(--btn-border);
+      background: var(--btn-bg);
+      color: var(--btn-text);
       font-size: 0.8rem;
       cursor: pointer;
       border-radius: 4px;
     }
     .toolbar button.active {
-      background: #222;
-      color: #fff;
-      border-color: #222;
+      background: var(--btn-active-bg);
+      color: var(--btn-active-text);
+      border-color: var(--btn-active-border);
     }
 
     /* Main content */
@@ -87,7 +146,7 @@
     body.two-page #digest {
       column-count: 2;
       column-gap: 3rem;
-      column-rule: 1px solid #e8e4de;
+      column-rule: 1px solid var(--border);
     }
     body.two-page #digest h2 {
       column-span: all;
@@ -109,15 +168,15 @@
       font-weight: 400;
       margin: 2.5rem 0 1rem;
       padding-bottom: 0.4rem;
-      border-bottom: 1px solid #ddd;
-      color: #111;
+      border-bottom: 1px solid var(--border);
+      color: var(--text-heading);
     }
     #digest h3 {
       font-family: Georgia, serif;
       font-size: 1.2rem;
       font-weight: 700;
       margin: 1.8rem 0 0.6rem;
-      color: #222;
+      color: var(--text-heading);
     }
     #digest p {
       margin-bottom: 1rem;
@@ -127,29 +186,29 @@
     #digest blockquote {
       margin: 1.2rem 0;
       padding: 0.8rem 1.2rem;
-      border-left: 3px solid #c0a060;
-      background: rgba(192,160,96,0.06);
+      border-left: 3px solid var(--accent);
+      background: var(--blockquote-bg);
       font-style: italic;
-      color: #555;
+      color: var(--blockquote-text);
     }
     #digest ul, #digest ol {
       margin: 0.8rem 0 1rem 1.5rem;
     }
     #digest li { margin-bottom: 0.4rem; }
-    #digest a { color: #8b5e3c; text-decoration: underline; text-underline-offset: 2px; }
-    #digest a:hover { color: #5a3a22; }
-    #digest strong { font-weight: 700; color: #111; }
+    #digest a { color: var(--link); text-decoration: underline; text-underline-offset: 2px; }
+    #digest a:hover { color: var(--link-hover); }
+    #digest strong { font-weight: 700; color: var(--text-heading); }
     #digest em { font-style: italic; }
     #digest hr {
       border: none;
       height: 1px;
-      background: #ddd;
+      background: var(--border);
       margin: 2rem 0;
     }
     #digest .lead {
       font-size: 1.15rem;
       font-style: italic;
-      color: #555;
+      color: var(--text-muted);
       margin-bottom: 1.5rem;
     }
 
@@ -158,14 +217,14 @@
       text-align: center;
       padding: 4rem 1rem;
       font-family: -apple-system, sans-serif;
-      color: #888;
+      color: var(--text-muted);
     }
     .loading-state .spinner {
       display: inline-block;
       width: 28px;
       height: 28px;
-      border: 3px solid #ddd;
-      border-top-color: #555;
+      border: 3px solid var(--spinner-track);
+      border-top-color: var(--spinner-head);
       border-radius: 50%;
       animation: spin 0.8s linear infinite;
       margin-bottom: 1rem;
@@ -176,17 +235,17 @@
     .error-state {
       text-align: center;
       padding: 3rem 1rem;
-      color: #a04040;
+      color: var(--error);
       font-family: -apple-system, sans-serif;
       font-size: 0.9rem;
     }
     .error-state button {
       margin-top: 1rem;
       padding: 0.4rem 1.2rem;
-      border: 1px solid #a04040;
+      border: 1px solid var(--error);
       border-radius: 6px;
-      background: #fff;
-      color: #a04040;
+      background: var(--bg-surface);
+      color: var(--error);
       cursor: pointer;
       font-weight: 600;
     }
@@ -226,7 +285,7 @@
     }
     #digest a[data-handle] {
       text-decoration-style: dotted;
-      text-decoration-color: #c0a060;
+      text-decoration-color: var(--accent);
     }
 
     /* Book-flip page navigation */
@@ -240,17 +299,17 @@
       gap: 1.2rem;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 0.82rem;
-      border-bottom: 1px solid #e8e4de;
+      border-bottom: 1px solid var(--border);
       user-select: none;
     }
     body.two-page .page-nav { max-width: 1200px; }
     .page-nav .nav-arrow {
       width: 36px;
       height: 36px;
-      border: 1px solid #ccc;
+      border: 1px solid var(--nav-arrow-border);
       border-radius: 50%;
-      background: #fff;
-      color: #444;
+      background: var(--nav-arrow-bg);
+      color: var(--nav-arrow-text);
       font-size: 1.1rem;
       cursor: pointer;
       display: flex;
@@ -258,7 +317,7 @@
       justify-content: center;
       transition: all 0.15s;
     }
-    .page-nav .nav-arrow:hover:not(:disabled) { background: #222; color: #fff; border-color: #222; }
+    .page-nav .nav-arrow:hover:not(:disabled) { background: var(--accent); color: #111; border-color: var(--accent); }
     .page-nav .nav-arrow:disabled { opacity: 0.25; cursor: default; }
     .page-nav .nav-center {
       text-align: center;
@@ -266,12 +325,12 @@
     }
     .page-nav .nav-date {
       font-weight: 600;
-      color: #222;
+      color: var(--text-heading);
       font-size: 0.88rem;
     }
     .page-nav .nav-pos {
       font-size: 0.7rem;
-      color: #999;
+      color: var(--text-muted);
       margin-top: 0.1rem;
     }
 
@@ -317,18 +376,19 @@
     .sel-popup {
       position: fixed;
       z-index: 1001;
-      background: #222;
-      color: #fff;
+      background: var(--accent);
+      color: #111;
       border-radius: 6px;
       padding: 0.3rem 0.6rem;
       font-family: -apple-system, sans-serif;
       font-size: 0.78rem;
+      font-weight: 600;
       cursor: pointer;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.4);
       display: none;
       user-select: none;
     }
-    .sel-popup:hover { background: #444; }
+    .sel-popup:hover { background: var(--accent-hover); }
 
     /* Explanation panel */
     .explain-panel {
@@ -393,10 +453,13 @@
       padding: 2rem 1rem;
       font-family: -apple-system, sans-serif;
       font-size: 0.75rem;
-      color: #bbb;
-      border-top: 1px solid #e8e4de;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
     }
-    footer a { color: #999; }
+    footer a { color: var(--text-muted); }
+
+    /* Prevent light flash on load when dark is default */
+    html.light-preload body { background: #faf9f6; color: #2c2c2c; }
 
     /* Responsive */
     @media (max-width: 640px) {
@@ -423,6 +486,9 @@
       <span class="group-label">View:</span>
       <button id="btn-1col" class="active" onclick="switchView(1)">1-Page</button>
       <button id="btn-2col" onclick="switchView(2)">2-Page</button>
+    </div>
+    <div class="group">
+      <button id="btn-theme" onclick="toggleTheme()" title="Toggle light/dark mode">Dark</button>
     </div>
   </div>
 
@@ -461,12 +527,31 @@
   </footer>
 
   <script>
+    // --- Theme (runs immediately to avoid flash) ---
+    let isDark = localStorage.getItem('theme') !== 'light'; // default dark
+    function applyTheme() {
+      document.body.classList.toggle('light', !isDark);
+      const btn = document.getElementById('btn-theme');
+      if (btn) btn.textContent = isDark ? 'Dark' : 'Light';
+    }
+    // Apply before paint
+    if (!isDark) document.documentElement.classList.add('light-preload');
+
+    function toggleTheme() {
+      isDark = !isDark;
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      applyTheme();
+    }
+
     let digestData = null;
     let currentLang = 'en';
     let currentDate = null;
     let availableDates = [];
 
-    document.addEventListener('DOMContentLoaded', init);
+    document.addEventListener('DOMContentLoaded', () => {
+      applyTheme();
+      init();
+    });
 
     // --- Init ---
     async function init() {
@@ -494,7 +579,7 @@
     // --- Date navigation ---
     async function loadDates() {
       try {
-        const res = await fetch('/api/dates');
+        const res = await fetch('/digests/index.json');
         availableDates = await res.json();
       } catch {
         availableDates = [];
@@ -560,7 +645,7 @@
       digestEl.innerHTML = '<div class="loading-state"><div class="spinner"></div><p>Loading digest...</p></div>';
 
       try {
-        const res = await fetch(`/api/digest?date=${date}`);
+        const res = await fetch(`/digests/${date}.json`);
         if (!res.ok) throw new Error('Digest not found.');
         digestData = await res.json();
 

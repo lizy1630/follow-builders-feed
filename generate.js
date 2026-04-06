@@ -19,7 +19,7 @@ const FEEDS = {
   podcasts: `${BASE}/feed-podcasts.json`,
   blogs: `${BASE}/feed-blogs.json`,
 };
-const DIGESTS_DIR = path.join(__dirname, "digests");
+const DIGESTS_DIR = path.join(__dirname, "public", "digests");
 
 async function fetchJSON(url) {
   const res = await fetch(url + `?t=${Date.now()}`);
@@ -145,6 +145,13 @@ async function main() {
     const existing = JSON.parse(fs.readFileSync(digestPath, "utf-8"));
     if (existing.html_en && existing.html_zh) {
       console.log("Digest already exists for this date. Skipping.");
+      // Ensure index.json exists
+      const dates = fs.readdirSync(DIGESTS_DIR)
+        .filter(f => f.endsWith(".json") && f !== "index.json")
+        .map(f => f.replace(".json", ""))
+        .sort()
+        .reverse();
+      fs.writeFileSync(path.join(DIGESTS_DIR, "index.json"), JSON.stringify(dates));
       return;
     }
   }
@@ -193,12 +200,21 @@ async function main() {
   console.log(`Digest saved to ${digestPath}`);
 
   // Prune digests older than 7 days
-  const files = fs.readdirSync(DIGESTS_DIR).filter(f => f.endsWith(".json")).sort();
+  const files = fs.readdirSync(DIGESTS_DIR).filter(f => f.endsWith(".json") && f !== "index.json").sort();
   while (files.length > 7) {
     const old = files.shift();
     fs.unlinkSync(path.join(DIGESTS_DIR, old));
     console.log(`Pruned old digest: ${old}`);
   }
+
+  // Write index.json with available dates
+  const dates = fs.readdirSync(DIGESTS_DIR)
+    .filter(f => f.endsWith(".json") && f !== "index.json")
+    .map(f => f.replace(".json", ""))
+    .sort()
+    .reverse();
+  fs.writeFileSync(path.join(DIGESTS_DIR, "index.json"), JSON.stringify(dates));
+  console.log(`Updated index.json: ${dates.join(", ")}`);
 }
 
 // Run standalone or as module

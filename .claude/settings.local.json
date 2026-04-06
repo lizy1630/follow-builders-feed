@@ -11,7 +11,10 @@
       "Bash(pkill -f \"serve .\")",
       "Bash(npm start:*)",
       "Bash(curl -s http://localhost:3000/api/dates)",
-      "Bash(curl -s http://localhost:3456/api/dates)"
+      "Bash(curl -s http://localhost:3456/api/dates)",
+      "Bash(npx wrangler:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)"
     ]
   }
 }
