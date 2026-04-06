@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Follow Builders - Daily AI Feed</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      color: #1a1a2e;
+      background: #f5f5f7;
+    }
+
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Header */
+    header {
+      text-align: center;
+      padding: 2.5rem 1rem 1.5rem;
+      background: #1a1a2e;
+      color: #fff;
+    }
+    header h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.5px; }
+    header .subtitle { color: #a0a0b8; font-size: 0.95rem; margin-top: 0.25rem; }
+    header .timestamp { color: #7a7a96; font-size: 0.8rem; margin-top: 0.5rem; }
+
+    /* Sticky Nav */
+    .section-nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: flex;
+      justify-content: center;
+      gap: 0.25rem;
+      padding: 0.6rem 1rem;
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid #e0e0e4;
+    }
+    .section-nav a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.4rem 1rem;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #555;
+      transition: background 0.2s, color 0.2s;
+    }
+    .section-nav a:hover { background: #eee; color: #1a1a2e; text-decoration: none; }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 22px;
+      height: 22px;
+      padding: 0 6px;
+      border-radius: 11px;
+      background: #e8e8ec;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #666;
+    }
+
+    /* Main content */
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
+    }
+
+    section { margin-bottom: 2.5rem; }
+    section > h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #e0e0e4;
+    }
+
+    /* Cards */
+    .feed-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 1.25rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+      transition: box-shadow 0.2s;
+    }
+    .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+
+    /* Builder header */
+    .builder-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+    .avatar {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: #fff;
+      flex-shrink: 0;
+    }
+    .builder-name { font-weight: 700; font-size: 0.95rem; }
+    .builder-handle { font-size: 0.8rem; color: #666; }
+    .builder-bio { font-size: 0.8rem; color: #888; margin-top: 0.1rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+    /* Tweet */
+    .tweet {
+      padding: 0.75rem 0;
+      border-top: 1px solid #f0f0f2;
+    }
+    .tweet:first-child { border-top: none; }
+    .tweet-text {
+      font-size: 0.9rem;
+      line-height: 1.5;
+      word-break: break-word;
+      white-space: pre-wrap;
+    }
+    .tweet-text.collapsed { max-height: 120px; overflow: hidden; position: relative; }
+    .tweet-text.collapsed::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 40px;
+      background: linear-gradient(transparent, #fff);
+    }
+    .show-more-btn {
+      background: none;
+      border: none;
+      color: #0066cc;
+      cursor: pointer;
+      font-size: 0.8rem;
+      padding: 0.25rem 0;
+      font-weight: 600;
+    }
+    .quote-label {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: #888;
+      background: #f0f0f2;
+      padding: 2px 8px;
+      border-radius: 4px;
+      margin-bottom: 0.3rem;
+    }
+    .tweet-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-top: 0.5rem;
+      font-size: 0.78rem;
+      color: #888;
+    }
+    .tweet-meta .metric {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+    }
+    .tweet-meta .metric svg { width: 14px; height: 14px; fill: currentColor; }
+    .tweet-meta time { margin-left: auto; }
+    .tweet-meta a { color: #0066cc; font-weight: 600; }
+
+    /* Podcast card */
+    .podcast-card .podcast-name {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #fff;
+      padding: 2px 10px;
+      border-radius: 12px;
+      margin-bottom: 0.5rem;
+    }
+    .podcast-card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.4rem; }
+    .podcast-card .pub-date { font-size: 0.8rem; color: #888; margin-bottom: 0.5rem; }
+    .podcast-card a.episode-link {
+      display: inline-block;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+
+    /* Blog card */
+    .blog-card .blog-name {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #fff;
+      padding: 2px 10px;
+      border-radius: 12px;
+      margin-bottom: 0.5rem;
+    }
+    .blog-card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.25rem; }
+    .blog-card .blog-author { font-size: 0.8rem; color: #666; margin-bottom: 0.25rem; }
+    .blog-card .blog-desc { font-size: 0.85rem; color: #555; margin-bottom: 0.5rem; }
+    .blog-card .pub-date { font-size: 0.8rem; color: #888; margin-bottom: 0.5rem; }
+
+    /* Details / transcript */
+    details { margin-top: 0.5rem; }
+    details summary {
+      cursor: pointer;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #0066cc;
+      padding: 0.25rem 0;
+    }
+    details .transcript,
+    details .blog-content {
+      max-height: 400px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      font-size: 0.82rem;
+      line-height: 1.6;
+      color: #444;
+      padding: 0.75rem;
+      background: #fafafa;
+      border-radius: 8px;
+      margin-top: 0.5rem;
+    }
+
+    /* Empty state */
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: #999;
+      font-size: 0.95rem;
+    }
+    .empty-state svg { width: 48px; height: 48px; fill: #ccc; margin-bottom: 0.75rem; }
+
+    /* Error state */
+    .error-state {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: #c0392b;
+      background: #fdf0ef;
+      border-radius: 12px;
+    }
+    .error-state button {
+      margin-top: 0.75rem;
+      padding: 0.4rem 1.25rem;
+      border: 1px solid #c0392b;
+      border-radius: 8px;
+      background: #fff;
+      color: #c0392b;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    /* Skeleton */
+    .skeleton {
+      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+      border-radius: 8px;
+    }
+    .skeleton-card { height: 180px; border-radius: 12px; }
+    @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: 0.8rem;
+      color: #999;
+      border-top: 1px solid #e0e0e4;
+    }
+    footer a { color: #666; }
+
+    /* Responsive */
+    @media (max-width: 640px) {
+      .feed-container { grid-template-columns: 1fr; }
+      header h1 { font-size: 1.4rem; }
+      main { padding: 1rem 0.75rem 2rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Follow Builders</h1>
+    <p class="subtitle">Follow builders, not influencers</p>
+    <p id="generated-at" class="timestamp">Loading feed...</p>
+  </header>
+
+  <nav class="section-nav">
+    <a href="#x-section">X / Twitter <span class="badge" id="x-count">--</span></a>
+    <a href="#podcasts-section">Podcasts <span class="badge" id="podcast-count">--</span></a>
+    <a href="#blogs-section">Blogs <span class="badge" id="blog-count">--</span></a>
+  </nav>
+
+  <main>
+    <section id="x-section">
+      <h2>X / Twitter Posts</h2>
+      <div id="x-feed" class="feed-container">
+        <div class="skeleton skeleton-card"></div>
+        <div class="skeleton skeleton-card"></div>
+      </div>
+    </section>
+
+    <section id="podcasts-section">
+      <h2>Podcasts</h2>
+      <div id="podcast-feed" class="feed-container">
+        <div class="skeleton skeleton-card"></div>
+      </div>
+    </section>
+
+    <section id="blogs-section">
+      <h2>Blogs</h2>
+      <div id="blog-feed" class="feed-container">
+        <div class="skeleton skeleton-card"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Data from <a href="https://github.com/zarazhangrui/follow-builders" target="_blank" rel="noopener">follow-builders</a> by Zara Zhang
+  </footer>
+
+  <script>
+    const BASE = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main';
+    const FEEDS = {
+      x:        `${BASE}/feed-x.json`,
+      podcasts: `${BASE}/feed-podcasts.json`,
+      blogs:    `${BASE}/feed-blogs.json`,
+    };
+
+    // --- Utilities ---
+
+    function relativeTime(iso) {
+      const diff = Date.now() - new Date(iso).getTime();
+      const mins = Math.floor(diff / 60000);
+      if (mins < 1) return 'just now';
+      if (mins < 60) return `${mins}m ago`;
+      const hrs = Math.floor(mins / 60);
+      if (hrs < 24) return `${hrs}h ago`;
+      const days = Math.floor(hrs / 24);
+      return `${days}d ago`;
+    }
+
+    function formatDate(iso) {
+      return new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    }
+
+    function formatNumber(n) {
+      if (n >= 1000000) return (n / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+      if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'K';
+      return String(n);
+    }
+
+    function autoLink(text) {
+      return text.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+    }
+
+    function initials(name) {
+      return name.split(/\s+/).slice(0, 2).map(w => w[0]).join('').toUpperCase();
+    }
+
+    function hashColor(str) {
+      let hash = 0;
+      for (let i = 0; i < str.length; i++) hash = str.charCodeAt(i) + ((hash << 5) - hash);
+      const h = ((hash % 360) + 360) % 360;
+      return `hsl(${h}, 55%, 45%)`;
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // --- SVG Icons ---
+
+    const icons = {
+      heart: '<svg viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>',
+      retweet: '<svg viewBox="0 0 24 24"><path d="M7 7l3-3-3-3m0 6V1M17 17l-3 3 3 3m0-6v6M1 11h22M1 13h22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+      reply: '<svg viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+    };
+
+    // --- Render Functions ---
+
+    function renderX(data) {
+      const container = document.getElementById('x-feed');
+      const builders = (data.x || []).slice().sort((a, b) => {
+        const engA = a.tweets.reduce((s, t) => s + t.likes + t.retweets, 0);
+        const engB = b.tweets.reduce((s, t) => s + t.likes + t.retweets, 0);
+        return engB - engA;
+      });
+
+      if (!builders.length) {
+        container.innerHTML = '<div class="empty-state"><p>No X/Twitter posts in this period.</p></div>';
+        document.getElementById('x-count').textContent = '0';
+        return;
+      }
+
+      let totalTweets = 0;
+      container.innerHTML = builders.map(builder => {
+        totalTweets += builder.tweets.length;
+        const color = hashColor(builder.handle);
+        const tweetsHtml = builder.tweets.map(tweet => {
+          const escaped = escapeHtml(tweet.text);
+          const linked = autoLink(escaped);
+          const isLong = tweet.text.length > 350;
+          return `
+            <div class="tweet">
+              ${tweet.isQuote ? '<span class="quote-label">Quote Tweet</span>' : ''}
+              <div class="tweet-text${isLong ? ' collapsed' : ''}" ${isLong ? 'data-full="true"' : ''}>${linked}</div>
+              ${isLong ? '<button class="show-more-btn" onclick="toggleTweet(this)">Show more</button>' : ''}
+              <div class="tweet-meta">
+                <span class="metric">${icons.heart} ${formatNumber(tweet.likes)}</span>
+                <span class="metric">${icons.retweet} ${formatNumber(tweet.retweets)}</span>
+                <span class="metric">${icons.reply} ${formatNumber(tweet.replies)}</span>
+                <time>${relativeTime(tweet.createdAt)}</time>
+                <a href="${tweet.url}" target="_blank" rel="noopener">View</a>
+              </div>
+            </div>`;
+        }).join('');
+
+        return `
+          <article class="card">
+            <div class="builder-header">
+              <div class="avatar" style="background:${color}">${initials(builder.name)}</div>
+              <div>
+                <div class="builder-name">${escapeHtml(builder.name)}</div>
+                <a class="builder-handle" href="https://x.com/${builder.handle}" target="_blank" rel="noopener">@${builder.handle}</a>
+                ${builder.bio ? `<div class="builder-bio">${escapeHtml(builder.bio)}</div>` : ''}
+              </div>
+            </div>
+            ${tweetsHtml}
+          </article>`;
+      }).join('');
+
+      document.getElementById('x-count').textContent = data.stats?.totalTweets ?? totalTweets;
+    }
+
+    function renderPodcasts(data) {
+      const container = document.getElementById('podcast-feed');
+      const episodes = data.podcasts || [];
+
+      if (!episodes.length) {
+        container.innerHTML = '<div class="empty-state"><p>No podcast episodes in this period.</p></div>';
+        document.getElementById('podcast-count').textContent = '0';
+        return;
+      }
+
+      container.innerHTML = episodes.map(ep => {
+        const color = hashColor(ep.name);
+        return `
+          <article class="card podcast-card">
+            <span class="podcast-name" style="background:${color}">${escapeHtml(ep.name)}</span>
+            <h3>${escapeHtml(ep.title)}</h3>
+            <div class="pub-date">${formatDate(ep.publishedAt)}</div>
+            ${ep.url ? `<a class="episode-link" href="${ep.url}" target="_blank" rel="noopener">Listen to episode &rarr;</a>` : ''}
+            ${ep.transcript ? `
+              <details>
+                <summary>Show transcript</summary>
+                <div class="transcript">${escapeHtml(ep.transcript)}</div>
+              </details>` : ''}
+          </article>`;
+      }).join('');
+
+      document.getElementById('podcast-count').textContent = data.stats?.podcastEpisodes ?? episodes.length;
+    }
+
+    function renderBlogs(data) {
+      const container = document.getElementById('blog-feed');
+      const articles = data.blogs || [];
+
+      if (!articles.length) {
+        container.innerHTML = `<div class="empty-state"><p>No blog posts in the last ${data.lookbackHours || 72} hours.</p></div>`;
+        document.getElementById('blog-count').textContent = '0';
+        return;
+      }
+
+      container.innerHTML = articles.map(post => {
+        const color = hashColor(post.name);
+        return `
+          <article class="card blog-card">
+            <span class="blog-name" style="background:${color}">${escapeHtml(post.name)}</span>
+            <h3><a href="${post.url}" target="_blank" rel="noopener">${escapeHtml(post.title)}</a></h3>
+            ${post.author ? `<div class="blog-author">by ${escapeHtml(post.author)}</div>` : ''}
+            ${post.description ? `<div class="blog-desc">${escapeHtml(post.description)}</div>` : ''}
+            <div class="pub-date">${formatDate(post.publishedAt)}</div>
+            ${post.content ? `
+              <details>
+                <summary>Read full article</summary>
+                <div class="blog-content">${escapeHtml(post.content)}</div>
+              </details>` : ''}
+          </article>`;
+      }).join('');
+
+      document.getElementById('blog-count').textContent = data.stats?.blogPosts ?? articles.length;
+    }
+
+    function renderError(containerId, message) {
+      document.getElementById(containerId).innerHTML = `
+        <div class="error-state">
+          <p>${message}</p>
+          <button onclick="loadFeeds()">Retry</button>
+        </div>`;
+    }
+
+    // --- Toggle long tweets ---
+
+    function toggleTweet(btn) {
+      const textEl = btn.previousElementSibling;
+      const isCollapsed = textEl.classList.contains('collapsed');
+      textEl.classList.toggle('collapsed');
+      btn.textContent = isCollapsed ? 'Show less' : 'Show more';
+    }
+
+    // --- Load feeds ---
+
+    async function loadFeeds() {
+      const cacheBust = `?t=${Date.now()}`;
+      const results = await Promise.allSettled([
+        fetch(FEEDS.x + cacheBust).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+        fetch(FEEDS.podcasts + cacheBust).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+        fetch(FEEDS.blogs + cacheBust).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+      ]);
+
+      if (results[0].status === 'fulfilled') renderX(results[0].value);
+      else renderError('x-feed', 'Failed to load X/Twitter feed.');
+
+      if (results[1].status === 'fulfilled') renderPodcasts(results[1].value);
+      else renderError('podcast-feed', 'Failed to load podcast feed.');
+
+      if (results[2].status === 'fulfilled') renderBlogs(results[2].value);
+      else renderError('blog-feed', 'Failed to load blog feed.');
+
+      // Update header timestamp from whichever feed loaded
+      const anyData = [results[0], results[1], results[2]].find(r => r.status === 'fulfilled');
+      if (anyData) {
+        const ts = anyData.value.generatedAt;
+        document.getElementById('generated-at').textContent = `Feed generated ${formatDate(ts)} (${relativeTime(ts)})`;
+      } else {
+        document.getElementById('generated-at').textContent = 'Failed to load feeds.';
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadFeeds);
+  </script>
+</body>
+</html>
