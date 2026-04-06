@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(npx serve:*)",
+      "Bash(node -e ':*)",
+      "Bash(node -e \"const d=JSON.parse\\(require\\('fs'\\).readFileSync\\('digest.json','utf8'\\)\\); console.log\\('Builders:', Object.keys\\(d.builders\\)\\); console.log\\('data-handle count EN:', \\(d.html_en.match\\(/data-handle/g\\)||[]\\).length\\); console.log\\('data-handle count ZH:', \\(d.html_zh.match\\(/data-handle/g\\)||[]\\).length\\);\")",
+      "Bash(npx kill-port:*)",
+      "Bash(pkill -f \"serve .\")",
+      "Bash(npm start:*)",
+      "Bash(curl -s http://localhost:3000/api/dates)",
+      "Bash(curl -s http://localhost:3456/api/dates)"
+    ]
+  }
+}

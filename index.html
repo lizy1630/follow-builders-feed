@@ -45,48 +45,57 @@
       margin: 1rem auto 0;
     }
 
-    /* API Key Bar */
-    .api-bar {
+    /* Toolbar */
+    .toolbar {
       max-width: 720px;
       margin: 0 auto;
-      padding: 0.75rem 1rem;
+      padding: 0.6rem 1rem;
       display: flex;
+      justify-content: space-between;
       align-items: center;
-      gap: 0.5rem;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 0.8rem;
       border-bottom: 1px solid #e8e4de;
     }
-    .api-bar label { color: #888; white-space: nowrap; }
-    .api-bar input {
-      flex: 1;
-      padding: 0.35rem 0.6rem;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-      font-size: 0.8rem;
-      font-family: monospace;
+    .toolbar .group { display: flex; align-items: center; gap: 0.3rem; }
+    .toolbar .group-label { color: #999; margin-right: 0.3rem; }
+    .toolbar button {
+      padding: 0.25rem 0.7rem;
+      border: 1px solid #ccc;
       background: #fff;
+      color: #666;
+      font-size: 0.8rem;
+      cursor: pointer;
+      border-radius: 4px;
     }
-    .api-bar button {
-      padding: 0.35rem 1rem;
-      border: 1px solid #222;
-      border-radius: 6px;
+    .toolbar button.active {
       background: #222;
       color: #fff;
-      font-size: 0.8rem;
-      font-weight: 600;
-      cursor: pointer;
-      font-family: -apple-system, sans-serif;
-      white-space: nowrap;
+      border-color: #222;
     }
-    .api-bar button:hover { background: #444; }
-    .api-bar .status { color: #888; font-style: italic; }
 
     /* Main content */
     main {
       max-width: 720px;
       margin: 0 auto;
       padding: 2rem 1rem 4rem;
+      transition: max-width 0.3s ease;
+    }
+    body.two-page main {
+      max-width: 1200px;
+    }
+    body.two-page #digest {
+      column-count: 2;
+      column-gap: 3rem;
+      column-rule: 1px solid #e8e4de;
+    }
+    body.two-page #digest h2 {
+      column-span: all;
+    }
+    body.two-page header,
+    body.two-page .toolbar,
+    body.two-page footer {
+      max-width: 1200px;
     }
 
     /* Digest content - magazine typography */
@@ -182,39 +191,199 @@
       font-weight: 600;
     }
 
-    /* Raw feed toggle */
-    .raw-toggle {
-      text-align: center;
-      margin-top: 2rem;
-      font-family: -apple-system, sans-serif;
-    }
-    .raw-toggle button {
-      padding: 0.4rem 1rem;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      background: #fff;
-      color: #666;
-      font-size: 0.8rem;
-      cursor: pointer;
-    }
-    #raw-feed {
-      display: none;
-      margin-top: 1.5rem;
-      padding: 1rem;
-      background: #f5f3ef;
+    /* Person tooltip */
+    .person-tooltip {
+      position: fixed;
+      z-index: 1000;
+      max-width: 320px;
+      padding: 0.8rem 1rem;
+      background: #1a1a1a;
+      color: #f0ece6;
       border-radius: 8px;
-      font-family: -apple-system, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 0.82rem;
-      line-height: 1.6;
-      max-height: 600px;
-      overflow-y: auto;
+      line-height: 1.5;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.15s ease;
     }
-    #raw-feed .raw-item {
-      padding: 0.6rem 0;
+    .person-tooltip.visible { opacity: 1; }
+    .person-tooltip .tt-name {
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: #fff;
+    }
+    .person-tooltip .tt-handle {
+      color: #8b5e3c;
+      font-size: 0.78rem;
+      margin-left: 0.3rem;
+    }
+    .person-tooltip .tt-bio {
+      margin-top: 0.35rem;
+      color: #ccc;
+      font-style: italic;
+    }
+    #digest a[data-handle] {
+      text-decoration-style: dotted;
+      text-decoration-color: #c0a060;
+    }
+
+    /* Book-flip page navigation */
+    .page-nav {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0.5rem 1rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1.2rem;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.82rem;
       border-bottom: 1px solid #e8e4de;
+      user-select: none;
     }
-    #raw-feed .raw-item:last-child { border-bottom: none; }
-    #raw-feed .raw-meta { color: #999; font-size: 0.75rem; }
+    body.two-page .page-nav { max-width: 1200px; }
+    .page-nav .nav-arrow {
+      width: 36px;
+      height: 36px;
+      border: 1px solid #ccc;
+      border-radius: 50%;
+      background: #fff;
+      color: #444;
+      font-size: 1.1rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.15s;
+    }
+    .page-nav .nav-arrow:hover:not(:disabled) { background: #222; color: #fff; border-color: #222; }
+    .page-nav .nav-arrow:disabled { opacity: 0.25; cursor: default; }
+    .page-nav .nav-center {
+      text-align: center;
+      min-width: 140px;
+    }
+    .page-nav .nav-date {
+      font-weight: 600;
+      color: #222;
+      font-size: 0.88rem;
+    }
+    .page-nav .nav-pos {
+      font-size: 0.7rem;
+      color: #999;
+      margin-top: 0.1rem;
+    }
+
+    /* Page flip animation */
+    .book-wrapper {
+      perspective: 1200px;
+      overflow: hidden;
+    }
+    .book-page {
+      transform-origin: left center;
+      transition: transform 0.5s ease, opacity 0.5s ease;
+    }
+    .book-page.flip-out-fwd {
+      animation: flipOutFwd 0.45s ease-in forwards;
+    }
+    .book-page.flip-in-fwd {
+      animation: flipInFwd 0.45s ease-out forwards;
+    }
+    .book-page.flip-out-back {
+      animation: flipOutBack 0.45s ease-in forwards;
+    }
+    .book-page.flip-in-back {
+      animation: flipInBack 0.45s ease-out forwards;
+    }
+    @keyframes flipOutFwd {
+      0% { transform: rotateY(0deg); opacity: 1; }
+      100% { transform: rotateY(-90deg); opacity: 0; }
+    }
+    @keyframes flipInFwd {
+      0% { transform: rotateY(90deg); opacity: 0; }
+      100% { transform: rotateY(0deg); opacity: 1; }
+    }
+    @keyframes flipOutBack {
+      0% { transform: rotateY(0deg); opacity: 1; }
+      100% { transform: rotateY(90deg); opacity: 0; }
+    }
+    @keyframes flipInBack {
+      0% { transform: rotateY(-90deg); opacity: 0; }
+      100% { transform: rotateY(0deg); opacity: 1; }
+    }
+
+    /* Selection popup */
+    .sel-popup {
+      position: fixed;
+      z-index: 1001;
+      background: #222;
+      color: #fff;
+      border-radius: 6px;
+      padding: 0.3rem 0.6rem;
+      font-family: -apple-system, sans-serif;
+      font-size: 0.78rem;
+      cursor: pointer;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+      display: none;
+      user-select: none;
+    }
+    .sel-popup:hover { background: #444; }
+
+    /* Explanation panel */
+    .explain-panel {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 1002;
+      background: #1a1a1a;
+      color: #f0ece6;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.88rem;
+      line-height: 1.6;
+      max-height: 40vh;
+      overflow-y: auto;
+      box-shadow: 0 -4px 24px rgba(0,0,0,0.3);
+      transform: translateY(100%);
+      transition: transform 0.25s ease;
+    }
+    .explain-panel.open { transform: translateY(0); }
+    .explain-panel .ep-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      padding: 0.8rem 1.2rem 0.4rem;
+      border-bottom: 1px solid #333;
+    }
+    .explain-panel .ep-query {
+      font-weight: 700;
+      color: #c0a060;
+      font-size: 0.82rem;
+      max-width: 80%;
+      word-break: break-word;
+    }
+    .explain-panel .ep-close {
+      background: none;
+      border: none;
+      color: #888;
+      font-size: 1.2rem;
+      cursor: pointer;
+      padding: 0 0.3rem;
+    }
+    .explain-panel .ep-close:hover { color: #fff; }
+    .explain-panel .ep-body {
+      padding: 0.6rem 1.2rem 1rem;
+    }
+    .explain-panel .ep-cached {
+      font-size: 0.7rem;
+      color: #666;
+      margin-top: 0.4rem;
+    }
+    .explain-panel .ep-loading {
+      color: #888;
+      font-style: italic;
+    }
 
     /* Footer */
     footer {
@@ -244,277 +413,286 @@
     <div class="divider"></div>
   </header>
 
-  <div class="api-bar">
-    <label>Claude API Key:</label>
-    <input type="password" id="api-key" placeholder="sk-ant-..." />
-    <button onclick="saveKeyAndGenerate()">Generate Digest</button>
-    <span class="status" id="api-status"></span>
+  <div class="toolbar">
+    <div class="group">
+      <span class="group-label">Lang:</span>
+      <button id="btn-en" class="active" onclick="switchLang('en')">EN</button>
+      <button id="btn-zh" onclick="switchLang('zh')">中文</button>
+    </div>
+    <div class="group">
+      <span class="group-label">View:</span>
+      <button id="btn-1col" class="active" onclick="switchView(1)">1-Page</button>
+      <button id="btn-2col" onclick="switchView(2)">2-Page</button>
+    </div>
+  </div>
+
+  <div class="page-nav" id="page-nav">
+    <button class="nav-arrow" id="nav-prev" onclick="flipPage(-1)" disabled>&larr;</button>
+    <div class="nav-center">
+      <div class="nav-date" id="nav-date">...</div>
+      <div class="nav-pos" id="nav-pos"></div>
+    </div>
+    <button class="nav-arrow" id="nav-next" onclick="flipPage(1)" disabled>&rarr;</button>
   </div>
 
   <main>
-    <div id="digest">
-      <div class="loading-state" id="loading">
-        <div class="spinner"></div>
-        <p>Fetching today's feed...</p>
+    <div class="book-wrapper">
+      <div class="book-page" id="digest">
+        <div class="loading-state" id="loading">
+          <div class="spinner"></div>
+          <p>Fetching today's feed...</p>
+        </div>
       </div>
     </div>
-
-    <div class="raw-toggle" id="raw-toggle" style="display:none">
-      <button onclick="toggleRaw()">Show raw feed items</button>
-    </div>
-    <div id="raw-feed"></div>
   </main>
+
+  <div class="person-tooltip" id="person-tooltip"></div>
+  <div class="sel-popup" id="sel-popup">Search with AI</div>
+  <div class="explain-panel" id="explain-panel">
+    <div class="ep-header">
+      <div class="ep-query" id="ep-query"></div>
+      <button class="ep-close" onclick="closeExplain()">&times;</button>
+    </div>
+    <div class="ep-body" id="ep-body"></div>
+  </div>
 
   <footer>
     Powered by <a href="https://github.com/zarazhangrui/follow-builders" target="_blank">follow-builders</a>
   </footer>
 
   <script>
-    const BASE = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main';
-    const FEEDS = {
-      x:        `${BASE}/feed-x.json`,
-      podcasts: `${BASE}/feed-podcasts.json`,
-      blogs:    `${BASE}/feed-blogs.json`,
-    };
-    const CLAUDE_API = 'https://api.anthropic.com/v1/messages';
+    let digestData = null;
+    let currentLang = 'en';
+    let currentDate = null;
+    let availableDates = [];
 
-    let rawFeedData = null;
+    document.addEventListener('DOMContentLoaded', init);
 
     // --- Init ---
-
-    document.addEventListener('DOMContentLoaded', () => {
-      const saved = localStorage.getItem('claude-api-key');
-      if (saved) document.getElementById('api-key').value = saved;
-      loadAndRender();
-    });
-
-    // --- API Key ---
-
-    function saveKeyAndGenerate() {
-      const key = document.getElementById('api-key').value.trim();
-      if (!key) return;
-      localStorage.setItem('claude-api-key', key);
-      localStorage.removeItem('digest-cache');
-      loadAndRender();
-    }
-
-    // --- Fetch feeds ---
-
-    async function fetchFeeds() {
-      const cacheBust = `?t=${Date.now()}`;
-      const results = await Promise.allSettled([
-        fetch(FEEDS.x + cacheBust).then(r => r.json()),
-        fetch(FEEDS.podcasts + cacheBust).then(r => r.json()),
-        fetch(FEEDS.blogs + cacheBust).then(r => r.json()),
-      ]);
-      return {
-        x: results[0].status === 'fulfilled' ? results[0].value : null,
-        podcasts: results[1].status === 'fulfilled' ? results[1].value : null,
-        blogs: results[2].status === 'fulfilled' ? results[2].value : null,
-      };
-    }
-
-    // --- Build prompt for Claude ---
-
-    function buildPrompt(feeds) {
-      let content = 'Here is today\'s raw feed data from AI builders. Summarize it into a polished, readable magazine-style daily digest.\n\n';
-
-      if (feeds.x && feeds.x.x) {
-        content += '=== TWEETS ===\n';
-        for (const builder of feeds.x.x) {
-          for (const t of builder.tweets) {
-            content += `- ${t.text}\n  (${t.likes} likes)\n\n`;
-          }
-        }
+    async function init() {
+      await loadDates();
+      if (availableDates.length) {
+        currentDate = availableDates[0]; // most recent
+        updatePageNav();
+        await loadDigest(currentDate);
+      } else {
+        document.getElementById('digest').innerHTML =
+          '<div class="error-state"><p>No digests found. Run "npm run generate" first.</p></div>';
       }
+      initSelectionPopup();
 
-      if (feeds.podcasts && feeds.podcasts.podcasts) {
-        content += '=== PODCAST EPISODES ===\n';
-        for (const ep of feeds.podcasts.podcasts) {
-          const transcript = ep.transcript ? ep.transcript.substring(0, 8000) : '';
-          content += `Episode: ${ep.title}\n`;
-          if (ep.url) content += `Link: ${ep.url}\n`;
-          content += `Transcript excerpt:\n${transcript}\n\n`;
-        }
-      }
-
-      if (feeds.blogs && feeds.blogs.blogs && feeds.blogs.blogs.length) {
-        content += '=== BLOG POSTS ===\n';
-        for (const post of feeds.blogs.blogs) {
-          const body = post.content ? post.content.substring(0, 5000) : (post.description || '');
-          content += `Title: ${post.title}\nLink: ${post.url}\n${body}\n\n`;
-        }
-      }
-
-      return content;
-    }
-
-    // --- Call Claude API ---
-
-    async function callClaude(feedContent, apiKey) {
-      const systemPrompt = `You are a magazine editor producing a daily AI industry digest. Write in a sophisticated, engaging editorial voice — like reading The Economist or The Information, but warmer and more conversational.
-
-Rules:
-- Do NOT mention author names, Twitter handles, podcast names, or blog sources. The reader doesn't care where it came from — just the insight.
-- Group content by THEME or TOPIC, not by source. Find the threads connecting different pieces.
-- Write 3-5 thematic sections, each with a bold headline.
-- Start with a 1-2 sentence editorial lead that captures the day's most important theme.
-- Use blockquotes for particularly striking insights or quotes.
-- Include relevant links inline where available.
-- Keep it concise — aim for a 3-5 minute read.
-- Use HTML formatting: <h2> for section heads, <h3> for sub-topics, <p> for paragraphs, <blockquote> for quotes, <a href> for links, <strong> and <em> for emphasis, <hr> for section breaks.
-- Start the output with a <p class="lead"> for the editorial lead paragraph.
-- Do NOT wrap output in code blocks. Output clean HTML directly.`;
-
-      const res = await fetch(CLAUDE_API, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'x-api-key': apiKey,
-          'anthropic-version': '2023-06-01',
-          'anthropic-dangerous-direct-browser-access': 'true',
-        },
-        body: JSON.stringify({
-          model: 'claude-sonnet-4-20250514',
-          max_tokens: 4096,
-          system: systemPrompt,
-          messages: [{ role: 'user', content: feedContent }],
-        }),
+      // Keyboard nav: left = older, right = newer
+      document.addEventListener('keydown', (e) => {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+        if (e.key === 'ArrowLeft') flipPage(-1);
+        if (e.key === 'ArrowRight') flipPage(1);
       });
-
-      if (!res.ok) {
-        const err = await res.text();
-        throw new Error(`API ${res.status}: ${err}`);
-      }
-
-      const data = await res.json();
-      return data.content[0].text;
     }
 
-    // --- Cache ---
+    let flipping = false;
 
-    function getCacheKey(feeds) {
-      const ts = feeds.x?.generatedAt || feeds.podcasts?.generatedAt || feeds.blogs?.generatedAt || '';
-      return ts.split('T')[0]; // date only
-    }
-
-    function getCachedDigest(dateKey) {
+    // --- Date navigation ---
+    async function loadDates() {
       try {
-        const cache = JSON.parse(localStorage.getItem('digest-cache') || '{}');
-        if (cache.date === dateKey) return cache.html;
-      } catch {}
-      return null;
-    }
-
-    function setCachedDigest(dateKey, html) {
-      localStorage.setItem('digest-cache', JSON.stringify({ date: dateKey, html }));
-    }
-
-    // --- Render raw feed (toggle) ---
-
-    function renderRawFeed(feeds) {
-      const container = document.getElementById('raw-feed');
-      let html = '';
-
-      if (feeds.x && feeds.x.x) {
-        for (const builder of feeds.x.x) {
-          for (const t of builder.tweets) {
-            html += `<div class="raw-item">${escapeHtml(t.text)}<br><span class="raw-meta">${t.likes} likes &middot; ${new Date(t.createdAt).toLocaleString()}</span></div>`;
-          }
-        }
+        const res = await fetch('/api/dates');
+        availableDates = await res.json();
+      } catch {
+        availableDates = [];
       }
-      if (feeds.podcasts && feeds.podcasts.podcasts) {
-        for (const ep of feeds.podcasts.podcasts) {
-          html += `<div class="raw-item"><strong>${escapeHtml(ep.title)}</strong><br><span class="raw-meta">${new Date(ep.publishedAt).toLocaleString()}</span></div>`;
-        }
+      updatePageNav();
+    }
+
+    function currentIndex() {
+      return availableDates.indexOf(currentDate);
+    }
+
+    function updatePageNav() {
+      const idx = currentIndex();
+      const total = availableDates.length;
+
+      document.getElementById('nav-prev').disabled = idx >= total - 1;
+      document.getElementById('nav-next').disabled = idx <= 0;
+
+      if (currentDate) {
+        const d = new Date(currentDate + 'T12:00:00');
+        document.getElementById('nav-date').textContent =
+          d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+        document.getElementById('nav-pos').textContent =
+          total > 1 ? `${total - idx} of ${total} issues` : '';
       }
-      if (feeds.blogs && feeds.blogs.blogs) {
-        for (const post of feeds.blogs.blogs) {
-          html += `<div class="raw-item"><strong>${escapeHtml(post.title)}</strong><br><span class="raw-meta">${escapeHtml(post.author || '')}</span></div>`;
-        }
-      }
-
-      container.innerHTML = html || '<p style="color:#999;padding:1rem">No raw items.</p>';
     }
 
-    function toggleRaw() {
-      const el = document.getElementById('raw-feed');
-      el.style.display = el.style.display === 'none' ? 'block' : 'none';
+    async function flipPage(direction) {
+      if (flipping) return;
+      const idx = currentIndex();
+      // direction -1 = older (prev), +1 = newer (next)
+      // dates are sorted newest-first, so older = higher index
+      const newIdx = idx - direction;
+      if (newIdx < 0 || newIdx >= availableDates.length) return;
+
+      flipping = true;
+      const page = document.getElementById('digest');
+      const outClass = direction > 0 ? 'flip-out-fwd' : 'flip-out-back';
+      const inClass = direction > 0 ? 'flip-in-fwd' : 'flip-in-back';
+
+      // Flip out
+      page.classList.add(outClass);
+      await new Promise(r => setTimeout(r, 420));
+      page.classList.remove(outClass);
+
+      // Load new content
+      currentDate = availableDates[newIdx];
+      updatePageNav();
+      await loadDigest(currentDate);
+
+      // Flip in
+      page.classList.add(inClass);
+      await new Promise(r => setTimeout(r, 450));
+      page.classList.remove(inClass);
+      flipping = false;
     }
 
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text || '';
-      return div.innerHTML;
-    }
-
-    // --- Main flow ---
-
-    async function loadAndRender() {
+    // --- Load digest ---
+    async function loadDigest(date) {
       const digestEl = document.getElementById('digest');
       const editionEl = document.getElementById('edition');
-      const statusEl = document.getElementById('api-status');
 
-      // Show loading
-      digestEl.innerHTML = '<div class="loading-state"><div class="spinner"></div><p>Fetching today\'s feed...</p></div>';
-
-      // 1. Fetch feeds
-      let feeds;
-      try {
-        feeds = await fetchFeeds();
-        rawFeedData = feeds;
-      } catch (e) {
-        digestEl.innerHTML = `<div class="error-state"><p>Failed to fetch feeds.</p><button onclick="loadAndRender()">Retry</button></div>`;
-        return;
-      }
-
-      // Update edition date
-      const genAt = feeds.x?.generatedAt || feeds.podcasts?.generatedAt || feeds.blogs?.generatedAt;
-      if (genAt) {
-        const d = new Date(genAt);
-        editionEl.textContent = d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
-      }
-
-      // Show raw feed toggle
-      renderRawFeed(feeds);
-      document.getElementById('raw-toggle').style.display = 'block';
-
-      // 2. Check cache
-      const dateKey = getCacheKey(feeds);
-      const cached = getCachedDigest(dateKey);
-      if (cached) {
-        digestEl.innerHTML = cached;
-        statusEl.textContent = 'cached';
-        return;
-      }
-
-      // 3. Check API key
-      const apiKey = localStorage.getItem('claude-api-key');
-      if (!apiKey) {
-        digestEl.innerHTML = `
-          <div class="loading-state">
-            <p style="font-size:1rem;color:#666">Enter your Claude API key above to generate an AI-summarized magazine digest.</p>
-            <p style="margin-top:0.5rem;font-size:0.85rem;color:#999">Your key is stored locally and never sent anywhere except the Anthropic API.</p>
-          </div>`;
-        return;
-      }
-
-      // 4. Call Claude
-      digestEl.innerHTML = '<div class="loading-state"><div class="spinner"></div><p>Writing your digest with Claude...</p></div>';
-      statusEl.textContent = 'generating...';
+      digestEl.innerHTML = '<div class="loading-state"><div class="spinner"></div><p>Loading digest...</p></div>';
 
       try {
-        const prompt = buildPrompt(feeds);
-        const html = await callClaude(prompt, apiKey);
-        digestEl.innerHTML = html;
-        setCachedDigest(dateKey, html);
-        statusEl.textContent = 'done';
+        const res = await fetch(`/api/digest?date=${date}`);
+        if (!res.ok) throw new Error('Digest not found.');
+        digestData = await res.json();
+
+        if (digestData.generatedAt) {
+          const d = new Date(digestData.generatedAt);
+          editionEl.textContent = d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+        } else {
+          editionEl.textContent = digestData.date || date;
+        }
+
+        renderLang(currentLang);
       } catch (e) {
-        console.error(e);
-        const msg = e.message.includes('401') ? 'Invalid API key.' : `Error: ${e.message}`;
-        digestEl.innerHTML = `<div class="error-state"><p>${escapeHtml(msg)}</p><button onclick="loadAndRender()">Retry</button></div>`;
-        statusEl.textContent = 'error';
+        digestEl.innerHTML = `<div class="error-state"><p>${e.message}</p></div>`;
+        editionEl.textContent = '';
       }
+    }
+
+    // --- Language ---
+    function renderLang(lang) {
+      if (!digestData) return;
+      const digestEl = document.getElementById('digest');
+      const html = lang === 'zh' ? (digestData.html_zh || digestData.html || '') : (digestData.html_en || digestData.html || '');
+      digestEl.innerHTML = html;
+      initTooltips();
+    }
+
+    function switchLang(lang) {
+      currentLang = lang;
+      document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+      document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+      renderLang(lang);
+    }
+
+    // --- View ---
+    function switchView(cols) {
+      document.body.classList.toggle('two-page', cols === 2);
+      document.getElementById('btn-1col').classList.toggle('active', cols === 1);
+      document.getElementById('btn-2col').classList.toggle('active', cols === 2);
+    }
+
+    // --- Person tooltips ---
+    const tooltip = document.getElementById('person-tooltip');
+    let tooltipTimeout = null;
+
+    function initTooltips() {
+      document.querySelectorAll('#digest a[data-handle]').forEach(link => {
+        link.addEventListener('mouseenter', showTooltip);
+        link.addEventListener('mouseleave', hideTooltip);
+      });
+    }
+
+    function showTooltip(e) {
+      const handle = e.target.getAttribute('data-handle');
+      if (!handle || !digestData?.builders) return;
+      const person = digestData.builders[handle.toLowerCase()];
+      if (!person) return;
+
+      clearTimeout(tooltipTimeout);
+      tooltip.innerHTML = `
+        <div class="tt-name">${person.name}<span class="tt-handle">@${person.handle}</span></div>
+        <div class="tt-bio">${person.bio}</div>
+      `;
+      const rect = e.target.getBoundingClientRect();
+      tooltip.style.left = Math.min(rect.left, window.innerWidth - 340) + 'px';
+      tooltip.style.top = (rect.bottom + 8) + 'px';
+      tooltip.classList.add('visible');
+    }
+
+    function hideTooltip() {
+      tooltipTimeout = setTimeout(() => tooltip.classList.remove('visible'), 100);
+    }
+
+    // --- Selection popup + AI explain ---
+    const selPopup = document.getElementById('sel-popup');
+    let selectedText = '';
+
+    function initSelectionPopup() {
+      document.addEventListener('mouseup', (e) => {
+        // Ignore clicks on the popup itself
+        if (e.target.closest('.sel-popup') || e.target.closest('.explain-panel')) return;
+
+        const sel = window.getSelection();
+        const text = sel.toString().trim();
+
+        if (text.length >= 3 && document.getElementById('digest').contains(sel.anchorNode)) {
+          selectedText = text.substring(0, 500);
+          const range = sel.getRangeAt(0);
+          const rect = range.getBoundingClientRect();
+          selPopup.style.left = (rect.left + rect.width / 2 - 55) + 'px';
+          selPopup.style.top = (rect.top - 36) + 'px';
+          selPopup.style.display = 'block';
+        } else {
+          selPopup.style.display = 'none';
+        }
+      });
+
+      // Hide popup on scroll
+      document.addEventListener('scroll', () => { selPopup.style.display = 'none'; }, true);
+
+      selPopup.addEventListener('click', () => {
+        selPopup.style.display = 'none';
+        explainText(selectedText);
+      });
+    }
+
+    async function explainText(text) {
+      const panel = document.getElementById('explain-panel');
+      const queryEl = document.getElementById('ep-query');
+      const bodyEl = document.getElementById('ep-body');
+
+      queryEl.textContent = text.length > 120 ? text.substring(0, 120) + '...' : text;
+      bodyEl.innerHTML = '<div class="ep-loading">Thinking...</div>';
+      panel.classList.add('open');
+
+      try {
+        const res = await fetch('/api/explain', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ text }),
+        });
+        const data = await res.json();
+        if (data.error) throw new Error(data.error);
+
+        bodyEl.innerHTML = `<div>${data.explanation}</div>` +
+          (data.cached ? '<div class="ep-cached">Served from cache — no tokens used</div>' : '<div class="ep-cached">Freshly generated — saved to cache for future lookups</div>');
+      } catch (e) {
+        bodyEl.innerHTML = `<div style="color:#e07070">Error: ${e.message}</div>`;
+      }
+    }
+
+    function closeExplain() {
+      document.getElementById('explain-panel').classList.remove('open');
     }
   </script>
 </body>

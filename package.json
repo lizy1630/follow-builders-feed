@@ -1,0 +1,11 @@
+{
+  "name": "follow-builders-feed",
+  "private": true,
+  "scripts": {
+    "generate": "node generate.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}

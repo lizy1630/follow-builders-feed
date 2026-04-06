@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-05",
+  "generatedAt": "2026-04-05T07:03:04.434Z",
+  "builders": {
+    "karpathy": {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "twitter": "https://x.com/karpathy"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "twitter": "https://x.com/trq212"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "twitter": "https://x.com/steipete"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">As AI agents mature from text-based tools to comprehensive platforms, a new philosophy is emerging: putting users in full control of their data while breaking down barriers between digital intelligence and physical reality.</p>\n\n<h2>The Personal Knowledge Revolution</h2>\n\n<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> sparked widespread discussion this week with his vision for AI personalization that prioritizes user control over convenience. His viral thread, which garnered over 17,000 likes, outlined a compelling alternative to the current \"black box\" approach where AI systems allegedly improve by hoarding user data.\n\n<blockquote>\"Your data is yours, on your local computer, it's not in some particular AI provider's system without the ability to extract it,\" Karpathy emphasized in <a href=\"https://x.com/karpathy/status/2040572272944324650\">his detailed breakdown</a> of the \"personal wiki\" approach.</blockquote>\n\nThe concept centers on creating explicit, navigable knowledge artifacts — personal wikis in universal formats like markdown and images — that users can inspect, manage, and use across different AI systems. As <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Karpathy</a> put it: <blockquote>\"File over app. The memory here is a simple collection of files in universal formats... This means the data is interoperable: you can use a very large collection of tools/CLIs or whatever you want over this information because it's just files.\"</blockquote>\n\nThe enthusiasm was so overwhelming that <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Karpathy</a> followed up with <a href=\"https://x.com/karpathy/status/2040470801506541998\">an \"idea file\"</a> — a new concept for the AI era where instead of sharing specific code or apps, developers share abstract ideas that agents can customize for individual needs.\n\n<hr>\n\n<h2>Government in Glass Houses</h2>\n\nBeyond personal data sovereignty, <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Karpathy</a> also shared his optimism about AI democratizing government oversight. In <a href=\"https://x.com/karpathy/status/2040549459193704852\">another viral thread</a>, he argued that while governments have historically made society \"legible\" to themselves, AI now enables citizens to reverse this dynamic.\n\n<blockquote>\"Government accountability has not been constrained by access (the various branches of government publish an enormous amount of data), it has been constrained by intelligence — the ability to process a lot of raw data, combine it with domain expertise and derive insights,\" he observed.</blockquote>\n\nThe vision extends from federal omnibus bills to local city council meetings, with AI potentially enabling detailed tracking of spending, voting patterns, lobbying networks, and regulatory capture. <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Karpathy</a> acknowledged the double-edged nature of such tools but remained optimistic that increased transparency would strengthen democratic institutions.\n\n<hr>\n\n<h2>Context is King in the Enterprise</h2>\n\nWhile individuals wrestle with personal AI sovereignty, enterprise leaders are grappling with different challenges. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box provided a nuanced perspective on why context layers, rather than model improvements alone, will remain central to enterprise AI success.\n\n<blockquote>\"One of the core things we're going to have to contend with in AI is that even the most advanced models in the world can't have all the relevant knowledge needed to be useful,\" <a href=\"https://x.com/levie\" data-handle=\"levie\">Levie noted</a>. \"Perhaps most importantly, as you get into the enterprise, everyone has entirely different access levels to corporate knowledge and information.\"</blockquote>\n\nThe evolution is already visible. <a href=\"https://x.com/levie\" data-handle=\"levie\">Levie</a> described how improved context windows and reasoning capabilities are allowing agents to work <a href=\"https://x.com/levie/status/2040528801386361128\">\"far more similar to how people work\"</a> rather than relying on the chunking and embedding hacks that dominated even a year ago. As he put it: <blockquote>\"Today, increasingly, you can begin to have agents effectively use tools and work with information far more similar to how people work... much more similar to people, but now at hyperspeed.\"</blockquote>\n\n<hr>\n\n<h2>From Pixels to Atoms</h2>\n\nPerhaps the most intriguing development is AI's expansion beyond digital domains into physical reality. <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Liam Fedus</a>, one of ChatGPT's co-creators, discussed his new venture Periodic Labs on the No Priors podcast, which aims to build \"an AI foundation lab for atoms.\"\n\nWatch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering</a>\n\nThe transition from language models to material science reflects a broader trend among AI researchers with physics backgrounds. As Fedus explained:\n\n<blockquote>\"Science ultimately isn't sitting in a room thinking really hard. You have to conduct experiments. You have to learn from them. You have to interface with reality. And the creation of ChatGPT in late twenty twenty two was a, you know, technology, but it was still far too weak. Like, we couldn't have done periodic on technology of that era.\"</blockquote>\n\nThe convergence of improved reasoning, tool use, and error correction is finally making it possible to connect AI systems meaningfully with the physical world — a natural evolution for someone who once studied dark matter detection before helping create one of the world's most influential AI products.\n\n<hr>\n\n<h3>Quick Bites</h3>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> shared a simple but effective prompting tip from <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a>: <a href=\"https://x.com/zarazhangrui/status/2040565939100676382\">\"I always ask the model, 'Do you have any questions?'\"</a> — a reminder that two-way communication often yields better results than one-way instruction.\n\nMeanwhile, <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> continues pushing toward his vision of an \"L8 software factory,\" announcing <a href=\"https://x.com/garrytan/status/2040658880586522783\">14 security bug fixes for GStack</a>, half contributed by the community.",
+  "html_zh": "<p class=\"lead\">人工智能正在从数字世界迈向物理世界，而这种转变正在重新定义我们对个性化AI、政府透明度和科学研究的理解。今天的讨论围绕一个核心主题展开：让用户真正掌控自己的AI体验。</p>\n\n<h2>个性化AI的新范式：数据主权时代</h2>\n\n<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a>今日发表了一系列深度思考，提出了一种革命性的AI个性化方法。他分析了Farzapedia（一个个人化维基百科项目）的案例，指出了传统AI个性化方法的根本缺陷。\n\n<blockquote>\n\"我非常喜欢这种个性化方法，相比于'现状'——那种据说你使用得越多就会变得越好的AI：内存工件是明确的、可导航的（维基），你可以准确看到AI知道什么、不知道什么，你可以检查和管理这个工件。关于你的知识不是隐式的、未知的，而是明确的、可见的。\"\n</blockquote>\n\n<a href=\"https://x.com/karpathy/status/2040572272944324650\">Karpathy强调了四个关键优势</a>：明确性、数据所有权、文件优于应用的理念，以及\"自带AI\"（BYOAI）的灵活性。\n\n<blockquote>\n\"你的数据是你的，在你的本地计算机上，不是在某个特定AI提供商的系统中而无法提取。你可以使用任何你想要的AI来'插入'这些信息——Claude、Codex、OpenCode，任何都可以。\"\n</blockquote>\n\n这种方法的核心哲学是将控制权归还给用户。正如Karpathy所说：<blockquote>\"这种个性化方法让*你*完全掌控。数据是你的。采用通用格式。明确且可检查。使用任何你想要的AI，让AI公司保持竞争！\"</blockquote>\n\n<h2>AI驱动的政府问责制</h2>\n\nKarpathy的另一个重要观察涉及AI在增强政府透明度方面的潜力。他认为，历史上是政府让社会变得\"可读\"，但现在AI可以让社会反过来监督政府。\n\n<blockquote>\n\"政府问责制历史上并非受限于访问权限（政府各部门发布大量数据），而是受限于智能——处理大量原始数据、结合领域专业知识并得出见解的能力。例如，4000页的综合法案在原则上和法律意义上是'透明的'，但对大多数人来说肯定不具备实际意义。\"\n</blockquote>\n\n<a href=\"https://x.com/karpathy/status/2040549459193704852\">他设想了具体的应用场景</a>：支出和预算的详细核算、立法的差异追踪、个人投票趋势分析、游说和影响力追踪等。这种AI增强的监督可能会彻底改变民主参与的方式。\n\n<h2>企业AI的上下文挑战</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>从企业角度分析了AI面临的根本挑战。他指出，即使是最先进的模型也无法拥有所有相关知识，特别是在企业环境中。\n\n<blockquote>\n\"当你进入企业领域时，每个人对企业知识和信息都有完全不同的访问级别。即使在企业级别，模型层面的持续学习也几乎不可能，因为每个用户所知道和有权访问的内容都与其他用户不同。\"\n</blockquote>\n\n<a href=\"https://x.com/levie/status/2040650799550722243\">Levie强调</a>，这就是为什么上下文层将始终是AI堆栈的核心部分。随着模型在工具使用方面的改进和上下文窗口的扩大，<a href=\"https://x.com/levie/status/2040528801386361128\">代理可以开始以更类似于人类工作方式的方式设计</a>，而不是用奇怪的hack来缓解模型限制。\n\n<h2>从数字到物理：AI for Atoms</h2>\n\n在最新一期<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors播客</a>中，ChatGPT的联合创建者<a href=\"https://x.com/liamfedus\" data-handle=\"liamfedus\">Liam Fedus</a>分享了他从OpenAI转向材料科学的journey。现在他正在Periodic Labs构建\"原子的AI基础实验室\"。\n\n<blockquote>\n\"将这些系统连接到物理世界的必然性...除非你开始将这些东西连接到物理世界，否则你不会看到科学技术中同样的加速。科学最终不是坐在房间里拼命思考。你必须进行实验。你必须从中学习。你必须与现实接触。\"\n</blockquote>\n\nFedus解释说，ChatGPT在2022年底的技术还太弱，无法支撑Periodic这样的项目。但随着推理能力的改进、测试时推理的重要性提升，以及编程代理的兴起，将AI系统连接到物理世界才成为可能。\n\n<hr>\n\n<h3>其他值得关注的动态</h3>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>分享了一个简单而有效的提示技巧：<a href=\"https://x.com/zarazhangrui/status/2040565939100676382\">\"我总是问模型，'你有什么问题吗？'\"</a>\n\n<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>继续推进他的L8软件工厂项目，<a href=\"https://x.com/garrytan/status/2040658880586522783\">GStack刚刚修复了14个安全漏洞</a>，其中一半来自社区贡献。\n\n今天的讨论凸显了AI发展的一个关键转折点：从被动接受AI公司提供的黑盒解决方案，转向用户主导、透明且可控的AI体验。无论是个人数据管理、政府监督还是科学研究，控制权正在回归到实际使用者手中。"
+}
