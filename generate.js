@@ -199,9 +199,9 @@ async function main() {
   fs.writeFileSync(digestPath, JSON.stringify(digest, null, 2));
   console.log(`Digest saved to ${digestPath}`);
 
-  // Prune digests older than 7 days
+  // Keep the 14 most recent digests; drop the least recent when full
   const files = fs.readdirSync(DIGESTS_DIR).filter(f => f.endsWith(".json") && f !== "index.json").sort();
-  while (files.length > 7) {
+  while (files.length > 14) {
     const old = files.shift();
     fs.unlinkSync(path.join(DIGESTS_DIR, old));
     console.log(`Pruned old digest: ${old}`);
