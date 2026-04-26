@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T07:25:34.134Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott",
+      "url": "https://www.youtube.com/watch?v=tNNFJa5pUEg"
+    }
+  },
+  "html_en": "<p class=\"lead\">While OpenAI continues to dazzle with its latest models, the real story unfolding in AI today is how builders and enterprise leaders are grappling with the gap between demo magic and production reality — and what it takes to close it.</p>\n\n<h2>The Reality Check on AI's Promise</h2>\n\nThe most telling observation came from <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>, who captured the generational divide perfectly: <blockquote><a href=\"https://x.com/petergyang/status/2048220045726322934\">\"If you want to know what the next generation expects from AI just use Codex with a 7 year old. 'What do you mean it can't build a pet dragon raising game instantly? I'm bored'\"</a></blockquote>\n\nThis encapsulates the broader tension we're seeing across the industry. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> himself seemed to acknowledge this gap when he reacted to a coding demo with amazement, asking <blockquote><a href=\"https://x.com/sama/status/2048165186482389253\">\"how can they write code so fast?!\"</a></blockquote> — a remarkable admission that even OpenAI's CEO finds current AI capabilities surprising.\n\nMeanwhile, <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nan Yu</a> offered perhaps the most pragmatic advice for builders navigating this landscape: <blockquote><a href=\"https://x.com/thenanyu/status/2048172709075402787\">\"The problem with being on the very bleeding edge of adoption is you're going to constantly be changing how you do things as the industry learns. The sweet spot is just a couple steps behind. Whatever is relatively new, but survives all of the churn.\"</a></blockquote>\n\n<hr>\n\n<h2>The Enterprise Reality Check</h2>\n\nServiceNow CEO Bill McDermott delivered a sobering dose of enterprise pragmatism in <a href=\"https://www.youtube.com/watch?v=tNNFJa5pUEg\">his interview on No Priors</a>. His math on replacing enterprise platforms with AI was stark: <blockquote>\"For a simple application on our platform, it would be 10 times greater in cost to try to replicate it with a language model.\"</blockquote>\n\nBut his most pointed observation went to the heart of enterprise adoption challenges: <blockquote>\"People that run businesses understand that people make mistakes. They never will forgive software for making a mistake.\"</blockquote>\n\nThis speaks to a fundamental tension in AI deployment — consumers might tolerate quirky AI behaviors, but enterprise customers demand reliability that current AI systems struggle to guarantee consistently.\n\n<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit sketched out the evolution succinctly: <blockquote><a href=\"https://x.com/amasad/status/2048265772775162078\">\"2000s: every company is an internet company. 2010s: every company is a software company. 2020s: every company is an AI company. 2025+: every company is a cybersecurity company\"</a></blockquote> — perhaps hinting at the security challenges that widespread AI adoption will inevitably bring.\n\n<hr>\n\n<h2>The Thoughtful Builder's Dilemma</h2>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> articulated something crucial about the creative process that AI threatens to oversimplify: <blockquote><a href=\"https://x.com/zarazhangrui/status/2048101948826751429\">\"When I sit down at my computer and start typing, that's not the beginning of writing. It's the LAST step. 80% of the writing is already done. It just happened in my head.\"</blockquote>\n\nShe continued with a framework that applies far beyond writing: <blockquote>\"Writing ≠ generating text. Building product ≠ writing PRDs. Designing ≠ making mockups. Engineering ≠ writing code.\"</blockquote>\n\nThis insight gets to the heart of why so much AI tooling feels unsatisfying to experienced practitioners — it optimizes for the visible output, not the invisible thinking that makes that output valuable.\n\n<a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> seemed to be grappling with similar themes, noting the disconnect between engineering and product management perspectives, and sharing <a href=\"https://x.com/swyx/status/2048125100437000512\">enthusiasm for another engineer joining \"the 'code is not cheap' train\"</a>.\n\n<hr>\n\n<h2>The Leverage Opportunity</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box offered the most optimistic take on AI's current state, arguing that we're at <blockquote><a href=\"https://x.com/levie/status/2048223146063609965\">\"a unique moment in history where anyone with a high level of ambition and core skills in any area can overcome a lot of historical experience requirements for their role.\"</a></blockquote>\n\nHis advice for companies was direct: find people who understand how to leverage AI and <blockquote>\"put them in key positions to get as much out of them as possible. These people will seem strange and from the future, but they will help you figure out where things are going.\"</blockquote>\n\nThis aligns with <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper's</a> more philosophical observation: <blockquote><a href=\"https://x.com/danshipper/status/2048026505461080076\">\"what we observe is never the model itself, only the model exposed to our method of questioning\"</a></blockquote> — suggesting that the real skill lies not in using AI tools, but in knowing how to question them effectively.\n\n<hr>\n\n<h2>Meanwhile, in the Trenches</h2>\n\nWhile the big picture debates rage on, builders continue shipping. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> released <a href=\"https://x.com/garrytan/status/2048290087318773807\">GBrain v0.22 with search and retrieval improvements</a>, and <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> shipped updates to both <a href=\"https://x.com/steipete/status/2048275589224628677\">Summarize</a> and <a href=\"https://x.com/steipete/status/2048252455817785357\">CodexBar</a>, adding everything from GPT-5.5 support to Reddit thread extraction.\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> also raised a practical question that many are wrestling with: <blockquote><a href=\"https://x.com/petergyang/status/2048190683782201767\">\"Are there good human-curated skill repos for design, coding, product, etc that's not 'here's 100 skills you separate the slop yourself'\"</a></blockquote>\n\nThe subtext here is telling — as AI tools proliferate, the curation and quality problem becomes paramount. The future may belong not to those with access to AI, but to those who can separate signal from noise.\n\nOh, and <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> is <a href=\"https://x.com/swyx/status/2048126046487322835\">\"cooking something\"</a> with <a href=\"https://x.com/hhua_\" data-handle=\"hhua_\">Harrison Chase</a> after ICML in Seoul. Keep your calendars open.",
+  "html_zh": "<p class=\"lead\">当AI代理不断突破技术边界的同时，科技行业的领袖们正在重新思考什么是真正有价值的技能——无论是在代码编写、产品构建，还是企业战略层面。</p>\n\n<h2>代码之争：速度 vs. 价值</h2>\n\n一场关于编程本质的讨论正在AI圈内升温。<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>近日发推感叹：<blockquote>\"他们怎么能写代码这么快？！\"</blockquote>\n\n然而，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a>转发了一位工程师的观点，强调<a href=\"https://x.com/swyx/status/2048125100437000512\">\"代码并非廉价\"</a>。这种观点得到了越来越多开发者的认同，他们认为<a href=\"https://x.com/swyx/status/2047948378659754373\">产品经理和工程师在这个问题上往往存在分歧</a>。\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>深刻地总结了这个问题的本质：\n\n<blockquote>\"当我坐在电脑前开始打字时，这并不是写作的开始，而是最后一步。80%的写作已经完成了，只是发生在我的脑海中。写作≠生成文本，产品构建≠编写PRD，设计≠制作原型，工程≠编写代码。\"</blockquote>\n\n这种思维转换反映了AI时代一个重要认知：技术工具可以加速执行，但战略思考和创意构思仍然是人类的核心优势。\n\n<h2>下一代的期待值</h2>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>通过与7岁孩子使用Codex的经历，揭示了一个有趣现象：\n\n<blockquote>\"如果你想知道下一代对AI的期待是什么，就让7岁的孩子使用Codex吧。'你什么意思说它不能立即构建一个宠物龙养成游戏？我很无聊。'\"</blockquote>\n\n这个观察点出了一个关键问题：当前AI工具与用户期待之间仍存在巨大鸿沟。年轻一代将以更高的标准来衡量AI能力，他们期待的是真正的\"即想即得\"体验。\n\n同时，Peter还提出了一个实际问题：<a href=\"https://x.com/petergyang/status/2048190683782201767\">\"有没有好的人工筛选技能库用于设计、编程、产品等，而不是'这里有100个技能你自己分离垃圾'\"</a>——这反映了在AI工具爆炸式增长中，用户对高质量、精选内容的渴求。\n\n<h2>AI杠杆效应重塑职场</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>分享了一个深刻洞察，描述了AI如何改变职场动力学：\n\n<blockquote>\"AI让你能够获得以前在几乎任何领域都无法获得的巨大杠杆效应。这意味着我们正处于历史上一个独特时刻，任何在任何领域具有高度抱负和核心技能的人都可以克服历史经验要求。\"</blockquote>\n\n他强调，这种变化对初级和高级员工都适用，但特别有利于新员工：\"能够利用这一点的人将大幅领先。公司应该尽其所能找到这些人才——他们看起来会很奇怪，像来自未来，但他们将帮助你弄清楚事情的发展方向。\"\n\n<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>则从更宏观的角度预测了企业演进趋势：\n\n<blockquote>\"2000年代：每家公司都是互联网公司；2010年代：每家公司都是软件公司；2020年代：每家公司都是AI公司；2025年以后：每家公司都是网络安全公司。\"</blockquote>\n\n<h2>技术前沿的工具创新</h2>\n\n工具制作者们正在快速迭代。<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>发布了<a href=\"https://x.com/garrytan/status/2048290087318773807\">GBrain v0.22版本</a>，改进了搜索和检索功能，并推出了新的评估系统。他还展示了<a href=\"https://x.com/garrytan/status/2048278995121094868\">与Claude Code并行控制浏览器的新功能</a>。\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Otte</a>也发布了多项更新，包括<a href=\"https://x.com/steipete/status/2048275589224628677\">Summarize 0.14.0版本</a>，增加了GPT-5.5快速模式，以及<a href=\"https://x.com/steipete/status/2048252455817785357\">CodexBar 0.23版本</a>，支持Mistral和更清洁的界面。\n\n<h2>思考的边界</h2>\n\n<a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nancy Yu</a>提出了一个关于技术采用的深刻观察：\n\n<blockquote>\"处于采用最前沿的问题是，随着行业的学习，你将不断改变做事方式。最佳位置是稍微落后几步——相对较新但经受住所有变动考验的技术。\"</blockquote>\n\n这种\"技术成熟度\"的思考框架，对于企业和个人的技术投资决策都具有重要指导意义。\n\n同时，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>提出了一个关于AI模型认知的哲学思考：<a href=\"https://x.com/danshipper/status/2048026505461080076\">\"我们观察到的永远不是模型本身，而只是暴露于我们提问方法的模型\"</a>——这提醒我们，我们对AI能力的理解总是受到我们交互方式的限制。\n\n<hr>\n\n*在No Priors播客的最新一集中，ServiceNow CEO Bill McDermott分享了企业AI采用的深度见解，讨论了<a href=\"https://www.youtube.com/watch?v=tNNFJa5pUEg\">在AI时代扩展全球组织的挑战</a>。他特别强调了企业平台替换成本的复杂性，以及为什么企业客户对软件错误的容忍度远低于人为错误。*"
+}
