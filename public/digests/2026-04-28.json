@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T08:22:09.081Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: From SEO to Agent-Led Growth: Profound’s James Cadwallader",
+      "url": "https://www.youtube.com/watch?v=RyTwRCKeDo4"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI marketing revolution isn't just changing how we search—it's fundamentally transforming who makes purchase decisions, as agents increasingly become the gatekeepers between brands and consumers.</p>\n\n<h2>The New Front Door: From Blue Links to Agent Recommendations</h2>\n\nMarketing is experiencing its most profound shift yet, according to <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang's</a> conversation with ProFound CEO James Cadwallader. The transformation goes beyond ChatGPT becoming the new Google—it's that <blockquote>\"the person that's going through the door has changed. It's gone from being a consumer that is using a list of blue links to discover your website and click into it, to an agent is now using a similar index and discovering your brand, products and services, then coming back through the door and maintaining that relationship with the consumer.\"</blockquote>\n\n<a href=\"https://www.youtube.com/watch?v=RyTwRCKeDo4\">Watch/Listen: From SEO to Agent-Led Growth training session</a>\n\nThis shift demands entirely new marketing strategies. As Cadwallader notes, <blockquote>\"you can now, because of agents and because of LLMs, you can do a type of marketing that just frankly was not possible before.\"</blockquote> The key insight: you're no longer optimizing for human attention spans but for agents with infinite bandwidth who might consult 65 different web pages to answer a single query about something as simple as a showerhead.\n\n<hr>\n\n<h2>AI Tools Finally Hit Production-Ready</h2>\n\nThe infrastructure for AI agents is maturing rapidly. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">PSPDFKit's founder</a> showcased impressive progress, demonstrating how AI agents now <a href=\"https://x.com/steipete/status/2049035044702843053\">work around API rate limits by automatically opening browsers and clicking through GitHub interfaces</a>. He reports having <blockquote>\"great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work.\"</blockquote>\n\nMeanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit's Amjad Masad</a> highlighted their competitive advantage: <blockquote>\"Replit speedrun all these learnings more than a year ago and now we're the only platform with proper agent production isolation.\"</blockquote> He emphasized that <a href=\"https://x.com/amasad/status/2048911624061522228\">\"The benefits of a vertically integrated platform will continue to compound.\"</a>\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">OpenAI's Sam Altman</a> endorsed this production-readiness trend, calling <a href=\"https://x.com/sama/status/2048913887614115857\">\"codex with the $20 plan is a really good deal\"</a>—a notable endorsement given OpenAI's competitive positioning.\n\n<hr>\n\n<h2>The Enterprise Reality Check</h2>\n\nDespite Silicon Valley's AI enthusiasm, a stark disconnect persists with enterprise adoption. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">FirstMark's Matt Turck</a> captured this perfectly:\n\n<blockquote>Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb<br><br>Global 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary<br><br>Never seen a gap this huge</blockquote>\n\nThis tension reflects a broader maturation challenge for the AI industry, where developer tools show clear value while broader enterprise applications still struggle to demonstrate ROI.\n\n<hr>\n\n<h2>The Single Agent Theory</h2>\n\nAn interesting pattern is emerging in how sophisticated AI users actually interact with agents. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> observed that <blockquote>\"The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents. That agents will then assign tasks to other subagents/spawn subagents as needed. But the day-to-day communication is with just 1 agent, who serves as the overall orchestrator/router.\"</blockquote>\n\nThis insight suggests that the future of AI interaction may be less about managing multiple specialized tools and more about developing deeper relationships with single, highly capable agents that can coordinate complex workflows behind the scenes.\n\n<hr>\n\n<h2>OpenAI's Strategic Pivot</h2>\n\nIn a significant strategic announcement, <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> revealed updated Microsoft partnership terms: <blockquote>\"we have updated our partnership with microsoft. microsoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds. will continue to provide them with models and products until 2032, and a revenue share through 2030.\"</blockquote>\n\nThis move toward multi-cloud flexibility signals OpenAI's growing confidence and desire for strategic independence as they scale toward broader enterprise adoption—perhaps addressing some of the enterprise concerns highlighted by Turck's observation about the Silicon Valley-Enterprise gap.",
+  "html_zh": "<p class=\"lead\">今日AI营销界传来重大信号：随着ChatGPT正式推出广告功能，智能代理已从\"锦上添花\"转为\"生死攸关\"，营销团队正在经历自互联网诞生以来最大的平台转型。</p>\n\n<h2>营销革命：当AI代理成为新买家</h2>\n\nAI营销平台ProFound的联合创始人兼CEO <a href=\"https://x.com/jamescadwallader\" data-handle=\"jamescadwallader\">James Cadwallader</a> 在最新播客中指出了一个颠覆性观点：<blockquote>\"我们现在已经到了这样一个阶段：如果你的营销团队没有使用代理，特别是ProFound代理来做营销，那么你就失败了。这已经从可有可无变成了必不可少。\"</blockquote>\n\n在<a href=\"https://www.youtube.com/watch?v=RyTwRCKeDo4\">Training Data播客</a>中，Cadwallader解释了这种转变的本质：<blockquote>\"我们见证的是营销史上最大的平台转移，世界正在从蓝链搜索转向概率性AI响应...这些模型真正取代的不仅仅是搜索方式，代理和超级智能正在取代消费者的角色。\"</blockquote>\n\n这意味着营销人员现在必须为一个\"拥有无限带宽的超级智能代理\"创建内容，而不是为耐心有限的人类用户。正如Cadwallader所说：<blockquote>\"在旧的SEO世界中，你创建的内容是为算法发现但最终被人类消费的。而在这个新世界中，你创建的内容完全是为了被代理发现和消费的。\"</blockquote>\n\n<hr>\n\n<h2>创业智慧：百万月收入背后的5条铁律</h2>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 分享了与单人AI创业者<a href=\"https://x.com/tibo_maker\" data-handle=\"tibo_maker\">Tibo Maker</a>的深度对话，后者月收入超过100万美元。<a href=\"https://x.com/petergyang/status/2048771729821229091\">Yang总结了5条关键洞察</a>：\n\n<blockquote>\"从第一天就收费。Tibo的第一家创业公司失败了，因为他更关心看起来成功（比如我管理一个10人团队并筹集了20万美元），而不是通过付费客户验证需求。'如果没有收入，收入也没有粘性，就很难建立成功的企业。'\"</blockquote>\n\n特别值得注意的是第3条：将AI SaaS定价在每月50-100美元。<blockquote>\"足够低，客户不需要销售电话，足够高来过滤掉那些只是试试看的人。我看到很多人收费每月10美元，这让你处于廉价产品的位置。\"</blockquote>\n\nYang还强调了一个关键指标：<blockquote>\"将月流失率保持在20%以下。如果每月超过20%的客户取消，停止扩大获客并首先修复产品。\"</blockquote>\n\n<hr>\n\n<h2>行业现实检查：硅谷热情遭遇企业冷水</h2>\n\n投资人<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a>一针见血地指出了当前AI行业的巨大鸿沟：\n\n<blockquote>\"硅谷：AI是自我加速的，代理运行一切，老年人很愚蠢<br><br>全球2000强：我两年前在你们的AI聊天上花了一大笔钱，生产力为零；我的工程师喜欢编码AI工具，但其他人都不在乎；代理很可怕<br><br>从未见过如此巨大的差距\"</blockquote>\n\n这一观察<a href=\"https://x.com/mattturck/status/2048896617424527499\">得到了398个点赞</a>，显示出许多人对这种现实有共鸣。\n\n与此同时，<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>提供了另一个有趣的观察：<blockquote>\"我认识的最成熟的AI用户每天只与一个代理对话，而不是多个代理。该代理然后根据需要将任务分配给其他子代理/生成子代理。但日常交流只与一个代理进行，它充当整体的编排者/路由器。\"</blockquote>\n\n<hr>\n\n<h2>平台整合：OpenAI与微软关系重构</h2>\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>宣布了OpenAI与微软合作关系的重大更新：\n\n<blockquote>\"我们已经更新了与微软的合作伙伴关系。微软将继续是我们的主要云合作伙伴，但我们现在能够在所有云上提供我们的产品和服务。将继续向他们提供模型和产品直到2032年，并分享收入直到2030年。\"</blockquote>\n\n这一<a href=\"https://x.com/sama/status/2048755148361707946\">消息</a>获得了超过13,000个点赞，显示出市场对这种更灵活安排的欢迎。\n\n同时，Altman还推荐了Codex的20美元方案：<blockquote>\"带有20美元方案的codex是一个非常好的交易\"</blockquote>——这条<a href=\"https://x.com/sama/status/2048913887614115857\">推文</a>获得了7,712个点赞。\n\n<hr>\n\n<h2>开发者生产力的新前沿</h2>\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Petersohl</a>展示了AI代理在开发工作流程中的实际应用：<blockquote>\"我在GitHub上再次受到速率限制，但codex就打开浏览器并在GitHub上点击作为解决方法。\"</blockquote>\n\n他还描述了代理如何实际完成任务：<blockquote>\"是的，它确实在评论框中输入并关闭了issue。\"</blockquote>\n\n<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>则强调了Replit在代理生产隔离方面的优势：<blockquote>\"Replit在一年多前就加速掌握了所有这些学习，现在我们是唯一一个具有适当代理生产隔离的平台。垂直整合平台的好处将继续复合。\"</blockquote>\n\n这些例子表明，AI代理正在从概念验证转向生产级工具，为开发者提供前所未有的自动化能力。"
+}
