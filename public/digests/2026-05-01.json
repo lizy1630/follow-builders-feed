@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T08:08:57.346Z",
+  "builders": {
+    "karpathy": {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "twitter": "https://x.com/karpathy"
+    },
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Demis Hassabis on Building DeepMind, AlphaFold, and the Final Stretch to AGI",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">The agent economy is arriving faster than anyone expected — from <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a>'s vision of neural computing displacing classical code to <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>'s blueprint for how enterprise software will adapt to headless AI usage. Meanwhile, the infrastructure race is heating up as platforms scramble to build for a world where machines, not humans, are the primary users of their products.</p>\n\n<h2>The Neural Native Economy Takes Shape</h2>\n\n<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Karpathy</a> laid out his most compelling vision yet for the post-classical computing era in a <a href=\"https://x.com/karpathy/status/2049903821095354523\">lengthy thread</a> summarizing his Sequoia Ascent talk. Beyond the obvious productivity gains, he sees three transformative categories emerging:\n\n<blockquote>\"menugen: an app that can be fully engulfed by LLMs, with no classical code needed: input an image, output an image and an LLM can natively do the thing.\"</blockquote>\n\nThe second category challenges our entire software distribution model: <blockquote>\"install .md skills instead of install .sh scripts. Why create a complex Software 1.0 bash script for e.g. installing a piece of software if you can write the installation out in words and say 'just show this to your LLM'.\"</blockquote>\n\nMost intriguingly, Karpathy points to knowledge bases as proof of functionality that <blockquote>\"was *impossible* with classical code because it's computation over unstructured data (knowledge) from arbitrary sources and in arbitrary formats.\"</blockquote>\n\nThis isn't just about speeding up existing workflows — it's about entirely new categories of possible software that couldn't exist before.\n\n<hr>\n\n<h2>Enterprise Software's Headless Future</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> provided perhaps the most detailed roadmap yet for how enterprise software will adapt to agent-driven usage in a <a href=\"https://x.com/levie/status/2050051426446152159\">comprehensive thread</a>. His central thesis: <blockquote>\"As agents become the biggest users of software, then all software has to be available in a headless fashion. Agents won't be using your UI, they'll be talking to your APIs.\"</blockquote>\n\nLevie outlines a three-tier pricing evolution:\n- **Human seats** remain but must include generous API allowances for agent usage\n- **Agent seats** for stateful AI workers, though pricing remains tricky since one customer might use one agent while another uses thousands\n- **Consumption pricing** for headless usage that exceeds seat allowances\n\nThe growth implications are staggering: <blockquote>\"the use-cases for agents operating on data in these systems will dramatically exceed what people do with their data and tools today.\"</blockquote>\n\n<hr>\n\n<h2>The Agent Development Stack Matures</h2>\n\nThe tooling ecosystem is rapidly professionalizing. Anthropic released <a href=\"https://claude.com/blog/claude-code-desktop-redesign\">Claude Code's desktop redesign</a> built explicitly for parallel agent orchestration, while <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Catherine Wu</a> announced <a href=\"https://x.com/_catwu/status/2049964403177689130\">Claude Security in public beta</a> — a vulnerability scanner that's already caught issues existing tools missed.\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> highlighted a <a href=\"https://x.com/sama/status/2049946120441520624\">\"big upgrade for codex today\"</a> encouraging users to <blockquote>\"try it for non-coding computer work.\"</blockquote> The pivot from coding-specific to general computer use reflects the broader expansion happening across agent platforms.\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> of OpenClaw reported significant improvements to group chat functionality, noting <a href=\"https://x.com/steipete/status/2049988836160074022\">\"I changed how agents talk there, it IS SO GOOD NOW.\"</a> The focus on collaborative workflows suggests agents are moving beyond individual productivity toward team coordination.\n\n<h3>Real-World Deployment Stories</h3>\n\n<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> shared how his team uses agents to run <a href=\"https://x.com/swyx/status/2050068468498842058\">AI Engineer serving ~1 million developers monthly</a>, calling it a \"Tiny Team\" approach. His prediction: <blockquote>\"'coding agents breaking containment' is the breakout theme of the year. this is the year all knowledge workers, not just coders, get AGI-pilled.\"</blockquote>\n\nMeanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> demonstrated Replit's commitment to eating their own dog food, sharing a <a href=\"https://x.com/amasad/status/2049934937688854993\">\"Prompt ➡️ LLC\"</a> workflow that generated a complete business entity from natural language.\n\n<hr>\n\n<h2>Infrastructure Scramble</h2>\n\nThe race to become agent-native is creating both opportunities and growing pains. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> highlighted a common frustration: <a href=\"https://x.com/petergyang/status/2050026309615792509\">\"Shit breaks half the time when I tell my bot to update itself.\"</a> Self-modifying systems remain fragile, but the appetite for them suggests the potential rewards justify the current instability.\n\n<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> captured the strategic imperative: <blockquote>\"Be in the path of these models using you - or you'll simply cease to exist. First, terminal. Then, computer use. Soon, the entire OS.\"</blockquote>\n\nThe cybersecurity implications are profound. <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> observed that <a href=\"https://x.com/adityaag/status/2049941075872113145\">\"We're going through a critical inflection point for cybersecurity in real time,\"</a> as both attackers and defenders gain AI capabilities simultaneously.\n\n<hr>\n\n<h2>The Deeper Questions</h2>\n\nBeneath the tactical developments, fundamental questions about human-AI collaboration are emerging. <a href=\"https://x.com/AmandaAskell\" data-handle=\"Amanda\">Amanda Askell</a> pushed back against internet speculation about her work, noting <a href=\"https://x.com/AmandaAskell/status/2050020603323904369\">\"it's weird to experience it first hand\"</a> how confidently people write fiction about AI researchers. Her frustration hints at the broader challenge of maintaining authentic discourse as AI capabilities advance.\n\n<a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">ryolu</a> offered a philosophical perspective on system design, arguing that <a href=\"https://x.com/ryolu_/status/2049866003287576978\">\"'no opinion' is itself a strong one\"</a> and that true flexibility comes from <blockquote>\"strong opinion held in cohesion – not about one ideal workflow, but about which concepts are fundamental.\"</blockquote>\n\nAs we hurtle toward this agent-mediated future, the winners may be those who best understand that building for AI users isn't just a technical challenge — it's a fundamental rethinking of what software can be.",
+  "html_zh": "<p class=\"lead\">从编程助手到完全自主的代理，AI工具正在重新定义知识工作的边界。今天的AI生态系统展现出一个清晰的趋势：我们正在从单一任务的自动化转向多任务并行的智能编排。</p>\n\n<h2>代理突破\"容器边界\"：知识工作的全面重构</h2>\n\n<p><a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> 在 Sequoia Ascent 2026 的炉边谈话中，提出了一个重要观点：大语言模型的意义远超加速现有工作流程。</p>\n\n<blockquote>\"我试图推动的第一个主题是，LLM不仅仅是加速以前存在的东西（比如编程）。三个新视野的例子：1) menugen：一个完全可以被LLM吞噬的应用，不需要传统代码：输入图像，输出图像，LLM可以原生地处理这件事。2) 安装.md技能而不是安装.sh脚本。为什么要为安装软件创建复杂的Software 1.0 bash脚本，如果你可以用文字写出安装过程并说'把这个给你的LLM看'。LLM是英语的高级解释器，可以智能地针对你的设置安装，内联调试一切等等。3) LLM知识库作为传统代码根本不可能实现的东西的例子。\"</blockquote>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 呼应了这一观点，在播客中提到 <a href=\"https://x.com/swyx/status/2050068468498842058\">\"编程代理突破容器\"是今年的突破主题</a>：</p>\n\n<blockquote>\"这是所有知识工作者，不仅仅是程序员，都会被AGI化的一年。\"</blockquote>\n\n<p>这种转变的具体体现是多任务并行处理。Claude Code 发布了<a href=\"https://claude.com/blog/claude-code-desktop-redesign\">桌面版重设计</a>，专门为并行代理工作流程优化，支持同时运行多个会话，让开发者能够\"在一个仓库中启动重构，在另一个仓库中修复bug，在第三个仓库中编写测试\"。</p>\n\n<hr>\n\n<h2>安全：AI时代的双刃剑</h2>\n\n<p>随着AI代理能力的增强，安全问题变得更加复杂和紧迫。Anthropic 推出了<a href=\"https://x.com/_catwu/status/2049964403177689130\">Claude Security 公开测试版</a>，集成到 Claude Code 网页版中，能够识别和修复代码漏洞。</p>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> 与 Palo Alto Networks CEO 的播客中强调了这个转折点：</p>\n\n<blockquote>\"攻击者有AI。防御者也有AI。网络安全有了新的形态：AI既是威胁，也是唯一可行的解决方案。\"</blockquote>\n\n<p>令人担忧的是，<a href=\"https://x.com/AmandaAskell\" data-handle=\"AmandaAskell\">Amanda Askell</a> 发现自己成为了网络虚假信息的目标，<a href=\"https://x.com/AmandaAskell/status/2050020603323904369\">抱怨</a>：\"我越来越多地看到关于我的内容，断言非常自信但完全是编造的。\"这揭示了AI时代信息真实性面临的挑战。</p>\n\n<hr>\n\n<h2>软件商业模式的根本性转变</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 发布了一系列深思熟虑的观点，探讨代理成为软件主要用户后的商业模式变革：</p>\n\n<blockquote>\"当代理成为软件最大的用户时，所有软件都必须以无头模式提供。代理不会使用你的UI，它们会与你的API对话。\"</blockquote>\n\n<p>他预测了三种定价模式的演进：</p>\n<p>1. 传统座位许可将保留给人类用户，但需要包含API使用额度</p>\n<p>2. 代理可能需要\"座位\"进行状态化工作，但定价方式会完全不同</p>\n<p>3. 消费模式将主导超出座位分配的无头使用场景</p>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit CEO Amjad Masad</a> 展示了这种转变的早期迹象，演示了<a href=\"https://x.com/amasad/status/2049934937688854993\">\"提示词 ➡️ 有限责任公司\"</a>的流程，展现了AI如何能够处理复杂的商业流程。</p>\n\n<hr>\n\n<h2>个人AI助手的成熟</h2>\n\n<p>个人AI代理工具正在快速成熟。<a href=\"https://x.com/steipete\" data-handle=\"steipete\">OpenClaw 的创始人</a>宣布了群聊功能的重大改进：</p>\n\n<blockquote>\"如果你在群聊中尝试了OpenClaw但得到了混合结果，你必须再试一次。我改变了代理在群聊中的对话方式，现在非常好用了。\"</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 展示了使用 Codex + Chronicle 作为专注力追踪器的实验，而<a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">Ryan</a> 将 Cursor SDK 集成到他的 ryOS 中，实现了通过对话直接编辑操作系统的功能。</p>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 宣布了<a href=\"https://x.com/sama/status/2049946120441520624\">Codex 的重大升级</a>：\"今天Codex有重大升级！试试用它做非编程的计算机工作。\"</p>\n\n<hr>\n\n<h2>设计哲学：无观点即强观点</h2>\n\n<p><a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">Ryan</a> 发表了一篇深刻的设计哲学思考：</p>\n\n<blockquote>\"人们把'有观点的'和'通用目的'当作对立面。它们不是。当你决定什么概念存在，什么可见，什么组合，什么扩展，什么隐藏——你已经表达了一种世界观。'无观点'本身就是一个强观点。\"</blockquote>\n\n<p>他论述了构建通用系统的核心原则：\"为通用性而构建意味着表达非常具体的观点：核心概念应该是少数的、持久的、灵活的。\"这种设计哲学在当前AI工具的快速发展中显得尤为重要。</p>\n\n<p>随着AI代理从简单的任务助手演进为复杂的知识工作编排者，我们正在见证一个根本性的范式转变。正如Karpathy所说，我们要么在数据分布内\"飞行\"，要么在\"丛林中用砍刀开路\"。成功的关键是理解这种新范式的边界和可能性。</p>"
+}
