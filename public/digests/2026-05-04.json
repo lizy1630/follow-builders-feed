@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T08:26:33.142Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">Yesterday marked another pivot point in the evolution of programming itself, as AI builders grappled with the unsettling realization that the very nature of software development has fundamentally shifted beneath their feet.</p>\n\n<h2>The Great Programming Paradigm Shift</h2>\n\n<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> appeared on the Training Data podcast to unpack his startling admission that he's \"never felt more behind as a programmer\" — a confession that resonated across the developer community. In a wide-ranging conversation, Karpathy articulated what many are feeling but struggling to express: we're witnessing the emergence of \"software 3.0.\"\n\n<blockquote>\"Software 1.0 is writing code. Software 2.0 is actually programming by creating datasets and training neural networks. And then what happened is that basically, if you train one of these GPT models or LLMs on a sufficiently large set of tasks, implicitly, because by training on the Internet, you have to multitask all the things that are in the data. These actually become kind of like a programmable computer in a certain sense.\"</blockquote>\n\nThe shift became visceral for Karpathy in December: <blockquote>\"I just started to notice that with the latest models, the chunks just came out fine. And then I kept asking for more and just came out fine. And then I can't remember the last time I corrected it.\"</blockquote> This transition from cautious assistance to blind trust represents more than productivity gains — it's a fundamental rewiring of how we interact with computers.\n\nWatch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Andrej Karpathy: From Vibe Coding to Agentic Engineering</a>\n\n<hr>\n\n<h2>The Enterprise Reality Check</h2>\n\nWhile developers explore new paradigms in their side projects, <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> delivered a sobering assessment of what it will actually take to deploy agents in enterprise environments. His <a href=\"https://x.com/levie/status/2051057677984469277\">detailed thread</a> outlined the complex reality facing organizations trying to move beyond AI demos.\n\n<blockquote>\"The complexity of implementing agents in any existing organizations is very real. When I talk to large enterprises, as you move from a chat paradigm to agents that participate in meaningful workflows, there are a number of things they need to do.\"</blockquote>\n\nLevie's roadmap includes modernizing decades of legacy infrastructure, implementing proper access controls, documenting processes for AI consumption, and redesigning workflows for human-AI collaboration. <blockquote>\"Whether it's existing consulting firms, new ones that emerge, FDEs from agent vendors, or new internal agent engineering roles, the amount of work that is going to be created to implement agents in enterprises will exceed anything we imagine today.\"</blockquote>\n\nThis enterprise complexity creates what Levie sees as a massive opportunity for those who develop expertise in AI implementation — but also suggests that the agent revolution may be more gradual and labor-intensive than current hype suggests.\n\n<hr>\n\n<h2>The Freedom to Own Your Stack</h2>\n\nAs agents become more powerful, a philosophical divide is emerging around control and ownership. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> articulated the stakes in stark terms: <blockquote>\"The goal of Personal AI: civilization where individual humans, augmented by AI, can do consequential work without being captured by extractive institutions. Freedom to write your prompt and own your data. This is the new battleground. 2034 won't have to be like 1984.\"</blockquote>\n\nThis vision of AI sovereignty is driving real product decisions. <a href=\"https://x.com/garrytan/status/2051110206466302136\">Tan emphasized</a> why his GBrain project is open source: <blockquote>\"The explosion in intelligence means building your own context is more important than ever. If you own and run your own prompts and your own data, then you earn the ability to think for yourself.\"</blockquote>\n\nMeanwhile, <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> captured the democratizing potential of this shift: <blockquote>\"Before AI, you couldn't afford to build something small. Because the cost of software development was so high, you had to hire a team, convince other people, justify it to a committee. Now, it's literally just you and a coding agent.\"</blockquote>\n\n<hr>\n\n<h2>Tools of the Trade</h2>\n\nThe practical side of this revolution is visible in the daily tools builders are sharing. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> found himself <a href=\"https://x.com/petergyang/status/2051129249348894754\">comparing Hermes and OpenClaw</a>, seeking honest opinions about the differences between these agent platforms. His <a href=\"https://x.com/petergyang/status/2050963126234034387\">tip for keeping agents running</a> even when your MacBook lid is closed showed the kind of practical knowledge sharing that's emerging around agent workflows.\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> released <a href=\"https://x.com/steipete/status/2051088325100831046\">RepoBar 0.4.0</a>, a \"tiny menubar app\" that's becoming an \"increasingly useful daily tool\" with smarter GitHub integration and persistent SQLite caching. The evolution from simple utilities to AI-augmented productivity tools is accelerating.\n\n<hr>\n\n<h2>The New Normal</h2>\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman's</a> understated <a href=\"https://x.com/sama/status/2050998576671859003\">observation that \"Agents SDK 2.0 is underrated\"</a> feels like the calm before a storm. Combined with <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad's</a> <a href=\"https://x.com/amasad/status/2051167532523074015\">report of \"10 active, 198 draft, 700+ done\"</a> agentic projects on Replit, we're seeing the emergence of a new development ecosystem where AI agents are becoming the primary interface for creation.\n\nThe shift is both exhilarating and unsettling. As Karpathy noted, December felt like a \"very stark transition\" — and we're still processing what it means for how we think, work, and create. The old rules are dissolving faster than new ones are forming, leaving builders to navigate by instinct in an increasingly agentic world.",
+  "html_zh": "<p class=\"lead\">当代码助手真正变得可信赖时，编程本身就变成了一个哲学问题。今日AI圈的讨论揭示了一个关键转折点：开发者正在学会彻底重新思考什么是\"编程\"，什么是\"软件\"。</p>\n\n<hr>\n\n<h2>编程范式的根本转变</h2>\n\n今天最引人深思的对话来自<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a>在Training Data播客中的分享。这位AI界的教父级人物坦承了一个令人震惊的事实：<a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Listen: Andrej Karpathy: From Vibe Coding to Agentic Engineering</a>\n\n<blockquote>\"我几个月前说过我从未感到自己作为程序员如此落后。\"</blockquote>\n\n但Karpathy的\"落后\"恰恰反映了行业的巨大飞跃。他将软件发展分为三个时代：1.0是显式规则，2.0是学习权重，3.0则是我们正在进入的时代——通过上下文提示来编程。\n\n<blockquote>\"软件3.0的编程范式现在就是你的提示，上下文窗口中的内容就是你对LLM这个解释器的控制杆。\"</blockquote>\n\n这种转变的实际影响令人震撼。Karpathy提到OpenClaw的安装过程不再需要复杂的shell脚本，而是\"复制粘贴一段文本给你的智能体\"。智能体会理解环境、执行智能操作并在循环中调试——这比传统编程强大得多。\n\n<hr>\n\n<h2>从个人工具到企业现实</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>为企业AI应用泼了一盆冷水，但也指出了巨大机遇。他在<a href=\"https://x.com/levie/status/2051057677984469277\">详细分析</a>中指出：\n\n<blockquote>\"无论是现有咨询公司、新兴公司、智能体供应商的现场部署工程师，还是新的内部智能体工程角色，在企业中实施智能体将创造的工作量将超出我们今天的想象。\"</blockquote>\n\n企业面临的挑战是多层次的：让智能体安全地访问遗留系统数据、实施适当的访问控制、文档化可供智能体使用的流程，以及重新设计人机协作工作流程。Levie强调，简单复制旧工作流程会削弱收益——这需要全新的思维方式。\n\n同时，<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>提出了对抗性观点，强调个人AI的重要性：\n\n<blockquote>\"个人AI的目标：一个由AI增强的个体人类能够完成有意义工作而不被榨取性机构捕获的文明。自由编写你的提示并拥有你的数据。这是新的战场。\"</blockquote>\n\n<hr>\n\n<h2>工具生态系统的爆发式增长</h2>\n\n社区正在快速构建新的工具和工作流程。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>分享了实用技巧，比如使用Amphetamine让Mac在合盖时保持智能体运行，还在<a href=\"https://x.com/petergyang/status/2051129249348894754\">询问</a>Hermes和OpenClaw的使用差异。\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a>发布了RepoBar 0.4.0，这个GitHub菜单工具增加了SQLite缓存和更智能的API调用管理。同时，他还在<a href=\"https://x.com/steipete/status/2051033065367970195\">宣布</a>新的Claw beta版本发布。\n\n<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>展示了Replit上的agentic工作规模：\n\n<blockquote>\"10个活跃项目，198个草稿，700多个完成项目。我认为互联网上没有比Replit上发生的更多智能体并行工作了。\"</blockquote>\n\n<hr>\n\n<h2>OpenAI内部动向与SDK进展</h2>\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>今日连发多条推文，既表达了对<a href=\"https://x.com/sama/status/2050964008480723059\">Greg的感谢</a>，也强调了<a href=\"https://x.com/sama/status/2050998576671859003\">Agents SDK 2.0被低估了</a>。\n\n这些看似简短的推文实际上传达了重要信息：OpenAI正在为智能体时代做深度技术准备，而SDK 2.0可能是连接当前工具和未来智能体生态系统的关键桥梁。\n\n<hr>\n\n<h2>新的创造力释放</h2>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>精辟地总结了AI编程的解放意义：\n\n<blockquote>\"在AI之前，你无法承担构建小东西的成本。因为软件开发成本如此之高，你必须雇佣团队、说服他人、向委员会证明合理性。现在，就是你和一个编程智能体。编程智能体不需要被说服，它会轻松构建你任何疯狂怪异的想法。所以去构建那些在每个大科技公司产品评审会议上都会被拒绝的东西吧。\"</blockquote>\n\n这或许是今天最深刻的洞察：AI不仅仅是在加速现有的软件开发，而是在完全重新定义什么是可能的。当创造的边际成本趋于零时，我们需要重新思考产品、服务乃至整个商业模式的基本假设。"
+}
