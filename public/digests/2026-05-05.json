@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T08:05:54.146Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "kevinweil": {
+      "name": "Kevin Weil",
+      "handle": "kevinweil",
+      "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "twitter": "https://x.com/kevinweil"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">As AI valuations soar into stratospheric territory with OpenAI hitting $850B and Anthropic nearing $900B, the real action is happening in the trenches — where code security agents are finding critical vulnerabilities and voice models are reshaping how we interact with AI entirely.</p>\n\n<h2>The Valuation Wars Heat Up</h2>\n\nThe AI arms race has entered a new phase, with eye-watering valuations that would make even the most seasoned Silicon Valley veteran do a double-take. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> broke down the numbers that have everyone talking:\n\n<blockquote>\nOAI 850B valuation, ~30B ARR now \nAnt ~900B valuation, ~44B* ARR now  \n\n*revenue recognized differently, per Denise Dresser its probably closer to 8-10B lower if using OAI methodology\n</blockquote>\n\n<a href=\"https://x.com/swyx/status/2051440392722391180\">The data</a>, reconstructed from WSJ reporting, reveals just how quickly the AI landscape has consolidated around a handful of mega-players. But behind these astronomical numbers lies a more nuanced story about different approaches to revenue recognition and market positioning.\n\nMeanwhile, <a href=\"https://x.com/levie\" data-handle=\"levie\">Box's Aaron Levie</a> highlighted what these valuations really represent — not just investor enthusiasm, but the beginning of a massive enterprise transformation:\n\n<blockquote>\nBoth Anthropic and OpenAI have new initiatives to help enterprises deploy AI agents within their organizations. This is a trend that's early but going to get very big fast... While AI models have an incredible amount of capability packed into them, there's no shortcut to getting that intelligence applied to a business process in a stable way.\n</blockquote>\n\n<a href=\"https://x.com/levie/status/2051344780328858040\">Levie's insight</a> cuts to the heart of why these companies are worth so much: they're not just selling models, they're selling the infrastructure for the future of work.\n\n<hr>\n\n<h2>Code Security Gets an AI Upgrade</h2>\n\nPerhaps the most compelling demonstration of AI's practical value came from <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel's Guillermo Rauch</a>, who unveiled something that should make every developer pay attention: an open-source agent orchestrator called deepsec that can find critical vulnerabilities faster than human teams.\n\n<blockquote>\nCoding agents can now find critical vulnerabilities in minutes that would take teams of people months (if they can spot them at all). Since deepsec is optimized to work with Vercel Sandbox, you can effectively harness the power of thousands of agents scrutinizing your codebase in parallel.\n</blockquote>\n\n<a href=\"https://x.com/rauchg/status/2051386798899888539\">The announcement</a> represents a paradigm shift in how we think about code security — from periodic human audits to continuous AI-powered monitoring at scale.\n\nOn the development infrastructure front, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Ceriu</a> shared how his team is now <a href=\"https://x.com/steipete/status/2051557150040711425\">\"reproducing issues directly in ephemeral crabboxes with WebVNC\"</a> where \"agents set up the exact state to test + fix and post videos on the PR.\" His latest <a href=\"https://x.com/steipete/status/2051485798613111116\">Crabbox 0.5.0 release</a> includes desktop/browser leases, VNC support, and AWS Windows integration — essentially making remote CI boxes \"suspiciously usable.\"\n\n<hr>\n\n<h2>The Voice Revolution Begins</h2>\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> dropped perhaps the most intriguing hint about where AI is heading next:\n\n<blockquote>\npretty excited for voice models to get great\n\nits interesting to watch how people are already starting to change the way they interface with AI\n</blockquote>\n\n<a href=\"https://x.com/sama/status/2051464865634742334\">His observation</a> aligns with what developers are already experiencing. <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> noted that <a href=\"https://x.com/nikunj/status/2051321911741972900\">\"their new live voice model is mindblowingly good if you haven't tried it yet!\"</a> — referring to Gemini's latest capabilities.\n\nThe shift toward voice represents more than just a new interface; it's a fundamental change in how humans and AI will collaborate. As <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> framed it:\n\n<blockquote>\nCoding is the first frontier.\nKnowledge work is the second one.\nPersonal agents are the third.\n</blockquote>\n\n<a href=\"https://x.com/petergyang/status/2051508988936937764\">This progression</a> suggests we're moving from AI as a tool to AI as a companion — and voice is the bridge that makes that transition feel natural.\n\n<hr>\n\n<h2>Building Safer AI Systems</h2>\n\nAs AI agents become more capable, the question of safety becomes paramount. Anthropic tackled this head-on with their new <a href=\"https://www.anthropic.com/engineering/claude-code-auto-mode\">Claude Code auto mode</a>, which introduces a fascinating middle ground between full human control and complete automation.\n\nThe system uses two layers of defense: a prompt-injection probe that scans tool outputs for hijacking attempts, and a transcript classifier that evaluates each action before execution. The key insight is recognizing that humans approve 93% of AI actions anyway — so the goal isn't perfect human oversight, but catching the 7% that could cause real damage.\n\nTheir threat model is particularly illuminating, identifying four ways AI agents might take dangerous actions: overeager behavior, honest mistakes, prompt injection, and potential misalignment. The solution isn't to block everything, but to identify and intercept the specific patterns that lead to problems.\n\n<hr>\n\n<h2>The Long Game of Autonomous Systems</h2>\n\nFor a longer perspective on persistence in AI, <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Waymo's Dmitri Dolgov shared insights</a> from nearly two decades building autonomous vehicles. His journey from the 2005 DARPA challenge to today's 20 million rides offers lessons for any AI builder facing the inevitable hype cycles and valleys of despair.\n\n<blockquote>\nThe technology is incredibly interesting. The mission is so powerful that nothing else come close, and it's a real product there. You can be hands on and experience it yourself. So it really checked all the boxes for me.\n</blockquote>\n\nDolgov's persistence through the autonomous vehicle winter of 2016-2017 — when most competitors gave up — demonstrates what it takes to build transformative AI systems. The key isn't avoiding the hard times, but maintaining conviction in the underlying mission when others lose faith.\n\nAs the AI industry races toward ever-higher valuations and more ambitious capabilities, these stories remind us that the real breakthroughs happen in the details — in secure code review systems, thoughtful safety mechanisms, and the unglamorous work of making AI reliable enough for the real world.",
+  "html_zh": "<p class=\"lead\">尽管AI代理们开始在代码和安全领域发挥变革性作用，业界却进入了一个更加务实的阶段，投资者和创业者开始重新审视用户保留率和实用性，而非仅仅追求华丽的演示效果。</p>\n\n<h2>代理安全与自动化的微妙平衡</h2>\n\n<p>在AI代理日益强大的背景下，安全性成为了一个核心议题。<a href=\"https://www.anthropic.com/engineering/claude-code-auto-mode\" data-handle=\"anthropic\">Anthropic推出了Claude Code的auto模式</a>，这是一个旨在减少用户\"批准疲劳\"的创新解决方案。正如其团队所指出的：</p>\n\n<blockquote>\n\"用户有两种解决方案来避免这种疲劳：一个内置沙箱，工具被隔离以防止危险操作，或者--dangerously-skip-permissions标志，它禁用所有权限提示并让Claude自由行动，这在大多数情况下是不安全的。\"\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>宣布了Vercel的开源安全审查工具deepsec，展示了另一种代理在安全领域的应用。<a href=\"https://x.com/rauchg/status/2051386798899888539\">他表示</a>：</p>\n\n<blockquote>\n\"编码代理现在可以在几分钟内发现关键漏洞，而这些漏洞可能需要团队数月才能发现（如果他们能发现的话）。\"\n</blockquote>\n\n<p><a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Ceriu</a>也在这一趋势中贡献了自己的力量，<a href=\"https://x.com/steipete/status/2051485798613111116\">发布了Crabbox 0.5.0</a>，一个支持桌面/浏览器租赁和VNC的远程CI系统。</p>\n\n<hr>\n\n<h2>企业AI代理的崛起</h2>\n\n<p>企业界正在快速拥抱AI代理技术。<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>敏锐地观察到了这一趋势，<a href=\"https://x.com/levie/status/2051344780328858040\">他指出</a>：</p>\n\n<blockquote>\n\"Anthropic和OpenAI都有新的计划来帮助企业在其组织内部署AI代理。这是一个虽然早期但将很快变得非常重要的趋势。\"\n</blockquote>\n\n<p>Levie强调，虽然AI模型拥有令人难以置信的能力，但将这些智能以稳定方式应用于业务流程并没有捷径。这为新工作岗位和公司创造了大量机会。</p>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit的Amjad Masad</a>展示了一些令人印象深刻的实际应用案例，包括<a href=\"https://x.com/amasad/status/2051511694040744139\">帮助创业者找到投资者</a>和<a href=\"https://x.com/amasad/status/2051406536443035922\">为聋人学生开发多模态学习平台</a>。</p>\n\n<hr>\n\n<h2>AI发展的三个阶段</h2>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>提出了一个引人深思的AI发展框架，<a href=\"https://x.com/petergyang/status/2051508988936937764\">他认为</a>：</p>\n\n<blockquote>\n\"编程是第一个前沿。知识工作是第二个。个人代理是第三个。\"\n</blockquote>\n\n<p>这个观点得到了<a href=\"https://x.com/sama\" data-handle=\"sama\">OpenAI CEO Sam Altman</a>的呼应，他<a href=\"https://x.com/sama/status/2051464865634742334\">表示</a>对语音模型的发展感到\"相当兴奋\"，并注意到\"人们已经开始改变与AI交互的方式\"。</p>\n\n<p>个人AI工具也在快速发展。<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>介绍了<a href=\"https://x.com/garrytan/status/2051525161380364315\">GBrain v0.27的更新</a>，强调其独特性：</p>\n\n<blockquote>\n\"它不只是一个内存层或代码工具或搜索引擎。它是在一个统一图形下的所有三者，具有一个查询接口。没有其他人拥有这个。\"\n</blockquote>\n\n<hr>\n\n<h2>估值现实与市场务实</h2>\n\n<p>在AI炒作逐渐冷却的背景下，市场开始更加关注实际价值。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a>分享了一些有趣的估值对比数据，<a href=\"https://x.com/swyx/status/2051440392722391180\">显示</a>OpenAI的850亿美元估值对应约300亿美元ARR，而蚂蚁集团的900亿美元估值对应约440亿美元ARR。</p>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Jain</a>对当前创业环境提出了尖锐的观察，<a href=\"https://x.com/nikunj/status/2051349526171287930\">他认为</a>：</p>\n\n<blockquote>\n\"2023-2025年的创业公司正慢慢意识到，精美的发布视频和仅关注分发可能会带来VC资金，但当你本应花费同等（如果不是更长）时间在用户保留上时，这仍然会导致烧钱。\"\n</blockquote>\n\n<p>不过，技术方面仍有亮点。Nikunj特别<a href=\"https://x.com/nikunj/status/2051321911741972900\">赞扬了Gemini Flash</a>，称其\"便宜得要命，而且非常好用...拥有100万上下文窗口和结构化输出\"。</p>\n\n<hr>\n\n<h2>自动驾驶：AI的长期视角</h2>\n\n<p>在所有AI应用中，自动驾驶可能提供了最好的长期视角。在一次<a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">播客采访</a>中，Waymo的Dmitri Dolgov分享了他近20年在自动驾驶领域的坚持。他回忆了早期的挑战：</p>\n\n<blockquote>\n\"当我们在2009年开始时，那时叫做Google自动驾驶汽车项目。最初的几年，一切都是关于学习问题空间，理解在公共道路上部署自动驾驶汽车的意义。\"\n</blockquote>\n\n<p>关于如何度过困难时期，Dolgov的经验对当今的AI创业者具有重要启发意义。他们从最初的十几个人团队开始，用了18个月完成了100万英里自动驾驶和10条100英里路线的挑战。</p>\n\n<p>当被问及如何度过2016-2017年的行业低谷时，Dolgov展现了一种长期主义的思维方式，这种坚持最终让Waymo成为今天自动驾驶领域的领导者，已经完成了数亿英里的自动驾驶。</p>"
+}
