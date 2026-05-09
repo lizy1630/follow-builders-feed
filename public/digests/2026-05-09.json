@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T08:12:14.479Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: The Secrets of Claude's Platform From the Team Who Built It",
+      "url": "https://www.youtube.com/watch?v=lLypHkIVLqc"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is experiencing a curious case of time deflation — where today's cutting-edge custom solutions become tomorrow's platform primitives, making every developer question: should I build it myself or wait for the platform?</p>\n\n<h2>The Evolution of AI Platforms: From Prompts to Primitives</h2>\n\nThe conversation around what constitutes an AI platform has evolved dramatically. In a revealing podcast with Anthropic's platform team, we get insight into this progression. <a href=\"https://x.com/AnthropicAI\" data-handle=\"anthropicai\">Angela</a> and Caitlin from Anthropic's platform team explain how we've moved from simple completion endpoints to sophisticated managed systems.\n\n<blockquote>\n\"In the GPT-three days, the platform was a completion endpoint. You just, like, send a prompt to get a response. After that, it was, like, a completion endpoint with tool calling and a couple and, like, chat sessions... And now, like, with Cloud Managed Agents, you're essentially getting a cloud on a computer with memory and all this other stuff.\"\n</blockquote>\n\nListen: <a href=\"https://www.youtube.com/watch?v=lLypHkIVLqc\">The Secrets of Claude's Platform From the Team Who Built It</a>\n\nThe Anthropic team's vision goes even further. They're experimenting with directions where <blockquote>\"Cloud actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents. You don't have to think so much about what kind architectures are there because Claude is actually able to understand itself enough that it can write itself on the fly.\"</blockquote>\n\nThis reflects a broader industry trend where <a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> shared exciting news that <a href=\"https://x.com/alexalbert__/status/2052899864493830590\">An early Claude Mythos Preview snapshot we provided METR has a time horizon of more than 2x the next best model on their 80% success rate benchmark</a>.\n\n<hr>\n\n<h2>The New Enterprise Reality: Token Economics and Agent Budgets</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> from Box identified a fascinating shift in enterprise resource allocation that's already happening:\n\n<blockquote>\n\"A common trend emerging in larger enterprises is token budgeting as a major topic. As agents can do more and more long running tasks, and thus take vastly more compute, allocation of tokens across teams becomes a very real thing in the enterprise.\"\n</blockquote>\n\n<a href=\"https://x.com/levie/status/2052903105256382679\">His analysis</a> reveals how companies are treating AI tokens like any other enterprise resource — from talent budgets to laptop setups. The challenge? <blockquote>\"You don't want to find out you burned your monthly budget on something relatively low value and then be blocked on the much higher value task later.\"</blockquote>\n\nThis creates interesting questions about pricing models. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> notes: <a href=\"https://x.com/mattturck/status/2052839798063112303\">\"The more I think about AI agents, the less obvious it is that pricing goes purely consumption-based... enterprise agents may need identities, roles, auth, budgets, audit logs etc. That sounds oddly seat-like? just not human-seat-like\"</a>\n\n<hr>\n\n<h2>The Death of Markdown and Rise of Dynamic Content</h2>\n\nIn a viral thread, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> declared: <a href=\"https://x.com/trq212/status/2052811606032269638\">\"HTML is the new markdown. I've stopped writing markdown files for almost everything and switched to using Claude Code to generate HTML for me.\"</a> The tweet garnered nearly 9,000 likes, striking a chord with developers.\n\nThe reasoning is compelling: <blockquote>\"You can also see example HTML documents I've generated here\"</blockquote> — showcasing rich, interactive documents that markdown simply can't match. This shift toward AI-generated, rich content reflects a broader movement where static formats are giving way to dynamic, contextual experiences.\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> built on this theme, creating <a href=\"https://x.com/zarazhangrui/status/2052928583388340332\">32 Beautiful HTML Slide Templates now available on AnyGen, it's plug-and-play even for those without a coding agent</a>.\n\n<hr>\n\n<h3>Real-Time AI: The Voice Interface Revolution</h3>\n\nOpenAI's real-time capabilities are sparking creative applications. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara</a> built <a href=\"https://x.com/zarazhangrui/status/2052977849267892339\">a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API: The agent watches the video alongside you, and can answer any question you have about what was just said via realtime voice chat.</a>\n\nThe most impressive part? <blockquote>\"It can differentiate the YouTube's audio stream and your voice, so it doesn't confuse the video as commands, and stays silent unless you ask something!\"</blockquote>\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> himself seemed to acknowledge the excitement around real-time with a playful <a href=\"https://x.com/sama/status/2052887698717986956\">\"call me maybe\"</a> tweet that generated significant engagement.\n\n<hr>\n\n<h2>Local AI Getting Serious</h2>\n\nThe local AI movement gained momentum as <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> expressed amazement at recent developments: <a href=\"https://x.com/garrytan/status/2052996691586932783\">\"Downloading now... 1M token context window with supposedly usable coding agent capability all on a 128GB Macbook Pro is 🤯\"</a>\n\nThis represents a significant shift toward <a href=\"https://x.com/garrytan/status/2052998537344856459\">\"Personal software is coming\"</a> — where powerful AI capabilities run entirely on personal devices rather than requiring cloud services.\n\nThe implications extend beyond technical capabilities. As <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> noted: <a href=\"https://x.com/danshipper/status/2052865144066097217\">\"Generational opportunity for anyone in AI to play the markets given this time lag. Guarantee everyone is psyched about Codex in a few months. Invest accordingly\"</a> — suggesting significant market timing opportunities for those paying attention to these developments.\n\n<a href=\"https://x.com/AmandaAskell\" data-handle=\"amandaaskell\">Amanda Askell</a> from Anthropic offered a thoughtful perspective on the positive vision for alignment research: <a href=\"https://x.com/AmandaAskell/status/2052928572810256748\">\"Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind of training is one where we can give models and honest and positive vision for what AI models can be and why. I'm excited about the future of this work.\"</a>",
+  "html_zh": "<p class=\"lead\">今天，人工智能平台正在经历从基础完成接口向全功能自主代理系统的快速演进，这一转变重新定义了整个行业对AI基础设施的理解。</p>\n\n<h2>平台演进：从简单API到智能代理编排</h2>\n\n<p><a href=\"https://x.com/AmandaAskell\" data-handle=\"amandaaskell\">Amanda Askell</a> 在谈到AI训练的正面愿景时表示：</p>\n\n<blockquote>对齐研究往往必须专注于避免令人担忧的行为，但我认为这种训练的积极愿景是我们可以给模型一个诚实和积极的愿景，让它们知道AI模型可以成为什么样的存在，以及为什么要这样。我对这项工作的未来感到兴奋。</blockquote>\n\n<p>这种哲学转变在Anthropic的平台战略中得到了具体体现。在<a href=\"https://www.youtube.com/watch?v=lLypHkIVLqc\">最新的AI & I播客</a>中，Claude平台团队的负责人透露了一个雄心勃勃的未来愿景：</p>\n\n<blockquote>我们想要实验一个方向，让Claude真正理解自己。它会找出你应该使用什么模型，它会找出如何启动所有的子代理。你不必过多思考存在什么架构，因为Claude实际上能够充分理解自己，以至于它可以即时编写自己。</blockquote>\n\n<p>这种从静态工具向自适应系统的转变不仅仅是技术升级，更代表了AI平台设计理念的根本性变化。正如<a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> 指出的，Claude Mythos Preview在METR的基准测试中展现出了超过其他模型2倍以上的时间视野能力。</p>\n\n<hr>\n\n<h2>HTML复兴：新一代开发工具的兴起</h2>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 宣告了一个令人意外的趋势：</p>\n\n<blockquote>HTML是新的markdown。我已经停止为几乎所有内容编写markdown文件，转而使用Claude Code为我生成HTML。</blockquote>\n\n<p>这条推文获得了8,721个赞和671次转发，显示了开发者社区对这一观点的强烈共鸣。这种转变反映了AI驱动的代码生成工具正在改变我们对传统文档格式的看法。</p>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">张若睿</a> 进一步推动了这一趋势，推出了32个美观的HTML幻灯片模板，可在AnyGen上即插即用：</p>\n\n<blockquote>现在即使对于没有编码代理的人来说，这些模板也是即插即用的。</blockquote>\n\n<hr>\n\n<h2>企业AI：代币预算成为新的资源管理挑战</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 提出了一个将重塑企业资源配置的观点：</p>\n\n<blockquote>在大型企业中出现的一个常见趋势是代币预算成为一个主要话题。随着代理能够做越来越多的长期运行任务，因此需要大量更多的计算资源，跨团队的代币分配在企业中变成了一个非常现实的问题。</blockquote>\n\n<p>这一观察得到了<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 的呼应，他提到：</p>\n\n<blockquote>我对AI代理的思考越深入，就越不明显定价会纯粹基于消费。代币成本很重要...但企业代理可能需要身份、角色、授权、预算、审计日志等。这听起来奇怪地像座位模式？只是不是人类座位模式。</blockquote>\n\n<p>Levie进一步预测，这将催生全新的企业软件类别：</p>\n\n<blockquote>我们需要全新的软件来解决这个问题，这本身就可能是初创公司的机会。这将是企业资源配置的全新时代，特别是在我们计算受限的情况下。</blockquote>\n\n<hr>\n\n<h2>实时AI交互的新突破</h2>\n\n<p>OpenAI的实时API 2正在解锁全新的应用场景。<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">张若睿</a> 开发了一个YouTube实时助手浏览器扩展：</p>\n\n<blockquote>这个代理和你一起观看视频，可以通过实时语音聊天回答你关于刚才说了什么的任何问题。令我惊讶的是：它可以区分YouTube的音频流和你的声音，所以不会将视频误认为命令，除非你问什么，否则保持沉默！</blockquote>\n\n<p>他还评价了这项技术的影响：</p>\n\n<blockquote>可以确认GPT实时2感觉像黑魔法；解锁了很多新应用！！现在正在用它构建。</blockquote>\n\n<hr>\n\n<h2>本地AI的新里程碑</h2>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 对最新的本地AI能力表达了惊讶：</p>\n\n<blockquote>正在下载...在128GB MacBook Pro上拥有100万代币上下文窗口和据说可用的编码代理能力，这太令人震惊了。</blockquote>\n\n<p>这标志着个人软件时代的到来，正如他所说的\"个人软件正在到来\"。\n\n<p>同时，<a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 观察到一个有趣的现象：</p>\n\n<blockquote>你给codex的技能越多，你需要提示的就越少。</blockquote>\n\n<p>这表明AI工具正在变得更加智能和自主，减少了用户的认知负担。</p>\n\n<hr>\n\n<p>今天的发展展示了AI行业正在经历的三个关键转变：平台从工具向智能系统演进，企业开始认真对待AI资源管理，以及实时交互正在创造全新的用户体验模式。随着<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 神秘地发布\"call me maybe\"，我们或许很快就会看到更多突破性的发展。</p>"
+}
