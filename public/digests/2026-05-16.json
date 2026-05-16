@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-16T07:04:43.402Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Product Leader at Google - Gemini, Veo, Nano Banana. All opinions mine.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, &amp; Why Hinton is Wrong",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">As AI agents evolve from experimental toys to production workhorses, a fascinating divide is emerging between those doubling down on language model architectures and those betting on entirely different approaches to machine intelligence.</p>\n\n<h2>The Great Architecture Divergence</h2>\n\nThe AI field's founding fathers are no longer singing in harmony. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> and his LLM believers continue pushing the boundaries of what's possible with language models, while Yann LeCun — one of the original godfathers of AI — is charting a completely different course.\n\nIn a revealing podcast appearance, LeCun explained his departure from Meta and his new venture AMI Labs, which focuses on \"AI for the real world.\" His critique of current approaches is pointed:\n\n<blockquote>There's nothing wrong with LLMs in the sense of LLMs are the basis for a lot of very useful AI products that all of us use, including me. They're great for what they do. They're just not a path towards human level or human like intelligence or even animal like intelligence.</blockquote>\n\nLeCun's thesis centers on the limitations of language-based training when it comes to understanding physical reality: <blockquote>Reality is way more complicated than language because it's high dimensional. It's continuous. It's noisy. It's messy.</blockquote> <a href=\"https://www.youtube.com/@RedpointAI\">Watch the full conversation</a> where he elaborates on his JEPR architecture and world models approach.\n\nMeanwhile, the LLM camp continues pushing forward. <a href=\"https://x.com/sama/status/2055356452286640630\" data-handle=\"sama\">Altman recently noted</a> how seriously OpenAI takes user reports about model capabilities, even when <blockquote>the answer turns out to be 'i got used to the current level of magic and now i'd like more please'</blockquote> — a telling comment about the rapid pace of improvement and rising user expectations.\n\n<h2>Codex Goes Nuclear</h2>\n\nSpeaking of rapid improvement, Anthropic's Codex is apparently undergoing a dramatic transformation. <a href=\"https://x.com/swyx/status/2055494400252481687\" data-handle=\"swyx\">Swyx observed</a> that <blockquote>Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing</blockquote>, noting demos that looked like \"agentic Excel on Mac.\"\n\nThe Codex evolution is being felt across the development ecosystem. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Esser</a> shared an extraordinary thread about how his team is building software \"as if tokens don't matter,\" running <blockquote>~100 codex in the cloud, reviewing every PR, every issue</blockquote> and automating everything from security reviews to bug fixes to meeting transcriptions. His new tool clawpatch promises to <blockquote>map codebases into semantic feature slices, review them for bugs and quality issues, and record explicit fix attempts with validation.</blockquote> <a href=\"https://x.com/steipete/status/2055364630709448970\">Try clawpatch here</a>.\n\nThe integration ecosystem is also heating up. <a href=\"https://x.com/rauchg/status/2055491454307582454\" data-handle=\"rauchg\">Guillermo Rauch</a> demonstrated how <blockquote>Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowers</blockquote>, showing a complete creative coding website generated and deployed seamlessly. <a href=\"https://x.com/rauchg/status/2055491454307582454\">Watch the demo</a>.\n\n<h3>The Agentic Government</h3>\n\nPerhaps most remarkably, <a href=\"https://x.com/swyx/status/2055470634331750588\" data-handle=\"swyx\">Singapore's head of AI in government</a> is planning for <blockquote>1.3 billion agents in the country in the next 2 years and is building a national MCP gateway</blockquote> — suggesting we're moving toward agent-native infrastructure at national scale.\n\n<h2>The Product Management Reckoning</h2>\n\nAs tools become more powerful, the humans wielding them face their own evolution pressure. <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">Madhur Sikka</a> delivered a sobering take on product management in the AI era:\n\n<blockquote>A generation of PMs is struggling to adapt to AI because they were trained to execute playbooks. AI requires inventing them. For two decades, a few teams invented the product patterns. Everyone else repurposed them to their domain. PMs need to be inventors now, not framework executors. There are no stable playbooks to repurpose. You can't A/B test your way to a breakthrough AI product.</blockquote>\n\n<a href=\"https://x.com/rauchg/status/2055278852931530784\" data-handle=\"rauchg\">Rauch echoed this theme</a>, noting that <blockquote>if you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.</blockquote>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box's Aaron Levie</a> argued that this complexity necessitates new service models, advocating for forward-deployed engineering because <blockquote>AI simply is not the same as software. In AI, you're delivering something that is constantly evolving both due to the nature of the new capabilities and best practices that emerge, but also because the underlying models change so much that they can meaningfully change the workflow as a result of their upgrades.</blockquote>\n\n<h2>Privacy in the AI Era</h2>\n\nAs AI tools become more capable and more integrated into daily workflows, privacy concerns are intensifying. <a href=\"https://x.com/petergyang/status/2055450577094738018\" data-handle=\"petergyang\">Peter Yang</a> highlighted this tension while testing ChatGPT's new finance features: <blockquote>I just don't want my financial data to be used to train models or get targeted ads, so I turned \"improve the model for everyone\" off. Doesn't appear there's a \"Use for ad targeting\" toggle here so I'll assume the same toggle applies to both.</blockquote>\n\nThe underlying question — how much personal data we're comfortable sharing for AI improvement — will only become more pressing as these systems become more capable and more central to our workflows.\n\n<hr>\n\n<em>The pace of change in AI tooling shows no signs of slowing, but the fundamental questions about architecture, privacy, and human adaptation are just beginning to be answered. Whether LeCun's bet against language models or the current wave of LLM-everything will prove prescient remains the trillion-dollar question.</em>",
+  "html_zh": "<p class=\"lead\">今天的AI产业呈现出一个新的转折点：当创始人们从研究转向产品，当最知名的AI科学家们开始重新思考当前的技术路径，整个行业正在从实验阶段过渡到实际应用阶段。</p>\n\n<h2>代码智能体的产品化浪潮</h2>\n\n<p>AI工具的用户体验正在发生根本性变化。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>对Codex的最新发展感到惊叹：</p>\n\n<blockquote>不得不说，Codex与3个月前相比完全认不出来了。这些人对这个产品采用了极端的创始人模式</blockquote>\n\n<p>这种产品化趋势在多个维度上展现。<a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a>分享了他们如何构建AI原生的开发环境：</p>\n\n<blockquote>我们在云端持续运行约100个codex实例，审查每个PR，每个问题。如果主分支有修复，@clawsweeper最终会找到那个6个月前的问题并用确切的参考关闭它。我们对每次提交运行codex以审查安全问题。</blockquote>\n\n<p>这种自动化的深度令人印象深刻。<a href=\"https://x.com/steipete/status/2055405041843052792\">完整的智能体生态系统</a>包括性能基准测试、垃圾评论过滤、会议记录处理，甚至可以在讨论新功能时自动创建PR。</p>\n\n<h2>AI产品管理的新挑战</h2>\n\n<p>AI时代对产品经理提出了全新要求。<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a>指出了一个关键问题：</p>\n\n<blockquote>一代产品经理正在努力适应AI，因为他们被训练去执行手册。AI需要发明手册。二十年来，少数团队发明了产品模式。其他人将其重新用于自己的领域。这让很多产品经理的工作变得枯燥机械化...现在产品经理需要成为发明家，而不是框架执行者。</blockquote>\n\n<p>这种转变在企业部署中尤为明显。<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO</a>强调了前置部署工程师(FDE)模式的重要性：</p>\n\n<blockquote>AI与软件根本不同。在AI中，由于新能力和最佳实践的出现，以及底层模型的重大变化，你提供的东西在不断发展...FDE模式本质上成为任何规模化部署AI的核心竞争力。</blockquote>\n\n<h2>技术路径的重大分歧</h2>\n\n<p>AI领域的技术路径正出现重大分化。在<a href=\"https://www.youtube.com/@RedpointAI\">最新的播客采访</a>中，<a href=\"https://x.com/ylecun\" data-handle=\"ylecun\">Yann LeCun</a>阐述了他对当前LLM范式的根本性质疑：</p>\n\n<blockquote>LLM在它们所做的事情上很棒。它们只是不是通向人类水平或类似人类智能，甚至类似动物智能的路径。这是我的观点...现实比语言复杂得多，因为它是高维的、连续的、嘈杂的、混乱的。</blockquote>\n\n<p>LeCun的新公司AMI专注于世界模型和JEPA架构，代表了对当前生成式模型主流方向的重大挑战。他强调：<em>\"AMI的座右铭是'现实世界的AI'...理解物理世界要困难得多。\"</em></p>\n\n<hr>\n\n<h2>用户隐私与产品边界</h2>\n\n<p>随着AI工具深入个人数据领域，隐私问题变得更加突出。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a>在试用ChatGPT财务功能时表达了关切：</p>\n\n<blockquote>我只是不想让我的财务数据被用于训练模型或获得定向广告，所以我关闭了\"为每个人改进模型\"...AI在正确分类交易方面仍然有困难。</blockquote>\n\n<p>这反映了AI产品面临的一个核心挑战：如何在提供个性化服务和保护用户隐私之间找到平衡。</p>\n\n<h2>部署与集成的未来</h2>\n\n<p>AI智能体的部署正变得更加复杂和精密。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a>展示了Grok CLI与云服务的深度集成：</p>\n\n<blockquote>Vercel通过SSO保护你的智能体部署，甚至是生产环境，为你提供一个由AI生成应用组成的安全'内网'...解决方案是vercel curl。只需在前面加上vercel或vc，你就能解锁智能体和你自己，轻松curl任何你在Vercel生态系统内有权限访问的URL。</blockquote>\n\n<p>同时，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a>从实战中总结出重要见解：<em>\"为公司提供一个超级智能体比为每个人提供一对一智能体更好\"</em>，这指向了企业AI部署的未来模式。</p>\n\n<p>从新加坡政府计划在两年内部署<a href=\"https://x.com/swyx/status/2055470634331750588\">13亿个智能体</a>的宏伟目标，到个人开发者利用<a href=\"https://x.com/nikunj/status/2055426430654439485\">智能体自动修复数据库和前端问题</a>，AI的实际应用正在各个层面快速展开。正如<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a>所言：<em>\"如果你在管理智能体方面变得出色，但同时在基础理解方面也很出色，你将势不可挡。\"</em></p>"
+}
