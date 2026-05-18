@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-18",
+  "generatedAt": "2026-05-18T07:45:35.433Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Claude Code Can Be Your Second Brain",
+      "url": "https://www.youtube.com/watch?v=in7i-EVDDlk"
+    }
+  },
+  "html_en": "<p class=\"lead\">AI builders are increasingly using code as a thinking tool rather than just a productivity hack, while the talent landscape reshapes itself around a fundamental question: how do we craft expertise in an agentic world?</p>\n\n<h2>Code as Cognition: When Programming Becomes Thinking</h2>\n\n<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> captured the spirit of this evolution perfectly: <blockquote>&gt; claude --dangerously-skip-permissions<br>&gt; /goal improve the codebase for performance and add a bit of aura</blockquote>\n\nBut perhaps the most compelling example comes from Noah Breyer's setup showcased on the <a href=\"https://www.youtube.com/watch?v=in7i-EVDDlk\">AI & I podcast</a>. Breyer has created what might be the ultimate \"second brain\" system by connecting Claude Code to his Obsidian vault through a home server, enabling him to <blockquote>\"think, research, write, and even ship code right from his phone.\"</blockquote>\n\n<blockquote>\"My number one Claude code use is using it as a tool to interact with my notes,\"</blockquote> Breyer explains. What's striking is how he describes AI's impact on mobile productivity: <blockquote>\"One of the things I find really extraordinary about it is the ability for me to work really productively on my phone... the phone has not been the best place to kind of do deep coding and research work, and I feel like it's really changed my ability to do that.\"</blockquote>\n\nMeanwhile, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> noted how <blockquote>\"the agentic excel thing is basically what u get when u expand the side panel to be the main thing\"</blockquote> — a observation that hints at how AI interfaces are inverting traditional software hierarchies.\n\n<h2>The Great Skills Realignment</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> offered one of the week's most thoughtful takes on the evolving job market. He observes a crucial mismatch: <blockquote>\"Right now there's a temporary mismatch between the jobs that used to be sought after in some fields and the new jobs that are becoming in demand in those fields.\"</blockquote>\n\nThe solution isn't to abandon technical depth, but to expand its application. <blockquote>\"When you realize that AI is going to make coding abundant, you realize everyone will need technical talent to implement agentic systems. This means the types of roles engineers should be thinking about radically expands,\"</blockquote> Levie argues, citing a Fortune 500 pharma CEO who commented on their urgent need for more technical talent.\n\nPerhaps most importantly, Levie pushes back against the notion that AI makes expertise obsolete: <blockquote>\"The expert with AI is always going to be far more capable than the novice. Those that can steer AI agents properly, figure out how to evaluate their work, fix their mistakes, and incorporate their work into a workflow will always be the most potent users of these tools.\"</blockquote>\n\n<h2>Building vs. Winning Attention</h2>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> crystallized a fundamental startup truth: <blockquote>\"People consistently overestimate how hard it is to build something and underestimate how hard it is to win people's attention once you've built it.\"</blockquote>\n\nThis insight feels particularly relevant as <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> celebrated ChatGPT Images 2.0 reaching over 1 billion images created in India alone — a reminder that at scale, winning attention becomes the ultimate moat.\n\n<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> from Replit also shared insights into what small and medium businesses are building, suggesting the democratization of AI development is creating new categories of creators we haven't seen before.\n\n<h2>The New Venture Math</h2>\n\n<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> delivered a sobering reality check for employees joining recently minted unicorns, warning of a \"triple whammy\" involving tranched valuations, inflated strike prices, and misleading total compensation packages. His advice: <blockquote>\"Use Claude/ChatGPT to do some exit math on your equity... do your own due diligence on the company you're joining just like an investor would.\"</blockquote>\n\nMeanwhile, <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> took aim at cost-cutting mindsets in the face of AI transformation, suggesting that traditional financial titans like Ken Griffin are missing the bigger picture: <blockquote>\"Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because he is too distracted about lowering cost.\"</blockquote>\n\n<h2>Signals from the Trenches</h2>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> hinted at significant developments from Google, cryptically noting: <blockquote>\"Big week for all my Google friends, I can assure you all they've been cooking.\"</blockquote> He also emphasized the importance of building evaluations based on real customer interactions rather than academic benchmarks: <blockquote>\"Don't run 'eval theater' on generic academic benchmarks. As models get smarter, evals need to get harder to keep producing signal.\"</blockquote>\n\nOn a more philosophical note, <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> offered reassurance about AI's impact on human purpose: <blockquote>\"On Friday I used AI to write a lot of code. And then on Saturday I watched humans play sports (FA Cup Final) and dance (my kid's dance recital). I am not worried that we won't have meaning and purpose.\"</blockquote>\n\n<hr>\n\nThe through-line in today's conversations suggests we're moving beyond simple AI adoption toward a more nuanced integration where code becomes cognition, expertise remains essential, and the challenge shifts from building to capturing attention. The builders who succeed will be those who understand that AI doesn't replace human insight — it amplifies it.",
+  "html_zh": "<p class=\"lead\">本周AI行业呈现出有趣的对比：从Claude Code作为\"第二大脑\"的深度个人工作流，到人们对AI时代技能需求的深思。</p>\n\n<hr>\n\n<h2>Claude Code：成为真正的\"第二大脑\"</h2>\n\n<a href=\"https://www.youtube.com/watch?v=in7i-EVDDlk\" data-handle=\"noahbreyer\">Noah Breyer</a>在接受AI & I播客采访时展示了一套令人印象深刻的Claude Code工作流。他在地下室搭建了一台家用服务器，将Obsidian知识库放在其中，然后在其上运行Claude Code。\n\n<blockquote>\"我最主要的Claude Code用途是用它作为与笔记交互的工具\"</blockquote>，Breyer解释道。这个设置让他能够直接从手机上进行思考、研究、写作，甚至发布代码。\n\n<a href=\"https://www.youtube.com/watch?v=in7i-EVDDlk\">观看访谈：Claude Code Can Be Your Second Brain</a>\n\nBreyer还分享了他对AI语音模式的看法，特别推荐Grok的语音模式：<blockquote>\"我会跟任何说法不同的人争论到底。我发现Grok的语音模式比其他任何模式都要聪明得多。\"</blockquote>他发现Grok在工具调用和研究方面表现尤其出色，这是其他语音模型的主要弱点。\n\n<hr>\n\n<h2>AI时代的技能重塑</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>对当前就业市场的技能不匹配现象提出了深刻洞察：\n\n<blockquote>\"当前某些领域中过去备受追捧的工作与这些领域中正在变得抢手的新工作之间存在临时性的不匹配。\"</blockquote>\n\n他特别提到了一位财富500强制药公司CEO的评论，该CEO表示他们现在需要更多技术人才。<a href=\"https://x.com/levie/status/2056219645796090197\">Levie强调</a>，尽管工作性质可能与5年前不同，但对技能的需求仍然存在。\n\n更重要的是，<a href=\"https://x.com/levie/status/2056051851439857933\">Levie警告不要放弃深度学习</a>：<blockquote>\"拥有AI的专家总是会比新手更有能力。那些能够正确引导AI智能体、找出如何评估其工作、修复错误并将其工作融入工作流程的人，将始终是这些工具最有效的用户。\"</blockquote>\n\n<hr>\n\n<h2>构建与获得关注的鸿沟</h2>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>提出了一个普遍存在的认知偏差：<blockquote>\"人们总是高估构建某个东西的难度，而低估一旦你构建了它后赢得人们关注的难度。\"</blockquote>\n\n这一观点与<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>分享的中小企业正在构建的项目形成了有趣的对比，显示出创新与市场接受度之间的复杂关系。\n\n<hr>\n\n<h2>产业动态与投资观察</h2>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>暗示Google本周将有重大动作：<blockquote>\"对我所有的Google朋友来说这是重要的一周，我可以向你们保证他们一直在酝酿大事。\"</blockquote>\n\n与此同时，<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>对传统金融机构的AI转型持乐观态度，认为专注于降低成本的思路过于狭隘：<blockquote>\"某个可能正在读这条推文的20多岁年轻人将构建出破解性的AI-人类-计算机共生团队，超越整个传统运营模式。\"</blockquote>\n\n<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">投资人Nikunj</a>也提醒求职者注意独角兽公司估值结构的复杂性，建议在加入前进行尽职调查：<blockquote>\"确保你睁大眼睛，使用Claude/ChatGPT对你的股权进行一些退出计算。\"</blockquote>\n\n<hr>\n\n<h2>全球AI采用热潮</h2>\n\n<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>宣布了一个令人印象深刻的里程碑：<blockquote>\"ChatGPT Images 2.0 💚 印度。那里已经创建了超过10亿张图像；看到这一点真是太棒了。\"</blockquote>\n\n这个数字反映了AI工具在全球范围内的快速采用，特别是在新兴市场。<a href=\"https://x.com/sama/status/2056165722804654196\">这一消息</a>获得了超过6800个点赞，显示出社区对这一成就的认可。"
+}
