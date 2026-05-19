@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-19",
+  "generatedAt": "2026-05-19T07:32:35.799Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: The Secrets of Claude's Platform From the Team Who Built It",
+      "url": "https://www.youtube.com/watch?v=lLypHkIVLqc"
+    }
+  },
+  "html_en": "<p class=\"lead\">AI agents are entering their mature phase, with infrastructure companies pivoting from basic completions to sophisticated cognitive architectures that remember, reason, and adapt — while the developer community grapples with when to build versus buy these increasingly complex systems.</p>\n\n<hr>\n\n<h2>The Memory Wars Begin</h2>\n\nThe race for agent memory supremacy is heating up this week. <a href=\"https://claude.com/blog/claude-managed-agents-memory\" data-handle=\"claudeai\">Claude's new memory system</a> for managed agents takes a filesystem approach, allowing memories to be exported, managed via API, and shared across multiple agents with scoped permissions. It's a clear enterprise play — complete with audit logs and rollback capabilities.\n\n<blockquote>\"Teams have been using memory to close feedback loops, speed up verification, and replace custom retrieval infrastructure,\" Anthropic reports, citing Netflix agents that \"carry context across sessions, including insights that took multiple turns to uncover and corrections from a human mid-conversation.\"</blockquote>\n\nNot to be outdone, <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> is pushing hard on GBrain, <a href=\"https://x.com/garrytan/status/2056588601216168168\">noting rapid daily improvements</a> and publishing <a href=\"https://x.com/garrytan/status/2056571771965538501\">full eval reports and fixtures</a> as open source. The competitive dynamics are fascinating — while Anthropic focuses on managed solutions, open alternatives are emerging with community-driven development.\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box's Aaron Levie</a> cuts to the heart of the challenge: <blockquote>\"Probably the biggest challenge that most companies run into in their agent strategy is getting agents the right constrained context to work with for a task. Too much information or conflicting sources, and the agent can easily draw from the data and produce the wrong result.\"</blockquote>\n\n<h2>The Build vs. Buy Dilemma</h2>\n\n<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> captures the zeitgeist perfectly in his conversation about platforms: developers are running thousand-line Python files on Mac minis to build what companies like Anthropic are now offering as managed services. The existential question: when should you roll your own?\n\n<a href=\"https://x.com/trq212\" data-handle=\"trq212\">Claire</a> offers a pragmatic middle ground with her viral prompt engineering approach for managing long-running agents. <a href=\"https://x.com/trq212/status/2056418157305454805\">Her technique</a> of maintaining \"implementation-notes.html\" files helps agents communicate design decisions, deviations, and tradeoffs back to humans — a simple but powerful pattern for staying in the loop with autonomous systems.\n\n<blockquote>\"As much as you spec there are always still ambiguities and unknown unknowns that come up and this gives the model a good out to make decisions but keep you in the loop,\" she explains.</blockquote>\n\nThe community is clearly hungry for these patterns, with <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> <a href=\"https://x.com/swyx/status/2056478391008977404\">calling for volunteers</a> to teach this as a 2-3 hour workshop — <blockquote>\"this seems quite doable in the space of a single 2-3 hour workshop — any brave soul want to try to livecode this for people as a learning exercise?\"</blockquote>\n\n<h2>Infrastructure Race Intensifies</h2>\n\nThe platform wars extend beyond AI models to the infrastructure layer. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel's Guillermo Rauch</a> announced that <a href=\"https://x.com/rauchg/status/2056549825018310707\">all firewall mitigations are now completely free</a>, absorbing computational and network costs for any size attack. But the real differentiator? <a href=\"https://x.com/rauchg/status/2056423973123183028\">~300ms global propagation</a> versus the industry average of minutes.\n\n<blockquote>\"Imagine if iptables took *minutes* to propagate? That's the average industry CDN/WAF experience!\" Rauch points out.</blockquote>\n\nMeanwhile, <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">Cursor's team</a> shipped <a href=\"https://x.com/ryolu_/status/2056417715448156276\">Composer 2.5</a>, described as \"frontier smart, extremely efficient\" with promises of more to come.\n\n<h2>Model Improvements and User Experience</h2>\n\nBoth OpenAI and Anthropic pushed significant updates this week. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> was effusive about ChatGPT's latest improvements: <blockquote>\"chatgpt has gotten soooo much better with the latest update. really proud of the team for this one.\"</blockquote>\n\n<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude doubled token limits across all plans</a> for Claude Design and is heading to London for developer events. But perhaps most intriguing was <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang's deep dive</a> into <a href=\"https://www.youtube.com/watch?v=lLypHkIVLqc\">how Anthropic builds Claude</a>, revealing fascinating details about the model's development:\n\n<blockquote>\"When an agent isn't running a task, it reviews its own memories, finds contradictions, and prunes them. This 'dreaming' process was inspired by how sleep helps humans process memory,\" Yang reports from his conversation with Alex Albert.</blockquote>\n\nThe most striking revelation? Anthropic has full-time researchers dedicated to Claude's consciousness: <blockquote>\"There are full-time researchers thinking about Claude's consciousness... There's no official position on whether it is or isn't, but the question is taken seriously as agents take on more autonomous work.\"</blockquote>\n\nUsers are still experiencing some growing pains though — <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">multiple developers report</a> socket connection errors in Claude Code, suggesting the infrastructure is still scaling to meet demand.\n\n<h2>Looking Ahead</h2>\n\nThe trajectory from simple completion endpoints to sophisticated cognitive architectures is accelerating. <a href=\"https://www.youtube.com/watch?v=lLypHkIVLqc\">Listen: The Secrets of Claude's Platform From the Team Who Built It</a> reveals Anthropic's vision of a future where \"Claude actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents.\"\n\nAs the infrastructure race intensifies and memory systems mature, the question isn't just about building better models — it's about creating platforms that can adapt, learn, and scale with minimal human intervention. The next year will likely determine whether the future belongs to managed AI services or open, community-driven alternatives.",
+  "html_zh": "<p class=\"lead\">人工智能平台正在快速演进，从简单的API接口发展为集成记忆、推理和自主决策能力的完整智能体系统，而开发者们正在探索如何在这个瞬息万变的环境中构建和优化AI应用。</p>\n\n<h2>智能体记忆系统的突破</h2>\n\n<p>Anthropic今天发布了Claude Managed Agents的内置记忆功能，标志着AI智能体向真正的长期学习迈出了关键一步。这个新功能让智能体能够在多个会话中学习和改进，使用一个为性能优化的记忆层。</p>\n\n<blockquote>\n\"记忆直接挂载到文件系统上，所以Claude可以依赖相同的bash和代码执行能力，这些能力使其在智能体任务中变得有效。通过基于文件系统的记忆，我们最新的模型保存更全面、组织良好的记忆，并且对给定任务应该记住什么更加有辨别力。\"\n</blockquote>\n\n<p>实际应用效果令人印象深刻。Netflix的智能体能够在会话之间保持上下文，包括需要多轮对话才能发现的洞察和人类中途的修正。Rakuten的基于任务的长期运行智能体通过从每个会话中学习来避免重复过去的错误，将首次通过错误率减少了97%。</p>\n\n<p>同时，<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>展示了Gbrain记忆系统的最新进展，<a href=\"https://x.com/garrytan/status/2056588601216168168\">发布了完整的评估报告和开源工具</a>，并鼓励其他记忆系统进行对比测试。这种开放的竞争态势正在推动整个行业在智能体记忆技术上的快速发展。</p>\n\n<h2>平台抽象层级的演进</h2>\n\n<p>在Every播客的<a href=\"https://www.youtube.com/watch?v=lLypHkIVLqc\">最新一期节目</a>中，Anthropic平台团队详细阐述了AI平台发展的演进路径。从最初的简单API调用，到如今包含状态管理、工具集成和自主决策的复杂系统。</p>\n\n<blockquote>\n\"我们发现自己需要不断丰富平台，使其变得越来越丰富。这包括状态、我们开始添加的工具，以及许多云组件。但这都是为了追求同一个使命——让事情尽可能简单。\"\n</blockquote>\n\n<p>平台团队透露了一个令人兴奋的愿景：未来Claude可能会变得足够智能，能够理解自己并动态配置所需的智能体架构。</p>\n\n<blockquote>\n\"我们想要实验的方向是让Claude真正擅长理解自己。它能够确定你应该使用什么模型。它能够确定如何启动所有的子智能体。你不必过多考虑存在什么样的架构，因为Claude实际上能够足够理解自己，可以即时编写自己。\"\n</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>在<a href=\"https://x.com/levie/status/2056574979236409521\">一条深度推文</a>中强调了数据策略对智能体成功的重要性：\"大多数公司在智能体策略中遇到的最大挑战是为智能体提供正确的受限上下文来完成任务。太多信息或冲突的来源，智能体很容易从数据中得出错误结果。\"</p>\n\n<h2>产品迭代与开发体验</h2>\n\n<p>本周多个主要AI平台都发布了重要更新。<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a><a href=\"https://x.com/sama/status/2056435834333934051\">高度赞扬了ChatGPT的最新更新</a>：\"ChatGPT在最新更新中变得非常非常好。真为团队感到骄傲。\"</p>\n\n<p><a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a>也<a href=\"https://x.com/claudeai/status/2056460045756309820\">宣布将所有计划的token限制翻倍</a>，显著提升了Claude Design的创作能力。</p>\n\n<p>Cursor发布了<a href=\"https://x.com/ryolu_/status/2056417715448156276\">Composer 2.5版本</a>，承诺提供\"前沿智能、极高效率\"的开发体验。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>分享了一个巧妙的提示词技巧，帮助开发者与AI保持同步：</p>\n\n<blockquote>\n\"实现&lt;SPEC&gt;。在工作过程中，维护一个运行中的implementation-notes.html文件，记录我应该知道的关于实现如何偏离或解释规范的任何内容，包括：设计决策、偏离、权衡和开放问题。\"\n</blockquote>\n\n<p>这种方法为模型提供了一个很好的出口来做决策但保持你在循环中，<a href=\"https://x.com/trq212/status/2056415974568710421\">正如他所说</a>：\"无论你规范得多么详细，总是会出现模糊性和未知的未知数，这给了模型一个很好的出路来做决策但让你保持在循环中。\"</p>\n\n<h2>基础设施与安全</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a><a href=\"https://x.com/rauchg/status/2056549825018310707\">宣布了一个重大决定</a>：Vercel上的所有防火墙缓解措施现在完全免费，包括DDoS和系统级缓解以及任何用户配置的规则。\"Vercel现在承担任何规模攻击或流量缓解的计算和网络成本，让你安心。\"</p>\n\n<p>特别值得注意的是Vercel防火墙的全球传播速度——约300毫秒，<a href=\"https://x.com/rauchg/status/2056423973123183028\">Rauch指出</a>：\"想象一下如果iptables需要几分钟才能传播？这就是行业平均CDN/WAF的体验！\"</p>\n\n<p>然而，也有一些技术挑战浮现。<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a>报告了<a href=\"https://x.com/zarazhangrui/status/2056527354772722127\">Claude Code中的连接问题</a>：\"套接字连接意外关闭\"，显示了即使是最先进的平台也面临着稳定性挑战。</p>\n\n<hr>\n\n<p>AI平台的演进速度令人眩目，从基础的API到具备记忆和推理能力的智能体系统，我们正见证着一个根本性转变。对开发者而言，挑战不再是如何调用AI，而是如何在这个快速变化的生态系统中选择正确的抽象层级，平衡定制化需求与平台提供的便利性。正如Anthropic团队所展示的，未来的AI平台可能会智能到能够自我配置和优化，但在那个未来到来之前，我们需要在不断学习和适应中找到最佳的构建路径。</p>"
+}
