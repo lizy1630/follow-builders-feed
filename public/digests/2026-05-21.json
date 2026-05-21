@@ -1,0 +1,104 @@
+{
+  "date": "2026-05-21",
+  "generatedAt": "2026-05-21T07:36:25.306Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "kevinweil": {
+      "name": "Kevin Weil",
+      "handle": "kevinweil",
+      "bio": "BoD @Cisco @nature_org\nLTC @USArmyReserve\nEx CPO+Science @OpenAI, Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "twitter": "https://x.com/kevinweil"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Inside Stainless: The Developer Tools Startup Anthropic Just Bought for $300 Million",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry continues its relentless march toward enterprise integration, with infrastructure players securing massive valuations and Google making AI creativity tools broadly available. Meanwhile, a historic milestone in mathematical reasoning signals we're approaching a new frontier where AI doesn't just assist human knowledge work—it advances it.</p>\n\n<h2>The Infrastructure Gold Rush</h2>\n\nThe AI infrastructure layer is experiencing a consolidation moment that speaks to the massive value being created in the plumbing of the AI economy. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> revealed that <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Anthropic acquired developer tools startup Stainless for a reported $300 million</a>, whose biggest customers included OpenAI and Google.\n\nThe acquisition underscores the critical importance of Model Context Protocol (MCP) servers—the connective tissue allowing AI agents to interact with existing business systems. As Stainless CEO <a href=\"https://x.com/RattrayAlex\" data-handle=\"rattrayalex\">Alex Rattray</a> explained in a recent podcast:\n\n<blockquote>\"APIs are the dendrites of the Internet. Dendrites are where your neurons connect and actually exchange information with each other... if all these servers in the cloud aren't talking to each other, wouldn't have internet, right?\"</blockquote>\n\nThe enterprise appetite for reliable AI search infrastructure is equally voracious. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> shared that his team conducted <a href=\"https://x.com/swyx/status/2057180080078791036\">\"a bake off of Exa vs competitors and it took all of 1.5 hrs for the team to unanimously converge on exa.\"</a> <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> was even more emphatic, declaring:\n\n<blockquote>\"Exa is what I trust for all my agents. We use it at YC. We use it in all my OpenClaw and Hermes Agents. There is no other option that is as fast, as reliable, and as complete.\"</blockquote>\n\n<h2>AI Mathematics Breakthrough Signals New Research Frontier</h2>\n\nPerhaps the most significant development came from OpenAI, where <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> announced that <a href=\"https://x.com/sama/status/2057203171198636251\">\"a general-purpose model solved a major open problem in mathematics.\"</a> This achievement represents more than just another benchmark—it suggests we're entering an era where AI actively advances human knowledge rather than simply processing it.\n\n<blockquote>\"We'll be saying this a lot over the coming years, but this is a kinda big milestone. I'm very excited for AI to greatly extend our understanding of the world, but still, I have complicated feelings today.\"</blockquote>\n\nAltman's mixed emotions capture the profound implications of this moment. When AI systems begin solving problems that have stumped human mathematicians, we're witnessing the emergence of AI as a research collaborator rather than just a productivity tool.\n\n<h2>The Creator Economy Gets AI Superpowers</h2>\n\nGoogle made a significant play for the creative AI market by <a href=\"https://x.com/GoogleLabs/status/2057179491693470166\">making Project Genie available to all Google AI Ultra subscribers globally</a>. The game creation tool represents a new category of AI-native creativity platforms, as <a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">Google Labs</a> demonstrated:\n\n<blockquote>\"From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest.\"</blockquote>\n\nThis democratization of game development mirrors broader trends in AI-powered creativity tools. Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> highlighted Vercel's AI integration, noting it will <a href=\"https://x.com/rauchg/status/2057212335811620987\">\"bring AI to 42% of the web. Every model, every provider, every modality (text, image, video, audio).\"</a>\n\n<h2>The Rise of AI-Native Work Patterns</h2>\n\nAs AI capabilities expand, the nature of work itself is evolving. <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> offered a nuanced take on why Field Deployment Engineers (FDEs) represent a permanent new job category:\n\n<blockquote>\"With agents, the work to implement them is not only highly technical, but they directly impact the underlying workflows that people participate in. This means there's a ton of technical work and change management that comes with it.\"</blockquote>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> captured the organizational implications beautifully:\n\n<blockquote>\"I think that in an AI-native team, ICs should start thinking like managers: how to delegate tasks to agents, how to set standards & verify output. Managers should start thinking like ICs: how to be more hands-on builders instead of just doing people management.\"</blockquote>\n\n<hr>\n\nLooking across today's developments, we see an industry maturing rapidly from experimental to essential. Whether it's infrastructure consolidation, mathematical breakthroughs, or new creative tools reaching mass market, AI is moving from promise to performance. The companies and professionals adapting to these AI-native work patterns today will define tomorrow's competitive landscape.",
+  "html_zh": "<p class=\"lead\">今日，人工智能在数学领域实现了里程碑式突破，同时创业生态系统见证了价值数亿美元的收购交易，显示出AI原生基础设施的巨大价值。</p>\n\n<h2>数学史上的AI时刻</h2>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>宣布了一个令人震撼的消息：OpenAI的通用模型解决了数学领域的一个重大开放问题——单位距离问题。</p>\n\n<blockquote>\n一个通用模型解决了数学中的一个重大开放问题。未来几年我们会经常说这样的话，但这确实是一个重要的里程碑。我对AI大大扩展我们对世界理解的前景感到兴奋，但今天的感受很复杂。\n</blockquote>\n\n<p><a href=\"https://x.com/kevinweil\" data-handle=\"kevinweil\">Kevin Weil</a>也强调了这一成就的重要性，称其为<a href=\"https://x.com/kevinweil/status/2057206749552066805\">\"AI与数学领域又一个历史性突破\"</a>。这标志着我们正进入一个AI系统能够在最纯粹的抽象推理领域取得突破的时代。</p>\n\n<h2>亿万美元的基础设施竞赛</h2>\n\n<p>在AI基础设施赛道上，Anthropic刚刚以3亿美元的报价收购了开发者工具初创公司<a href=\"https://x.com/StainlessAPI\" data-handle=\"stainlessapi\">Stainless API</a>。这家公司的最大客户包括OpenAI和Google，专门为AI原生应用构建API和SDK。</p>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>在最新的播客访谈中深入探讨了这次收购的意义。<a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">观看播客：《Inside Stainless: The Developer Tools Startup Anthropic Just Bought for $300 Million》</a></p>\n\n<blockquote>\nStainless CEO Alex Rattray在访谈中详细解释了MCP（模型上下文协议）的设计原则：保持工具集精简，为每个工具提供准确的名称和描述，最小化模型需要处理的输入和输出。\n</blockquote>\n\n<p>与此同时，搜索基础设施公司Exa也获得了高度认可。<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>表示：</p>\n\n<blockquote>\nExa是我所有AI代理的首选。我们在YC使用它，在我所有的OpenClaw和Hermes代理中都使用它。没有其他选择能像它一样快速、可靠和完整。\n</blockquote>\n\n<h2>AI原生工作流的演进</h2>\n\n<p>Google在I/O大会上宣布<a href=\"https://x.com/GoogleLabs/status/2057179491693470166\">Project Genie正式向所有Google AI Ultra订阅用户开放</a>，这个工具可以让用户在几分钟内从游戏玩家变成游戏设计师。同时，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>透露一项新技术将<a href=\"https://x.com/rauchg/status/2057212335811620987\">\"为42%的网站带来AI功能，支持所有模型、所有提供商、所有模态（文本、图像、视频、音频）\"</a>。</p>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>对AI时代的工作模式提出了深刻见解：</p>\n\n<blockquote>\n在AI原生团队中，个人贡献者应该开始像管理者一样思考：如何将任务委派给AI代理，如何设定标准和验证输出。而管理者应该开始像个人贡献者一样思考：如何成为更实际的建设者，而不仅仅是做人员管理。\n</blockquote>\n\n<h2>新兴职业类别：现场部署工程师</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>对现场部署工程师（FDE）这一新兴职业进行了深入分析，解释了为什么这个职位在AI快速变化的时代将长期存在：</p>\n\n<blockquote>\nAI代理的实施不仅技术要求高，还直接影响人们参与的底层工作流。这意味着需要大量的技术工作和变更管理。此外，云计算的变化速度远没有这么快，因此有更多时间让最佳实践传播。现在，每次模型变更都意味着要么可以做以前不可能的事情，要么某些支撑结构现在变得冗余或阻碍进展。\n</blockquote>\n\n<p>这种职业的兴起反映了AI技术快速发展对企业组织结构产生的深远影响。</p>\n\n<hr>\n\n<p>今天的新闻显示，我们正处在AI技术发展的关键转折点。从数学突破到基础设施整合，从新的工作模式到职业类别的重新定义，AI正在重塑我们工作和思考的方式。正如<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>所说，我们将在未来几年频繁听到\"通用模型解决重大问题\"这样的消息——而这仅仅是开始。</p>"
+}
