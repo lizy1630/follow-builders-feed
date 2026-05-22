@@ -1,0 +1,104 @@
+{
+  "date": "2026-05-22",
+  "generatedAt": "2026-05-22T07:32:48.084Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real",
+      "url": "https://www.youtube.com/watch?v=DhD1zZ8w8Mw"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI development landscape accelerated dramatically this week as foundation models reached new levels of reliability and practical utility, prompting a fundamental shift from competition-based training to real-world application deployment.</p>\n\n<h2>The Reliability Revolution: When AI Gets Serious</h2>\n\n<p>The most significant development this week wasn't a flashy new model release, but rather the quiet crossing of a critical threshold in AI reliability. <a href=\"https://x.com/yanndubs\" data-handle=\"yanndubs\">Yann Dubois</a>, who co-leads OpenAI's post-training Frontiers team, articulated what many developers are now experiencing firsthand in a revealing conversation with <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a>.</p>\n\n<blockquote>\"You need to reach this level of reliability to really make any of these AI tools very useful, and I think we just crossed that probably December last year, at least at OpenAI. Now we can trust these models to do a lot of the work that we are doing.\"</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=DhD1zZ8w8Mw\">OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real</a></p>\n\n<p>This reliability milestone explains why <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman's</a> announcement that <a href=\"https://x.com/sama/status/2057559714788258003\">\"new codex ships today!\"</a> generated such excitement across the developer community. The breakthrough isn't just about raw capability—it's about trust. As Dubois explained, even though progress feels like a step function, <strong>\"in terms of capability, it's pretty continuous.\"</strong> The difference is that we've finally reached the point where AI tools can be relied upon for serious work.</p>\n\n<h2>From Competition to Production: The RL Evolution</h2>\n\n<p>The shift from demonstration to deployment is particularly evident in reinforcement learning applications. Dubois revealed a crucial transition happening at the frontier labs:</p>\n\n<blockquote>\"We moved from like competitions to usefulness to users and that's what we are feeling right now. Initially, when we had like o1, o1 preview, even o3, these models were still optimized for what we call verifiable rewards... And what I think we are realizing now is that we were able to take many of the tools that we built for these verifiable reward cases, and we were able to use them more generally for reinforcement learning on real use cases.\"</blockquote>\n\n<p>This evolution is reflected in practical tools like Anthropic's new <a href=\"https://www.anthropic.com/engineering/claude-code-auto-mode\">Claude Code auto mode</a>, which addresses a fundamental challenge in AI deployment: the balance between autonomy and safety. Rather than forcing users to approve every action (leading to \"approval fatigue\") or running completely unchecked, the system uses model-based classifiers to automatically approve safe actions while flagging potentially dangerous ones.</p>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> showcased this shift toward practical integration with her <a href=\"https://x.com/zarazhangrui/status/2057710284920520906\">Claude Code Lark/Feishu Bridge</a>, demonstrating how AI coding assistants are moving beyond terminal applications into collaborative workplace environments.</p>\n\n<h2>The Economics of AI Stratification</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> provided perhaps the most insightful analysis of where the AI market is heading, describing a fundamental shift in cost structures and capabilities:</p>\n\n<blockquote>\"What's happened is that we went from AI chat tools that were relatively cheap and had small context windows, to AI agents that have giant context windows, the ability to keep track of longer running work, and models that cost an order of magnitude more on inference because they're that much better.\"</blockquote>\n\n<p><a href=\"https://x.com/levie/status/2057663408376516703\">Levie's thread</a> highlighted that rather than converging on a single low price point, <strong>\"the stratification is only widening based on the task you need performed.\"</strong> This creates new challenges for enterprise adoption, requiring sophisticated cost optimization strategies and new financial planning frameworks.</p>\n\n<p>The implications extend beyond pricing. As Levie noted, enterprises will need \"new finance teams, and technology solutions to manage this all,\" while platforms that can help customers optimize costs for specific tasks will gain competitive advantages.</p>\n\n<h2>Building in the New Reality</h2>\n\n<p>The startup ecosystem is adapting quickly to these new realities. <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> offered a particularly stark assessment of early-stage hiring in this environment:</p>\n\n<blockquote>\"If an engineer is trying to pick between a pre Series-B company and a BigCo/BigLab --> stop talking to them immediately. They are clearly not ready for a startup... If someone isn't willing to take a 70% cash paycut (relative to BigCo/BigLab) --> stop talking to them immediately.\"</blockquote>\n\n<p><a href=\"https://x.com/adityaag/status/2057502381038846306\">Agarwal's thread</a> reflected the intensity required to compete in the current AI landscape, where as he put it, <strong>\"Startups have zero work-life balance.\"</strong></p>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> offered a more optimistic perspective on tooling, suggesting that <a href=\"https://x.com/swyx/status/2057576893621150020\">\"this stack has won the localfirst battle\"</a> for developers building \"fast apps fast.\" Meanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> announced Replit's approach to monetization, noting they're <a href=\"https://x.com/amasad/status/2057504360217891018\">\"always excited to talk to customers but you shouldn't be forced to talk to us to buy the product\"</a>—a refreshing stance on product accessibility.</p>\n\n<hr>\n\n<p>The week's developments suggest we're witnessing not just technological progress, but a fundamental shift in how AI systems are deployed and integrated into real workflows. The move from showcase competitions to production reliability marks a new phase in AI adoption—one where the focus shifts from impressive demonstrations to sustainable, trustworthy systems that can handle the messy complexity of real-world tasks.</p>\n\n<p>As Dubois concluded in his conversation, <strong>\"Most of the time the [action] is the last mile. There will always be a lot of space left for this last mile in different verticals.\"</strong> The opportunity for builders now lies not in competing with frontier labs on core capabilities, but in solving the specific integration challenges that make AI useful in particular domains and workflows.</p>",
+  "html_zh": "<p class=\"lead\">人工智能进展突然变得真实起来——从实验性演示转向真正的生产力工具，这种转变正在重新定义软件开发的未来。</p>\n\n<h2>可靠性的突破：AI从炫技走向实用</h2>\n\n<p><a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a>与<a href=\"https://x.com/yanndubs\" data-handle=\"yanndubs\">OpenAI的Yann Dubois</a>的深度对话揭示了AI发展的关键转折点。<strong>可靠性</strong>成为了这场革命的核心。</p>\n\n<blockquote>\n\"你需要达到这种可靠性水平，才能让这些AI工具真正有用，我认为我们刚刚跨过了这个门槛，至少在OpenAI是这样，大概在去年12月。现在我们可以信任这些模型来完成我们正在做的大量工作。\"\n</blockquote>\n\n<p>这种可靠性的提升不仅仅是工程优化，更是一种范式转变。正如Dubois所言，虽然能力进步实际上是连续的，但当可靠性达到临界点时，感觉上就像是一个阶跃函数。<a href=\"https://www.youtube.com/watch?v=DhD1zZ8w8Mw\">观看/收听：OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real</a></p>\n\n<hr>\n\n<h2>从竞赛到现实：强化学习的新边界</h2>\n\n<p>最令人兴奋的发展是AI从\"可验证奖励\"任务（如数学竞赛和编程竞赛）扩展到现实世界的复杂应用。Dubois描述了这个转变：</p>\n\n<blockquote>\n\"我们能够将为这些可验证奖励案例构建的许多工具，更广泛地用于现实用例的强化学习。这就是为什么我们现在在真实世界的编程中感受到这种变化，而不仅仅是竞赛。我们从竞赛转向了实用性，再转向用户。\"\n</blockquote>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>也通过简单的推文确认了这一进展，<a href=\"https://x.com/sama/status/2057559714788258003\">宣布新的Codex今天发布</a>，获得了超过2500个点赞。</p>\n\n<hr>\n\n<h2>安全与自主的平衡：Claude Code的自动模式</h2>\n\n<p>Anthropic发布了<a href=\"https://www.anthropic.com/engineering/claude-code-auto-mode\">Claude Code自动模式</a>，这是在代理自主性和安全性之间找到平衡的创新尝试。传统的权限系统存在\"审批疲劳\"问题——用户最终会无意识地批准93%的权限请求。</p>\n\n<p>新的自动模式使用基于模型的分类器来委托审批，在两个层面提供防护：输入层扫描工具输出以防止提示注入，输出层评估每个动作是否符合用户意图。这种设计既避免了手动审批的繁琐，又提供了必要的安全保护。</p>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>展示了另一种创新方法，<a href=\"https://x.com/zarazhangrui/status/2057710284920520906\">推出了Claude Code Lark/Feishu桥接工具</a>：</p>\n\n<blockquote>\n\"在Lark/Feishu中像同事一样与Claude Code对话，通过Lark聊天在手机上使用Claude Code，将多个CC会话作为Lark中的群聊管理\"\n</blockquote>\n\n<hr>\n\n<h2>开发者工具的演进</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a>对本地优先开发栈表达了强烈信心，<a href=\"https://x.com/swyx/status/2057576893621150020\">认为\"这个技术栈已经赢得了localfirst的战斗\"</a>，如果你要快速构建快速应用，这就是答案。</p>\n\n<p>与此同时，<a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">Ryolu</a>强调了协作的重要性，<a href=\"https://x.com/ryolu_/status/2057500107235557675\">提醒我们\"构建软件与团队一起更有趣\"</a>，并邀请开发者尝试他们的新模型、界面、SDK和自动化工具。</p>\n\n<hr>\n\n<h2>AI经济学的新现实</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>对AI成本结构的深刻分析值得关注。他指出AI工具已经从\"相对便宜、小上下文窗口的聊天工具\"演进到\"拥有巨大上下文窗口、能够跟踪长期工作的AI代理\"，推理成本因能力大幅提升而增加了一个数量级。</p>\n\n<blockquote>\n\"这种复合增长远快于大多数人的预期，现在流入的资金更加真实。接下来是AI能力的持续进步，将继续被任何有前沿用例的人使用，然后任务将分流到足够胜任工作的低成本模型。\"\n</blockquote>\n\n<p>这种成本分层预示着企业需要建立新的项目、财务团队和技术解决方案来管理这一切。能够确保客户根据任务优化定价的实验室和平台将处于最有利的位置。</p>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>也直接询问社区，<a href=\"https://x.com/sama/status/2057614780727480741\">\"你最希望AI在未来解决什么问题？也许我们能帮上忙！\"</a>这条推文获得了超过7400个点赞，显示了公众对AI未来应用的巨大兴趣。</p>"
+}
