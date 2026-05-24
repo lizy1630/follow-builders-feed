@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-24T07:25:51.477Z",
+  "builders": {
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: The Story Behind Cerebras’ $63 Billion IPO with Founder and CEO Andrew Feldman",
+      "url": "https://www.youtube.com/watch?v=jeop9wfb9jU"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is reaching an inflection point where speed trumps novelty, as demonstrated by Cerebras' $63 billion public debut and a wave of builders showcasing increasingly sophisticated applications powered by next-generation tools.</p>\n\n<h2>The Need for Speed Revolution</h2>\n\nThe most compelling story emerging from today's conversations centers on how AI utility has crossed a critical threshold. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Andrew Feldman</a>, CEO of Cerebras, crystallized this shift perfectly in his appearance on No Priors podcast:\n\n<blockquote>\"Right now, we're the fastest at inference, not by a little bit, but by a lot. Fifteen, eighteen, 20x faster than GPUs... Speed became fundamentally important, and we were just crushed with demand.\"</blockquote>\n\nThe timing insight is crucial. As Feldman explains, <blockquote>\"we were fast when AI was a novelty. And when it's a novelty, nobody cares that you're fast because it's not being used. And once you use something every day in your work, it can't be slow.\"</blockquote> <a href=\"https://www.youtube.com/watch?v=jeop9wfb9jU\">Watch: The Story Behind Cerebras' $63 Billion IPO</a>\n\nThis mirrors the broader infrastructure evolution we're witnessing. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> highlighted progress in fine-tuning accessibility, noting how he <a href=\"https://x.com/garrytan/status/2058378310254793013\">\"fine tuned my own Qwen3.5-397B model this afternoon\"</a> using Thinking Machines in just a couple hours.\n\n<h2>The Productivity Explosion</h2>\n\nDevelopers are experiencing unprecedented velocity with AI-assisted tools. <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> shared a striking testimonial about Replit: <blockquote>\"I built my first three apps using Cursor and thought that was fast, but trying Replit for Dial completely blew me away. I built the MVP over a single weekend, and it actually got approved by Apple on the very first try—which has never happened to me before.\"</blockquote>\n\nMeanwhile, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> demonstrated the new sophistication in AI coding assistants, suggesting developers <a href=\"https://x.com/steipete/status/2058308112134635528\">\"Tell codex to maintain a scratch-log while it works on bigger refactors with decisions it had to make, tradeoffs, review fixes, so later on you can read through which tradeoffs the agent made.\"</a>\n\nThe infrastructure automation is equally impressive. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> captured this beautifully, noting how <a href=\"https://x.com/trq212/status/2058377974882210096\">\"every now and then I remember you can run the 'please save me money' prompt and it will actually work\"</a> when managing legacy systems.\n\n<hr>\n\n<h2>The Great Job Transformation Debate</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> offered perhaps the most nuanced take on AI's employment impact, arguing against simplistic job displacement fears:\n\n<blockquote>\"We are constantly making the mistake of confusing task completion with AI with being able to eliminate the whole job. Even as we can automate one or many tasks within a job, the definition of the job almost inevitably just expands to do vastly more of those tasks, do them at a higher quality, or move on to the type of task that hasn't been automated yet.\"</blockquote>\n\nHis vision is expansion rather than replacement: <blockquote>\"The small business or non-tech company that wants to now take on larger software projects finally can, and they'll hire to do so. The small business that couldn't afford a full marketing agency can hire or contract out to a marketer that can do as much as an agency did before now with agents.\"</blockquote>\n\n<h2>The Cambrian Explosion of AI Applications</h2>\n\n<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> crowdsourced a fascinating snapshot of the current AI landscape, <a href=\"https://x.com/rauchg/status/2058245330836271263\">asking builders to \"Show me the thing you've built with AI you're most proud of.\"</a> After processing 1400 replies, he found that <a href=\"https://x.com/rauchg/status/2058353051073970416\">\"OpenAI is catching up to Anthropic\" though \"by model mentions, [Anthropic] is mogging.\"</a>\n\nThe breadth of applications continues to astound. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> built <a href=\"https://x.com/steipete/status/2058381186884411473\">a GitHub dashboard</a> he'd \"always wanted,\" while <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> reflected on <a href=\"https://x.com/nikunj/status/2058203594672021769\">the importance of narrative and positioning</a> for B2B AI companies to \"stand out amongst the slop.\"\n\nThe pace of change feels almost surreal. <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> captured this temporal whiplash perfectly: <a href=\"https://x.com/adityaag/status/2058233900464238801\">\"Can you imagine that we lived in a world 6 months ago when we would mostly just chat with LLMs and would be so happy about AI?? It's May 2026 and these LLMs now have produced more code than we have written over all time.\"</a>\n\nAs Feldman concluded about speed's transformative power: <blockquote>\"Netflix used to deliver DVDs and envelopes. And when the Internet got fast, they became a movie studio. Right? It opened up an entirely new business, something fundamentally different. That's what happens with speed.\"</blockquote>",
+  "html_zh": "<p class=\"lead\">就在AI从新奇玩具转变为日常工具的关键时刻，速度已经成为新的竞争战场——而那些最早押注于此的公司正在收获巨大回报。</p>\n\n<h2>**速度革命：从新奇到必需**</h2>\n\n<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>最新的AI基准测试清楚地展示了这一转变。他的gbrain-evals显示，<a href=\"https://t.co/yRWm72QEgf\">gbrain在重排序和嵌入成本、速度以及检索成功率方面达到了SOTA水平</a>，在LongMemEval上比MemPalace高出1%，比Vector RAG高出38%。\n\n但真正的洞察来自Cerebras首席执行官Andrew Feldman在No Priors播客中的深刻观察。<a href=\"https://www.youtube.com/watch?v=jeop9wfb9jU\">观看/收听：The Story Behind Cerebras' $63 Billion IPO</a>中，他解释了为什么速度突然变得如此关键：\n\n<blockquote>\"从大约2023年到2025年初，人们会谈论AI，但没有人每天在工作中使用它。一旦你每天在工作中使用某样东西，它就不能慢。我的意思是，你们会等多久让一个网站解析？\"</blockquote>\n\nFeldman继续强调这个转变的规模：<blockquote>\"慢推理的市场有多大？是零。就像慢搜索的市场一样，就像拨号上网的市场一样。\"</blockquote>\n\n这个转变在2025年达到临界点，当时AI模型\"变得足够聪明以至于有用\"，导致Cerebras的推理需求激增——他们现在比GPU快15-20倍。\n\n<h2>**成本优化的AI革命**</h2>\n\n企业家们正在发现AI不仅能提高生产力，还能显著降低运营成本。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>分享了一个引人入胜的例子，他为旧创业公司@OMMultiverse清理遗留服务：\n\n<blockquote>\"我们有一个庞大的遗留代码库和一个仍在使用它的社区，但我自己没有时间实际研究成本节约措施\"</blockquote>\n\n他的解决方案？简单地运行\"请帮我省钱\"提示。<a href=\"https://x.com/trq212/status/2058377974882210096\">正如他指出的</a>：<blockquote>\"时不时地我记起你可以运行'请帮我省钱'提示，它真的会起作用\"</blockquote>\n\n这种实用方法反映了AI工具日益增长的复杂性和实用性，企业家们发现它们不仅用于构建新功能，还用于优化现有运营。\n\n<h2>**开发速度的新标准**</h2>\n\n开发人员正在重新定义\"快速原型制作\"的含义。<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>分享了一位开发者的经历，<a href=\"https://x.com/amasad/status/2058418731840159953\">他说</a>：\n\n<blockquote>\"我用Cursor构建了前三个应用程序，觉得速度很快，但尝试用Replit做Dial完全震撼了我。我在一个周末就构建了MVP，而且苹果第一次就批准了——这以前从来没有发生过。\"</blockquote>\n\n这种加速不仅仅是轶事。<a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a>提供了一个引人深思的视角：\n\n<blockquote>\"你能想象我们生活在6个月前（2025年11月）的世界吗，当时我们大多只是与LLM聊天，对AI如此满意？现在是2026年5月，这些LLM现在产生的代码比我们有史以来编写的还要多。\"</blockquote>\n\n开发者们也在完善他们使用AI工具的方法。<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Ceriu</a>分享了一个聪明的技巧：<a href=\"https://x.com/steipete/status/2058308112134635528\">\"告诉codex在进行更大重构时维护一个草稿日志，记录它必须做出的决策、权衡、审查修复，这样以后你就可以阅读代理做出了哪些权衡，你忘记指定什么等等。\"</a>\n\n<h2>**工作变革，而非工作消失**</h2>\n\n尽管有关AI取代工作的担忧，<a href=\"https://x.com/levie\" data-handle=\"levie\">Box首席执行官Aaron Levie</a>提供了一个更细致的观点：\n\n<blockquote>\"我们不断犯错，将用AI完成任务与能够消除整个工作混为一谈。即使我们可以自动化工作中的一个或多个任务，工作的定义几乎不可避免地会扩展，以做更多这些任务，以更高质量做它们，或者转向尚未自动化的任务类型。\"</blockquote>\n\nLevie继续解释这种转变的经济影响：<blockquote>\"无法承担全面营销机构费用的小企业现在可以雇佣或外包给一位能够用代理完成以前机构工作的营销人员。\"</blockquote>\n\n<hr>\n\n当AI从实验室转向生产，从演示转向日常工具时，成功的标准正在快速演变。速度、成本效率和实际实用性现在比原始能力更重要——这对那些早期专注于这些指标的公司来说是一个福音。"
+}
