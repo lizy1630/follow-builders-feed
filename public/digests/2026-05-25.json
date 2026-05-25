@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-25T07:55:59.650Z",
+  "builders": {
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Product Leader at Google - Gemini, Veo, Nano Banana. All opinions mine.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, &amp; Why Hinton is Wrong",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">CEOs are playing with AI like kids with new toys, but the smartest builders are getting their hands dirty to understand the real work still required. Meanwhile, the technical frontier is quietly shifting from language manipulation toward something more fundamental.</p>\n\n<h2>The CEO Problem: Arms-Length AI Leadership</h2>\n\nA fascinating thread emerged around executive-level AI adoption, with <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> delivering perhaps the most insightful critique of boardroom AI enthusiasm we've seen yet:\n\n<blockquote>\"CEOs are uniquely prone to AI psychosis because they're sufficiently distant from the last mile of work that still has to happen to generate most value with AI... The best thing you can do as a CEO is to use AI a *ton* to figure out the real implications of agents in the enterprise, and come out the other side with an appreciation for both the upside and the real work that goes into them.\"</blockquote>\n\nThis resonated with <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">Madhu Muthukumar</a>, who observed how <a href=\"https://x.com/realmadhuguru/status/2058591611245011157\">arms-length leadership creates a dangerous feedback loop</a>: \"CEOs feel AI FOMO... So they set sweeping, imprecise AI mandates for their company. This leads to performative, low-effort demos from employees trying to meet the coarse goals.\"\n\nThe contrast couldn't be starker with hands-on founders. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> shared insights from his latest podcast with Ryan Carson, who raised $2M but isn't hiring anyone yet. Instead, he's <a href=\"https://x.com/petergyang/status/2058609058714968194\">building with AI agents</a>: \"As a startup founder, you want to understand every job and do it and feel the pain before you hire. The reality is that an agent is a lot faster to onboard and they retain all the training.\"\n\nCarson's approach is methodical: using OpenClaw as his AI chief of staff, Codex and Devin as his engineering team, all while following the principle to <a href=\"https://x.com/petergyang/status/2058555226479866312\">\"treat your agent like a real employee. Give it a real email address, calendar access, and GitHub account.\"</a>\n\n<h2>Beyond Language: The Real World Problem</h2>\n\nWhile executives debate AI strategy, <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Yann LeCun</a> is quietly working on something more fundamental. In a revealing new podcast appearance, the AI godfather laid out his technical thesis with characteristic directness:\n\n<blockquote>\"There's nothing wrong with LLMs... They're just not a path towards human level or human like intelligence or even animal like intelligence... Language is very special in a way, and it's particularly well suited for the type of architectures that have been so successful recently. But what about the real world? What about understanding the physical world? Turns out reality is way more complicated than language because it's high dimensional. It's continuous. It's noisy. It's messy.\"</blockquote>\n\nWatch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Yann LeCun on Leaving Meta, Breaking The LLM Paradigm</a>\n\nLeCun's new company Ami (Advanced Machine Intelligence) represents his bet that the field needs to move beyond language manipulation toward genuine world models. His departure from Meta wasn't just about research direction—it was about the fundamental tension between exploratory research and product-focused engineering that's reshaping the industry.\n\n<h2>The Reverse Engineering Revolution</h2>\n\nWhile the research community debates architectures, builders are finding creative workarounds. <a href=\"https://x.com/nikunj\" data-handle=\"Nikunj</a> described an ingenious approach to automation that sidesteps traditional API limitations:\n\n<blockquote>\"Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automate tasks... I just point Claude Code to use browser_harness and ask it to sniff network requests on the pages that I'm trying to get info on... Claude Code is generally able to go through the logs to figure out what is the right structure for these APIs.\"</blockquote>\n\nThis technique points toward a future where <a href=\"https://x.com/nikunj/status/2058783316753686558\">\"every website will soon need to be headless, and we'll need to figure out mechanisms for how we have our agents pay these websites programmatically.\"</a> It's practical AI that works around today's limitations rather than waiting for tomorrow's breakthroughs.\n\n<h2>The New Paradigm Emerges</h2>\n\nPerhaps the most telling insight came from <a href=\"https://x.com/trq212\" data-handle=\"trq212\">Jarred Sumner</a>, reflecting on the Bun rewrite project: <a href=\"https://x.com/trq212/status/2058576195000660319\">\"My main takeaway from the Bun rewrite is that legacy codebases will be incredibly valuable as a source for 'distilling' code into new forms.\"</a>\n\nThis observation hints at a fundamental shift in how we think about software development. Instead of building from scratch, we're entering an era where AI can transform and modernize existing systems at scale. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> captured the zeitgeist perfectly: <a href=\"https://x.com/garrytan/status/2058769355916411099\">\"High agency high taste is the unlock these days.\"</a>\n\nThe message is clear: while executives get distracted by AI theater, the real builders are quietly laying the foundation for a more fundamental transformation. Whether it's Carson's methodical agent onboarding, LeCun's world models, or Sumner's code distillation insights, the next wave of AI progress is coming from those willing to get their hands dirty with the messy realities of making these systems actually work.\n\n<hr>\n\nThe industry is at an inflection point. Those who understand both the potential and the limitations—who can navigate between AI hype and AI reality—are building the tools that will define the next decade.",
+  "html_zh": "<p class=\"lead\">当所有人都在追逐大语言模型的浪潮时，AI界的传奇人物们却在思考一个更深层的问题：真正的智能机器应该如何构建？今天的讨论聚焦于领导力、架构选择以及AI在现实世界中的真实应用。</p>\n\n<h2>📊 CEO的AI迷思：距离产生错觉</h2>\n\n今天最引人深思的观察来自Box的CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>，他精准诊断了当前企业高层面临的AI认知偏差：\n\n<blockquote>\"CEO们特别容易患上AI幻想症，因为他们与仍需完成的最后一英里工作足够远距离。当他们把玩AI时，看到的是快乐路径的结果，往往没有考虑接下来需要发生的10或20件事情才能从智能体获得可持续的结果。\"</blockquote>\n\n<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a>的观察与此呼应：<a href=\"https://x.com/realmadhuguru/status/2058591611245011157\">\"CEO们感受到AI FOMO，但他们中的许多人及其副手已经习惯了远程领导，缺乏亲自动手使用AI的能力。于是他们为公司制定了全面而模糊的AI指令。这导致员工试图满足粗糙目标时进行表演性的、低投入的演示。\"</a>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Levie</a>的建议很直接：<a href=\"https://x.com/levie/status/2058582370253701432\">\"作为CEO，你能做的最好的事情就是大量使用AI来弄清楚智能体在企业中的真实含义，并在另一端带着对上行潜力和投入其中的真实工作的欣赏而出来。\"</a>\n\n<h2>🤖 一人创业的新模式：AI智能体作为员工</h2>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>分享了一个令人着迷的案例研究，展示了创业者如何利用AI智能体构建完整的运营团队。在与Ryan Carson的对话中，我们看到了一个<a href=\"https://x.com/petergyang/status/2058555226479866312\">\"独自运营的创业公司\"的具体实践</a>：\n\n<blockquote>\"OpenClaw作为他的AI首席员工来筛选邮件、预定会议和进行销售推广。Codex和Devin作为他的AI工程团队，在他睡觉时发布功能。\"</blockquote>\n\nRyan的建议颇具实用性：\n\n<blockquote>\"在前期花大量时间设置你的技能和文档。然后你突然解锁了10个人的工作量。\"</blockquote>\n\n<blockquote>\"像对待真正的员工一样对待你的智能体。给它一个真实的邮箱地址、日历访问权限和GitHub账户。\"</blockquote>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter</a>还分享了一个发人深省的观点：<a href=\"https://x.com/petergyang/status/2058609058714968194\">\"作为创业创始人，你希望在雇佣之前了解每一个工作并亲自做一遍，感受痛苦。现实是智能体上手速度更快，它们保留所有培训，所以你可以随时改进它。\"</a>\n\n观看完整讨论：<a href=\"https://t.co/Slc5cEkFGQ\">Peter Yang与Ryan Carson的播客</a>\n\n<h2>🏗️ 重新思考AI架构：LLM之外的道路</h2>\n\n在今天最重要的深度访谈中，AI教父级人物<a href=\"https://x.com/yanndubs\" data-handle=\"yanndubs\">Yann LeCun</a>在<a href=\"https://www.youtube.com/@RedpointAI\">Unsupervised Learning播客</a>上阐述了他对当前AI发展方向的根本性质疑。LeCun的观点既认可了LLM的价值，又明确指出了其局限性：\n\n<blockquote>\"LLM没有任何问题...它们是许多非常有用的AI产品的基础，包括我在内的所有人都在使用。它们在自己的领域内很棒。它们只是不是通往人类水平或类人智能甚至动物般智能的路径。\"</blockquote>\n\n他解释了为什么选择离开Meta创立AMI（先进机器智能）公司：\n\n<blockquote>\"语言在某种意义上非常特殊，特别适合最近非常成功的架构类型，即大语言模型、GPT风格的架构。但现实世界怎么办？理解物理世界怎么办？事实证明，现实比语言复杂得多，因为它是高维的、连续的、有噪声的、混乱的。\"</blockquote>\n\n与此相呼应，来自OpenAI的<a href=\"https://x.com/yanndubs\" data-handle=\"yanndubs\">@yanndubs</a>提出了一个有趣的观点，<a href=\"https://x.com/mattturck/status/2058659995311358332\">被Matt Turck引用</a>：\n\n<blockquote>\"我认为如果我们冻结现在拥有的模型，你真正在发挥其潜力上下功夫，也许我们也花更多时间用优秀的发挥系统进行训练，我认为人们会真正感受到每个领域的AGI。\"</blockquote>\n\n<h2>🔧 实用技巧：逆向工程与工具发现</h2>\n\n<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a>分享了一个实用但强大的AI应用技巧：<a href=\"https://x.com/nikunj/status/2058783316753686558\">通过网络请求逆向工程API</a>。\n\n<blockquote>\"通过网络请求逆向工程API是你可以用Claude Code自动化任务做的最有趣的事情之一...我只是让Claude Code使用browser_harness或原生playwright，要求它嗅探我试图获取信息的页面上的网络请求。\"</blockquote>\n\n他的预测很有前瞻性：\n\n<blockquote>\"每个网站很快都需要变成无头的，我们需要找出我们的智能体如何以编程方式向这些网站付费的机制。就像我们有用于数据和结构的llms.txt一样，我们很快需要tools.txt让智能体确定存在哪些可以利用的工具。\"</blockquote>\n\n<hr>\n\n<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>关于Bun重写的观察也值得注意：<a href=\"https://x.com/trq212/status/2058576195000660319\">\"我从Bun重写中得到的主要收获是，遗留代码库作为将代码'提炼'成新形式的源泉将变得极其有价值。\"</a> 这暗示着AI可能很快就能帮助我们系统性地现代化和迁移庞大的遗留系统。\n\n今天的讨论揭示了AI领域的一个关键转折点：虽然当前的模型能力令人印象深刻，但真正的突破可能需要我们重新思考基础架构，更好地理解现实世界的复杂性，并建立更实用的人机协作模式。"
+}
