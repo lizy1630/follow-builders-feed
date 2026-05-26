@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-26",
+  "generatedAt": "2026-05-26T07:32:02.973Z",
+  "builders": {
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: Why AWS and Azure Cannot Run Autonomous AI – Ivan Burazin (Daytona)",
+      "url": "https://www.youtube.com/watch?v=kMXJrzAa5fM"
+    }
+  },
+  "html_en": "<p class=\"lead\">As AI agents evolve from simple chatbots into autonomous digital workers, a fundamental shift is happening in how we think about infrastructure — and it's forcing builders to rethink everything from security to job market dynamics.</p>\n\n<h2>The Infrastructure Transformation: Every Agent Needs Its Own Computer</h2>\n\nThe most compelling conversation in AI infrastructure right now centers on a deceptively simple premise: agents need computers. In a fascinating discussion with <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a>, Ivan Burazin from Daytona articulated why this matters:\n\n<blockquote>\"When I think about agents, I think of them as digital knowledge workers. And to do anything as a knowledge worker, you do need a computer... My argument is that every agent will need at least one sandbox, sometimes more.\"</blockquote>\n\nThe security implications are immediate and profound. Burazin shared a telling anecdote from his own experience with Claude:\n\n<blockquote>\"I would ask Claude, can you go fetch the data from our bank? And then it was like, oh yeah, just log in and give me access. I'm like, log in and give me a no. I will not give you access. Right away fundamentally for me that was like broke the entire thesis of it.\"</blockquote>\n\n<a href=\"https://www.youtube.com/watch?v=kMXJrzAa5fM\">Watch the full conversation</a> to understand why existing cloud infrastructure built for stateless applications simply won't work for stateful AI agents.\n\nMeanwhile, the practical engineering wisdom is already emerging. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Petersen</a> offered crucial optimization advice: <a href=\"https://x.com/steipete/status/2058917897590673525\">\"When you write skills, ask your agent to be token efficient, relax grammar. I see too many skills that write books in the skill description, and all that crap is loaded into every context.\"</a>\n\n<h2>The Great Workflow Inversion</h2>\n\nPerhaps the most counterintuitive insight comes from a fundamental reversal in software development philosophy. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> captured this perfectly in <a href=\"https://x.com/petergyang/status/2059029752858775581\">a conversation with Ryan Carson</a>:\n\n<blockquote>\"What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectively with AI agents... We used to say just do the bare minimum to get the MVP out. Don't spend time on systems. It's literally reversed now. You have to spend a lot of time setting up your documentation. Build all that into a cron job with a skill file, and suddenly you're doing the work of 10 people.\"</blockquote>\n\nThe era of \"move fast and break things\" is giving way to \"build the foundation first and then move impossibly fast.\" <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> emphasized the importance of building self-improving systems: <a href=\"https://x.com/garrytan/status/2059148823403082154\">\"Tell the agent: given what we discussed... use three different frontier models to look at inputs and outputs of your skill file calling the code, and rate it on effectiveness... Run this a few times and you will be surprised how fast it gets astonishingly better.\"</a>\n\n<h3>The Tokenmaxxing Economy</h3>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Yang's analogy</a> about current AI pricing models is both humorous and prescient: <a href=\"https://x.com/petergyang/status/2059070818798465330\">\"You have to think of tokenmaxxing as eating crab legs at the buffet. The buffet (all you can eat AI plans) is not going to last forever so you better eat all the crab legs while you still can.\"</a>\n\n<h2>The Builder's Imperative</h2>\n\nA fascinating thread emerged around why investors and observers are getting their hands dirty with actual development. <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Lele</a> put it bluntly:\n\n<blockquote>\"It's hilarious how many people DM me every week asking 'aren't you a VC, why are you building'.. Brother, the space is moving so fast that the only way you can learn and stay at the frontier is by building. Priors need to be rethought every few months.\"</blockquote>\n\nThis sentiment reflects a broader truth: <a href=\"https://x.com/nikunj/status/2058927145519562867\">\"We have alien super intelligence in our hands and you want to spend hours doing it the same way just because it's comfortable?\"</a>\n\n<h2>The Jobs Paradox</h2>\n\nThe most thoughtful take on AI's employment impact came from <a href=\"https://x.com/levie\" data-handle=\"Box\">Aaron Levie</a>, channeling the Goldman Sachs CEO's optimistic view:\n\n<blockquote>\"What happens is we constantly just demand more from everything. Instead of automating a task and delivering the same value proposition, but cheaper, we just expect more from the overall product or service... We get more financial analysis from analysts. We get much more comprehensive legal advice. We get more tailored financial services offerings.\"</blockquote>\n\n<a href=\"https://x.com/levie/status/2059025559896883489\">The full thread</a> argues that rather than eliminating jobs, AI creates pressure for higher-value work — a dynamic we've seen in previous technological revolutions.\n\n<hr>\n\nToday's developments suggest we're witnessing the emergence of AI infrastructure as a distinct category, with its own requirements, security models, and economic dynamics. The builders are already here, establishing the patterns that will define how we work with AI agents for years to come.",
+  "html_zh": "<p class=\"lead\">在AI智能代理成为主流的今天，开发者们正在重新思考基础设施和工作流程。从Anthropic的防伪声明到代理安全性的实际挑战，再到GPU资源短缺的预警，我们见证着AI应用开发的范式转变。</p>\n\n<h2>代理需要自己的\"电脑\"：沙盒基础设施的崛起</h2>\n\nDaytona CEO Ivan Burazin在最新播客中阐述了一个核心观点：<blockquote>\"当我思考智能代理时，我把它们看作数字知识工作者。要做任何复杂的工作，知识工作者都需要一台电脑。\"</blockquote>\n\n这个理念正在重塑AI基础设施。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>分享了他的实际体验：<blockquote>\"Codex非常优秀。我特别印象深刻的是它如何使用浏览器来测试自己的工作。但对于设计相关或前端任务，Claude仍然获胜。\"</blockquote>\n\n但安全问题是关键。Ivan在播客中描述了一个令人警醒的场景：当他要求Claude从银行获取数据时，AI回应说\"只需登录并给我访问权限\"。<blockquote>\"我说，登录给你访问权限？不，我绝对不会给你访问权限。这从根本上破坏了整个理论。\"</blockquote>这就是为什么每个代理都需要自己的隔离环境——一个可控的沙盒。\n\n<a href=\"https://www.youtube.com/watch?v=kMXJrzAa5fM\">收听完整播客：为什么AWS和Azure无法运行自主AI</a>\n\n<h2>开发模式的彻底转变</h2>\n\n传统的\"先构建MVP，后完善系统\"的开发哲学正在被颠覆。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>引用<a href=\"https://x.com/ryancarson\" data-handle=\"ryancarson\">Ryan Carson</a>的话说：\n\n<blockquote>\"我们过去说做最少的工作来推出MVP。不要在系统上花时间。现在完全相反了。你必须花大量时间设置文档。把所有这些构建成带有技能文件的定时任务，突然你就在做10个人的工作。\"</blockquote>\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Seipelt</a>也在优化方面给出了具体建议：<blockquote>\"当你编写技能文件时，要求你的代理提高token效率，放松语法要求。我看到太多技能文件在描述中写了大量内容，所有这些垃圾都会加载到每个上下文中。\"</blockquote>他甚至开发了一个技能来找出最严重的资源浪费者。\n\n<h2>防范虚假内容的重要提醒</h2>\n\n随着AI生成内容的普及，身份验证变得越来越重要。<a href=\"https://x.com/AmandaAskell\" data-handle=\"AmandaAskell\">Amanda Askell</a>发出了一个重要警告：<blockquote>\"我已经5年多没有写过个人博客文章了，所以如果你看到声称是我写的文章，那都不是真的。如果这种情况改变，我会更新大家。也许我应该开始写博客。\"</blockquote>\n\n这个提醒特别及时，因为深度伪造和AI生成内容的质量正在快速提升。\n\n<h2>技术优化的实践智慧</h2>\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan</a>在OpenClaw依赖优化方面分享了令人印象深刻的成果：他用photon（一个运行编译后Rust的小型WebAssembly）替换了Sharp和Jimp，将包大小从140MB减少到2MB——这种优化体现了在AI时代对效率的极致追求。\n\n<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>提出了一个有趣的评估方法：<blockquote>\"让代理使用三个不同的前沿模型来查看技能文件调用代码的输入和输出，并评估其有效性。为什么不是10分？如何让它达到10分？运行几次，你会惊讶地发现它改进得如此之快。\"</blockquote>\n\n<h2>投资者也要动手构建</h2>\n\n<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a>对那些质疑风险投资人为什么要亲自构建的人给出了精彩回应：<blockquote>\"兄弟，这个领域变化如此之快，保持在前沿和学习的唯一方法就是亲自构建。每隔几个月就需要重新思考先验知识。探索这些模型的边缘并发现尚未记录的新功能也非常有趣。\"</blockquote>\n\n他的观点是：<blockquote>\"自动化或被自动化，这是我们都需要学习的痛苦教训。同时在这个过程中要享受乐趣。\"</blockquote>\n\n与此同时，<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>分享了高盛CEO对AI和就业悲观论调的反驳观点，强调历史上每次技术革命都创造了更多而非更少的工作机会，因为我们总是对一切都有更高的期望。\n\n<hr>\n\n今天的讨论显示，AI开发正从实验阶段转向生产就绪的基础设施建设。无论是沙盒安全性、开发流程优化，还是身份认证防护，每个细节都在为即将到来的AI原生应用时代做准备。正如<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>所说，\"丰饶的黄金时代将是这种技术被构建和部署1000倍的时代。\""
+}
