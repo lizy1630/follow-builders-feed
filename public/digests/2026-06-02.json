@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T07:59:00.877Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 88: Unpacking DeepMind&apos;s Quest for SuperIntelligence with Demis Hassabis&apos; Biographer",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">As AI development accelerates into 2025, a fascinating paradox emerges: the very collaboration needed for AI safety may be undermining competitive advantage, while breakthrough tools like voice-enabled coding assistants are transforming how builders work in real-time.</p>\n\n## **The Safety-Competition Paradox**\n\nThe tension between AI safety collaboration and competitive dynamics came into sharp focus this week through Sebastian Malaby's revealing insights from his extensive interviews with <a href=\"https://x.com/demishassabis\" data-handle=\"demishassabis\">Demis Hassabis</a>. In a fascinating <a href=\"https://www.youtube.com/@RedpointAI\">podcast discussion</a> about his book \"The Infinity Machine,\" Malaby revealed how Hassabis's thinking has evolved dramatically:\n\n<blockquote>\"Demis has swung from one extreme to the other. He began by thinking there could be a singleton scenario, just one lab... To the opposite extreme where he now sees that there's a very crowded field and therefore that it's almost pointless for one lab to pursue safety by itself.\"</blockquote>\n\nThe 2015 SpaceX summit serves as a cautionary tale. DeepMind attempted to bring Elon Musk into their safety efforts, hoping to prevent competition. Instead, <a href=\"https://x.com/elonmusk\" data-handle=\"elonmusk\">Elon Musk</a> absorbed their insights and launched OpenAI by year's end. As Malaby notes, this \"really drove home the reality that we're gonna have a race.\"\n\nMeanwhile, <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box captured the broader strategic challenge facing enterprises: <blockquote>\"As we enter the era of AI agents, one of the defining questions is how you develop competitive advantage when your competitor has access to the same AI models and intelligence as you.\"</blockquote> His answer? <a href=\"https://x.com/levie/status/2061662386680127688\">\"The companies that are able to best harness their internal institutional knowledge, existing data assets, and domain-specific workflows -- connected with AI -- will be those that are able to stay ahead.\"</a>\n\n## **Voice-First Development Revolution**\n\nPerhaps the most immediately practical breakthrough isn't coming from new models, but from how we interact with existing ones. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> showcased a glimpse of the future: <blockquote>\"I told codex to use [voice] whenever I'm distracted and it needs my help to be unblocked, and ever once it a while I hear it talking to me, and it's the coolest thing ever.\"</blockquote>\n\nThis isn't just about convenience—it represents a fundamental shift toward ambient, conversational development workflows. Meanwhile, Anthropic's internal teams are pioneering sophisticated prompting techniques. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">Tom from Anthropic</a> shared <a href=\"https://x.com/trq212/status/2061545633560010826\">how Suzanne uses Claude to stay current with complex work</a>, noting that <blockquote>\"she uses this with voice mode to make it easier to respond and more natural.\"</blockquote>\n\n## **The Agent Workflow Maturation**\n\nSolo builder <a href=\"https://x.com/shpigford\" data-handle=\"shpigford\">Josh Pigford</a> provided perhaps the most detailed look yet at production AI agent workflows. In a comprehensive <a href=\"https://x.com/petergyang/status/2061452068792287622\">breakdown by Peter Yang</a>, Pigford revealed sophisticated techniques including cross-model review processes: <blockquote>\"GPT invariably finds three to five bugs that Opus overlooked. Different models spot different mistakes.\"</blockquote>\n\nHis approach includes building a \"/learnings skill that runs at the end of each phase so that every 'no, that didn't work' moment can be distilled into new rules.\" This systematic knowledge accumulation may prove crucial as teams scale beyond individual builders to enterprise deployments.\n\nThe gap between AI hype and reality remains stark, as <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> humorously illustrated: <blockquote>CEO: \"we have tens of thousands of AI agents running in production at massive scale right now\" CTO: [concerned face emoji]</blockquote>\n\n## **Platform Wars and Partnership Dynamics**\n\nThe enterprise AI landscape saw significant movement with AWS's deeper integration of OpenAI models. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> observed that <blockquote>\"this partnership opens up both increased distribution for OpenAI's models, but also likely drives an increase in token consumption overall across model providers.\"</blockquote>\n\nMeanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> highlighted <a href=\"https://x.com/rauchg/status/2061593874498531707\">MiniMax M3's strong performance</a> on Next.js agent evaluations, noting it's \"right behind Opus & GPT5, but 10× cheaper.\" This cost-performance evolution suggests we're entering a phase where model selection becomes increasingly strategic rather than simply defaulting to frontier models.\n\n<hr>\n\nThe week's developments suggest we're transitioning from the \"build fast and break things\" phase of AI development to something more mature—where systematic workflows, cost optimization, and institutional knowledge capture become competitive advantages. The question isn't whether AI will transform how we work, but whether organizations can adapt their processes quickly enough to harness these capabilities effectively.",
+  "html_zh": "<p class=\"lead\">在人工智能竞赛愈演愈烈的今天，一个关键问题正在浮现：当每个人都能使用相同的AI模型时，如何建立竞争优势？这个问题正在重新定义企业战略，并推动着从代码生成到企业协作的全面变革。</p>\n\n<h2>企业AI的新战场：数据护城河</h2>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 提出了一个令人深思的观点：<blockquote>当你的竞争对手和你拥有同样的AI模型和智能时，如何发展竞争优势？这是我们进入AI代理时代时面临的一个决定性问题。</blockquote>\n\n<a href=\"https://x.com/levie/status/2061662386680127688\">他认为</a>答案在于企业能否最好地利用其内部机构知识、现有数据资产和特定领域的工作流程。这种观点在AWS与OpenAI的合作中得到了验证，<a href=\"https://x.com/levie/status/2061612625574944804\">Levie指出</a>这种合作关系不仅为OpenAI的模型开辟了更大的分销渠道，还可能推动所有模型提供商的令牌消费量增长。\n\n这种数据护城河策略正在成为企业AI战略的核心原则，每个垂直行业都将拥有自己独特的竞争优势版本。\n\n<h2>AI代理开发的实战经验</h2>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>分享了与Josh Shpigford关于独立构建多个产品的深度对话，揭示了AI代理开发的六个关键洞察：\n\n<blockquote>即使恐惧永远不会消失，也要继续发布产品。在25年的独立构建经验后，Josh仍然认为\"发布产品很可怕。每次都像是，万一没人在乎怎么办？\"但他仍然选择早期发布：花几个月时间开发某个东西而不让其他人使用，我认为这是一个真正的坏主意。</blockquote>\n\n<a href=\"https://x.com/petergyang/status/2061452068792287622\">最引人注目的是他的跨模型审查策略</a>：Josh用一个模型构建，然后用另一个模型进行审查。\"GPT总是能找到Opus遗漏的三到五个错误。\"不同的模型能发现不同的错误，这种方法正在成为专业AI开发者的标准实践。\n\n<h3>Anthropic内部的协作模式</h3>\n\n<a href=\"https://x.com/trq212\" data-handle=\"trq212\">来自Anthropic的见解</a>展示了内部团队如何保持与Claude工作的同步。一个特别有趣的做法是结合语音模式使用，让对话变得更加自然和高效。<a href=\"https://x.com/trq212/status/2061545635141361687\">完整提示词</a>已经开源，为其他团队提供了参考模板。\n\n<h2>编程范式的根本转变</h2>\n\n代码生成工具正在改变软件开发的基础假设。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">一位开发者调侃道</a>：<blockquote>我们应该把Codex重命名为ChadGPT吗？</blockquote>这个看似玩笑的建议反映了更深层次的变化——AI代理正在从工具转变为开发伙伴。\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">另一位开发者分享了更加实际的应用场景</a>：<blockquote>我告诉codex在我分心并且它需要我的帮助来解除阻塞时使用语音功能，偶尔我会听到它和我说话，这是有史以来最酷的事情。</blockquote>\n\n这种人机协作模式正在重新定义\"编程\"的含义。<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper观察到</a>：<blockquote>如果你让一群Codex一直运行/goal命令，你就不必一周工作7天了——但你可能会想要这样做。</blockquote>\n\n<h2>新兴技术突破与竞争格局</h2>\n\n<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch宣布</a>MiniMax M3已成为Next.js代理评估中领先的开源模型，<a href=\"https://x.com/rauchg/status/2061593874498531707\">紧随Opus和GPT5之后，但成本低10倍</a>（目前在AI Gateway上低20倍）。这种价格与性能的平衡正在使高质量AI能力更加普及。\n\n与此同时，从提示词到企业的完整流程正在被简化。<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit展示了</a>从创意到成熟业务的无缝路径：网站、移动应用、货币化方案和Delaware公司注册。\n\n<h3>人工智能领导力的深层思考</h3>\n\nSebastian Malaby在<a href=\"https://www.youtube.com/@RedpointAI\">最新播客中</a>分享了与DeepMind CEO Demis Hassabis超过30小时对话的洞察。这些对话揭示了AI竞赛的不可避免性，以及早期避免竞争的天真想法如何演变成对政府监管必要性的认识。\n\n<blockquote>Demis从一个极端摆向了另一个极端。他最初认为可能存在单一实验室的情景，实际上是指DeepMind和他自己。现在他看到了一个非常拥挤的领域，因此认为一个实验室单独追求安全几乎毫无意义，因为如果一个实验室是安全的而其他实验室不是，这并不能让世界更安全。</blockquote>\n\n这种观点的转变反映了整个行业对AI安全和治理理解的深化，从技术问题转向了政策和国际合作的复杂挑战。"
+}
