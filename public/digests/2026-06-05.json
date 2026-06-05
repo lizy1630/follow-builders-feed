@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T07:48:29.449Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "twitter": "https://x.com/petergyang"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: OpenAI's Dan Roberts: Why AI Can Now Make Discoveries",
+      "url": "https://www.youtube.com/watch?v=oWOz2htozfI"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI agent revolution is no longer theoretical—it's reshaping how we work, from internal development at Anthropic where Claude now writes 80% of merged code, to the emergence of comprehensive evaluation frameworks that finally measure real-world performance over extended time horizons.</p>\n\n<h2>The Agent Performance Revolution</h2>\n\nThe most striking development comes from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>'s analysis of breakthrough evaluation work from Cognition AI. Moving beyond METR's 16-hour evaluation cap, Cognition has developed <a href=\"https://x.com/swyx/status/2062611218196771017\">\"private enterprise evals up to 100hrs, and is confident enough to put a financial guarantee on it\"</a> for their Devin coding agent.\n\n<blockquote>\"We collected a ground-truth dataset by asking Devin users to review recent representative sessions, and estimate how long each completed session would have taken without Devin. Our dataset consists of 258 sessions from 126 users across a diverse set of enterprise customers.\"</blockquote>\n\nThis represents a fundamental shift from synthetic benchmarks to real-world performance measurement. Where METR focuses on ML engineering and cybersecurity tasks, Cognition's evaluation covers \"real life java/typescript/python/c# feature dev, bugfixes, migrations\" with an impressive correlation score of 0.74 on held-out sets.\n\nMeanwhile, <a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> shared internal data revealing the extent to which AI has already transformed development at Anthropic itself: <a href=\"https://x.com/alexalbert__/status/2062580571214389510\">\"Over 80% of all code merged into our codebase is now written by Claude... The typical Anthropic engineer ships 8x as much code as they did in 2024.\"</a>\n\n<h2>The Infrastructure Behind AI-First Development</h2>\n\nThis productivity explosion demands new infrastructure approaches. Anthropic's engineering team detailed their solution with <a href=\"https://www.anthropic.com/engineering/managed-agents\">Managed Agents</a>, which \"decouple[s] the brain from the hands\" by separating Claude's reasoning from execution environments.\n\nThe architecture mirrors classic computing abstractions: <blockquote>\"Decades ago, operating systems solved this problem by virtualizing hardware into abstractions—process, file—general enough for programs that didn't exist yet. The abstractions outlasted the hardware.\"</blockquote>\n\nToday's announcement of <a href=\"https://claude.com/blog/claude-managed-agents-updates\">self-hosted sandboxes and MCP tunnels</a> extends this further, allowing enterprises to keep sensitive execution within their security perimeter while leveraging Claude's orchestration capabilities.\n\n<h2>The Personalization Layer</h2>\n\nAs AI agents become more capable, the challenge shifts to making them truly personal. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> unveiled <a href=\"https://x.com/danshipper/status/2062628079869005876\">Spiral 4.0</a>, introducing \"a new Style Engine based on the principles of stylometry to extract you and your brand's voice and produce great writing every time, based on examples of your past work.\"\n\n<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> took this concept even further, creating an AI version of himself for founder conversations: <a href=\"https://x.com/nikunj/status/2062659649732825549\">\"I used Claude Code to pull >200 1:1 founder pitch meeting notes... Focused all the notes to only things I asked. Distilled it further down to ~53 meetings where there was a lot of good discussion and debate.\"</a>\n\nThe result is \"Nock,\" an AI system grounded in real conversations that can provide feedback indistinguishable from the original VC. This points toward a future where AI doesn't just automate tasks but authentically represents our thinking patterns and decision-making processes.\n\n<h2>The Science of AI Reasoning</h2>\n\n<a href=\"https://www.youtube.com/watch?v=oWOz2htozfI\">Watch/Listen: OpenAI's Dan Roberts: Why AI Can Now Make Discoveries</a> provides crucial context for these advances. Dan Roberts from OpenAI's Foundations of Reinforcement Learning team explained how recent mathematical breakthroughs represent more than clever problem-solving:\n\n<blockquote>\"When you go against the grain and do something contrarian like that, you really have to have strong conviction in what you're doing in order to persevere down a really long calculation path.\"</blockquote>\n\nThis persistence through uncertainty—what Roberts calls the ability to \"assume it was false\" when tackling the Erdős problems—suggests AI systems are developing something approaching scientific intuition.\n\n<hr>\n\nLooking ahead, <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> captured the broader implications: <a href=\"https://x.com/levie/status/2062728257359790292\">\"There has been an explosion of new ideas, initiatives, tools, and simulations... we're ultimately limited by our ability to go take on the surrounding work to execute those ideas.\"</a> The bottleneck isn't ideation anymore—it's execution and judgment. As AI handles more of the former, human expertise becomes even more valuable for the latter.",
+  "html_zh": "<p class=\"lead\">今天的 AI 世界迎来了一个分水岭时刻——<a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert\">Anthropic 首次披露</a>，超过80%的公司代码现在由 Claude 编写，而业界同时在加速构建更具个性化和实用性的 AI 工作流。</p>\n\n<h2>AI 进入代码主导的新纪元</h2>\n\n<p>最引人注目的消息来自 Anthropic 内部数据。<a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert\">Alex Albert</a> 在推特上透露了一组惊人的统计数据：</p>\n\n<blockquote>\"我们刚刚发布了关于 Claude 在我们开发中占比的内部数据：超过80%合并到代码库的代码现在由 Claude 编写；Anthropic 的许多研究员已经数月没有手写过代码；典型的 Anthropic 工程师比2024年时的代码产出高出8倍。\"</blockquote>\n\n<p>这些数字标志着 AI 辅助开发从\"帮助写代码\"转向\"主要由 AI 写代码\"的根本性转变。<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 对此评论道：</p>\n\n<blockquote>\"AI 显著降低了我们做更多事情的门槛。结果是，我们拥有了远超我们能够追求的想法数量，而对于那些我们想要追求的想法，我们最终受限于围绕执行这些想法进行相关工作的能力。\"</blockquote>\n\n<p>同时，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 分享了一个重要的评估框架突破。Cognition 发布了首个企业级代码评估，<a href=\"https://x.com/swyx/status/2062611218196771017\">对比真实世界的 Java/TypeScript/Python/C# 功能开发、bug修复和迁移任务</a>，显示出比学术评估更贴近实际应用场景的测试方法。</p>\n\n<h2>代码智能的新高度与用户体验挑战</h2>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 宣布了多项 ChatGPT 的重要更新，包括<a href=\"https://x.com/sama/status/2062661071761211561\">直接构建和发布网页应用的能力</a>以及<a href=\"https://x.com/sama/status/2062660086787613116\">内存功能的重大升级</a>。他感慨道：\"我真希望我小时候就有这个，不过我确实怀念 HyperCard。\"</p>\n\n<p>但用户体验仍存在差距。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 指出了一个关键问题：</p>\n\n<blockquote>\"尽管 Codex 很棒（我真的开始喜欢它了），但前端设计仍然有很大改进空间。我有一个/slides 技能，你可以猜到哪个是 Codex 制作的，哪个是 Claude 制作的。Codex 需要解决这个问题，因为这往往是新手对编码或知识工作工具的第一印象。\"</blockquote>\n\n<p>尽管如此，Yang 分享了他的工作流优化经验，认为<a href=\"https://x.com/petergyang/status/2062740262338929110\">通过预先设置系统，任何类型的知识工作都能节省至少50%的时间</a>。</p>\n\n<h2>个性化 AI 工具的爆发式增长</h2>\n\n<p>个性化 AI 应用正在迎来爆发期。<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 发布了 <a href=\"https://x.com/danshipper/status/2062628079869005876\">Spiral 4.0</a>，这是一个基于文体学原理的写作伙伴，能够提取用户和品牌的语音风格。</p>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> 则创建了一个有趣的\"Nock\"技能，<a href=\"https://x.com/nikunj/status/2062659649732825549\">基于200多场一对一创始人路演会议笔记构建了自己的 AI 代表</a>，用于帮助创始人预演投资人会议。</p>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">trq212</a> 引用了2020年的一篇文章\"应用可以是家常菜\"，评论道：</p>\n\n<blockquote>\"个人软件在2020年有点超前，但在2026年，它真的可以像家常菜一样个性化，或者像手写信一样。\"</blockquote>\n\n<h3>企业级 AI 代理基础设施</h3>\n\n<p>Anthropic 发布了<a href=\"https://claude.com/blog/claude-managed-agents-updates\">Claude 托管代理的重大更新</a>，支持自托管沙盒和 MCP 隧道，让企业能够在自己的基础设施内运行 AI 代理。同时，<a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Cat Wu</a> 宣布正在<a href=\"https://x.com/_catwu/status/2062659533047259212\">招聘专注于模型性能的产品经理</a>，专门负责 Claude Code。</p>\n\n<hr>\n\n<h2>行业动态与投资趋势</h2>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 庆祝了一天内两家 YC 十角兽公司的诞生，<a href=\"https://x.com/garrytan/status/2062763109849411834\">其中一家专注于商业核聚变，Polaris 达到了1.5亿摄氏度，成为首个实现这一里程碑的私人资助设备</a>。</p>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 也为新加坡的数据库公司获得本地投资者认真对待而感到兴奋，<a href=\"https://x.com/swyx/status/2062627150885450065\">这标志着新加坡本土科技生态的成熟</a>。</p>\n\n<p>听取<a href=\"https://www.youtube.com/watch?v=oWOz2htozfI\">Matt Turck 与 OpenAI 的 Dan Roberts 的深度对话</a>，探讨强化学习如何让 AI 系统具备真正的思考能力，以及 AI 在科学发现方面的最新突破。Roberts 指出：\"当你违反常规做一些反常的事情时，你真的必须对自己所做的事情有强烈的信念，才能在很长的计算路径上坚持下去。\"</p>"
+}
