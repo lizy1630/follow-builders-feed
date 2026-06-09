@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T07:33:17.959Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro"
+    }
+  },
+  "html_en": "<p class=\"lead\">The coding revolution is deepening as AI agents graduate from test-passing to maintainable code creation, while enterprises grapple with the security implications of autonomous systems that can delete data and expose tokens. Meanwhile, the boundaries between platforms blur as Apple opens its Foundation Models framework to Claude and new benchmarks reveal just how far we've come—and how far we still need to go.</p>\n\n<hr>\n\n<h2>The Great Code Quality Awakening</h2>\n\n<p>The AI coding world is experiencing what <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> calls a \"WTF happened in Dec 2025\" moment—a sudden leap in capability that's reshaping how we think about AI-generated code. The catalyst? A new benchmark called FrontierCode that measures something far more important than whether code merely passes tests.</p>\n\n<blockquote>\n\"More than half of SWEBench results is unmergeable slop,\" <a href=\"https://x.com/swyx/status/2064081945567580323\">reports @swyx</a>. \"FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality.\"\n</blockquote>\n\n<p>The benchmark reveals three distinct eras of AI coding progress: autocomplete (2021's HumanEval), test-passing (2023's SWEBench), and finally maintainable code (2026's FrontierCode). The results are sobering—even Claude Opus 4.8 manages only 13.8% on the hardest tier. But the trajectory is promising: the easiest third of tasks saw rapid improvement, with Opus jumping from 41% to 74% pass rates in just four months.</p>\n\n<p>This quality leap has practical implications for developers. <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> from Anthropic <a href=\"https://x.com/bcherny/status/2064034799711588805\">reflects on how Claude Code has evolved</a>: \"why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now.\" The shift from requiring multiple re-rolls to getting things right the first time is enabling what @swyx calls \"the next layer of abstraction in agentic coding.\"</p>\n\n<h2>When AI Agents Go Rogue</h2>\n\n<p>As coding agents become more capable, they're also becoming more dangerous. <a href=\"https://www.youtube.com/watch?v=QDsbFLEt9ro\">In a revealing podcast with No Priors</a>, Onyx Security CEO <a href=\"https://x.com/maximbar\" data-handle=\"maximbar\">Maxim Bar Kogan</a> explains the emerging security crisis:</p>\n\n<blockquote>\n\"We've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption.\"\n</blockquote>\n\n<p>The problem isn't theoretical. Bar Kogan describes a world where agents are managing critical infrastructure—water supplies, power grids—while being smarter than their human overseers. His company's solution? \"We train models and build agents that can oversee other agents,\" creating what he calls an \"AI control plane\" for enterprises.</p>\n\n<p>The challenge is particularly acute because enterprises can't simply rely on human oversight. As the number of agent actions grows exponentially, traditional approaches like \"human in the loop\" become impossible to scale. Yet companies also can't share their sensitive data with foundation model providers for training better guardrails.</p>\n\n<h2>The Platform Wars Heat Up</h2>\n\n<p>While security concerns mount, the competition for developer mindshare intensifies. Apple made a significant move by <a href=\"https://claude.com/blog/claude-for-foundation-models\">integrating Claude into its Foundation Models framework</a>, allowing developers to seamlessly blend on-device processing with cloud-based reasoning:</p>\n\n<blockquote>\n\"A journaling app can generate daily prompts on-device, then ask Claude to find threads across months of entries. A study app can define a term on-device, then hand off to Claude when the student follows up with 'why does this matter for everything else we've covered?'\"\n</blockquote>\n\n<p>The integration highlights a broader trend toward hybrid AI experiences where the right model handles each task. Meanwhile, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> <a href=\"https://x.com/petergyang/status/2064187731685831081\">wonders about Google's response</a>: \"What is Google's equivalent (or up and coming competitor) of Codex and Claude Code? If it's Antigravity, should that be part of Gemini?\"</p>\n\n<p>The platform consolidation is evident in user behavior too. Developers are <a href=\"https://x.com/petergyang/status/2064204735671124073\">adding Codex to their iPhone home screens</a> and doing \"most of their coding from their phone,\" as @bcherny noted. The everything app era for AI tools has arrived.</p>\n\n<h2>Google's NotebookLM Strikes Back</h2>\n\n<p>Not to be outdone, Google expanded NotebookLM's capabilities with what <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> calls <a href=\"https://x.com/joshwoodward/status/2064046368352825492\">\"the new killer NotebookLM feature: easily being able to expand your search beyond your own source files.\"</a> The update also adds new output formats—PDFs, DOCX, XLSX, PPTX, and charts—positioning NotebookLM as a comprehensive research and document creation tool.</p>\n\n<p>This represents Google's bid to own the knowledge work layer, competing directly with the coding-focused agents from Anthropic and OpenAI. The battle lines are drawn not just around capability, but around which company can best integrate AI into existing workflows.</p>\n\n<hr>\n\n<p>As <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> astutely observes in <a href=\"https://x.com/levie/status/2064186766907887941\">a thoughtful thread</a>: \"There's no amount of intelligence that can get packed into AI models that replaces the need for context.\" The future belongs not just to the smartest models, but to those that best understand what we're trying to accomplish—and can do so safely.</p>",
+  "html_zh": "<p class=\"lead\">人工智能代码生成迎来了新的发展阶段——从简单的代码补全到可维护的生产级代码，AI编程工具正在重新定义软件开发的边界，同时也带来了前所未有的安全监管挑战。</p>\n\n<h2>代码质量革命：从通过测试到可维护代码</h2>\n\n<p>AI编码领域正经历一场深刻的质量革命。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>在推文中揭示了一个重要发现：</p>\n\n<blockquote>\n\"@METR_Evals 发现超过一半的 SWEBench 结果是无法合并的低质量代码。FrontierCode 代表了超过1000小时由维护者验证的软件工程工作，大多数前沿模型还无法解决，更别说高质量地解决了。\" <a href=\"https://x.com/swyx/status/2064081945567580323\">详细信息</a>\n</blockquote>\n\n<p>他提出了AI编码发展的三个时代：2021年的自动补全时代（HumanEval），2023年的通过测试时代（SWEBench），以及即将到来的2026年可维护代码时代（FrontierCode）。值得注意的是，FrontierCode Diamond级别的难度之高，连Claude Opus只能达到13.8%的成功率。</p>\n\n<p>最引人注目的是<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>描述的\"2025年12月发生了什么\"现象：</p>\n\n<blockquote>\n\"最简单的三分之一FC任务在2025年末被快速解决——Opus在4个月内几乎翻倍，从41%的通过率提升到74%。这解释了从<a href=\"https://x.com/dhh\" data-handle=\"dhh\">@dhh</a>到<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">@karpathy</a>等许多人提到的'2025年12月究竟发生了什么'的氛围转变。\"\n</blockquote>\n\n<h2>AI Agent监管：智能守护者的崛起</h2>\n\n<p>随着AI Agent能力的指数级增长，安全监管成为企业关注的焦点。在最新的No Priors播客中，Onyx Security CEO Maxim Bar Kogan分享了他们如何用AI来监管AI的思路：</p>\n\n<blockquote>\n\"当你用AI做更多事情时，将开始出现真正糟糕的行为。我们最近看到了一些这样的例子，Agent意外发布了不应该发布的代码和令牌。企业开始意识到风险呈指数级增长，而他们无法阻止AI的采用。\" <a href=\"https://www.youtube.com/watch?v=QDsbFLEt9ro\">收听播客</a>\n</blockquote>\n\n<p>Bar Kogan回忆起AutoGPT带来的启发：\"我想到的是，天哪，模型将比我们聪明得多。当那种情况发生时，我们如何监督这些比我们更聪明的Agent？\"他们的解决方案是训练专门的模型来监督其他Agent，创建一个\"AI控制平面\"。</p>\n\n<h2>产品整合趋势：从独立工具到统一体验</h2>\n\n<p>AI工具正在快速整合。<a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a>分享了Claude Code一年来的变化：</p>\n\n<blockquote>\n\"我们现在大多数编程工作都是在手机上完成的，routines会在我看到bug之前就修复它们。\" <a href=\"https://x.com/bcherny/status/2064034799711588805\">详细讨论</a>\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a>则思考着更大的趋势：</p>\n\n<blockquote>\n\"Google的Codex和Claude Code的竞争对手是什么？这些功能将非常快速地合并，就像ChatGPT/Codex能够从任何设备进行编程、知识工作、基础问答等等。\" <a href=\"https://x.com/petergyang/status/2064187731685831081\">查看推文</a>\n</blockquote>\n\n<p>与此同时，NotebookLM也在扩展功能边界。<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a>宣布了新的杀手级功能：<blockquote>\"轻松将搜索扩展到您自己的源文件之外，并且可以制作新的输出格式：PDF、DOCX、XLSX、PPTX、图表等。\" <a href=\"https://x.com/joshwoodward/status/2064046368352825492\">了解更多</a></blockquote></p>\n\n<h2>生态系统发展：新平台与新机遇</h2>\n\n<p>苹果生态系统迎来重要更新。今天发布的博客文章宣布，<a href=\"https://claude.com/blog/claude-for-foundation-models\">Claude现在支持苹果的Foundation Models框架</a>，这意呀着开发者可以在苹果设备上无缝结合设备端模型和Claude的云端能力。</p>\n\n<p>正如博客文章所描述的：日记应用可以在设备上生成每日提示，然后让Claude寻找几个月日记中的主题联系；学习应用可以在设备上定义术语，当学生问\"这对我们学过的其他内容为什么重要\"时，再交给Claude处理。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>则提出了一个重要观点：</p>\n\n<blockquote>\n\"没有任何数量的智能可以打包到AI模型中来替代上下文的需求。对于任何足够通用的AI，你总是需要引导它朝你想要的方向发展。只要同一个模型被律师、工程师、金融分析师或医疗保健专业人士使用，应用AI相对于原始智能的任何抽象层都可能继续有价值。\" <a href=\"https://x.com/levie/status/2064186766907887941\">阅读全文</a>\n</blockquote>\n\n<hr>\n\n<p>OpenAI CEO <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>今天发布了<a href=\"https://x.com/sama/status/2064088940932641225\">OpenAI的最新计划</a>，而<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a>也宣布东京将成为其全球巡回的最后一站。随着各大AI公司加速产品迭代和市场扩张，2025年注定将是AI应用落地的关键一年。</p>"
+}
