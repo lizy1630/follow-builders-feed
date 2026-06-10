@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-10T07:48:48.549Z",
+  "builders": {
+    "karpathy": {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like training large deep neural nets.",
+      "twitter": "https://x.com/karpathy"
+    },
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: We Automated Everything With AI and Tripled Our Headcount",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Claude's most significant model upgrade since Opus 4.5 launched today, and it's not just about benchmarks — builders are reporting a fundamental shift in how they work with AI, from tool to collaborator.</p>\n\n<h2>The Fable Renaissance: When AI Gets \"Big Model Smell\"</h2>\n\n<p>The release of Claude Fable 5 has ignited something approaching euphoria among AI builders. <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> captured the sentiment perfectly:</p>\n\n<blockquote>\"This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward... You can give it a lot more ambitious tasks than what you're used to, the model 'gets it' and it will just go, and it's never felt this tempting to stop looking at the code at all.\"</blockquote>\n\n<p>What's particularly striking is how builders are describing a qualitative shift, not just quantitative improvements. <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> from Anthropic introduced what might become the new gold standard for describing model capability:</p>\n\n<blockquote>\"Fable has judgement, taste, and dimensionality in a way that previous models didn't, leading me to trust it more with the most complex work... It really has this 'big model smell' that I haven't felt before.\"</blockquote>\n\n<p><a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a>, who's been at Anthropic through every model launch, put it more directly: <a href=\"https://x.com/alexalbert__/status/2064394410004304003\">\"With Fable, the model stopped feeling like a tool I direct and started feeling more like something I collaborate with.\"</a></p>\n\n<hr>\n\n<h2>The Jevons Paradox of Software Development</h2>\n\n<p>Karpathy's observation about Jevons paradox — where efficiency improvements lead to increased consumption — is already materializing. As he noted: <a href=\"https://x.com/karpathy/status/2064409694761054332\">\"I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps... anything!\"</a></p>\n\n<p>We're seeing this play out in real-time. <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> demonstrated the new possibilities by having Fable <a href=\"https://x.com/nikunj/status/2064506504888373758\">create an entire website analyzing S-curves throughout history</a> based on a podcast transcript. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> had it <a href=\"https://x.com/petergyang/status/2064550073594446059\">build a full F-Zero-style racing game with pseudo-3D graphics</a>, complete with cyberpunk aesthetics and physics-based handling.</p>\n\n<p>This explosion in software demand is already reshaping business models. <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> from Replit is offering <a href=\"https://x.com/amasad/status/2064411791015432466\">Claude Mythos at 25% off</a>, while <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> noted the remarkable speed of deployment: <a href=\"https://x.com/swyx/status/2064421542503797186\">\"it was 34 days between signing this deal and launching Mythos-class model GA to the world.\"</a></p>\n\n<hr>\n\n<h2>The Mythos Question: Unleashing AI's Full Potential</h2>\n\n<p>Perhaps the most intriguing aspect of today's announcement is Claude Mythos 5 — the same underlying model as Fable but with safeguards removed for select partners. <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Anthropic</a> announced that <a href=\"https://x.com/claudeai/status/2064394158056386684\">\"For a small group of cyber defenders and critical infrastructure providers, we are also launching Claude Mythos 5. Mythos 5 shares the same underlying model as Fable 5, but with the safeguards lifted in some areas.\"</a></p>\n\n<p>This dual-track approach — safe for general use, unconstrained for trusted partners — suggests Anthropic is grappling with the fundamental tension between capability and safety. The company plans to <a href=\"https://x.com/claudeai/status/2064394159318782217\">\"expand access to Mythos 5 through a broader trusted access program, both for defensive cybersecurity work and biomedical research.\"</a></p>\n\n<hr>\n\n<h2>After Automation: The Paradox of More Work</h2>\n\n<p>The timing of Fable's release coincides perfectly with a broader conversation about AI's impact on employment. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> from Every published a compelling piece titled \"After Automation,\" exploring why his team has tripled in size despite extensive AI adoption.</p>\n\n<p>The key insight from his <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">podcast discussion</a> is that AI creates a productivity paradox:</p>\n\n<blockquote>\"AI makes yesterday's expert competence cheap... When you do that, expert competence is available for cheap, it gets really widely adopted. So everyone starts to do it... you flood the zone with tons of stuff that's close but not quite right, and then you need to basically [manage and refine it].\"</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> reinforced this perspective, noting that <a href=\"https://x.com/levie/status/2064569513023328268\">\"There's still an insanely large gulf between model capabilities and what it takes to apply them to specific corporate workflows.\"</a> The opportunity lies not just in the models themselves, but in the infrastructure, integration, and change management required to make them useful in real contexts.</p>\n\n<hr>\n\n<h2>Infrastructure Plays and Interface Evolution</h2>\n\n<p>As capabilities soar, infrastructure providers are racing to keep pace. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel's Guillermo Rauch</a> announced new CLI features for <a href=\"https://x.com/rauchg/status/2064551967461114111\">AI Gateway API keys with budget controls</a>, describing them as \"virtual credit cards for AI tokens.\"</p>\n\n<p>Meanwhile, interface designers are grappling with how to make these powerful tools accessible. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> identified a crucial insight: <a href=\"https://x.com/zarazhangrui/status/2064587398529606082\">\"The barrier for non-technical people using coding agents was never the interface... The barrier is that they don't know what to ask for.\"</a> The solution may lie in proactive agents that suggest possibilities rather than waiting for instructions.</p>\n\n<p>As we witness this step-change in AI capability, the question isn't whether these tools will reshape work — it's how quickly we can adapt our workflows, expectations, and business models to harness their potential. Fable 5 feels like the moment AI stopped being impressive and started being indispensable.</p>",
+  "html_zh": "<p class=\"lead\">Claude Fable 5 的发布标志着AI能力的一次重大跃升，开发者们称这是自去年11月Claude Opus 4.5以来最大的模型进步。同时，这一里程碑也引发了关于AI自动化如何真正改变工作本质的深度思考。</p>\n\n<h2>🚀 Fable 5：感受\"大模型气质\"的质变时刻</h2>\n\nClaude的最新模型发布引起了开发者社区的热烈反响。<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a>在<a href=\"https://x.com/karpathy/status/2064409694761054332\">推特上</a>兴奋地表示：\n\n<blockquote>\n这是一个超级令人兴奋的发布——Claude Fable 5是与Mythos相同的底层模型，但增加了安全防护措施。基准测试很棒，在所有方面都是SOTA水平，但我要补充的是，定性来说，这也是一个值得大版本升级的重大步骤前进（我认为与11月的Claude 4.5是同等量级的），特别是在长时间解决非常困难问题的会话中表现突出。\n</blockquote>\n\n<a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a>在<a href=\"https://x.com/bcherny/status/2064431111154053187\">详细分析中</a>描述了这种质变：\n\n<blockquote>\nFable 5是自去年11月Opus 4.5以来我感受到的最大模型进步。4.5发布后，我卸载了IDE，因为我意识到自己已经完全在终端中编码几周了。有了Fable，感觉Claude从编码代理升级为了产品构建中的思维和设计伙伴。Fable具有判断力、品味和维度感，这是以前的模型所没有的，让我更信任它处理最复杂的工作。\n</blockquote>\n\n<a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a>从Anthropic内部视角<a href=\"https://x.com/alexalbert__/status/2064394410004304003\">总结道</a>：\n\n<blockquote>\n我经历了Anthropic的每次模型发布。有几次我能记住的发布标志着我们使用模型方式的步骤性变化：Claude Opus 3、Claude Sonnet 3.5、Claude Opus 4.5，现在是Claude Fable 5。有了Fable，模型不再感觉像是我指导的工具，而是开始感觉更像是我协作的伙伴。\n</blockquote>\n\n<h2>💡 实用建议：如何更好地使用Fable</h2>\n\n<a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a>为测试Fable的用户<a href=\"https://x.com/alexalbert__/status/2064467657483829441\">提供了四个关键建议</a>：\n\n<blockquote>\n1. 给它更大、更有挑战性的任务，超越以前模型能处理的范围\n2. 默认使用xhigh/high努力模式获得最佳性能，med模式用于更快的交互式会话\n3. 重新设计你的技能和CLAUDE.mds。为以前模型编写的指令会将Fable锚定在过时的模式上，让它首先使用自己的判断\n4. 从提供任务转向提供目标。描述完成的样子以及如何验证，然后让Fable找到路径\n</blockquote>\n\n开发者们已经开始将这些建议付诸实践。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>展示了用Fable<a href=\"https://x.com/petergyang/status/2064550073594446059\">一次性构建F-Zero风格赛车游戏的详细提示</a>，而<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a>则利用它<a href=\"https://x.com/nikunj/status/2064506504888373758\">创建了一个关于历史S曲线的完整网站</a>。\n\n<h2>🤔 自动化悖论：为什么AI让工作更多而非更少</h2>\n\n在模型能力飞跃的同时，Every公司的<a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">播客讨论</a>提出了一个看似矛盾的现象：尽管大量使用AI自动化工具，Every的团队规模从4人增长到30人，仍在继续招聘。\n\n<blockquote>\nAI让昨天的专家能力变得便宜。AI在我们所有的输出上进行训练——所有的代码、写作、设计和决策以及所有曾经写过的东西。它让这些能力以极低的成本提供给每个人。现在任何人只需一个提示就能使用昨天的能力来解决编程问题、构建应用或撰写报告。\n</blockquote>\n\n但关键在于，当专家能力变得便宜且广泛采用时，会产生大量\"接近但不完全正确\"的输出，这反而创造了更多需要人类专家参与的工作：\n\n<blockquote>\n因为这些工具是在输出上训练的，是在昨天的数据上训练的，它们用默认提示做的东西看起来都很相似，对当前情况大致正确，但实际上并不完全正确。所以你用大量接近但不完全正确的东西充斥了整个区域，然后你需要基本上... 有很多人在做看似很棒的工作，然后你深入了解，发现这并不完全正确。\n</blockquote>\n\n<h2>🔮 重新思考软件需求与AI的未来</h2>\n\n<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Karpathy</a>预见了软件需求的爆炸性增长：\n\n<blockquote>\n当工作软件越来越多地通过简单操作产生时，我感到很多事情在发生变化。杰文斯悖论开始发挥作用，我感到自己对软件的需求大幅增长。你可以要求任何东西——解释器、可视化工具、仪表板、定制的一次性应用程序，你可以10倍增强你的测试套件，自动优化代码，用定制HTML运行巨大的研究项目，任何东西！\n</blockquote>\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>在<a href=\"https://x.com/levie/status/2064569513023328268\">回应中</a>强调了这一变化的深远影响：\n\n<blockquote>\n两件事可以同时非常真实：前沿模型和实验室将继续获得惊人的增长，同时会出现一个庞大的软件和服务公司生态系统，将这些模型的力量带给真正的企业。这为新的基础设施提供商、各个垂直领域的应用AI公司、新版本的系统集成商等更多参与者创造了空间。\n</blockquote>\n\n<hr>\n\n随着Fable 5的发布，我们正站在AI能力的新门槛上。这不仅仅是技术的进步，更是工作方式的根本性转变——从指导工具到与AI协作，从处理简单任务到解决复杂问题。正如开发者们所体验的那样，真正的革命在于重新定义什么是可能的。"
+}
