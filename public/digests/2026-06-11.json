@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T08:01:30.493Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: How Anthropic Uses Claude Fable 5 With Mike Krieger",
+      "url": "https://www.youtube.com/watch?v=XWpTgCvgYaE"
+    }
+  },
+  "html_en": "<p class=\"lead\">Today's AI digest reveals a field hitting its stride, with Anthropic's Fable model sparking workflow revolutions and Claude expanding globally, while the community rallies around sophisticated new tooling that's making agents genuinely practical for everyday work.</p>\n\n<h2>The Fable Revolution: When AI Finally Feels Like a Teammate</h2>\n\nThe most compelling story emerging today centers on Anthropic's <a href=\"https://x.com/claudeai/status/2064757537992249734\" data-handle=\"claudeai\">Fable model</a> and how it's fundamentally changing how people work. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> from Box shared striking performance data showing massive capability jumps:\n\n<blockquote>\"The main differentiators for Fable vs Opus 4.8 is that it doesn't take shortcuts on complex reasoning, it gets multi-step calculations right, and it's significantly more consistent across runs. We saw the biggest leaps in Media & Entertainment (78% vs 61%), Technology (81% vs 73%), Financial Services (89% vs 83%), and Healthcare (66% vs 60%).\"</blockquote>\n\nBut the real insight comes from <a href=\"https://www.youtube.com/watch?v=XWpTgCvgYaE\">Mike Krieger's extended conversation with Dan Shipper</a> about using Fable in practice. Krieger, head of Anthropic Labs and Instagram co-founder, describes a profound shift in workflow:\n\n<blockquote>\"I remember, like, you know, know, March, April be like, wow. On the one shot, it's already incredibly impressive. But then it also understands the intent around how we're gonna evolve this and understands, like, the global context as well... I will, you know, wish Claude a good night, set it up on, like, a pretty complex task of something of this, like, monoclast, and wake up to you know, actually, it's usually done by, like, two in the morning.\"</blockquote>\n\nThis isn't just incremental improvement—it's a qualitative change in how humans and AI collaborate. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> captured the zeitgeist perfectly, <a href=\"https://x.com/danshipper/status/2064767202767602122\">\"fable maxxing on the plane to SF\"</a>—a new verb for our times.\n\n<h2>The Great Technical Infrastructure Moment</h2>\n\nMeanwhile, the AI tooling ecosystem is maturing rapidly. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> demonstrated something remarkable: <a href=\"https://x.com/trq212/status/2064826394589442448\">using Fable to edit its own launch video</a>, complete with transcription services, ffmpeg operations, color grading, and Figma integrations. As they put it:\n\n<blockquote>\"TLDR it wrote a lot of code & tool calls to use transcription services, ffmpeg, do colorgrading, use the figma mcp, make remotion UI and render it. I didn't touch a video editor.\"</blockquote>\n\nThis represents a new category of AI-native workflows that skip traditional software entirely. <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> from Replit echoed this trend, showcasing <a href=\"https://x.com/amasad/status/2064864439275536495\">automated job search applications</a>—agents handling the grunt work that humans have done for decades.\n\nThe infrastructure is becoming robust enough for real work. <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude Platform</a> <a href=\"https://x.com/claudeai/status/2064741184547795408\">announced scheduled deployments and environment variables</a>, while Google expanded <a href=\"https://x.com/GoogleLabs/status/2064801929339752527\">Project Genie access to Ultra 5X subscribers globally</a>.\n\n<h2>The Growing Pains of Success</h2>\n\nWith great power comes great outages. <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> from Google had to issue the classic tech apology: <a href=\"https://x.com/joshwoodward/status/2064762269674918013\">\"Heads up: Gemini is currently experiencing an outage\"</a> followed by the relief tweet hours later: <a href=\"https://x.com/joshwoodward/status/2064869366290841716\">\"Update: Everything is back up and running, sorry again!\"</a>\n\nThe scale of demand is becoming clear. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> observed something intriguing: <a href=\"https://x.com/thsottiaux/status/2064911328087810308\">\"Can confirm we saw a strong spike in growth of token consumption for Codex over last 48 hours. Unusual when we don't launch something.\"</a> This suggests organic adoption is accelerating beyond marketing cycles.\n\n<hr>\n\n<h2>The Philosophy of Building in 2025</h2>\n\nPerhaps the most thoughtful thread today came from <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang's</a> reflection on career paths in the AI era:\n\n<blockquote>\"The traditional career ladder pushes everyone to become a leader, but I just want to be a builder... Companies are rewarding builders and ICs more than ever, and even managers are increasingly expected to do IC work too. But becoming a good builder takes reps, and it's hard to put in those reps when you're in back-to-back meetings all day.\"</blockquote>\n\nThis resonates with the broader shift we're seeing. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> identified a crucial pattern: <a href=\"https://x.com/zarazhangrui/status/2064835289559023958\">\"People should build agents/skills for their cross-functional teams\"</a> rather than just for themselves. The future of work isn't just about individual productivity—it's about creating intelligent interfaces between teams.\n\nThe community is also grappling with market dynamics. Zhang noted that <a href=\"https://x.com/zarazhangrui/status/2064825302359150870\">\"most startups in San Francisco are selling products to each other\"</a>, with 90% targeting \"engineering and product teams, AI-native startups.\" It's a valid concern about building for the 99% rather than just the tech-savvy 1%.\n\nThe day ended with <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> highlighting <a href=\"https://x.com/garrytan/status/2064947145652994510\">Nessie's integration capabilities</a>, calling it \"the best way to get all your existing context, memory and history from ChatGPT, Perplexity, and Gemini into all the other places.\" It's infrastructure that makes the AI ecosystem more interoperable—exactly what we need as tools multiply.\n\nToday feels like we're witnessing the maturation of AI from impressive demos to reliable infrastructure. The workflows are changing, the tools are stabilizing, and the community is thinking seriously about building for everyone, not just early adopters.",
+  "html_zh": "<p class=\"lead\">随着Anthropic推出Claude Fable 5，AI工具正在重新定义我们对智能助手的期待。而与此同时，从企业宕机到开发者生产力激增，人工智能生态系统正经历着前所未有的增长和挑战。</p>\n\n<h2>**Claude Fable 5：重新定义AI工作流程**</h2>\n\n<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 用Fable编辑了自己的产品发布视频，展示了这个模型的惊人能力：<blockquote>很多人问我如何使用Fable来编辑它自己的发布视频，所以我制作了一个关于这个的视频！简而言之，它写了很多代码和工具调用来使用转录服务、ffmpeg、调色、使用figma mcp、制作remotion UI并渲染它。我没有碰过视频编辑器。</blockquote> <a href=\"https://x.com/trq212/status/2064826394589442448\">观看视频</a>了解完整过程。\n\n在一次深入的播客访谈中，Anthropic Labs负责人<a href=\"https://x.com/mkrieger\" data-handle=\"mkrieger\">Mike Krieger</a>分享了长期使用Fable的感受。他描述了一个有趣的转变：<blockquote>我会和Claude道晚安，给它设置一个相当复杂的任务，然后醒来时发现——实际上，通常在凌晨两点就完成了，然后它就在接下来的四个小时里无所事事。但它真的具有令人印象深刻的能力来完成整个任务，让自己脱离困境。</blockquote> <a href=\"https://www.youtube.com/watch?v=XWpTgCvgYaE\">收听完整播客</a>。\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box的CEO Aaron Levie</a>分享了Fable在企业复杂知识工作中的突破性表现，在多个行业评估中都显示出显著改进。他特别提到：<blockquote>Fable与Opus 4.8相比的主要区别在于它在复杂推理上不走捷径，多步计算准确，并且在多次运行中显著更加一致。</blockquote>\n\n<h2>**基础设施起伏：当AI服务遇到现实挑战**</h2>\n\nGoogle的Gemini服务经历了一次重大宕机。<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a>及时更新了状态：<blockquote>提醒：Gemini目前正在经历故障。我们正在处理，会尽快恢复一切正常。一些修复已经完成，其余的很快就会到来。</blockquote> 随后他确认<a href=\"https://x.com/joshwoodward/status/2064869366290841716\">一切已经恢复正常</a>。\n\n与此同时，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a>注意到了一个有趣现象：<blockquote>可以确认，我们看到过去48小时内Codex的token消费增长出现了强劲飙升。当我们没有发布任何东西时，这很不寻常。</blockquote> 这暗示了用户对AI编程工具需求的自发增长。\n\n<h2>**开发者文化的新范式**</h2>\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>发出了一个重要观点，挑战传统的职业发展路径：<blockquote>给自己构建的权利。传统的职业阶梯推动每个人成为领导者，但我只想成为构建者。随着你在大多数公司攀登阶梯，你被期望远离构建，用产品评审、跨职能协调、向上管理和绩效校准来填满你的时间。</blockquote>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a>提出了一个有趣的观察：<blockquote>看起来旧金山的大多数初创公司都在向彼此销售产品。当我问创始人他们的目标受众是谁时，90%的时间答案是\"工程和产品团队，AI原生初创公司\"。感觉同一小群目标受众被一百万个产品轰炸，而很少有人为世界上99%的人构建。</blockquote>\n\n她还分享了关于跨功能团队AI工具的洞察：<blockquote>人们应该为他们的跨功能团队构建代理/技能。例如，如果设计团队为营销团队构建设计代理/技能（基于所有品牌指导方针和设计模式训练），那么营销团队可以制作更多符合品牌的资产，而不必每次都打扰设计师。</blockquote>\n\n<h2>**企业AI应用的实用智慧**</h2>\n\n<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">一位前Gemini早期用户</a>分享了企业客户在质量/成本权衡上的经验教训：<blockquote>从Gemini早期开始，企业就会在质量/成本权衡上犯错。他们经常从最小、最便宜的模型开始。我们给客户的经验法则是：用LLM替换传统ML模型——从小开始，因为你已经知道好的结果是什么样子。构建新东西——从最有能力的模型开始。魔法般地思考。首先弄清楚什么是真正可能的。</blockquote>\n\n<hr>\n\n今天的AI世界展现了一个有趣的对比：一方面，像Fable这样的先进模型正在重新定义可能性的边界；另一方面，基础设施的挑战和市场的现实提醒我们，我们仍处于这个变革的早期阶段。随着越来越多的企业和开发者找到AI工具的实际应用场景，我们正在见证从实验转向生产的关键转折点。"
+}
