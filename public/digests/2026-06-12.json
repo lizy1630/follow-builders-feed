@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T07:57:08.681Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is finding its groove — from OpenAI snapping up coding talent to Google's agentic architecture finally clicking, the infrastructure for AI-assisted everything is crystallizing into something developers can actually use.</p>\n\n<h2>The Acquisition Wave Accelerates</h2>\n\nBig tech's talent grab continues with <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> welcoming <a href=\"https://x.com/ona_hq\" data-handle=\"ona_hq\">Ona</a> to the OpenAI family. The move signals continued consolidation in the coding AI space, with <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> expressing enthusiasm about joining forces to \"build the future.\"\n\n<blockquote>\"Beyond excited to work with Johannes and team to build the future,\" <a href=\"https://x.com/thsottiaux/status/2065193272952422852\">Sottiaux tweeted</a>.</blockquote>\n\nThe timing is telling — as <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> noted, there's <a href=\"https://x.com/swyx/status/2065176231453282777\">\"alpha on what's next for Codex\"</a> in Ona's recent presentations. This acquisition-to-integration pipeline is becoming the standard playbook for incorporating specialized AI tooling into larger platforms.\n\n<h2>Google's Agentic Through-Line Takes Shape</h2>\n\nPerhaps the most significant development is Google's architectural shift toward what <a href=\"https://www.youtube.com/watch?v=cMAs8z2dehs\">Logan Kilpatrick calls</a> \"antigravity\" — a unified agent harness powering everything from search to the Gemini app.\n\n<blockquote>\"Historically, prior to Gemini, there actually wasn't a through line for the probably sub 100 number of Google products that we have,\" Kilpatrick explained on the Training Data podcast. \"We had Gemini. It became this through line. Everything is now sort of using Gemini in some way. That's now becoming true for anti gravity.\"</blockquote>\n\nThis represents a fundamental shift from models-as-APIs to agents-as-infrastructure. The same harness that powers Google AI Studio's coding features now drives agentic capabilities across Google's entire product suite. It's a bet that the future isn't just about better language models, but about better agent orchestration.\n\n<h2>The Vibecoding Renaissance</h2>\n\nThe developer experience is having a moment, with <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> capturing what many are feeling about modern AI-assisted development:\n\n<blockquote>\"For the first time, I'm vibecoding with ZERO frustration and in a complete state of flow,\" <a href=\"https://x.com/amasad/status/2065236013627351551\">Masad tweeted</a>, \"so much so that I'm running out of ideas... I'm almost certain I don't need more IQ for vibecoding, just cheaper and faster models, and we're done here.\"</blockquote>\n\nYet challenges remain. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> found himself <a href=\"https://x.com/danshipper/status/2065269582961737957\">falling back to Codex</a> after Fable triggered safeguards and switched to a less capable model mid-project. The experience gap between the best and worst AI coding tools remains stark.\n\nMeanwhile, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> is building his own solution, frustrated that existing platforms don't \"really close the loop for you in terms of setting you on the right path with errors and pinging you when shit fails.\" His vision: <a href=\"https://x.com/swyx/status/2065264832056889711\">\"One Thing\"</a> that swallows up all the disparate monitoring and deployment tools.\n\n<h2>The Great Abstraction</h2>\n\n<a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx's</a> broader point about \"loopcraft\" deserves attention. <a href=\"https://x.com/swyx/status/2065307558198567206\">He argues</a> that the next century's competitive advantage will be \"to stack loops as effectively as possible\" — knowing when to go down a level for reliability and when to go up for leverage as models improve.\n\nThis mirrors what's happening across the industry. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> showcased a <a href=\"https://x.com/rauchg/status/2065116986678624419\">Shopify storefront built with v0 and Cursor</a> that processed \"500+ orders in 2 minutes,\" calling it proof that \"anyone can now dream → build → ship → sell.\" \n\nThe most interesting pattern may be what <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> observed in Box's survey of 1,640 IT leaders: <a href=\"https://x.com/levie/status/2065287110744297809\">\"the companies that adopted AI the most are planning to grow headcount the most.\"</a> Rather than replacing work, AI seems to be creating capacity for more ambitious projects.\n\n<hr>\n\nAs the infrastructure stabilizes and the tools mature, we're witnessing the emergence of what might be called \"AI-native\" development workflows. The question isn't whether AI will transform how we build software — it's whether developers can adapt their loops fast enough to capitalize on the leverage.",
+  "html_zh": "<p class=\"lead\">随着AI代理系统从实验室迈向真实生产环境，硅谷的工程团队正在重新定义自动化的边界——从代码生成到电商构建，再到企业级安全防护，这些突破性进展预示着一个全新的计算时代正在到来。</p>\n\n<h2>代理时代的安全边界</h2>\n\nAnthropic工程团队今天分享了一份详细的技术报告，揭示了他们如何在不同产品中安全部署Claude代理系统。<a href=\"https://www.anthropic.com/engineering/how-we-contain-claude\" data-handle=\"anthropic\">报告</a>坦承了一个令人深思的现实：\n\n<blockquote>\"12个月前，我们会直接拒绝让Claude获得足以影响Anthropic内部服务的访问权限。如今，这种级别的访问已成为常规操作，Anthropic开发者的工作效率也因此提升。\"</blockquote>\n\n这种转变背后的核心挑战是\"爆炸半径\"的管控。当代理系统能够完成原本需要一个人甚至整个团队的工作时，部署的价值变得巨大，但潜在的风险也同步增长。Anthropic通过三层防护体系——环境控制、模型约束和工具限制——来应对这一挑战。\n\n值得注意的是，他们发现人工监督存在明显缺陷：用户对权限请求的批准率高达93%，随着批准次数增加，用户注意力逐渐下降，监督质量显著降低。这一发现推动了从\"监督代理行为\"向\"限制代理能力\"的策略转变。\n\n<h2>开发者工具的革命性突破</h2>\n\n在Google I/O大会之后，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Logan Kilpatrick</a>在最新播客中分享了Google对代理AI的愿景。<a href=\"https://www.youtube.com/watch?v=cMAs8z2dehs\">观看：Training Data播客</a>中，他描述了一个令人惊叹的实时视频编辑演示：\n\n<blockquote>\"我在台上演讲时，有人在现场用Omni实时编辑了一段视频，让一只狗出现在舞台上。在编辑后的版本中，其他嘉宾看到狗时会轻笑，狗跳到我腿上，我一边继续演讲一边抚摸它。模型在处理这些微妙细节方面表现出色。\"</blockquote>\n\n<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a>从另一个角度思考了开发者体验的问题。<a href=\"https://x.com/swyx/status/2065264832056889711\">他指出</a>当前平台的核心缺陷：\n\n<blockquote>\"推动我构建自己的振动编码平台的首要原因是，现有平台——无论是Vercel、Cloudflare还是Netlify——都没有真正为你完成错误处理和故障通知的闭环。每个项目都需要设置太多'网站管理员'基础设施，我只想一次性解决这些问题。\"</blockquote>\n\n<h2>振动编码的黄金时代</h2>\n\n<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>的体验代表了当前AI编程工具的巅峰状态。<a href=\"https://x.com/amasad/status/2065236013627351551\">他兴奋地分享道</a>：\n\n<blockquote>\"这是我第一次在完全零挫败感和完整心流状态下进行振动编码，以至于我快没有新想法了。通常我有大量想要添加的功能积压，但在Fable登陆Replit后，我几乎确信振动编码不再需要更多智商，只需要更便宜、更快的模型，我们就完成了。\"</blockquote>\n\n这种体验的提升也反映在商业成果上。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>展示了<a href=\"https://x.com/rauchg/status/2065116986678624419\">一个令人印象深刻的案例</a>：使用v0和Cursor AI构建的Shopify店面在2分钟内处理了500多个订单。\n\n然而，并非所有体验都如此顺畅。<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>遇到了现实的限制：<a href=\"https://x.com/danshipper/status/2065269582961737957\">\"设置了一个大型Fable项目让它运行，一小时后回来发现它触发了安全保护措施，10分钟后就回退到了4.8版本。又回到Codex了😬\"</a>\n\n<h3>行业整合加速</h3>\n\nOpenAI继续扩大其生态系统，<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>对<a href=\"https://x.com/sama/status/2065160791205310565\">Ona团队加入表示期待</a>。同时，开发者们也在探索新的协作模式，<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Seifert</a>甚至<a href=\"https://x.com/steipete/status/2065176989359808636\">让Chris通过Codex提交了PR</a>。\n\n<h2>AI对就业市场的积极影响</h2>\n\nBox公司的一项调查为AI就业影响的讨论提供了新视角。<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>分享了<a href=\"https://x.com/levie/status/2065287110744297809\">关键发现</a>：\n\n<blockquote>\"我们调查了美国、日本和欧洲的1,640名IT领导者关于代理AI采用情况。一个突出发现是，采用AI最多的公司计划增长最多的员工数量。最具生产力的公司希望（并且能够）将收益再投资回业务中以保持增长势头。这导致需要更多人来完成工作。\"</blockquote>\n\n这一发现挑战了AI将大规模消除就业机会的悲观预测。相反，数据显示AI提升生产力的公司正在启动更多工程项目、服务更多客户、自动化更多流程，最终创造了更多需要人力完成的工作。\n\n<hr>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Lunagaria</a>的话或许最好地总结了这个时代的机遇：<a href=\"https://x.com/nikunj/status/2065075361969500162\">\"你从事的工作从未如此重要。确保它有趣。确保它极其雄心勃勃。这就是最大的护城河。\"</a></p>"
+}
