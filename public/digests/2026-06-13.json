@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-13T07:35:17.796Z",
+  "builders": {
+    "karpathy": {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like training large deep neural nets.",
+      "twitter": "https://x.com/karpathy"
+    },
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: AI Vibe Check: Lab Wars, Why APIs Might Vanish &amp; Future Predictions",
+      "url": "https://www.youtube.com/watch?v=W_iO8XxgD_I"
+    }
+  },
+  "html_en": "<p class=\"lead\">As we enter 2026, a clear divide is emerging between AI's promise and practice — while SpaceX captures imaginations and new models promise superhuman capabilities, the industry wrestles with access restrictions, tooling bottlenecks, and the sobering realities of building with AI at scale.</p>\n\n<h2>The Great AI Access Clampdown</h2>\n\nThe AI landscape took a regulatory turn this week as reports emerged of access restrictions hitting frontier models. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> voiced what many were thinking: <blockquote>\"Suspending Fable for all 'foreign person inside the US' is wild. How can you even enforce this properly?\"</blockquote> <a href=\"https://x.com/petergyang/status/2065602691850764667\">The enforcement challenges</a> are just one facet of a broader shift.\n\n<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> from Replit was more direct about the implications: <blockquote>\"Sounds like we're going to have turn off access to Fable.\"</blockquote> <a href=\"https://x.com/amasad/status/2065600809224814835\">The ripple effects</a> are already being felt across the ecosystem.\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> captured the moment's significance: <blockquote>\"This is a big turning point for AI regulation. The government is starting to deem some models too powerful for certain uses, which creates a precedent for a range of possible controls in the future.\"</blockquote> His assessment was nuanced: while he believes we should regulate AI use rather than underlying models, <a href=\"https://x.com/levie/status/2065616509666472329\">\"it's unlikely that we're going back to a world where the government doesn't have far more meaningful involvement in the rate of AI progress.\"</a>\n\nThe identity verification requirements aren't far behind. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Yang predicted</a>: <blockquote>\"ID verification will soon be required to access the best models.\"</blockquote> <a href=\"https://x.com/petergyang/status/2065622592309039449\">The era of anonymous AI access</a> appears to be drawing to a close.\n\n<h2>The Great Tool Proliferation Problem</h2>\n\nBehind the headlines, builders are wrestling with a more fundamental challenge: the overwhelming abundance of AI tools. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> put it bluntly: <blockquote>\"There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day. Like I get at least 3 such requests per day. If I tried all of these products I wouldn't have time to do anything else.\"</blockquote> <a href=\"https://x.com/zarazhangrui/status/2065696088519270402\">The attention economy</a> for AI products has become brutally competitive.\n\nThis proliferation extends beyond products to the very tools we use to build software. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> raised a provocative question about our development infrastructure: <blockquote>\"After the PR dies, after the Code Review dies, i am seriously wondering if Git needs to die next. roughly 20-40% of code spend is just managing and updating merge conflicts. necessary evil? or legacy 'horseless carriage'?\"</blockquote> His vision for the future is radical: <a href=\"https://x.com/swyx/status/2065559864559145420\">\"maybe the future codebase looks more like a Notion or Linear database than .git objects.\"</a>\n\n<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> offered a sobering perspective on how AI coding tools are being used in practice: <blockquote>\"Everyone thinks AI coding tools set founders free. Watch what people actually build with them: rules, approvals, process, layers. The same cage, assembled faster.\"</blockquote> His warning resonates: <a href=\"https://x.com/garrytan/status/2065416181943865611\">\"Speed of construction is speed of calcification.\"</a>\n\n<h2>The Quest for Better Agent Infrastructure</h2>\n\nWhile the industry grapples with these macro challenges, significant progress is being made in agent infrastructure. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> announced a major step forward: <blockquote>\"We just shipped HarnessAgent, a unified abstraction to orchestrate and integrate any agent's 'brain' into your app. @aisdk now frees you from both model and agent lock-in.\"</blockquote> <a href=\"https://x.com/rauchg/status/2065520041894756480\">The Vercel AI SDK</a> is positioning itself as infrastructure for the post-lock-in world.\n\nAnthropic simultaneously shipped major updates to their Managed Agents platform. Their <a href=\"https://www.anthropic.com/engineering/managed-agents\">engineering blog post</a> detailed a fundamental architectural shift: decoupling the \"brain\" (Claude and its harness) from the \"hands\" (sandboxes and tools). As they explain, <blockquote>\"A common thread across this work is that harnesses encode assumptions about what Claude can't do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve.\"</blockquote>\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Peters</a> provided a glimpse into the future of AI-assisted development: <blockquote>\"Codex runs INSIDE crabbox while it is building crabbox. This is becoming essential infra for my work. Codex been looping nonstop for the last 4 days in multiple trees.\"</blockquote> The vision is striking: <a href=\"https://x.com/steipete/status/2065650561484267540\">\"Since all of it is e2e verifiable it basically builds itself.\"</a>\n\n<h2>When Models Meet Reality</h2>\n\nThe gap between AI capabilities and user experience came into sharp focus with Anthropic's detailed <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">postmortem</a> about recent Claude Code quality issues. Three separate bugs created what appeared to be broad model degradation: a reasoning effort default change, a caching bug that made Claude \"forgetful and repetitive,\" and a verbosity instruction that hurt coding quality.\n\nTheir candid assessment reveals the complexity of shipping AI products: <blockquote>\"Because each change affected a different slice of traffic on a different schedule, the aggregate effect looked like broad, inconsistent degradation.\"</blockquote> The company acknowledged that <blockquote>\"they were challenging to distinguish from normal variation in user feedback at first.\"</blockquote>\n\n<a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> shared insights about working with Fable's capabilities: <blockquote>\"Fable feels superhuman at working over long agentic conversations, sometimes to the point where I can't keep up with what it's telling me 😅\"</blockquote> His solution highlights the human side of AI advancement: <a href=\"https://x.com/alexalbert__/status/2065493229760565758\">prompting techniques to help the model communicate more clearly</a>.\n\n<hr>\n\nAs SpaceX captures the world's imagination with its engineering feats — earning praise from AI luminaries like <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> who called it mind-blowing \"in 10+ different ways\" — the AI industry continues its own complex trajectory toward an uncertain future. The tools are becoming more powerful, the access more restricted, and the challenge of building useful applications more nuanced than ever.",
+  "html_zh": "<p class=\"lead\">随着监管收紧和竞争加剧，AI行业正迎来关键转折点——从开放走向封闭，从实验走向商业化，从工具走向真正的生产力革命。</p>\n\n<h2>监管风暴：AI模型进入\"分级管控\"时代</h2>\n\n美国政府对AI模型的监管正在收紧，并开始对特定模型实施使用限制。这一转变引发了业界关于监管方向的激烈讨论。\n\n<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 直言不讳地指出：<blockquote>\"身份验证很快就会成为访问最佳模型的必要条件\"</blockquote>，同时对Fable对\"在美国境内的外国人\"实施的暂停服务表示困惑。\n\n<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 认为这标志着一个重要转折点：<blockquote>\"政府开始认为某些模型对某些用途来说过于强大，这为未来可能的一系列控制措施创造了先例。我倾向于认为这是不必要的，我们应该主要监管AI的使用，而不是底层模型。\"</blockquote>\n\n多家公司已经开始响应监管要求。<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit CEO Amjad Masad</a> <a href=\"https://x.com/amasad/status/2065600809224814835\">表示</a>可能需要关闭对Fable的访问，显示出监管压力对实际业务运营的直接影响。\n\n<hr>\n\n<h2>开源模型的黄昏？巨头们的战略转向</h2>\n\n在最新的AI Vibe Check播客中，业界专家们讨论了开源AI模型面临的严峻挑战。来自Datalogy的前DeepMind和Meta研究员Ari，以及Radical Ventures的Rob深入探讨了这一趋势。\n\n<blockquote>\"过去几个月出现的早期迹象让我质疑，开放权重AI是否还能继续在生态系统中发挥真正有意义的作用\"</blockquote>，Rob在播客中表示。他指出，Meta这个历史上西方开放权重模型的倡导者正在退缩，而中国实验室也开始将最高性能的模型保持在API后面。\n\n<a href=\"https://www.youtube.com/watch?v=W_iO8XxgD_I\">收听完整播客：AI Vibe Check</a>\n\nAri同意这一观点，补充道：<blockquote>\"我对未来会有多少开源模型变得更加悲观。看起来我们可能已经达到了开源模型数量的峰值，现在会越来越少。因为财务激励根本说不通。\"</blockquote>\n\n这一转变的背后是巨大的计算成本和商业现实。公司需要从托管推理中获得收入，而开源模型完全破坏了这种商业模式。\n\n<hr>\n\n<h2>代理革命：从编程到管理的转变</h2>\n\nAI编程代理的能力提升正在重新定义软件开发流程。多位开发者分享了他们的实际使用体验，展现出这一技术的变革潜力。\n\n<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Stefan Steipete</a> <a href=\"https://x.com/steipete/status/2065650561484267540\">分享</a>了他的震撼体验：<blockquote>\"我几乎跟不上实施/测试/落地所有人们提交给crabbox的Issues/PRs...Codex在构建crabbox的同时在crabbox内部运行。这正在成为我工作的基础设施。\"</blockquote>他描述Codex已经连续运行4天，甚至能自动注册服务。\n\n这种转变并非没有挑战。在播客中，Ari指出：<blockquote>\"现在更容易产生大量能做某些事情的代码。但现在你有了相当大的理解差距，更容易在代码库中放入垃圾。\"</blockquote>\n\n<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">YC总裁Garry Tan</a> 对此有更深层的思考：<blockquote>\"每个人都认为AI编程工具解放了创始人。看看人们用它们实际构建的东西：规则、审批、流程、层级。同样的笼子，只是组装得更快。\"</blockquote>\n\n<hr>\n\n<h2>技术突破与基础设施演进</h2>\n\n<h3>Claude的质量问题与修复</h3>\n\nAnthropic发布了关于近期Claude Code质量报告的<a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">详细事后分析</a>。公司确认了三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork的表现，所有问题已在4月20日得到解决。\n\n<a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> 分享了改善Fable使用体验的技巧：<blockquote>\"Fable在处理长期代理对话时表现超人，有时我都跟不上它告诉我的内容😅\"</blockquote>\n\n<h3>Vercel推出HarnessAgent</h3>\n\n<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel CEO Guillermo Rauch</a> <a href=\"https://x.com/rauchg/status/2065520041894756480\">宣布</a>推出HarnessAgent：<blockquote>\"我们刚刚发布了HarnessAgent，这是一个统一的抽象，用于编排和集成任何代理的'大脑'到您的应用程序中。@aisdk现在让您摆脱模型和代理锁定。\"</blockquote>\n\n<h3>Managed Agents的重大更新</h3>\n\nAnthropic发布了<a href=\"https://claude.com/blog/claude-managed-agents-updates\">Claude Managed Agents的重大更新</a>，新增自托管沙箱和MCP隧道功能。这些更新允许企业在自己的基础设施内运行代理，同时保持安全边界和合规性要求。\n\n<hr>\n\n<h2>行业脉搏：竞争与机遇并存</h2>\n\n<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> <a href=\"https://x.com/zarazhangrui/status/2065696088519270402\">感叹</a>AI产品竞争的激烈程度：<blockquote>\"每天都有太多人——朋友、熟人、关注者、初创公司，要求我试用他们的新AI产品...如果我试用所有这些产品，我就没有时间做其他任何事情了。\"</blockquote>\n\n在这个充满变化的时刻，从SpaceX的成功到AI监管的收紧，从开源模型的衰落到代理能力的提升，AI行业正在经历深刻的结构性转变。正如<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> <a href=\"https://x.com/karpathy/status/2065490793092337691\">对SpaceX的赞叹</a>：<blockquote>\"对SpaceX及其故事——过去、现在和未来——感到敬畏。你可以从10多个不同角度思考它，并继续循环地重新震撼你的思维。\"</blockquote>\n\nAI行业也正是如此——每一天都在重新定义可能性的边界。"
+}
