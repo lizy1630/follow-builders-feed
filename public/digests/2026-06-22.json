@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-22T08:29:37.749Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs"
+    }
+  },
+  "html_en": "<p class=\"lead\">The agentic era is no longer a talking point — it's a product strategy, a business model question, and increasingly, a personal philosophy about how we relate to the tools we're building with.</p>\n\n<hr>\n\n<h2>🧠 Google's Grand Unification Theory: The Agent Harness as Through Line</h2>\n\n<p>The most substantive conversation of the day came from the <em>Training Data</em> podcast, where <a href=\"https://x.com/logankilpatrick\" data-handle=\"logankilpatrick\">Logan Kilpatrick</a> — who runs Google AI Studio and the Gemini API — laid out Google's architectural bet on what they're calling \"Antigravity,\" an agent harness that's quietly becoming the connective tissue of every Google product.</p>\n\n<blockquote>\n\"Historically, prior to Gemini, there actually wasn't a through line for the 50 Google products we have. We had Gemini. It became this through line. Everything is now sort of using Gemini in some way. That's now becoming true for Antigravity as sort of all of the products rebase to become agentic native products — actually taking action on behalf of users and helping them get things done.\" — Logan Kilpatrick\n</blockquote>\n\n<p>The framing is striking: if Gemini was the model-as-through-line, Antigravity is the harness-as-through-line. Coding agents proved the concept, but the harness itself is general purpose — specialized slightly for vibe coding in AI Studio, differently for the always-on consumer Gemini app.</p>\n\n<blockquote>\n\"Coding has proved to be the general purpose agent harness in addition to also working really well for coding.\" — Logan Kilpatrick\n</blockquote>\n\n<p>On the cannibalization question — does agentic AI eat Google's own search and eyeball hours? — Kilpatrick offered cautious optimism: search volumes are actually <em>up</em> in the AI era, because agents are searching too. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=cMAs8z2dehs\">Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness</a></p>\n\n<hr>\n\n<h2>🌐 Routing Intelligence: The Hot New Architectural Layer</h2>\n\n<p>While Google bets on a unified harness, others are betting on orchestration above the model layer. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> highlighted Sakana AI's new \"Fugu\" system, which acts as a single API that automatically routes tasks to whichever model handles them best:</p>\n\n<blockquote>\n\"Fugu manages model selection, delegation, verification, and synthesis automatically. It solves tasks directly when that is enough, or coordinates a team of expert models when a problem calls for more. The complexity of a multi-agent system never reaches your code.\" — <a href=\"https://x.com/levie/status/2068917230570795178\">@levie</a>\n</blockquote>\n\n<p>Levie notes this is already how sophisticated applied AI teams build internally — the novelty is exposing it as a clean developer primitive. Not everyone is convinced, though. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> was characteristically blunt: <a href=\"https://x.com/steipete/status/2068960117253632160\">\"I was skeptical about the multi-model routing. Seems my hunch was right.\"</a></p>\n\n<hr>\n\n<h2>📦 The Headless Software Thesis — and Why Agents Change Everything</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Levie</a> also articulated what might be the defining enterprise software thesis of the next few years: when agents become the primary users of software, the value of that software goes <em>up</em>, not down.</p>\n\n<blockquote>\n\"Agents will use software 100X more than people. A simple query on any given agentic task could pull in more data than a user touches in a month. As a result, there are lots of categories of software that when it goes headless, the usage and value go up substantially.\" — <a href=\"https://x.com/levie/status/2068851573175021864\">@levie</a>\n</blockquote>\n\n<p>The corollary: platforms that can't support headless, agent-driven interactions — with proper guardrails, audit logs, and data governance — will be left behind. This is a direct challenge to every SaaS company still optimizing for human UI.</p>\n\n<hr>\n\n<h2>✍️ Context is Everything: Fighting AI Slop at the Source</h2>\n\n<p>Two practitioners offered complementary takes on quality in AI-generated output. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> proposed a simple heuristic:</p>\n\n<blockquote>\n\"A good rule of thumb for preventing AI slop: Is your input (the context) longer than the output? I've found that for the AI to produce quality results, my input is often 3-5 times the length of the output. If your input is much shorter than the output, it's almost certainly going to produce slop.\" — <a href=\"https://x.com/zarazhangrui/status/2068923768500793603\">@zarazhangrui</a>\n</blockquote>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> framed the same idea at a systems level — intelligence is table stakes; personal context is the moat:</p>\n\n<blockquote>\n\"AGI gives you the intelligence. You still have to collect your personal context to get the real unlock.\" — <a href=\"https://x.com/garrytan/status/2068701356358308112\">@garrytan</a>\n</blockquote>\n\n<p>It's a useful distinction. Models are becoming commodities. The irreplaceable layer is the accumulated, structured context of your life and work — which is why Tan open-sourced <a href=\"https://x.com/garrytan/status/2068701357696323769\">GBrain</a>, his own personal knowledge system.</p>\n\n<p>And on the craft side, <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> cheered the irrational commitment quality requires: <a href=\"https://x.com/thenanyu/status/2068778750800531640\">\"You have to have an irrational level of commitment to constantly choose quality and an irrational level of self-belief that controlling things top to bottom will yield better results than using common frameworks.\"</a></p>\n\n<hr>\n\n<h2>🛠️ Builder Notes: Tokens, Bookshelves, and the IKEA Effect</h2>\n\n<p>A few lighter dispatches from the builder community worth noting. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> from the Codex team is actively soliciting feedback — <a href=\"https://x.com/thsottiaux/status/2068736857312198928\">\"What should we improve in the Codex app? What's not delightful?\"</a> — and asking whether users hoard or burn their banked usage resets. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> captured the psychology perfectly: immigrant scarcity mindset meets unlimited token plans, and suddenly burning compute feels like leaving money on the table.</p>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> offered the most quotable line of the day on AI coding assistants: <a href=\"https://x.com/rauchg/status/2068778558672273422\">\"Coding agents will squeeze every ounce of IKEA effect out of you, if you let them.\"</a> Build something yourself and you'll love it more — even if an agent could have done it faster.</p>\n\n<p>And <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> shipped something genuinely charming: a <a href=\"https://x.com/ryolu_/status/2068923971136098633\">Books app for ryOS</a>, started in Cursor mobile and hand-tuned until the animations and textures \"felt right.\" The video of wooden bookshelves rendering in a browser OS has earned its viral moment. Sometimes the best demo is just vibes, executed well.</p>",
+  "html_zh": "<p class=\"lead\">当AI代理开始比人类更频繁地使用软件，整个科技行业的底层逻辑正在悄然重写——从模型路由到个人知识库，从\"无头\"企业软件到HTML视频生成，今天的讨论揭示了一个正在成形的新秩序。</p>\n\n<h2>🤖 模型吃掉了工具链：Google的\"反重力\"野心</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=cMAs8z2dehs\">Training Data — Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness</a></p>\n\n<p>Google AI Studio负责人 <a href=\"https://x.com/logankilpatrick\" data-handle=\"logankilpatrick\">Logan Kilpatrick</a> 在播客中透露，Google内部正在用一套名为\"Antigravity\"的智能体框架重新串联旗下所有产品——从搜索到Gmail，从Gemini App到Cloud。这不再只是一个API，而是一套通用的\"agent harness\"。</p>\n\n<blockquote>\n\"历史上，在Gemini之前，Google几十款产品之间并没有一条贯穿线。Gemini成为了这条线。而现在，Antigravity正在成为新的贯穿线——所有产品都在向'智能体原生'迁移，真正代替用户采取行动、完成任务。\"<br>\n— Logan Kilpatrick\n</blockquote>\n\n<p>更有意思的洞察来自对\"编程工具\"定位的重新诠释：Kilpatrick认为，代码智能体其实已经证明自己是<strong>通用智能体框架</strong>，编程只是它最擅长的一个用例，而不是它的全部。</p>\n\n<p>至于外界担心的\"AI是否会蚕食Google自身业务\"，Kilpatrick的回应颇为乐观：</p>\n\n<blockquote>\n\"最初所有人都以为AI能回答问题，会对搜索造成负和影响。结果恰恰相反——这对搜索是极大的正和。人们搜索得更多了，智能体也在搜索，整个生态的价值在增长。\"\n</blockquote>\n\n<hr>\n\n<h2>📦 软件的\"无头化\"时代：智能体将成最大用户</h2>\n\n<p>Box创始人 <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 今天发了一段颇具战略眼光的分析，值得每一个企业软件从业者认真读完。他的核心判断：<strong>智能体使用软件的频率将是人类的100倍。</strong></p>\n\n<blockquote>\n\"一次简单的智能体任务查询，可能拉取的数据量比一个用户一个月触碰的还要多。CRM数据、企业文档、知识库、分析数据——智能体对这些的使用将远超人类。能够支撑这种'无头交互'模式、并拥有相应商业模式和技术策略的平台，才会在未来占据最有利的位置。\"<br>\n— <a href=\"https://x.com/levie/status/2068851573175021864\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这意味着软件产品需要为\"没有人类眼球\"的使用场景重新设计：权限控制、数据审计、智能体协作——这些将成为下一代企业软件的核心竞争力，而非锦上添花的功能。</p>\n\n<hr>\n\n<h2>🧠 AGI给你智能，但你还需要自己的\"大脑\"</h2>\n\n<p>YC合伙人 <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 今天提出了一个被严重低估的观点：在\"可用AGI黎明\"的2026年，通用智能已经唾手可得，但真正的杠杆来自于<strong>个人和企业上下文的积累</strong>。</p>\n\n<blockquote>\n\"AGI给你智能。但你还必须收集自己的个人上下文，才能真正解锁它。\"<br>\n— <a href=\"https://x.com/garrytan/status/2068701356358308112\" data-handle=\"garrytan\">@garrytan</a>\n</blockquote>\n\n<p>这也是他开源 GBrain 项目的初衷——不是为了构建另一个AI工具，而是为了让每个人都能拥有属于自己的\"第二大脑\"。在模型能力趋于平等的未来，谁掌握的上下文更丰富、更结构化，谁就拥有真正的竞争优势。</p>\n\n<p>与此呼应，<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 给出了一条防止AI输出\"糟粕\"的实用法则：</p>\n\n<blockquote>\n\"一个判断AI是否会产出劣质内容的经验法则：你的输入（上下文）是否比输出更长？我发现要让AI产出高质量结果，我的输入通常是输出的3到5倍。如果输入远短于输出，结果几乎必然是垃圾。\"<br>\n— <a href=\"https://x.com/zarazhangrui/status/2068923768500793603\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<hr>\n\n<h2>🛠️ 构建者实验室：HTML视频、ryOS书架与模型路由之争</h2>\n\n<p>今天的\"构建者频道\"里，几个有趣的实验值得关注。</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 分享了一个关于AI视频生成的洞见，来自 @liu8in 的实践总结：</p>\n\n<blockquote>\n\"我们一直在尝试构建视频智能体，却发现智能体根本没有视觉智能。于是我们转向了代码。HTML是LLM的母语——LLM不仅能通过HTML、CSS和JavaScript表达信息，还能表达视觉美感。素材、图片、资源、SVG都可以叠加在HTML之上。\"\n</blockquote>\n\n<p>这一思路——用代码而非视觉感知驱动视频生成——是一个颇具启发性的架构转向。</p>\n\n<p>独立开发者 <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> 则在自己的 ryOS 系统里<a href=\"https://x.com/ryolu_/status/2068923971136098633\">构建了一个虚拟书架</a>，从 Cursor mobile 起步，手动调整动画和纹理直到\"感觉对了\"——这种对细节的偏执让人联想到 <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 转发的那句话：</p>\n\n<blockquote>\n\"'质量是非理性的'——这是一个绝妙的描述。你必须有一种非理性程度的承诺，不断选择质量；还要有一种非理性程度的自信，相信从头到尾自己掌控一切，会比使用通用框架产出更好的结果。\"\n</blockquote>\n\n<p>而在模型路由赛道，<a href=\"https://x.com/levie\" data-handle=\"levie\">Levie</a> 对 Sakana 新发布的 Fugu 模型赞赏有加——这是一个\"混合专家模型\"的API，自动把任务分发给最擅长的子模型。但 <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 持保留态度，<a href=\"https://x.com/steipete/status/2068960117253632160\">暗示自己对多模型路由的实际效果一直存疑</a>。这场争论，恐怕还需要更多真实数据来裁判。</p>\n\n<hr>\n\n<h2>💡 今日一句</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 今天的推文，是送给所有还在纠结\"要不要让AI帮我写代码\"的人的一记警醒：</p>\n\n<blockquote>\n\"代码智能体会榨干你身上每一分'宜家效应'——如果你让它们这么做的话。\"<br>\n— <a href=\"https://x.com/rauchg/status/2068778558672273422\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p><em>（\"宜家效应\"：指人们对自己亲手组装的东西赋予过高价值的心理偏见。）</em></p>"
+}

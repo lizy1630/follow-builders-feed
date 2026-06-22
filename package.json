@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "generate": "node generate.js",
+    "backfill": "node backfill.js",
     "start": "node server.js"
   },
   "dependencies": {

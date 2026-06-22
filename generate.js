@@ -131,6 +131,67 @@ Rules:
 - Start the output with a <p class="lead"> for the editorial lead paragraph.
 - Do NOT wrap output in code blocks. Output clean HTML directly.`;
 
+const MAX_DIGESTS = 14;
+
+// Generate the English + Chinese digest HTML for a feeds snapshot.
+// Returns a complete digest object (does not touch disk).
+async function generateDigest(feeds, client) {
+  const dateKey = getDateKey(feeds);
+  const builders = extractBuilders(feeds);
+  const prompt = buildPrompt(feeds);
+
+  console.log("Generating English digest...");
+  const enMessage = await client.messages.create({
+    model: "claude-sonnet-4-6",
+    max_tokens: 4096,
+    output_config: { effort: "low" },
+    system: SYSTEM_PROMPT,
+    messages: [{ role: "user", content: prompt }],
+  });
+  const html_en = enMessage.content[0].text;
+
+  console.log("Generating Chinese digest...");
+  const zhMessage = await client.messages.create({
+    model: "claude-sonnet-4-6",
+    max_tokens: 4096,
+    output_config: { effort: "low" },
+    system: SYSTEM_PROMPT + "\n\nIMPORTANT: Write the ENTIRE digest in Simplified Chinese (中文). All headlines, paragraphs, and editorial commentary must be in Chinese. Keep quotes translated to Chinese as well. Links and proper nouns (product names, company names) can remain in English.",
+    messages: [{ role: "user", content: prompt }],
+  });
+  const html_zh = zhMessage.content[0].text;
+
+  const generatedAt =
+    feeds.x?.generatedAt ||
+    feeds.podcasts?.generatedAt ||
+    feeds.blogs?.generatedAt ||
+    new Date().toISOString();
+
+  return { date: dateKey, generatedAt, builders, html_en, html_zh };
+}
+
+// Drop the least-recent digests beyond MAX_DIGESTS.
+function pruneDigests() {
+  const files = fs.readdirSync(DIGESTS_DIR)
+    .filter(f => f.endsWith(".json") && f !== "index.json")
+    .sort();
+  while (files.length > MAX_DIGESTS) {
+    const old = files.shift();
+    fs.unlinkSync(path.join(DIGESTS_DIR, old));
+    console.log(`Pruned old digest: ${old}`);
+  }
+}
+
+// Rewrite index.json from the digest files currently on disk (newest first).
+function writeIndex() {
+  const dates = fs.readdirSync(DIGESTS_DIR)
+    .filter(f => f.endsWith(".json") && f !== "index.json")
+    .map(f => f.replace(".json", ""))
+    .sort()
+    .reverse();
+  fs.writeFileSync(path.join(DIGESTS_DIR, "index.json"), JSON.stringify(dates));
+  return dates;
+}
+
 async function main() {
   // 1. Fetch feeds
   console.log("Fetching feeds...");
@@ -145,75 +206,20 @@ async function main() {
     const existing = JSON.parse(fs.readFileSync(digestPath, "utf-8"));
     if (existing.html_en && existing.html_zh) {
       console.log("Digest already exists for this date. Skipping.");
-      // Ensure index.json exists
-      const dates = fs.readdirSync(DIGESTS_DIR)
-        .filter(f => f.endsWith(".json") && f !== "index.json")
-        .map(f => f.replace(".json", ""))
-        .sort()
-        .reverse();
-      fs.writeFileSync(path.join(DIGESTS_DIR, "index.json"), JSON.stringify(dates));
+      writeIndex();
       return;
     }
   }
 
-  // 3. Extract builder profiles for tooltips
-  const builders = extractBuilders(feeds);
-
-  // 4. Call Claude API for both languages
+  // 3. Generate via Claude and save
   const client = new Anthropic();
-  const prompt = buildPrompt(feeds);
-
-  console.log("Generating English digest...");
-  const enMessage = await client.messages.create({
-    model: "claude-sonnet-4-20250514",
-    max_tokens: 4096,
-    system: SYSTEM_PROMPT,
-    messages: [{ role: "user", content: prompt }],
-  });
-  const html_en = enMessage.content[0].text;
-
-  console.log("Generating Chinese digest...");
-  const zhMessage = await client.messages.create({
-    model: "claude-sonnet-4-20250514",
-    max_tokens: 4096,
-    system: SYSTEM_PROMPT + "\n\nIMPORTANT: Write the ENTIRE digest in Simplified Chinese (中文). All headlines, paragraphs, and editorial commentary must be in Chinese. Keep quotes translated to Chinese as well. Links and proper nouns (product names, company names) can remain in English.",
-    messages: [{ role: "user", content: prompt }],
-  });
-  const html_zh = zhMessage.content[0].text;
-
-  // 5. Save to digest.json
-  const generatedAt =
-    feeds.x?.generatedAt ||
-    feeds.podcasts?.generatedAt ||
-    feeds.blogs?.generatedAt ||
-    new Date().toISOString();
-
-  const digest = {
-    date: dateKey,
-    generatedAt,
-    builders,
-    html_en,
-    html_zh,
-  };
+  const digest = await generateDigest(feeds, client);
 
   fs.writeFileSync(digestPath, JSON.stringify(digest, null, 2));
   console.log(`Digest saved to ${digestPath}`);
 
-  // Keep the 14 most recent digests; drop the least recent when full
-  const files = fs.readdirSync(DIGESTS_DIR).filter(f => f.endsWith(".json") && f !== "index.json").sort();
-  while (files.length > 14) {
-    const old = files.shift();
-    fs.unlinkSync(path.join(DIGESTS_DIR, old));
-    console.log(`Pruned old digest: ${old}`);
-  }
-
-  // Write index.json with available dates
-  const dates = fs.readdirSync(DIGESTS_DIR)
-    .filter(f => f.endsWith(".json") && f !== "index.json")
-    .map(f => f.replace(".json", ""))
-    .sort()
-    .reverse();
-  fs.writeFileSync(path.join(DIGESTS_DIR, "index.json"), JSON.stringify(dates));
+  pruneDigests();
+  const dates = writeIndex();
   console.log(`Updated index.json: ${dates.join(", ")}`);
 }
 
@@ -226,3 +232,7 @@ if (require.main === module) {
 }
 
 module.exports = main;
+module.exports.generateDigest = generateDigest;
+module.exports.pruneDigests = pruneDigests;
+module.exports.writeIndex = writeIndex;
+module.exports.DIGESTS_DIR = DIGESTS_DIR;

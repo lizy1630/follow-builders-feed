@@ -31,8 +31,9 @@ export async function onRequestPost(context) {
         "anthropic-version": "2023-06-01",
       },
       body: JSON.stringify({
-        model: "claude-sonnet-4-20250514",
+        model: "claude-sonnet-4-6",
         max_tokens: 1024,
+        output_config: { effort: "low" },
         system:
           "You are a knowledgeable AI assistant. The user has selected a piece of text from an AI industry daily digest and wants to understand it better. Provide a clear, concise explanation (2-4 sentences). If it's a person, explain who they are and why they matter. If it's a concept or term, explain it simply. If it's a quote, provide context. Be informative but brief.",
         messages: [{ role: "user", content: `Explain this: "${text.trim()}"` }],

@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T08:02:21.763Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: GitHub’s COO Explains Why AI Hasn’t Replaced Developers",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">The applied AI layer is quietly becoming one of the most defensible businesses in tech — and today's feed shows exactly why: from GitHub's staggering agent activity numbers to a broader consensus that the hard work isn't writing code, it's everything around it.</p>\n\n<h2>The Numbers Don't Lie: Agents Are Already Running the Codebase</h2>\n\n<p>GitHub COO <a href=\"https://x.com/kdaigle\" data-handle=\"kdaigle\">Kyle Daigle</a> sat down with Every for a conversation that puts some concrete figures behind the vibe-coding wave — and they're genuinely jaw-dropping. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">GitHub's COO Explains Why AI Hasn't Replaced Developers</a></p>\n\n<blockquote>\"Last year, in October at GitHub Universe, we shared there's a billion commits on GitHub for the full year. We're on track to be 14,000,000,000 if the growth is linear this year. In March, there were 17,000,000 pull requests that were created by agents. That's just the agent pull requests.\"<br>— Kyle Daigle, COO of GitHub</blockquote>\n\n<p>The flood isn't just volume — it's demographic. Daigle notes that GitHub's user base is shifting well beyond professional developers, with legal teams, finance departments, and \"knowledge workers\" all picking up the Copilot app to build small tools for themselves. The on-ramp to software creation has never been lower.</p>\n\n<p>But the deluge creates its own problems. Open source maintainers are drowning in AI-generated PRs, and GitHub is treading carefully — building filtering and control tools while deliberately <em>not</em> imposing a standard.</p>\n\n<blockquote>\"Every community is choosing a slightly different way to approach the problem... we've always wanted to leave that in their hands. We don't really ever wanna be the first to create a standard or an approach.\"<br>— Kyle Daigle</blockquote>\n\n<hr>\n\n<h2>The Applied Layer Moat Is Real — and It's Not Just the Model</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> posted what might be the most substantive framework of the day — a detailed breakdown of why the \"applied AI\" layer isn't the thin commodity wrapper skeptics predicted. His <a href=\"https://x.com/levie/status/2067455756795039957\">thread</a> deserves a full read, but the core argument is that enterprise agentic workflows require a stack of hard, sticky work that pure model intelligence won't dissolve away.</p>\n\n<blockquote>\"Build the features that bridge the gap between the intelligence and the workflow... Only the companies that have deep evals on specific tasks across all models, and the ability business model wise to leverage them, are in a great position... A big reason the applied layer works at scale is that most enterprises need some degree of help and support with change management in implementing agents for their workflows.\"<br>— Aaron Levie</blockquote>\n\n<p>Levie closes with a sharp acknowledgment of the counterargument — that raw model capability eventually renders all of this moot — and swats it aside on pragmatic grounds: \"enterprises need help changing <em>today</em>.\"</p>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> made a similar structural argument for the infrastructure layer. In a <a href=\"https://x.com/rauchg/status/2067242482190979186\">widely-shared post</a>, he pointed to GLM 5.2 — an open model — surpassing Opus 4.8 on Vercel's Next.js evals, using it as evidence that model commoditization is accelerating faster than anyone expected.</p>\n\n<blockquote>\"@aisdk is more relevant than ever, given the intense model competition landscape... the world needs a practical solution for how to build and deploy agents. Just like React needed Next.js to solve the task of building an actual web application.\"<br>— Guillermo Rauch</blockquote>\n\n<hr>\n\n<h2>OpenAI Hires Noam, Codex Goes Open</h2>\n\n<p>Two notable OpenAI signals today. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> announced the arrival of a long-coveted hire with characteristic understatement:</p>\n\n<blockquote>\"Noam is one of the people I have most wanted to work with since the very beginning of OpenAI. Only took 10 years. I think it will be worth the wait!\"<br>— <a href=\"https://x.com/sama/status/2067427421083652131\">@sama</a></blockquote>\n\n<p>On the product side, <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> dropped a reminder that's getting significant traction: Codex isn't locked to OpenAI's own models. In a <a href=\"https://x.com/thsottiaux/status/2067181377028538431\">tweet with over 6,000 likes</a>, he noted that the Codex App, CLI, and SDK all work with open source models — a quiet but meaningful signal about OpenAI's platform strategy. He also announced a \"sneaky double reset\" on Codex usage limits, to considerable community delight.</p>\n\n<hr>\n\n<h2>Taste, Voice, and the Vibe-Coding Trap</h2>\n\n<p>A quieter but worthwhile thread ran through today's feed about what gets lost when AI does too much creative lifting too soon. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> put it plainly in a <a href=\"https://x.com/zarazhangrui/status/2067423674689638652\">post</a> that's worth bookmarking:</p>\n\n<blockquote>\"Don't use AI for writing until you develop your own taste and voice... The danger is using AI to write before you've developed your taste for what is good content. If the AI produces slop, you won't even recognize it as slop.\"<br>— Zara Zhang</blockquote>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nancy Yu</a> extended the point into a broader definitional argument: <a href=\"https://x.com/thenanyu/status/2067327619897446721\">\"'taste' is not just taste in aesthetics, the same way 'design' is not just visual design. Feels like half the conversations on the subject are people talking past each other because of this distinction.\"</a></p>\n\n<p>Zhang also had a sharp observation about vibe-coded personal apps that rings true for anyone who's shipped a dozen tools they never opened again:</p>\n\n<blockquote>\"Building the thing takes a day. Finding out if you'll actually use it takes a week. Most of my dead projects worked fine. I just never opened them... Most products are built for a person who doesn't exist.\"<br>— <a href=\"https://x.com/zarazhangrui/status/2067313780724551853\">Zara Zhang</a></blockquote>\n\n<hr>\n\n<h2>Quick Hits</h2>\n\n<p><strong>Claude gets a design suite.</strong> <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> rolled out Claude Design to all paid plans, with two-way integration with Claude Code — design in one, build in the other, export to PDF or PowerPoint. A quiet but direct challenge to Figma's AI ambitions.</p>\n\n<p><strong>Replit goes full-stack creative.</strong> <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> announced <a href=\"https://x.com/amasad/status/2067363904183783833\">\"Design with Claude, Ship with Replit\"</a> — leaning into the same design-to-deployment narrative Anthropic is pushing. The ecosystem is aligning around a clear workflow.</p>\n\n<p><strong>The Fable ban math.</strong> <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> ran the numbers on productivity losses from the Fable 5 ban, arriving at <a href=\"https://x.com/garrytan/status/2067366749411176831\">~$12M per working hour</a> in lost developer output. The methodology is rough, but the directional argument — that AI coding tools are now economically significant enough that their availability is a macro variable — lands.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI圈，从工具层的激烈竞争到应用层的价值重构，一个核心问题浮出水面：当AI让每个人都能\"写代码\"，真正的护城河究竟在哪里？</p>\n\n<h2>🤖 代码的洪流：GitHub、Codex与开发者新生态</h2>\n\n<p>数字令人震撼。GitHub COO <a href=\"https://x.com/kdaigle\" data-handle=\"kdaigle\">Kyle Daigle</a> 在接受 Every 播客采访时透露，今年3月，GitHub平台上由AI Agent创建的Pull Request数量达到了<strong>1700万条</strong>——这仅仅是Agent提交的部分。</p>\n\n<blockquote>\n\"去年10月在GitHub Universe上，我们分享了全年10亿次提交的数据。而今年，如果增长是线性的——当然它不会是线性的——我们将达到140亿次提交。\"<br>\n—— Kyle Daigle，<a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Watch/Listen: GitHub's COO Explains Why AI Hasn't Replaced Developers</a>\n</blockquote>\n\n<p>面对外界\"这都是垃圾代码\"的质疑，Daigle并不认同。更现实的挑战是：开源维护者正在被PR的浪潮淹没。GitHub的回应是给维护者更多控制工具，而非强行制定统一标准——\"每个社区都在用略微不同的方式处理这个问题。\"</p>\n\n<p>与此同时，OpenAI的Codex团队也在大方撒糖。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 宣布了一次\"双重重置\"福利，并提醒用户一个常被忽视的事实：</p>\n\n<blockquote>\n\"提醒大家：Codex的App、CLI和SDK可以配合任何开源模型使用，不只限于OpenAI的模型。\"<br>\n—— <a href=\"https://x.com/thsottiaux/status/2067181377028538431\">@thsottiaux</a>\n</blockquote>\n\n<hr>\n\n<h2>🏗️ 应用层的护城河：比模型本身更复杂</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 今天发布了一篇值得细读的长文，正面回应了\"应用层只是大模型之上的薄薄一层\"这一流行论断。他的结论是：企业级AI的真正复杂性，恰恰构成了持久的商业价值。</p>\n\n<blockquote>\n\"过去几个月，我们或许正在见证规模化应用AI层的真实面貌。尽管早期有人批评这不过是大模型上的薄薄包装，但事实证明，在企业中真正驱动智能体工作流，远比想象中复杂得多。而凡是有复杂性的地方，随着时间推移，往往就会形成护城河和价值。\"<br>\n—— <a href=\"https://x.com/levie/status/2067455756795039957\">@levie</a>\n</blockquote>\n\n<p>Levie归纳了应用层\"剧本\"的几个核心要素：弥合智能与工作流之间的功能缺口、担任跨模型的智能路由器、通过专业实施团队推动变革管理，以及建立垂直领域的GTM能力。他特别指出，即便未来模型能力持续提升，\"企业现在就需要帮助\"，这一现实需求并不会因模型变强而消失。</p>\n\n<hr>\n\n<h2>✍️ 先有品味，再用AI：关于写作与判断力的争论</h2>\n\n<p>今天有几条推文不约而同地触碰到同一个命题：AI工具的价值，取决于使用者自身的判断力基础。</p>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 的告诫直截了当：</p>\n\n<blockquote>\n\"在你建立自己的品味和声音之前，不要用AI写作。用AI写作本身并不坏。危险在于，你还没培养出对好内容的判断力就开始用AI写。如果AI产出的是平庸之作，你甚至认不出来它有多平庸。\"<br>\n—— <a href=\"https://x.com/zarazhangrui/status/2067423674689638652\">@zarazhangrui</a>\n</blockquote>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 则从另一个角度扩展了这个讨论，指出\"品味\"这个词本身就常被误解：</p>\n\n<blockquote>\n\"'品味'不只是审美上的偏好，正如'设计'不只是视觉设计。这个话题上一半的对话之所以鸡同鸭讲，正是因为没有厘清这个区别。\"<br>\n—— <a href=\"https://x.com/thenanyu/status/2067327619897446721\">@thenanyu</a>\n</blockquote>\n\n<hr>\n\n<h2>🚀 产品动态：Claude Design、Vercel Eve与Replit的新玩法</h2>\n\n<p>工具层今天更新频繁。<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a> 宣布 <strong>Claude Design</strong> 正式进入Beta，向所有付费用户开放，并实现了与 Claude Code 的双向协作——设计稿可以直接交给Code来构建，反之亦然，还支持导出PDF和PowerPoint。</p>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 在 Vercel SHIP London 活动上透露了一个令人侧目的数据点：开源模型 GLM 5.2 在 Vercel 的 Next.js 评测中已超越 Opus 4.8。他随即抛出了Vercel的新产品方向 <strong>Eve</strong>——一个针对智能体构建和部署的实用框架，他将其类比为\"Next.js之于React\"的关系。</p>\n\n<blockquote>\n\"@aisdk 比以往任何时候都更重要，因为模型竞争空前激烈。就在今天，开源模型 GLM 5.2 在我们的 Next.js 评测中超过了 Opus 4.8。\"<br>\n—— <a href=\"https://x.com/rauchg/status/2067242482190979186\">@rauchg</a>\n</blockquote>\n\n<p>Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 则宣布了\"Design with Claude, Ship with Replit\"的新工作流，并举办了 <a href=\"https://x.com/amasad/status/2067363597110391230\">Vibecon</a> 活动——vibe coding 作为一种文化现象正在加速走向主流。</p>\n\n<hr>\n\n<h2>💰 资本圈快讯：Fable禁令的代价与新兴基金管理人</h2>\n\n<p>YC掌门人 <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 今天做了一道让人不安的数学题：基于Fable被封禁的假设场景，他估算出每工作小时损失的开发者生产力价值高达<strong>1200万美元</strong>。这组数字的背后逻辑是：到2026年中，前沿AI编程日活开发者将达500万人，Fable的生产力提升效应约15%，一旦中断，损失立竿见影。</p>\n\n<p>与此同时，投资人 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> 对当前风投市场的\"分期融资\"（tranched round）现象发出警告，认为这种结构对后续加入的早期员工极不公平——他们的期权行权价将被迫参照一个虚高的估值。他同时看好未来12个月将涌现一批\"当下名不见经传、未来十年将成为行业标杆\"的新兴基金管理人。</p>"
+}
