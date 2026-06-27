@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T07:23:53.714Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown",
+      "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU"
+    }
+  },
+  "html_en": "<p class=\"lead\">A government-imposed access restriction on OpenAI's newest frontier model is stirring real anxiety among builders, even as the underlying technology keeps accelerating in ways that our standard benchmarks can barely measure.</p>\n\n<h2>🔒 GPT-5.6 and the Access Problem</h2>\n\n<p>OpenAI's latest model — GPT-5.6, apparently also called \"Sol\" internally — landed today with an unusual asterisk: access is initially gated to roughly 20 pre-approved companies by U.S. government directive. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> was bullish on the capability side, <a href=\"https://x.com/levie/status/2070563281916620895\">calling it</a> \"very strong for knowledge worker tasks that require heavy tool use and long running agents,\" and adding flatly: \"We're not hitting any walls in AI progress right now.\" <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> kept it characteristically brief, <a href=\"https://x.com/sama/status/2070614666288795703\">posting</a> \"team cooked, spicily.\"</p>\n\n<p>But the access restrictions drew sharp criticism from multiple quarters. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> of Every <a href=\"https://x.com/danshipper/status/2070554118146412979\">posted a measured but pointed statement</a>:</p>\n\n<blockquote>\"A world where advanced models are locked up only for use by the employees of AI giants and a select few companies is one where ambitious students, independent builders, and working professionals are denied the tools they need to learn, create, and compete to their fullest potential.\"</blockquote>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> was less diplomatic, <a href=\"https://x.com/garrytan/status/2070699046939820223\">writing</a>: \"This is honestly no way to release a model and continued development and release this way is a solid way to salt the ground and kill all innovation by small startups.\" And <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> traced the strategic trap with uncomfortable clarity:</p>\n\n<blockquote>\"1. We publish frontier models. 2. They get distilled into cheap open source models. 3. US companies adopt the same open source models because they're good enough and much cheaper. 4. We start gating access to frontier models. What next? US companies innovate less? Open source models become more attractive?\"</blockquote>\n\n<p>Altman <a href=\"https://x.com/sama/status/2070614769678393846\">noted separately</a> that token limits are still a constraint — \"not quite all-you-can-eat tokens, but we are working on it\" — while also mentioning a quieter update to the GPT-5.5 instant model in ChatGPT: \"I like its vibes.\"</p>\n\n<hr>\n\n<h2>📊 Why Benchmarks Are Broken (And What to Do About It)</h2>\n\n<p>The GPT-5.5 launch a few weeks ago was met with initial skepticism that dissolved once people actually used the model — and that gap between benchmark scores and real-world feel turns out to be a deep structural problem. OpenAI research scientist Noam Brown joined the <em>No Priors</em> podcast to explain why. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=AZrU6y3pUcU\">Why Traditional Benchmarks Fail Modern AI Models — No Priors</a></p>\n\n<blockquote>\"5.5 is just much more efficient with its thinking. If you run it at max settings, 5.4 is thinking for a lot longer... once you control for the amount of thinking time, actually, you can see that 5.5 is a substantial jump over 5.4.\" — Noam Brown</blockquote>\n\n<p>The core issue: modern reasoning models can keep improving with more compute for an almost arbitrarily long time — potentially <em>weeks</em> — before performance plateaus on hard benchmarks. That makes the standard \"single number on a benchmark grid\" comparison essentially meaningless.</p>\n\n<blockquote>\"The proper way to evaluate the models now is you either have some kind of budget for the benchmark, whether it's tokens or cost or time or whatever, or you plot the performance as a function of the amount of test time compute that's going into the model.\" — Noam Brown</blockquote>\n\n<p>He also floated a research idea worth noting: can you predict a model's performance at a $10,000 inference budget by only running evaluations up to $10 or $100? \"I actually think this would be a great paper to publish if there's any academics out there looking for something to research.\"</p>\n\n<hr>\n\n<h2>🛠️ The Tooling Layer: Observability, UI, and Claude Code Friction</h2>\n\n<p>While the frontier model debate rages, practitioners are focused on the much more immediate problem of making agentic systems actually work reliably. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel <a href=\"https://x.com/rauchg/status/2070676383135834334\">highlighted observability</a> as the crux:</p>\n\n<blockquote>\"Agents are particularly hard-to-debug software. For one, and by design, AI models behave in non-deterministic ways. Even two identical prompts don't always yield the same output. But agents are also complex distributed systems. They involve multiple steps of computation across functions and sandboxes, touching dozens of API services that can go down, rate limit you, etc.\"</blockquote>\n\n<p>He also made a punchy declaration on the UI side: <a href=\"https://x.com/rauchg/status/2070567538040422712\">\"The UI for AI is here. It's @shadcn.\"</a></p>\n\n<p>Meanwhile, Claude Code's growing user base is generating a thoughtful wishlist. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> <a href=\"https://x.com/petergyang/status/2070545325497221248\">listed</a> four quality-of-life requests: restoring mid-task steering, enabling mobile remote control by default, better keyboard shortcuts (\"If I hold down cmd I should see all the shortcuts in the UI\"), and drag-to-reorder projects. Small asks, but they reflect just how central these tools have become to daily workflows. <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Cat Wu</a> of Anthropic <a href=\"https://x.com/_catwu/status/2070613405237432766\">flagged split-screen</a> as a standout desktop feature, while OpenAI's Codex team dealt with a separate headache — a usage issue significant enough that <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> <a href=\"https://x.com/thsottiaux/status/2070653282440405046\">announced</a> a full usage reset for all Codex users \"on the house.\"</p>\n\n<hr>\n\n<h2>💰 Software Is Losing to Services</h2>\n\n<p>One of the more structurally interesting observations of the day came from Yang, who noted a quiet but significant shift in where AI money is actually flowing:</p>\n\n<blockquote>\"From what I'm seeing, a lot of the money has moved to services (with some software bundled), not software. People want outcomes, not tools. It feels really hard to build a pure-play software company that's more valuable to people or companies than just using Codex/Claude Code with a bunch of personal skills and agents.\"</blockquote>\n\n<p>This dovetails with <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx's</a> own observation that his AI publication is leaning into domain experts rather than general coverage — \"scaling without slop by working with aligned domain experts.\" With both OpenAI and Anthropic launching billion-dollar services arms, the Field Deployment Engineer is apparently the hottest job title nobody had heard of two years ago. Swyx is hosting <a href=\"https://x.com/swyx/status/2070606851377672675\">an AI FDE miniconference next week</a> to explore it.</p>\n\n<hr>\n\n<h2>🏠 The Builder's Third Place</h2>\n\n<p>On a warmer note to close: <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> <a href=\"https://x.com/swyx/status/2070748857441362056\">announced</a> that his media lab has officially taken over a new San Francisco space — envisioned as \"a third place to make; a finishing school for technical storytellers; a place to inspire the inspirational.\" The space came with an unexpected bonus: a fully wired datacenter rack. He's crowdsourcing advice on what to put in it. Suggestions welcome, apparently.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI圈子里，两条主线交织在一起：前沿模型的准入问题正在引发越来越大的政治摩擦，而如何真正评估这些模型的能力，连业内人士自己都还没想清楚。</p>\n\n<h2>🔒 谁有资格用最强的模型？</h2>\n\n<p>本周最受关注的话题之一，是OpenAI悄然发布了GPT-5.6 Sol——但访问权限仅向约20家预批准企业开放，依据的是美国政府指令。<a href=\"https://danshipper.com\" data-handle=\"danshipper\">Dan Shipper</a>在推文中直言不讳：</p>\n\n<blockquote>\n\"一个先进模型只供AI巨头员工和少数几家公司使用的世界，是一个让有抱负的学生、独立开发者和普通从业者被剥夺了学习、创造和充分竞争所需工具的世界。\"<br>\n— <a href=\"https://x.com/danshipper/status/2070554118146412979\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>更是直接开炮：</p>\n\n<blockquote>\n\"这绝对不是发布一个模型、并以这种方式持续开发和发布的正确方式。这是一条用盐把土地毒死、扼杀所有小型创业公司创新的路。\"<br>\n— <a href=\"https://x.com/garrytan/status/2070699046939820223\" data-handle=\"garrytan\">@garrytan</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>本人倒是一副轻松姿态，发推称\"团队这次做得很辣\"，并暗示Token用量限制正在改善：\"还不是无限量供应，但我们正在努力。\" Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>则对新模型颇为乐观，称其\"在需要大量工具调用和长时运行Agent的知识工作任务上表现非常强劲\"，并断言\"我们现在完全没有撞上AI进步的天花板\"。</p>\n\n<hr>\n\n<h2>📏 基准测试已经坏掉了</h2>\n\n<p>OpenAI研究科学家 <a href=\"https://x.com/noambrown\" data-handle=\"noambrown\">Noam Brown</a>在 No Priors 播客中，给出了今天最值得细读的一段分析。他解释了为何GPT-5.5发布时遭遇初期质疑——以及这背后揭示的更深层问题。</p>\n\nWatch/Listen: <a href=\"https://www.youtube.com/watch?v=AZrU6y3pUcU\">Why Traditional Benchmarks Fail Modern AI Models — No Priors</a>\n\n<blockquote>\n\"我们现在所处的世界，模型的能力基本上是你投入多少钱的函数。给它一万美元的预算，它能做的事远比给它十美元多；给它一百万美元，它能做的更多。那么，你应该在什么预算下评估这些模型？现有的政策根本没有回答这个问题。\"<br>\n— Noam Brown\n</blockquote>\n\n<p>他指出，5.5与5.4的真正差距在于<strong>思考效率</strong>，而非原始性能：5.5用更少的Token达到同等甚至更好的结果。更令人震惊的是，他提到现代模型在某些基准上，经过合理脚手架后可以持续有效地\"思考数周\"才达到性能平台期——这让传统的单一数字评估方式几乎失去意义。他建议，正确的评估方式是<em>在固定token/成本预算下比较，或者绘制性能随推理算力变化的曲线</em>。</p>\n\n<hr>\n\n<h2>🛠️ 工具体验：Claude Code的粉丝与吐槽</h2>\n\n<p>开发者们对Claude Code的热情依然高涨，但细节上的摩擦也在累积。<a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">@_catwu</a>分享了对桌面端分屏功能的喜爱，而 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>则列出了一份详细的愿望清单：</p>\n\n<blockquote>\n\"1. 恢复在Claude工作时引导对话的能力；2. 默认开启所有线程的手机远程控制；3. 快捷键似乎只在子菜单打开时才能用？考虑支持cmd+键在不同线程间切换；4. 允许拖拽重新排列左侧导航栏的项目。\"<br>\n— <a href=\"https://x.com/petergyang/status/2070545325497221248\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>Codex方面则出现了一个小插曲：OpenAI的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 宣布为所有Codex用户重置用量配额，并表示已采取一些缓解措施，目前调查显示用户并未大规模受到影响。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>也在关注Agent的可观测性问题，他指出Agent调试之所以特别难，是因为它们本质上是\"复杂的分布式系统，涉及多步计算、多个沙箱，以及数十个可能宕机或限速的API服务\"。</p>\n\n<hr>\n\n<h2>💰 钱流向了服务，而非软件</h2>\n\n<p>Peter Yang观察到一个正在加速的市场结构变化，和 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 关于FDE（前沿开发者布道师）的观察不谋而合：</p>\n\n<blockquote>\n\"从我观察到的情况来看，大量资金已经流向了服务（附带一些软件），而不是纯软件。人们要的是结果，不是工具。建一家纯软件公司，感觉真的很难做到比直接用Codex/Claude Code加上一堆个人技能和Agent更有价值。\"<br>\n— <a href=\"https://x.com/petergyang/status/2070568705365577990\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>swyx本人则在旧金山开设了一个新的创作者空间，并颇为惊喜地发现场地里已经有一个现成的数据中心机架——他正在社区里征集意见，不知道该往里塞什么硬件。这种\"工程师-创作者\"社区的线下化，或许正是这个时代一个有趣的注脚：当AI工具本身越来越强大，人与人之间真实的协作空间，反而变得更加稀缺和珍贵。</p>"
+}
