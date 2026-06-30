@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T07:36:47.736Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Re-engineering the Semiconductor Supply Chain with Intel CEO Lip-Bu Tan",
+      "url": "https://www.youtube.com/watch?v=asCgCv2XB4s"
+    }
+  },
+  "html_en": "<p class=\"lead\">Agentic AI is graduating from clever demo to enterprise plumbing — and today's dispatch shows the scaffolding going up in real time, from Anthropic's production incident postmortems to Intel's CPU renaissance and the deepening open-vs-closed model debate.</p>\n\n<h2>🔧 Codex and Claude Code Grow Up — Painfully</h2>\n\n<p>Two separate but related transparency moments from the coding-agent world deserve to be read together. OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> posted a <a href=\"https://x.com/thsottiaux/status/2071740419030053227\">detailed postmortem</a> on Codex usage limits burning faster than expected, tracing it to a cluster of background-consumption bugs: auto-review had \"become more proactive,\" a separate change \"was triggering more subagent work,\" and background suggestions could \"run twice or retry too frequently after failures.\" The fix came with a usage reset and a frank accounting of what went wrong.</p>\n\n<p>Meanwhile, Anthropic published its own <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">engineering postmortem on Claude Code quality regressions</a> — a notably candid document. Three separate changes compounded into what looked like \"broad, inconsistent degradation\": a reasoning-effort downgrade (from high to medium) that users hated, a caching bug that made Claude \"forgetful and repetitive\" mid-session, and a verbosity-reduction prompt that \"hurt coding quality.\" As of April 23, all three have been reverted and usage limits reset.</p>\n\n<p>What's notable is <em>how</em> both teams communicated. These aren't vague \"we're aware of issues\" statements — they're engineering-grade root cause analyses. That's a higher bar, and a healthier one.</p>\n\n<p>On the product side, <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> teased what's coming next in Claude Code:</p>\n\n<blockquote>\"In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work. If you want your agent to run in the foreground, just tell Claude.\" — <a href=\"https://x.com/bcherny/status/2071647677591466098\">@bcherny</a></blockquote>\n\n<p>And for power users, Codex is getting more surgical permission controls — <a href=\"https://x.com/thsottiaux/status/2071636285807059315\">@thsottiaux announced</a> \"reusable, inheritable permission profiles binding OS-enforced file read/write/deny rules (even **/*.env) to per-domain network + Unix sockets. Plus fail-closed admin allowlists. Least privilege per task.\" The enterprise security team will be pleased.</p>\n\n<hr>\n\n<h2>🏗️ Anthropic's Agent Infrastructure Gets Serious</h2>\n\n<p>Two new engineering posts from Anthropic sketch out the architecture of where agentic AI is actually heading — and it's less \"chatbot with tools\" and more \"distributed system design.\"</p>\n\n<p>The <a href=\"https://www.anthropic.com/engineering/managed-agents\">Managed Agents engineering post</a> frames the core architectural insight as a classic computing problem: decoupling the \"brain\" (Claude + its harness) from the \"hands\" (sandboxes, tools) and the \"session\" (the durable event log). The old approach — everything in one container — created what engineers call a \"pet\": a fragile, hand-tended system you can't afford to lose. The new architecture makes each component cattle, independently replaceable.</p>\n\n<p>A companion <a href=\"https://claude.com/blog/claude-managed-agents-updates\">product announcement</a> makes this concrete: Claude Managed Agents now supports self-hosted sandboxes (via Cloudflare, Daytona, Modal, or Vercel) and MCP tunnels that let agents reach private internal services without exposing them to the public internet. Real enterprises — Rogo (institutional finance), Clay (GTM automation), Amplitude (design tooling) — are already building on it. The agent loop stays on Anthropic's infrastructure; the sensitive execution happens inside your perimeter.</p>\n\n<hr>\n\n<h2>☁️ Claude Goes Native on Azure</h2>\n\n<p>A quieter but commercially significant announcement: <a href=\"https://x.com/claudeai/status/2071653958905467027\">Claude is now generally available in Microsoft Azure AI Foundry</a>, with Azure authentication, billing, and commitment retirement. Claude Opus 4.8 and Haiku 4.5 are available today, with inference running on Azure infrastructure operated by Anthropic. Prompt caching and extended thinking are supported from day one.</p>\n\n<p>For enterprise buyers already committed to Azure spend, this removes a procurement hurdle. It's also a reminder that the model distribution war is being fought as much in cloud marketplaces as in benchmark tables.</p>\n\n<hr>\n\n<h2>⚖️ The Open-vs-Closed Fault Line Sharpens</h2>\n\n<p>The most intellectually interesting thread of the day is an argument about power, not products. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> articulated the core stakes with unusual clarity:</p>\n\n<blockquote>\"If a closed stack is always perpetually at the frontier by a wide margin, then being vertically integrated and gatekeeping in the US can work... If, however, open weights AI can remain a close second to frontier intelligence, then the equation reverses. With a highly regulated approach, you'll own the frontier market still, but the vast majority of tokens used will go to an alternative stack.\" — <a href=\"https://x.com/levie/status/2071775583072375214\">@levie</a></blockquote>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> added a counterintuitive angle: the rise of strong open-weight models like GLM might actually <em>strengthen</em> Google's position, because enterprises running and fine-tuning open models will need \"managed platform with enterprise-grade reliability, security, and support — and Google Cloud is well positioned there.\" Infrastructure wins even when models commoditize.</p>\n\n<hr>\n\n<h2>🔬 Intel's Lip-Bu Tan on CPUs, Culture, and Survival</h2>\n\n<p>The <a href=\"https://www.youtube.com/watch?v=asCgCv2XB4s\">No Priors conversation with Intel CEO Lip-Bu Tan</a> is worth your time. It's a masterclass in turnaround thinking from someone who took the job at 66 because \"this is an iconic company, and it's so important for the semiconductor ecosystem.\" Watch/Listen: <a href=\"https://www.youtube.com/watch?v=asCgCv2XB4s\">Re-engineering the Semiconductor Supply Chain with Intel CEO Lip-Bu Tan</a>.</p>\n\n<p>The AI angle is real: Tan describes a shift in the training-to-inference ratio for CPUs from 1-to-8 toward 1-to-4 or even 1-to-1, driven by agentic workloads:</p>\n\n<blockquote>\"In terms of reinforced learning, in terms of the speed of orchestrating all the agents, the CPU is actually better. Right now, the demand is very high for my CPU.\" — Lip-Bu Tan</blockquote>\n\n<p>He also disclosed that Jensen Huang's $5 billion investment in Intel has grown to $25 billion — and that the US government is now a major shareholder, a dynamic Tan compared explicitly to Taiwan's early support of TSMC. The geopolitics of chip manufacturing, it turns out, look a lot like the geopolitics of AI infrastructure.</p>",
+  "html_zh": "<p class=\"lead\">AI开发工具的军备竞赛正在全面加速——从Claude Code的后台智能体到Codex的权限管理革新，再到Intel CEO的芯片复兴宣言，今天的技术圈充满了基础设施重构的气息。</p>\n\n<h2>🤖 Claude Code 大升级：智能体悄悄在后台为你打工</h2>\n\n<p>本周最令开发者兴奋的消息，来自Anthropic工程师 <a href=\"https://x.com/bcherny/status/2071647677591466098\" data-handle=\"bcherny\">@bcherny</a> 的一则简短公告：</p>\n\n<blockquote>在下一个版本的 Claude Code 中，子智能体默认在后台运行，你可以在它们工作的同时继续与 Claude 对话。如果你想让某个智能体在前台运行，直接告诉 Claude 就行。</blockquote>\n\n<p>这一改动看似微小，却代表着AI编程助手从\"工具\"向\"同事\"转变的关键一步。与此同时，Anthropic 也在官方博客中坦诚披露了<a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">过去一个月 Claude Code 质量下滑的原因</a>——三处独立的改动叠加在一起，造成了看似\"整体退化\"的假象：默认推理强度从 high 调低至 medium、缓存优化引入的 bug 导致模型\"健忘\"、以及一条减少冗长输出的系统提示词反而损害了编码质量。所有问题已于4月20日修复，并向订阅用户重置了使用额度。</p>\n\n<p>在权限管理上，<a href=\"https://x.com/thsottiaux/status/2071636285807059315\" data-handle=\"thsottiaux\">@thsottiaux</a> 宣布推出更精细的沙箱权限配置：</p>\n\n<blockquote>我们发布了可复用、可继承的权限配置文件，将系统级文件读写规则（包括 **/*.env）与每个域名的网络和 Unix socket 权限绑定。加上故障关闭的管理员白名单，实现每个任务的最小权限原则。</blockquote>\n\n<hr>\n\n<h2>⚙️ Codex 用量风波：当后台进程悄悄吃掉你的配额</h2>\n\n<p>OpenAI 的 Codex 这周则经历了一场小型\"用量危机\"。<a href=\"https://x.com/thsottiaux/status/2071740419030053227\" data-handle=\"thsottiaux\">@thsottiaux</a> 发布了详细的事后复盘：</p>\n\n<blockquote>实际用量方面：自动 review 变得更主动，另一处改动触发了更多子智能体工作，后台建议有时会运行两次或在失败后频繁重试。我们已回滚相关改动，修复了建议调度、重复生成和重试行为，以减少不必要的后台 token 消耗，同时保留用户明确请求的工作。</blockquote>\n\n<p>用量报告的显示也存在问题——自动 review 被错误归类为 GPT-5.4 的用量，失败的请求也被计入了用量图表。目前所有修复已部署完毕，使用限额已重置。</p>\n\n<p>这一事件揭示了一个行业共性问题：当 AI 工具的后台自主行为越来越多，用量的透明度和可预测性变得格外重要。用户购买的是\"智能\"，不是\"神秘的 token 消耗\"。</p>\n\n<hr>\n\n<h2>🏗️ Claude Managed Agents：把大脑和双手分开</h2>\n\n<p>Anthropic 的工程博客这周发布了两篇重量级技术文章，共同描绘了其托管智能体基础设施的设计哲学。<a href=\"https://www.anthropic.com/engineering/managed-agents\">《Scaling Managed Agents》</a>借用了操作系统的抽象思想——就像 <code>read()</code> 命令不管底层是1970年代的磁盘包还是现代 SSD，Managed Agents 将智能体的\"大脑\"（Claude 及其调度逻辑）与\"双手\"（沙箱执行环境）彻底解耦。</p>\n\n<p>而<a href=\"https://claude.com/blog/claude-managed-agents-updates\">最新的产品更新</a>则将这一架构落地为两个企业级功能：自托管沙箱（支持 Cloudflare、Daytona、Modal、Vercel 等托管商）和 MCP 隧道。企业客户的敏感数据、私有 API 和内部数据库，不必暴露在公网就能成为智能体可调用的工具。Rogo（机构金融 AI 平台）和 Clay 已经在基于这套架构构建生产级智能体。</p>\n\n<p>与此同时，<a href=\"https://x.com/claudeai/status/2071653958905467027\" data-handle=\"claudeai\">Claude 正式登陆 Microsoft Azure Foundry</a>，提供 Opus 4.8 和 Haiku 4.5，支持 Azure 原生的认证和计费体系。</p>\n\n<hr>\n\n<h2>💬 开放 vs. 封闭：这场争论的答案藏在 token 里</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie/status/2071775583072375214\" data-handle=\"levie\">Aaron Levie</a> 用一段精准的分析，道出了当下 AI 监管争论的核心逻辑：</p>\n\n<blockquote>如果封闭栈始终以较大优势领跑前沿，那么垂直整合和访问管控就能奏效——因为你永远掌控着最好的技术，而需求会持续向你倾斜。但如果开放权重模型能保持与前沿的接近，等式就反转了。你仍然拥有前沿市场，但绝大多数 token 的使用将流向另一个栈——那个栈，包括模型和底层硬件，最终将由别人控制和变现。</blockquote>\n\n<p>对此，<a href=\"https://x.com/realmadhuguru/status/2071637885154148785\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 提出了一个反直觉的观点：开放权重模型的崛起，反而可能强化 Google 的优势——因为企业采用开放模型进行微调，算力和基础设施的价值会向上聚集，而 Google Cloud 在这方面布局深厚。</p>\n\n<hr>\n\n<h2>🔧 Intel 的复活剧本：从 CPU 到全栈</h2>\n\n<p>本周 <em>No Priors</em> 播客请来了 Intel CEO Lip-Bu Tan，讲述了这位66岁老将如何接手这家\"最难救的美国半导体公司\"。Watch/Listen: <a href=\"https://www.youtube.com/watch?v=asCgCv2XB4s\">Re-engineering the Semiconductor Supply Chain with Intel CEO Lip-Bu Tan</a></p>\n\n<blockquote>现在，智能体 AI 让推理 CPU 的需求大幅攀升。过去训练中 CPU 与 GPU 的比例是一比八，现在我能看到它变成一比四，甚至一比一。我和一些 AI 模型开发者交流，他们说在强化学习、智能体编排的速度方面，CPU 其实更有优势。</blockquote>\n\n<p>他的重建策略清晰而务实：先稳固资产负债表（美国政府和 Nvidia 的 Jensen Huang 相继注资，后者的50亿美元已增值至250亿），再聚焦产品和晶圆代工良率，最终走向\"全栈\"——不只做芯片，还要提供整机柜的系统解决方案。在 AI 推动算力需求爆炸式增长的当下，这个剧本未必没有胜算。</p>\n\n<p>正如 <a href=\"https://x.com/garrytan/status/2071600933210100074\" data-handle=\"garrytan\">Garry Tan</a> 简洁地总结道：<strong>建造算力，建造数据中心。</strong></p>"
+}
