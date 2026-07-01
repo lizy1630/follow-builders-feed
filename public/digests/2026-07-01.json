@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-01T07:49:10.368Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
+      "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU"
+    }
+  },
+  "html_en": "<p class=\"lead\">Claude Sonnet 5 lands as the new default model, Fable makes a dramatic comeback, and the AI industry inches toward a shared safety framework — a day that reminded everyone just how fast this ecosystem moves.</p>\n\n<h2>📦 Sonnet 5 Is Here — And It's Closing In on Opus</h2>\n\n<p>Anthropic quietly dropped a significant upgrade today. <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> announced that <a href=\"https://x.com/claudeai/status/2072017452335087996\">Claude Sonnet 5 is now the default model</a> across Free and Pro tiers, with introductory pricing through August 31:</p>\n\n<blockquote>\n\"Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, coding, and knowledge work. Its performance is close to Opus 4.8, at lower prices.\"\n<br>— <a href=\"https://x.com/claudeai/status/2072017452335087996\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>Early enterprise signals are encouraging. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> ran Sonnet 5 through Box's internal agentic benchmark and reported meaningful gains in complex document work — catching a broken Excel reference cell, correctly computing loan covenant violations that the source document itself understated, and properly applying KPI definitions in segmented sales data. The model gained ground in Energy (+4.7pp), Retail (+4.4pp), and Professional Services (+2.6pp) verticals.</p>\n\n<p>The model's defining trait, per early access partners: it <a href=\"https://x.com/claudeai/status/2072017455833100494\">finishes complex tasks where previous Sonnets stopped short, and checks its own output without being asked</a>. That self-correction behavior, unprompted, is a quiet signal of genuine agentic maturity.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> dropped a crowd-pleaser alongside the model launch:</p>\n\n<blockquote>\n\"You asked, we listened. Claude Desktop on Linux is here!\"\n<br>— <a href=\"https://x.com/bcherny/status/2072000214634742243\" data-handle=\"bcherny\">@bcherny</a> (3,500+ likes)\n</blockquote>\n\n<hr>\n\n<h2>🎭 Fable's Return: The Midnight Drama Nobody Asked For (But Everyone Watched)</h2>\n\n<p>If Sonnet 5 was the professional news of the day, the return of Fable — Anthropic's coding model, apparently throttled or paused due to classifier updates — was the community theater. Developers were <em>literally setting alarms</em>.</p>\n\n<blockquote>\n\"Setting an alarm at midnight to get Fable to fix all my projects 😅\"\n<br>— <a href=\"https://x.com/petergyang/status/2072111311396438410\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<blockquote>\n\"me, on a vacation in mexico, hearing that fable might be coming back tonight\"\n<br>— <a href=\"https://x.com/danshipper/status/2072099953254584462\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> stepped in to explain what had actually happened with the classifier rollout that preceded the chaos:</p>\n\n<blockquote>\n\"As with the original classifiers, a small fraction of routine coding and debugging tasks will be flagged and fall back to Opus. We're excited for guys to get access back tomorrow.\"\n<br>— <a href=\"https://x.com/trq212/status/2072185565076988326\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<blockquote>\n\"We're continuing to refine these safeguards to better distinguish genuine misuse from legitimate requests and reduce false positives.\"\n<br>— <a href=\"https://x.com/trq212/status/2072185566695977161\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>The episode was a reminder that when developers build deeply on a single model, even brief interruptions ripple loudly through the community.</p>\n\n<hr>\n\n<h2>🛡️ Toward a Safety Framework — Messy, But Real</h2>\n\n<p>Zooming out from the daily excitement, <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered the most substantive <a href=\"https://x.com/levie/status/2072172275017879829\">analysis of the day</a> on what the Fable/safety situation reveals about the frontier model release process. He quoted Anthropic's post directly on the emerging framework:</p>\n\n<blockquote>\n\"A shared standard for judging the severity of a given jailbreak would help AI developers triage new findings as they arise, launch highly-capable models with greater safety, and communicate the level of risk consistently to government and industry partners. Together with Amazon, Microsoft, Google, and other partners, we've started to develop such a framework.\"\n<br>— Anthropic, via <a href=\"https://x.com/levie/status/2072172275017879829\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>Levie's own read: \"It's been a messy process to get here, but at least there's some semblance of a framework that could be practical.\" His chief concern is efficiency — that a heavy review process applied uniformly to every incremental release could meaningfully slow down the pace of progress. The goal, he argues, should be that \"this is a relatively efficient process, and hopefully has ways of being sped up for incremental version updates.\"</p>\n\n<hr>\n\n<h2>⚙️ The Hardware Layer Gets Its Moment</h2>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> made a pointed observation about where AI infrastructure is headed:</p>\n\n<blockquote>\n\"AI is expensive to run partly because most workloads today run on generic hardware designed pre-LLMs. Etched is the first system designed from the ground up for modern inference.\"\n<br>— <a href=\"https://x.com/amasad/status/2071992110132117740\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>This thread connects directly to the day's podcast highlight. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=f6D_aiy8qyU\">Why Hardware-Software Co-Design Is AI's Real 100x — Dylan Patel of SemiAnalysis</a> (Training Data, Sequoia). Dylan Patel, whose firm reportedly crossed $100M in revenue analyzing the semiconductor supply chain, makes the case that the real leverage in AI isn't in model architecture alone — it's in co-designing hardware and software together from first principles. His backstory (moderating Reddit hardware forums at 12, reaching Starcraft Grandmaster, growing up in a family motel) is a genuinely fun listen for anyone who wonders how deep expertise actually forms.</p>\n\n<p><a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> added a useful framing point that applies equally to hardware and model selection:</p>\n\n<blockquote>\n\"Price per token != cost per task\"\n<br>— <a href=\"https://x.com/steipete/status/2072144627474579925\" data-handle=\"steipete\">@steipete</a> (1,000+ likes)\n</blockquote>\n\n<hr>\n\n<h2>💼 The AI Jobs Paradox — More Adoption, More Hiring</h2>\n\n<p>Against the backdrop of continued automation anxiety, <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> surfaced data worth sitting with. Box surveyed 1,600+ mid-to-large companies and found that 58% expected headcount to rise over the next three years — <em>climbing to 79% among the most mature AI adopters</em>.</p>\n\n<blockquote>\n\"The fears a couple years ago would have been that the companies adopting AI the most would be hiring fewer people. But in reality this is what actually you should expect to happen. If a company can get more customers because they use AI in sales, they hire more sales people not fewer. If you can build way more software than before, you end up hiring more engineers because the projects get bigger.\"\n<br>— <a href=\"https://x.com/levie/status/2071992799109824562\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>The caveat is real — companies that can afford to invest in AI are also likely already-growing companies. Correlation isn't causation. But the macro pattern is clear enough: the doom scenario of AI simply replacing headcount en masse hasn't materialized at the enterprise level. At least not yet.</p>",
+  "html_zh": "<p class=\"lead\">Claude Sonnet 5 正式登场，Fable 的回归引发开发者集体狂欢——而在这些产品动态背后，一场关于AI安全监管框架的深层讨论正悄然成形。</p>\n\n<h2>🚀 Claude Sonnet 5：以Opus级能力，换Sonnet级价格</h2>\n\n<p>本周最重磅的产品消息，毫无疑问属于Anthropic。<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 官方宣布，<a href=\"https://x.com/claudeai/status/2072017452335087996\">Claude Sonnet 5 已全面上线</a>，成为Free和Pro用户的默认模型，并向Max、Team和Enterprise开放，且享有8月31日前的优惠定价。</p>\n\n<blockquote>\n\"Sonnet 5在推理、工具使用、编程和知识工作上较Sonnet 4.6有实质性提升，性能接近Opus 4.8，但价格更低。早期合作伙伴发现，Sonnet 5能完成此前Sonnet版本中途放弃的复杂任务，并会在无需提示的情况下自行检查输出结果。\" — <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>企业侧的数据同样令人印象深刻。<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 分享了Box AI基准测试的结果：Sonnet 5在能源（+4.7pp）、零售（+4.4pp）和专业服务（+2.6pp）等领域领先上一代，并在财务尽职调查中展现出超越模板的深度推理能力——它能主动发现源报告中被低估的财务杠杆，并标记出所有违反贷款契约的条款，而非仅凭文档中已承认的问题。</p>\n\n<p>值得关注的是 <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 的一句简洁提醒，在今天的讨论中获得了超过1000个点赞：</p>\n\n<blockquote>\"每token价格 ≠ 每任务成本。\" — <a href=\"https://x.com/steipete/status/2072144627474579925\">@steipete</a>\n</blockquote>\n\n<p>这句话精准戳中了当前AI产品选型中的常见误区：真正的成本效益，需要从任务完成质量与token消耗的综合视角来衡量。</p>\n\n<hr>\n\n<h2>🎮 Fable归来：一场集体性的午夜焦虑</h2>\n\n<p>如果说Sonnet 5是今天的理性头条，Fable的回归则是一出更有温度的人间喜剧。这款深受开发者喜爱的AI编程工具此前因分类器更新而受限，今天终于宣告重返——引发了一波颇为动人的集体期待。</p>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 身在墨西哥度假，仍难掩激动：</p>\n\n<blockquote>\"如果这事成了，我今晚要在卡波边度假边直播，疯狂跑token。\" — <a href=\"https://x.com/danshipper/status/2072094163378622823\">@danshipper</a>\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 则坦言自己<a href=\"https://x.com/petergyang/status/2072111311396438410\">定了午夜闹钟</a>，准备第一时间用Fable修复所有项目。与此同时，他也对一个细节感到困惑——<a href=\"https://x.com/petergyang/status/2072165346476511583\">达到50%周用量后Fable是否就不可用了？</a>这个产品限制设计引发了不少讨论。</p>\n\n<p>Anthropic方面，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 出面澄清了此前让用户困惑的分类器问题：</p>\n\n<blockquote>\"与最初的分类器一样，一小部分常规编程和调试任务会被标记并回退至Opus。我们将继续优化这些安全机制，以更好地区分真正的滥用与合理请求，减少误判。\" — <a href=\"https://x.com/trq212/status/2072185565076988326\">@trq212</a>\n</blockquote>\n\n<hr>\n\n<h2>🏛️ 安全框架：混乱之后，秩序的雏形</h2>\n\n<p>在产品狂欢的背后，一个更深层的行业议题正在浮现。<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 对Anthropic最新发布的行业安全框架作出了深思熟虑的评述，核心是一个既务实又充满张力的问题：如何在不扼杀创新速度的前提下，建立可持续的模型发布审查机制？</p>\n\n<blockquote>\"这是一个混乱的过程，但至少有了某种实际可行的框架雏形。唯一需要警惕的是，各类风险及其实际可利用程度中存在大量主观判断……最好的结果是这个过程相对高效，并且能够为增量版本更新提供加速通道。如果每一次超过能力阈值的发布都需要经历同等级别的审查，而创新突破的速度却无法保持，那将是一个糟糕的结局。\" — <a href=\"https://x.com/levie/status/2072172275017879829\">@levie</a>\n</blockquote>\n\n<p>这一框架由Anthropic联合Amazon、Microsoft、Google等合作伙伴共同起草，并承诺加深与美国政府在预发布测试和信息共享方面的合作。这是AI行业从\"自我监管\"迈向\"协同治理\"的一个小步，但方向意义重大。</p>\n\n<hr>\n\n<h2>💡 硬件、开源与产品哲学：今日散点</h2>\n\n<p><strong>Linux用户有福了。</strong> <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 宣布 <a href=\"https://x.com/bcherny/status/2072000214634742243\">Claude Desktop正式登陆Linux平台</a>，获得了3500+点赞，这一数字本身就是对Linux开发者社区长期被忽视的无声控诉。</p>\n\n<p><strong>中国开源模型的隐秘存在感。</strong> <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> 的一句话引发广泛共鸣：</p>\n\n<blockquote>\"这个世界处于一种非常奇怪的状态——驱动美国创新的模型，是中国的开源模型。\" — <a href=\"https://x.com/adityaag/status/2071983952894837062\">@adityaag</a>\n</blockquote>\n\n<p><strong>AI与就业的反直觉发现。</strong> Levie援引Box对1600+家中大型企业的调研指出：AI采用程度越高的公司，招聘意愿反而越强——79%的成熟AI采用者预期未来三年员工数量将增加，显著高于全体受访者58%的平均水平。</p>\n\n<p><strong>硬件基础设施的下一个战场。</strong> <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 为专为现代推理设计的芯片公司Etched背书：</p>\n\n<blockquote>\"AI运行成本高昂，部分原因是当今大多数工作负载运行在LLM出现之前设计的通用硬件上。Etched是第一个从底层为现代推理架构设计的系统。\" — <a href=\"https://x.com/amasad/status/2071992110132117740\">@amasad</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=f6D_aiy8qyU\">Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis</a> — SemiAnalysis创始人Dylan Patel与Sequoia的Sean和Sonja Huang深入探讨了为何硬件软件协同设计将是AI领域真正的百倍效率杠杆，以及SemiAnalysis如何成长为这一领域最权威的研究机构。</p>\n\n<hr>\n\n<h2>🎪 AIEWF：旧金山的AI嘉年华</h2>\n\n<p>背景噪音中，AI Engineer World's Fair（AIEWF）正在旧金山如火如荼地举行。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 报告首日海报展示环节<a href=\"https://x.com/swyx/status/2072048730581405800\">大获成功</a>，明日还将举办\"Poaster Sessions\"——没错，就是把推文打印出来展示。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 正在<a href=\"https://x.com/trq212/status/2072202267563082180\">最后一刻赶改演讲稿</a>，而<a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 则预告了一场关于AI工作流循环的演讲。这场行业聚会，既是产品发布的舞台，也是那些午夜定闹钟等待Fable回归的开发者们，短暂从代码中抬起头来彼此确认的仪式。</p>"
+}
