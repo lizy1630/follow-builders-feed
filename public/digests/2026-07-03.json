@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-03T07:25:51.136Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4"
+    }
+  },
+  "html_en": "<p class=\"lead\">From Claude's expanding empire to nuclear reactors powering AI chips, today's builder community signals that the infrastructure layer — energy, deployment tooling, and enterprise rollout — is becoming as contested as the models themselves.</p>\n\n<h2>Claude's Platform Moment: From Code to Tag to Life Sciences</h2>\n\n<p>Anthropic had a big day. The through-line: Claude is quietly becoming less of a product and more of a platform that colonizes entire organizations from the inside out. The origin story is now canonical — Claude Code begat Claude Tag, which went from engineering to landing <strong>65% of product PRs</strong> at Anthropic itself.</p>\n\n<blockquote><a href=\"https://x.com/_catwu/status/2072731500928508331\" data-handle=\"_catwu\">@_catwu</a>: \"Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs. We cover the CEO/CTO playbook for rolling it out, why security was designed in from day one, and what this means for the future of work.\"</blockquote>\n\n<p><a href=\"https://x.com/bcherny/status/2072777472970563995\" data-handle=\"bcherny\">Boris Cherny</a>, who helped build the tooling, called Claude Code Artifacts \"life changing\" and noted expansion to Pro and Max tiers. Anthropic is sweetening adoption with serious credits — $25k for Enterprise orgs, $2.5k for Team orgs — to get Claude Tag deployed through September 1.</p>\n\n<p>On the research frontier, <a href=\"https://x.com/claudeai/status/2072681853971001849\" data-handle=\"claudeai\">Anthropic announced</a> a global virtual hackathon — <em>Built with Claude: Life Sciences</em> — running July 7–13 in partnership with the Gladstone Institutes, with a $100k credit prize pool. Apply by Sunday.</p>\n\n<hr>\n\n<h2>The Fable Fallout: Model Deprecation Is Now an Infrastructure Problem</h2>\n\n<p>The sudden sunset of Claude Fable from subscription tiers (effective July 7) continued to reverberate. Fable's creator clarified the situation but offered cold comfort:</p>\n\n<blockquote><a href=\"https://x.com/trq212/status/2072814903170408784\" data-handle=\"trq212\">@trq212</a>: \"While it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post.\"</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg/status/2072741369848746315\" data-handle=\"rauchg\">Guillermo Rauch</a> at Vercel turned the crisis into a product announcement. His framing — AI Gateway as a \"Token Delivery Network,\" a CDN for AI models — is elegant, and the Fable retirement illustrated exactly why it matters:</p>\n\n<blockquote><a href=\"https://x.com/rauchg/status/2072741369848746315\" data-handle=\"rauchg\">@rauchg</a>: \"When Fable was suddenly retired, we worried about production workloads depending on it. Even Fable aside, models get retired quite often as GPU capacity is heavily contested. Yet our data shows people still having happy production traffic of older model versions! We're solving this now with AI Gateway Rules — you can now rewrite model 'routes' on the fly.\"</blockquote>\n\n<p>The fix is a single CLI command that rewrites `anthropic/claude-fable-5` traffic to `anthropic/claude-opus-5` with no redeployment. It's a small feature with large implications: as the model layer commoditizes and fragments, the routing and reliability layer becomes the moat. <a href=\"https://x.com/danshipper/status/2072805884376301737\" data-handle=\"danshipper\">Dan Shipper</a> surfaced a separate but related UX frustration — Fable goes off for hours and returns with \"a 2 paragraph explanation of what it did.\" \"We need better ways for AI to tell us stories,\" he wrote.</p>\n\n<hr>\n\n<h2>The Enterprise Gap: Why Agents Don't Just Drop In</h2>\n\n<p><a href=\"https://x.com/levie/status/2072875685811716182\" data-handle=\"levie\">Aaron Levie</a> wrote what might be the clearest-eyed take of the day on why enterprise AI deployment is harder than demos suggest — and why it will stay that way:</p>\n\n<blockquote><a href=\"https://x.com/levie/status/2072875685811716182\" data-handle=\"levie\">@levie</a>: \"Most workflows weren't designed for AI agents to just drop into. Workflows today in the enterprise deal with fragmented data, legacy software systems that agents can't connect with, institutional instead of documented knowledge, and more. To deploy agents reliably at scale you need to get data cleaned up, modernize IT systems, figure out evals, drive change management for the new end state process, and so on.\"</blockquote>\n\n<p>His conclusion: the Field Deployment Engineer will be \"one of the most critical jobs in tech going forward.\" This is the less glamorous but arguably more durable business — not building the model, but doing the implementation work that makes it actually function inside a real company's mess of legacy systems.</p>\n\n<hr>\n\n<h2>NVIDIA's Hidden Research Lab — and the Case for Open AI</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=KR5c8CU8Lg\">Inside Nemotron and NVIDIA's AI Lab — No Priors with Bryan Catanzaro</a></p>\n\n<p><a href=\"https://x.com/mattturck/status/2072723410975629364\" data-handle=\"mattturck\">Matt Turck's</a> deep conversation with <a href=\"https://x.com/ctnzr\" data-handle=\"ctnzr\">Bryan Catanzaro</a> of NVIDIA AI covers the question that confuses a lot of people: why does a chip company spend hundreds of researchers building frontier models and then give them away for free? The answer, Catanzaro argues, is that NVIDIA needs to understand the workloads its hardware must run — and that open models are a strategic moat, not charity. He makes the provocative case that open AI is actually <em>safer</em> than closed, and explains the Nemotron architecture in unusually plain language: hybrid Mamba-Transformer, mixture of experts, multi-token prediction (the model predicts 5 tokens simultaneously), and a 550B model trained in 4-bit precision. The segment on \"multi-teacher distillation\" — training one model from many teachers — is worth the timestamp alone (52:47).</p>\n\n<hr>\n\n<h2>Nuclear's Silicon Valley Moment</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=5Xvbq_zvOQ4\">How Nuclear Will Unlock Energy Abundance — No Priors with Isaiah Taylor, Valar Atomics</a></p>\n\n<p>The episode opens with a remarkable claim delivered with startup-founder matter-of-factness: Valar Atomics just powered an AI chip with a nuclear reactor — the first TRISO reactor to generate power in the United States in over fifty years. Isaiah Taylor's thesis is essentially: nuclear never had its Ford moment or its Tesla moment. The industry built reactors as civil infrastructure; Valar builds them like manufactured products, enabling hardware iteration at speed. The regulatory environment, he argues, is more open than it's been in decades. The AI angle is direct:</p>\n\n<blockquote>Host: \"How much of the premise of Valor is possible now comes from increasing demands for power in The United States largely driven by AI compute?\" <br><br>Isaiah Taylor: \"Energy being a commodity, the demand is set by the price. If you can figure out how to make energy cheaper, you will have demand.\"</blockquote>\n\n<p>Taylor's origin story — Manhattan Project great-grandparents, a teenage realization that America quietly stopped building reactors after Three Mile Island, a decade of waiting for someone else to fix it — is the kind of founder narrative that makes you want to root for a company. Whether the hardware iteration thesis holds at nuclear scale is the real question, but the early milestone is hard to dismiss.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI圈有一条清晰的主线：从核反应堆到代码代理，从企业部署到课堂革命——构建者们正在重新定义\"基础设施\"的含义。</p>\n\n<h2>🔬 Claude的产品版图正在扩张</h2>\n\n<p>本周最受关注的产品动态来自Anthropic。<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude官方账号</a>宣布，Claude Fable 5现已进入Claude Tag——这个内部孵化的AI辅助工作流工具正在向更广泛的用户开放，并配套推出企业积分计划。</p>\n\n<blockquote>\n\"Claude Tag正在解锁我们整个组织的生产力：工程、产品、数据、销售、市场营销。我们的内部版本承接了65%的产品PR。\"<br>\n——<a href=\"https://x.com/_catwu/status/2072731500928508331\" data-handle=\"_catwu\">@_catwu</a>\n</blockquote>\n\n<p><a href=\"https://x.com/bcherny/status/2072777472970563995\" data-handle=\"bcherny\">@bcherny</a>（Boris Cherny）也为Claude Code中的Artifacts功能发声，称其\"改变了自己的工作方式\"，并对即将扩展至Pro和Max计划感到兴奋。与此同时，<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Anthropic</a>还宣布了一场生命科学领域的全球黑客马拉松，联合Gladstone Institute，奖金池达10万美元积分，<a href=\"https://t.co/wzrSBVyHJgeP\">报名截止本周日</a>。</p>\n\n<hr>\n\n<h2>⚡ Fable退场引发的基础设施焦虑</h2>\n\n<p>Anthropic宣布Claude Fable将于7月7日后从订阅计划中下线，这一消息在开发者社区引发了不小的波澜。有趣的是，这次小风波催生了一个更深层的讨论：当AI模型像云服务一样频繁迭代退役时，生产环境的稳定性该如何保障？</p>\n\n<p>Vercel创始人<a href=\"https://x.com/rauchg/status/2072741369848746315\" data-handle=\"rauchg\">@rauchg</a>迅速给出了工程师式的回答——AI Gateway Rules，一个可以动态重写模型路由的能力：</p>\n\n<blockquote>\n\"当Fable突然退役时，我们担心依赖它的生产工作负载。即便撇开Fable不谈，模型退役的情况相当频繁，因为GPU资源竞争激烈。但我们的数据显示，仍有许多用户在老版本模型上保持着稳定的生产流量！\"<br>\n——<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>他将这一能力类比为CDN的流量重路由：你可以用一条命令将对<code>claude-fable-5</code>的调用无缝切换到<code>claude-opus-5</code>，无需重新部署。<a href=\"https://x.com/trq212/status/2072814903170408784\" data-handle=\"trq212\">@trq212</a>（Anthropic产品团队）也补充表示，Fable会在容量允许时重新回归订阅计划。</p>\n\n<p>另一边，<a href=\"https://x.com/danshipper/status/2072805884376301737\" data-handle=\"danshipper\">@danshipper</a>则提出了一个更具哲学意味的问题：</p>\n\n<blockquote>\n\"对于Fable，它可以独立工作数小时，然后带着两段话的总结回来告诉你它做了什么。我们需要更好的方式让AI来讲述它自己的故事。\"<br>\n——<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<hr>\n\n<h2>🏭 企业AI落地：比想象中更难</h2>\n\n<p>Box的CEO <a href=\"https://x.com/levie/status/2072875685811716182\" data-handle=\"levie\">@levie</a>发表了一段读来颇有分量的观察，直击当下AI企业部署的核心矛盾：</p>\n\n<blockquote>\n\"大多数工作流并非为AI代理直接接入而设计。今天企业中的工作流面临着碎片化数据、代理无法连接的遗留软件系统、存在于人脑而非文档中的机构知识，等等。要可靠地大规模部署代理，你需要清理数据、现代化IT系统、建立评估体系、推动变革管理……这就是为什么那么多应用AI公司正在扩充FDE（Field Deployment Engineer）团队，FDE将成为科技行业最关键的岗位之一。\"\n</blockquote>\n\n<p>这与<a href=\"https://x.com/zarazhangrui/status/2072726336158998760\" data-handle=\"zarazhangrui\">@zarazhangrui</a>的简短洞察形成有趣的呼应：\"为你的代理做的最好的事情之一：让它们在群组中交流，而不是私信。\"——一个关于多智能体协作架构的小小提示。</p>\n\n<hr>\n\n<h2>⚛️ 核能复兴：AI时代的能源底座</h2>\n\n<p>本期最值得深读的内容来自播客 <em>No Priors</em>。主持人走进犹他州的核设施，与Valar Atomics创始人Isaiah Taylor对话。这家公司刚刚实现了\"美国五十年来首个Triso反应堆发电\"，背后的逻辑直指AI算力的能源瓶颈。</p>\n\n<blockquote>\n\"核能从未有过它的'福特时刻'，也没有'特斯拉时刻'……我们有核反应堆，但从未为大规模量产而设计。Valar正在努力改变这一点——让核反应堆更像制造业产品而非土木工程项目，从而将能源成本降低10倍。\"<br>\n——Isaiah Taylor，Valar Atomics创始人\n</blockquote>\n\n<p>Taylor坦言，美国在三里岛事故后停建反应堆，根本原因并非技术失败，而是公关危机。\"实际上没有人死亡，没有人受伤，公众也没有受到辐射剂量，但这是一次在很多方面都被误管理的公关局面。\"几十年过去，美国从擅长大型土木基础设施，转变为擅长先进制造——这恰恰为小型模块化反应堆（SMR）的制造化路径创造了条件。</p>\n\nWatch/Listen: <a href=\"https://www.youtube.com/watch?v=5Xvbq_zvOQ4\">How Nuclear Will Unlock Energy Abundance — No Priors with Isaiah Taylor</a>\n\n<hr>\n\n<h2>💡 边角料：AI如何改变学习与创造</h2>\n\n<p>最后几则观察，短小却耐人寻味。</p>\n\n<p><a href=\"https://x.com/zarazhangrui/status/2072729444943577601\" data-handle=\"zarazhangrui\">@zarazhangrui</a>转述了一位应届毕业生的经历：在校期间，他会把讲义喂给AI，让AI来讲授课程内容，\"他常常觉得AI教得比教授更好。\"这句话的背后，是对教育价值的重新追问。</p>\n\n<p><a href=\"https://x.com/petergyang/status/2072756657856422379\" data-handle=\"petergyang\">@petergyang</a>则分享了一个温馨的反例：他带着8岁的女儿用Codex将手绘龙的图案转化为贴纸，并邮寄给朋友。\"如果你有孩子在家消夏，可以试试。\"</p>\n\n<p>而<a href=\"https://x.com/zarazhangrui/status/2072943922385715262\" data-handle=\"zarazhangrui\">@zarazhangrui</a>也许给出了今天最精炼的一句话总结：\"AI内容泛滥的根源不是风格太差，而是没有实质内容。\"</p>"
+}
