@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T07:26:19.496Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: Cloudflare CEO: The Internet's Business Model Is Dead",
+      "url": "https://www.youtube.com/watch?v=UN47z_opfmo"
+    }
+  },
+  "html_en": "<p class=\"lead\">Bot traffic officially outnumbered human traffic on the internet in 2026 — and the implications for everything from infrastructure to business models are only beginning to sink in. Meanwhile, the AI toolchain keeps expanding its reach, now all the way into Apple's native developer stack.</p>\n\n<h2>🤖 The Bot Majority: The Internet Just Changed Forever</h2>\n\n<p>The most striking data point of the week didn't come from an AI lab — it came from <a href=\"https://www.youtube.com/watch?v=UN47z_opfmo\">Cloudflare's CEO Matthew Prince on the MAD Podcast</a>. Bot traffic, driven almost entirely by AI agents and crawlers, now <em>exceeds</em> human traffic on the internet. The crossing happened faster than anyone predicted.</p>\n\n<blockquote>\"We actually had bot traffic pass human traffic online in the first half of twenty twenty six... In five years you might have a thousand times as much traffic on the internet as you do today.\" — Matthew Prince, CEO of Cloudflare</blockquote>\n\n<p>Prince had predicted this milestone wouldn't arrive until 2027, then revised to early 2027 just months ago. The actual crossover happened years ahead of schedule. The culprit? Agentic AI. When you ask Claude or ChatGPT to shop for a camera, your agent may visit 5,000 sites where you'd visit five. Multiply that across millions of users and the traffic math becomes staggering.</p>\n\n<p>But the deeper crisis is economic. The internet's business model — essentially unchanged for 28 years — is built on advertising. And as Prince puts it bluntly: <em>\"bots don't click on ads.\"</em> What replaces the ad-driven web is, by his own admission, \"totally undefined at this point.\" Watch/Listen: <a href=\"https://www.youtube.com/watch?v=UN47z_opfmo\">Cloudflare CEO: The Internet's Business Model Is Dead</a></p>\n\n<hr>\n\n<h2>🍎 Claude Goes Native on Apple Platforms</h2>\n\n<p>Anthropic quietly dropped a significant developer announcement: <a href=\"https://claude.com/blog/claude-for-foundation-models\">Claude now integrates directly with Apple's Foundation Models framework</a> via a new Swift package. Starting with iOS 27, macOS 27, and the rest of Apple's next-generation OS lineup, developers can use Apple's on-device models for fast local tasks — summarization, extraction — and seamlessly hand off to Claude when heavier lifting is required: multi-step reasoning, web search, code execution.</p>\n\n<p>The elegance of the architecture is worth noting. Apple's framework uses <code>@Generable</code> annotations to return typed Swift values, which means by the time a request escalates to Claude, developers arrive \"with clean inputs instead of raw user text.\" It's a sensible division of labor: local models handle speed and privacy; Claude handles depth and complexity. One experience for the user, the right model under the hood.</p>\n\n<p>The example use cases are immediately compelling — a journaling app that generates prompts on-device, then asks Claude to surface emotional threads across months of entries. A study app that defines terms locally, then hands off to Claude when a student asks \"why does this matter for everything else we've covered?\"</p>\n\n<hr>\n\n<h2>📊 Anthropic Dominates Developer Token Spend</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel shared a striking animated visualization of token spend across AI providers, drawn from Vercel's AI Gateway — which aggregates usage from millions of developers processing trillions of tokens monthly.</p>\n\n<blockquote>\"Fascinating to see the fluctuations among the labs, Anthropic's dominance, and the rise of open weight AI.\" — <a href=\"https://x.com/rauchg/status/2073563586270781674\">@rauchg</a></blockquote>\n\n<p>Two trends worth watching: Anthropic's lead among serious builders is apparently substantial, and open-weight models are growing fast. The latter is consistent with the Cloudflare bot-traffic thesis — open models are cheap to run at scale, which makes them natural candidates for powering the agent swarms now flooding the internet.</p>\n\n<p>On the product side, <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Cat Wu</a> offered a telling anecdote about Claude Fable 5's judgment in practice:</p>\n\n<blockquote>\"One of the things I love about Claude Fable 5 is that it knew to use propensity score matching (matching users on activity so you compare like with like) in my retention analysis without me asking.\" — <a href=\"https://x.com/_catwu/status/2073439890482794966\">@_catwu</a></blockquote>\n\n<p>Unprompted methodological sophistication in a data analysis task is exactly the kind of quietly impressive capability that compounds over time in a developer's trust.</p>\n\n<hr>\n\n<h2>🐛 Codex, Code Review, and What AI Still Gets Wrong</h2>\n\n<p><a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> — who has been sharing delightfully weird AI interaction screenshots all day, including a memorable \"<a href=\"https://x.com/thsottiaux/status/2073554978053005607\">salute debt economy</a>\" exchange — posed a pointed open question to the community:</p>\n\n<blockquote>\"What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago?\" — <a href=\"https://x.com/thsottiaux/status/2073551549494596079\">@thsottiaux</a></blockquote>\n\n<p>It's the right question to be asking. <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nan Yu</a> offered a useful framing for how to think about AI in the code review loop:</p>\n\n<blockquote>\"The best way to catch bugs is to use the product and see if you can break it. You're not going to find most bugs by dead reckoning the code. You're reviewing the code itself for architecture and API design… to control the increase in technical debt.\" — <a href=\"https://x.com/thenanyu/status/2073410299680428445\">@thenanyu</a></blockquote>\n\n<p>The implicit point: AI code generation has shifted the bottleneck from <em>writing</em> code to <em>validating</em> it. The tools for the latter are still catching up. And the stakes are not trivial — as Nan noted separately in a more sardonic register: <a href=\"https://x.com/thenanyu/status/2073410944969932877\">\"If you drop every production table does the model get fired or do you get fired.\"</a></p>\n\n<hr>\n\n<h2>🇺🇸 A Holiday Note</h2>\n\n<p>It's the Fourth of July, and the AI community — immigrant founders, researchers, and builders among them — paused to mark it. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> called America \"the most impressive social experiment in history.\" <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Kothari</a>, who moved here for undergrad, wrote simply: <a href=\"https://x.com/nikunj/status/2073447791876317338\">\"convinced there's no greater land of opportunity. Here's to the next 250.\"</a> <a href=\"https://x.com/AmandaAskell\" data-handle=\"amandaaskell\">Amanda Askell</a> of Anthropic offered the most economical take: <a href=\"https://x.com/AmandaAskell/status/2073569330940531152\">\"Happy birthday, America! You don't look a day over 200.\"</a></p>",
+  "html_zh": "<p class=\"lead\">今天的主题是规模：互联网上的机器人流量首次超过人类流量，Anthropic继续主导开发者Token消耗榜，而AI基础设施正在悄然重塑每一个层面——从Apple的Swift生态到互联网的商业模式本身。</p>\n\n<h2>🤖 机器人已经\"占领\"互联网</h2>\n\n<p>这或许是本周最值得细读的一个数据点。Cloudflare CEO <a href=\"https://x.com/eastdakota\" data-handle=\"eastdakota\">Matthew Prince</a> 在 <a href=\"https://www.youtube.com/watch?v=UN47z_opfmo\">MAD Podcast与Matt Turck的对话</a>中透露，一个令人震惊的里程碑已经悄然到来：</p>\n\n<blockquote>\n\"我们在2026年上半年就看到机器人流量超过了人类流量。两年前，我们预测这一节点会在2027年底出现，但它来得比所有人预期的都快得多。如果五年后再看，互联网上的机器人流量可能是人类流量的一千倍。\"\n<br>— Matthew Prince，<a href=\"https://www.youtube.com/watch?v=UN47z_opfmo\">The MAD Podcast</a>\n</blockquote>\n\n<p>Prince解释了增长的底层逻辑：当你让AI帮你挑选一台数码相机，它可能会访问5000个网站；而如果你亲自搜索，大概只会看5个。这种\"一对千\"的放大效应正在从根本上改变流量结构。</p>\n\n<p>更深远的问题随之而来：</p>\n\n<blockquote>\n\"互联网在过去二十八年里的商业模式基本没变——以广告为核心。问题是，机器人不会点广告。未来五年，互联网的商业模式将发生根本性变化，但变成什么，目前完全没有定论。\"\n<br>— Matthew Prince\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=UN47z_opfmo\">Cloudflare CEO: The Internet's Business Model Is Dead — The MAD Podcast</a></p>\n\n<hr>\n\n<h2>📊 Anthropic的Token霸主地位</h2>\n\n<p>从Vercel的视角看，这场模型竞争的格局已经相当清晰。Vercel创始人 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 发布了一段动态可视化，展示了来自数百万开发者的Token消耗竞赛：</p>\n\n<blockquote>\n\"从Vercel AI Gateway的累计使用数据来看——每月汇聚来自数百万开发者的万亿级Token——Anthropic的主导地位、各家实验室的起伏变化，以及开源模型的崛起，都令人着迷。\"\n<br>— <a href=\"https://x.com/rauchg/status/2073563586270781674\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>与此同时，Anthropic内部用户也在为Claude点赞。Anthropic员工 <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">@_catwu</a> 分享了她使用Claude Fable 5的体验：</p>\n\n<blockquote>\n\"我非常喜欢Claude Fable 5的一点是，它在做用户留存分析时，不需要我提示，就自己知道用倾向评分匹配（propensity score matching）来控制变量、对比同类用户。这种判断力的提升让我感到兴奋。\"\n<br>— <a href=\"https://x.com/_catwu/status/2073439890482794966\" data-handle=\"_catwu\">@_catwu</a>\n</blockquote>\n\n<hr>\n\n<h2>🍎 Claude进入Apple生态：Swift开发者的新选择</h2>\n\n<p>Anthropic今天宣布了一项面向Apple开发者的重要整合。通过一个新的Swift包，开发者可以在Apple的Foundation Models框架内直接调用Claude，实现\"端侧模型处理简单任务、Claude处理复杂推理\"的无缝协作。</p>\n\n<p>官方博客 <a href=\"https://claude.com/blog/claude-for-foundation-models\">《Building intelligent apps for Apple platforms with Claude》</a> 描述了这种\"接力模式\"的魅力所在：</p>\n\n<blockquote>\n\"日记类应用可以用端侧模型生成每日提示，再交给Claude去挖掘数月日记中的深层线索；学习应用可以在本地定义一个概念，当学生追问'这对我学过的所有内容意味着什么'时，再将问题交棒给Claude。对用户来说是一体化体验，背后却是最合适的模型在各司其职。\"\n</blockquote>\n\n<p>该功能将适配iOS 27、macOS 27等即将发布的Apple平台，开发者只需添加包、登录Anthropic API密钥即可上手。</p>\n\n<hr>\n\n<h2>💻 Codex还差什么？以及AI写代码的真实边界</h2>\n\n<p>OpenAI的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 抛出了一个开放性问题，引发广泛讨论：</p>\n\n<blockquote>\n\"你觉得Codex有什么令人意外的短板——那些早该做好却仍没做好的事情？\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2073551549494596079\" data-handle=\"thsottiaux\">@thsottiaux</a>（1804个赞）\n</blockquote>\n\n<p>在AI编程工具的讨论中，<a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 分享了一个务实的观察，颇有启发：</p>\n\n<blockquote>\n\"发现bug最好的方式是去用这个产品，看看能不能把它搞崩。光靠反推代码逻辑，你找不到大多数bug。代码审查的价值在于架构和API设计层面，是为了控制技术债的积累。\"\n<br>— <a href=\"https://x.com/thenanyu/status/2073410299680428445\" data-handle=\"thenanyu\">@thenanyu</a>\n</blockquote>\n\n<p>他还对AI代码执行的风险一针见血：</p>\n\n<blockquote>\n\"如果模型删了所有生产数据库的表，是模型被开除还是你被开除？\"\n<br>— <a href=\"https://x.com/thenanyu/status/2073410944969932877\" data-handle=\"thenanyu\">@thenanyu</a>（293个赞）\n</blockquote>\n\n<hr>\n\n<h2>🇺🇸 美国独立日：科技圈的感恩时刻</h2>\n\n<p>今天是美国独立日，不少科技圈人士发文表达对这个国家的感情。OpenAI CEO <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 写道：</p>\n\n<blockquote>\n\"感谢那些提出'美国这个理念'的人，感谢过去250年建设它的每一个人，也感谢将在未来250年延续它的人。这是人类历史上最令人叹为观止的社会实验。\"\n<br>— <a href=\"https://x.com/sama/status/2073635910512726444\" data-handle=\"sama\">@sama</a>（2831个赞）\n</blockquote>\n\n<p>移居美国多年的 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 也有感而发：</p>\n\n<blockquote>\n\"我为上大学来到美国，此后一直住在这里。这个国家给了我无尽的善意。它有自己的问题，但我坚信没有哪片土地比这里拥有更多机会。为未来250年干杯 🇺🇸\"\n<br>— <a href=\"https://x.com/nikunj/status/2073447791876317338\" data-handle=\"nikunj\">@nikunj</a>\n</blockquote>"
+}
