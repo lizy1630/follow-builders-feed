@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-06",
+  "generatedAt": "2026-07-06T07:52:35.228Z",
+  "builders": {
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown",
+      "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU"
+    }
+  },
+  "html_en": "<p class=\"lead\">Two themes dominated the AI builder feed today: a fundamental reckoning with how we measure model intelligence, and the quiet revolution of AI agents doing the work while humans step away from their laptops entirely.</p>\n\n<h2>📏 The Benchmark Problem Nobody Wants to Admit</h2>\n\n<p>The most substantive conversation of the day came from <a href=\"https://www.youtube.com/watch?v=AZrU6y3pUcU\">No Priors</a>, where OpenAI research scientist <a href=\"https://x.com/noambrown\" data-handle=\"noambrown\">Noam Brown</a> — one of the pioneers of inference-time scaling — laid out a quietly damning critique of how the entire industry evaluates AI models. The occasion: the muted reception to o3's launch, which benchmarks initially suggested was only a marginal improvement over its predecessor.</p>\n\n<blockquote>\"The benchmark results are being presented in the wrong way. They're not controlling for the amount of test-time compute being used on that benchmark question. It turned out that 5.5 is just much more efficient with its thinking. If you run it at max settings, 5.4 is thinking for a lot longer... Once you control for the amount of thinking time, you can see that 5.5 is a substantial jump over 5.4.\"</blockquote>\n\n<p>The deeper problem Brown identifies is that modern models don't plateau quickly anymore. Ask GPT-3 to think for a week and nothing much happens. Ask a frontier model today to think for a week, and performance <em>keeps improving</em> — benchmarks simply can't capture that.</p>\n\n<blockquote>\"What we're seeing today with modern models is that 5.5 and other models can think — if you scaffold them reasonably well — for weeks, before having performance plateau on some of these benchmarks. And so the point at which they plateau is simply too far out to reasonably test.\"</blockquote>\n\n<p>His proposed fix: either impose a budget (tokens, cost, time) or plot performance as a function of compute, rather than publishing a single number. There's also an uncomfortable implication for AI safety frameworks — responsible scaling policies were written assuming capability was a fixed property of a model. That assumption is now broken.</p>\n\n<blockquote>\"We're in a world now where the capability of the model is a function of how much money you put into it, basically... At what budget should you evaluate these models? The policies that exist today don't really address that question.\"</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=AZrU6y3pUcU\">Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research — No Priors</a></p>\n\n<hr>\n\n<h2>🤖 The Agentic Workflow Goes Mainstream (and Gets Mocked)</h2>\n\n<p>Meanwhile, in the practical trenches, agentic workflows are becoming a daily habit — and attracting the inevitable backlash. <a href=\"https://x.com/_catwu/status/2073806626965049686\" data-handle=\"_catwu\">@_catwu</a> shared an elegant recruiting workflow that captures the current moment perfectly:</p>\n\n<blockquote>\"Tell CC about the role and backgrounds I'm looking for, ask CC to kick off a dynamic workflow to find 100 candidates, and include LinkedIn, Twitter, blog, podcasts, and one-line pitch for each. Ask CC to make an artifact and email it to me. Then I lock my laptop and head out for the day.\"</blockquote>\n\n<p>It's a clean articulation of the new paradigm: set intention, delegate execution, review asynchronously. <a href=\"https://x.com/danshipper/status/2073764166700048480\" data-handle=\"danshipper\">Dan Shipper</a> captured the comic version of this dynamic, poking fun at Fable's multi-agent overkill:</p>\n\n<blockquote>\"me: change this button color. Fable: sure I just spun up a fleet of 100 agents to get that done for you.\"</blockquote>\n\n<p>Not everyone is impressed by the theater of it all. <a href=\"https://x.com/thenanyu/status/2073920959011074292\" data-handle=\"thenanyu\">@thenanyu</a> was characteristically blunt: <a href=\"https://x.com/thenanyu/status/2073920959011074292\">\"Bragging about running 10 Claude code tabs is just theater.\"</a> He went further with a pointed observation about the dominant mental model for managing agents:</p>\n\n<blockquote>\"The 'real-time strategy game' model of managing agents is clearly a dead end. AI that's ancient by current standards already beats >99% of human players and out-micros them to an extreme degree.\"</blockquote>\n\n<p>The implicit argument: if you're manually micromanaging your AI agents like StarCraft units, you've already lost the plot.</p>\n\n<hr>\n\n<h2>🩺 AI as the Doctor Who'll Actually Give You a Number</h2>\n\n<p>The most quietly viral observation of the day came from <a href=\"https://x.com/AmandaAskell/status/2073786264059625897\" data-handle=\"amandaaskell\">Amanda Askell</a> of Anthropic, touching on something anyone who's been in a doctor's office will recognize:</p>\n\n<blockquote>\"Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg them for an interval-valued subjective probability, and at that point you're basically asking for their hunch. I don't know if they get sued for giving out information or something.\"</blockquote>\n\n<p>The tweet landed 1,300+ likes because it names something real: a massive gap between the information patients want and what they're allowed to receive. It's also an implicit case for AI in medicine — not to replace clinical judgment, but to be the entity that will finally answer the question \"so what are my actual odds here?\"</p>\n\n<hr>\n\n<h2>💡 The Leverage Unlocked</h2>\n\n<p>YC's <a href=\"https://x.com/garrytan/status/2073881439700168925\" data-handle=\"garrytan\">Garry Tan</a>, writing from Osaka, offered the most expansive framing of the week's underlying mood:</p>\n\n<blockquote>\"The real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the leverage to act on them. We just deleted the leverage constraint for everybody. Now it's only the ideas. Go have them, and then build them. It's your time.\"</blockquote>\n\n<p>It's the kind of line that sounds like a YC slide — but the Japan observation that preceded it gave it texture: a country that ran the experiment of zero growth for thirty years and responded by becoming world-class at quality. \"Better AND more at the same time,\" Tan concludes. The optimism is familiar; the grounding in a real-world economic case study is rarer.</p>\n\n<p>And finally, the day's most human moment: <a href=\"https://x.com/sama/status/2073791666553844074\" data-handle=\"sama\">Sam Altman</a>, the man overseeing systems that can do research for weeks without stopping, found himself stopped in his tracks by something smaller:</p>\n\n<blockquote>\"Our older kid put two words together for the first time and I am approximately as amazed by this cognitive feat as I am by GPT-5.6 discovering new math.\"</blockquote>",
+  "html_zh": "<p class=\"lead\">今天的主旋律是：AI的能力边界正在被重新定义——不是靠更大的模型，而是靠更多的\"思考时间\"。与此同时，硅谷的建设者们在庆祝美国独立250周年的间隙，也不忘在足球赛事中寻找人生哲学。</p>\n\n<h2>⏱️ 评测体系已经失效——我们需要重新定义\"模型能力\"</h2>\n\n<p>这是今天最值得深思的一个议题。OpenAI研究科学家 <a href=\"https://x.com/noambrown\" data-handle=\"noambrown\">Noam Brown</a> 在 <em>No Priors</em> 播客中抛出了一个令人不安的观点：我们用来比较AI模型的基准测试体系，正在以一种系统性的方式误导所有人。</p>\n\n<blockquote>\n\"模型的能力现在基本上是你投入多少钱的函数。给它1万美元的预算，它能做的事情远多于10美元预算；给它1000万美元，它能做的更多。那么，你到底应该在什么预算下评测这些模型？现有的政策根本没有回答这个问题。\"\n<br>— Noam Brown，<a href=\"https://www.youtube.com/watch?v=AZrU6y3pUcU\">No Priors 播客</a>\n</blockquote>\n\n<p>他以 GPT-5.5 为例：新模型发布时，基准测试显示它只比 5.4 好了\"几个百分点\"，初期引发大量怀疑。但Brown指出，5.5 的真正优势在于<strong>思考效率更高</strong>——相同时间内能完成更多推理，而不是\"思考更久才更好\"。一旦控制推理时间这个变量，5.5 对 5.4 的提升就变得显著。</p>\n\n<p>更令人震惊的是：现代顶级模型在某些基准任务上，<strong>可以持续思考数周而不出现性能平台期</strong>。这让传统的\"跑到饱和\"评测策略彻底失效。</p>\n\n<blockquote>\n\"5.5和其他模型，如果脚手架搭建合理，可以思考数周，性能才会在某些基准测试上趋于平稳。而这个平稳点已经远到根本无法合理测试。\"\n<br>— Noam Brown，<a href=\"https://www.youtube.com/watch?v=AZrU6y3pUcU\">No Priors 播客</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=AZrU6y3pUcU\">No Priors — Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with Noam Brown</a></p>\n\n<hr>\n\n<h2>🤖 Agent 时代的真实工作方式：效率还是表演？</h2>\n\n<p>关于如何用好 AI Agent，社区里出现了有趣的分歧。一边是务实派的真实用例分享，另一边是对\"Agent剧场化\"的直接讽刺。</p>\n\n<p><a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">@_catwu</a> 分享了一个颇具代表性的实际工作流：</p>\n\n<blockquote>\n\"我最新的最爱用法之一是招聘候选人筛选：告诉 Claude Code 职位要求和我寻找的背景，让它启动一个动态工作流找到100位候选人，包括 LinkedIn、Twitter、博客、播客和每人一句话简介；让它生成一个 artifact 并发邮件给我。然后我锁上笔记本出门，等 Claude 完成后在路上查阅名单。\"\n<br>— <a href=\"https://x.com/_catwu/status/2073806626965049686\">@_catwu</a>\n</blockquote>\n\n<p>但 <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 对 Agent 文化中的虚荣成分毫不客气：</p>\n\n<blockquote>\n\"吹嘘自己同时跑10个 Claude Code 标签页，不过是在表演罢了。\"\n<br>— <a href=\"https://x.com/thenanyu/status/2073920959011074292\">@thenanyu</a>\n</blockquote>\n\n<p>他进一步指出，把管理 Agent 类比为\"即时战略游戏\"本身就是一条死路：</p>\n\n<blockquote>\n\"'即时战略游戏'式的 Agent 管理模型显然是条死胡同。以现在的标准都算古董的 AI 已经能击败99%以上的人类玩家，并在微操上将人类远远甩在身后。\"\n<br>— <a href=\"https://x.com/thenanyu/status/2073920326304460847\">@thenanyu</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a> 也用一个段子戳破了 Agent 的膨胀感：</p>\n\n<blockquote>\n\"我：改一下这个按钮的颜色。Fable：没问题，我刚刚调度了100个 Agent 来完成这个任务。\"\n<br>— <a href=\"https://x.com/danshipper/status/2073764166700048480\">@danshipper</a>\n</blockquote>\n\n<hr>\n\n<h2>🩺 AI 能直接告诉你概率，但医生不行</h2>\n\n<p>Anthropic 研究员 <a href=\"https://x.com/AmandaAskell\" data-handle=\"amandaaskell\">Amanda Askell</a> 的一条推文引发了广泛共鸣——1382个点赞，足以说明这个痛点有多普遍：</p>\n\n<blockquote>\n\"从医生那里问出一个概率估计，是人生中不必要的'大Boss战'。即便你恳求他们给一个区间型的主观概率，本质上也只是在请求他们的直觉。我不知道他们是不是因为怕被告才这样。\"\n<br>— <a href=\"https://x.com/AmandaAskell/status/2073786264059625897\">@AmandaAskell</a>\n</blockquote>\n\n<p>这条推文没有提到 AI，却恰好切中了 AI 工具最具颠覆性的一个价值：在人类专业人士因为体制、法律或习惯而拒绝给出直接判断的领域，AI 正在填补这个信息真空。</p>\n\n<hr>\n\n<h2>🌍 硅谷的更大叙事：财富的真正约束从未是资源</h2>\n\n<p>独立日假期期间，<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 在大阪发出了一段颇具哲学意味的感慨，将日本经济停滞的教训与 AI 时代的机遇并置：</p>\n\n<blockquote>\n\"我现在在大阪，这里的一切都印证了：日本已经提前做过了这个'触及天花板'的实验。三十年零增长，却建出了地球上最好的铁路、服务和工艺。当你无法在'更多'上竞争，你就在'更好'上竞争。而现在，'更好'和'更多'可以同时发生。\"\n<br>— <a href=\"https://x.com/garrytan/status/2073881438123110512\">@garrytan</a>\n</blockquote>\n\n<blockquote>\n\"人类财富的真正约束从来都不是资源，而是如何服务彼此的好想法，以及将其付诸实践的杠杆。我们刚刚为所有人删除了杠杆这个约束。现在唯一剩下的就是想法。去拥有它们，然后去构建。这是你的时代。\"\n<br>— <a href=\"https://x.com/garrytan/status/2073881439700168925\">@garrytan</a>\n</blockquote>\n\n<p>而 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 则用一条更私人的推文，将人类智慧的奇迹带回到最朴素的尺度：</p>\n\n<blockquote>\n\"我们的大孩子今天第一次把两个词连在一起说出来，这件事带给我的震撼，大概和 GPT-5.6 发现新数学定理差不多。\"\n<br>— <a href=\"https://x.com/sama/status/2073791666553844074\">@sama</a>（获得逾1.1万点赞）\n</blockquote>"
+}
