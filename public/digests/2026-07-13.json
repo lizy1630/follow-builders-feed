@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T07:25:45.249Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry's weekend was defined by a rare thing: companies actually listening to their users — while a nuclear startup quietly lit up the first reactor to power an AI chip, hinting at where the energy conversation goes next.</p>\n\n<h2>OpenAI Earns Some Goodwill With a Transparency Play</h2>\n\n<p>It's been a rocky few weeks for OpenAI's relationship with its paying subscribers, but this weekend the company's product team made an unusual move: explaining itself, in plain English, on a Sunday. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> posted a detailed breakdown of what had been quietly draining Codex and ChatGPT Work users' usage limits — and what the team was doing to fix it.</p>\n\n<blockquote>\n\"We noticed that by changing the context size limit in the product to 372k for GPT-5.6 Sol, up from 272k for GPT-5.5, it resulted in more usage being charged than intended. We have reverted to 272k and will work to roll back out to 372k in the days to come... To understand where the extra usage was coming from, we ran some experiments where reasoning efforts were changed (referred to as juice values under the hood) and have reverted this.\"\n— <a href=\"https://x.com/thsottiaux/status/2076495156757577895\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>The post also confirmed that inference optimizations are being passed down to subscribers — translating to roughly 10% more usage at no extra cost — and that the 5-hour usage limit remains temporarily suspended. Crucially, <a href=\"https://x.com/thsottiaux/status/2076459871021736245\" data-handle=\"thsottiaux\">@thsottiaux reassured</a> users that \"GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscriptions. At least until we ship an even better model.\" That last clause did some heavy lifting, but the overall tone landed well — racking up over 10,000 likes.</p>\n\n<p><a href=\"https://x.com/sama/status/2076398253332140410\" data-handle=\"sama\">Sam Altman</a> added fuel to the weekend's community energy with a simple ask: \"I'd love to see interesting things people have built with 5.6 Sol. I will send the person who made the coolest thing a special gift from the OpenAI archives.\" Over 13,000 likes. Sometimes the old tricks still work.</p>\n\n<p>The contrast with Anthropic's communication style didn't go unnoticed. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> observed:</p>\n\n<blockquote>\n\"There's a tendency when community sentiment turns to communicate less and in a more corporate way. I think it's important to do the reverse — communicate in a more human way, be transparent with the community about what's going on, figure out solutions together.\"\n— <a href=\"https://x.com/petergyang/status/2076512796481880270\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>Anthropic, for its part, did have one crowd-pleaser: <a href=\"https://x.com/claudeai/status/2076351399999557669\" data-handle=\"claudeai\">@claudeai announced</a> it's extending Claude Fable 5 access on all paid plans and keeping Claude Code's weekly rate limits 50% higher through July 19 — a move that earned a staggering 66,000 likes. The model is clearly popular. The question is whether the company will let its community feel that warmth more consistently.</p>\n\n<hr>\n\n<h2>The Enterprise AI Layer: Where the Real Money Gets Made</h2>\n\n<p>While consumer AI captures headlines, a quieter but potentially more consequential argument is building around enterprise infrastructure. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered the clearest articulation of what's at stake:</p>\n\n<blockquote>\n\"One of the key architectural questions of the 21st century in business will be how you maximize your corporate IP in the form of decisions, insights, workflow patterns, and best practices in a world where so much intelligence is packed into AI models... In a world where any firm also has access to frontier intelligence, understanding how you leverage it uniquely becomes a critical question.\"\n— <a href=\"https://x.com/levie/status/2076338364635287637\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>His prescription — evals for workflows, model routing across intelligence tiers, trace capture, compounding information value — maps almost exactly onto what <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> was pushing from the infrastructure side:</p>\n\n<blockquote>\n\"Make the model a cog in a machine you own... Startups and enterprises must own their data, evals, model choices, software layer. Don't outsource your brain.\"\n— <a href=\"https://x.com/rauchg/status/2076364176252191222\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>The thesis is consistent: the frontier model providers are selling a commodity (increasingly powerful intelligence), and the value accrues to whoever builds the abstraction layer that makes that intelligence <em>specific</em> to an organization's context.</p>\n\n<hr>\n\n<h2>\"Vibe Research\" and the New Shape of Building</h2>\n\n<p>A thread from <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> captured something genuinely new happening at the intersection of AI tooling and creative ambition. He's been fine-tuning a Qwen-8B model to play chess — directly in Replit, running parallel experimental branches:</p>\n\n<blockquote>\n\"It's amazing how far models have come in their ability to do ML (they used to be really bad at it). So now someone with good intuition to guide the process could do interesting ML work, even if they have never done it before.\"\n— <a href=\"https://x.com/amasad/status/2076227936202662357\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>He's calling it \"Vibe Research\" — and it's a genuinely useful framing. The barrier to entry for ML experimentation has collapsed; what remains scarce is taste, intuition, and a clear sense of direction. Which is precisely what <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> was pushing back on in the SF builder community:</p>\n\n<blockquote>\n\"I'll meet so many people in SF who'll claim they are tokenmaxxing and have all of these subagents looping things for them... But when I ask them 'what' and 'for whom' are they building, very few can give me a straight answer. Shows that even in this insane AI era, simplicity and direction are still ridiculously important.\"\n— <a href=\"https://x.com/nikunj/status/2076458876816540144\" data-handle=\"nikunj\">@nikunj</a>\n</blockquote>\n\n<p>One practical workflow generating buzz: <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a>'s \"meeting transcript as PRD\" pattern — feeding a recorded product discussion directly into Codex and having it build the prototype as discussed. <blockquote>\"The meeting is the prompt.\"</blockquote> Clean, quotable, and probably already in dozens of team playbooks by Monday morning.</p>\n\n<hr>\n\n<h2>Nuclear Gets Its SpaceX Moment (Maybe)</h2>\n\n<p>The most surprising story in the feed came from Utah. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=5Xvbq_zvOQ4\">How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor — No Priors</a></p>\n\n<p>Valar Atomics just turned on the first TRISO reactor in the United States in over fifty years — and used it to power an AI chip. The company's founder, <a href=\"https://x.com/valoratomics\" data-handle=\"valoratomics\">Isaiah Taylor</a>, frames the moment with the kind of clarity that the nuclear industry has historically lacked:</p>\n\n<blockquote>\n\"Nuclear has never had its Ford moment or its Tesla moment, if you want to put it that way. And that's what Valor Atomics is working on doing. We have nuclear reactors that are more manufactured than constructed, and they're extremely safe. And we think the combination of these two things is going to allow us to scale nuclear fission and make energy 10 times cheaper for humanity.\"\n— Isaiah Taylor, No Priors\n</blockquote>\n\n<p>Taylor's diagnosis of why the US stopped building reactors after Three Mile Island is worth sitting with: not the technical failure, not the radiation (there was none), but the PR mismanagement — combined with the country's gradual atrophying of large-scale civil infrastructure skills. His bet is that nuclear's revival will look more like advanced manufacturing than construction, and that hardware iteration — not modeling and simulation — is the missing ingredient:</p>\n\n<blockquote>\n\"Most of the nuclear industry is a modeling and simulation industry. They're not focused on hardware iteration, hardware execution, building the simplest and safest reactor that allows them to scale. And Valor just demonstrated that we are.\"\n— Isaiah Taylor, No Priors\n</blockquote>\n\n<p>The AI-energy nexus is becoming one of the defining infrastructure stories of the decade. Every data center conversation eventually bottoms out at the same constraint: power. The question is whether companies like Valar can move fast enough to matter.</p>",
+  "html_zh": "<p class=\"lead\">AI行业本周末呈现出一种有趣的双重节奏：大模型厂商们忙着向用户示好、修复计费Bug、延长免费额度；而更深层的问题——能源、企业护城河、AI开发的真正意义——正在悄然浮出水面。</p>\n\n<h2>🔋 核能复兴：AI算力背后的能源赌注</h2>\n\n<p>本周最值得关注的非AI原生内容，反而来自播客 <em>No Priors</em>。Watch/Listen: <a href=\"https://www.youtube.com/watch?v=5Xvbq_zvOQ4\">How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor</a>。Valar Atomics创始人Isaiah Taylor在犹他州核设施现场接受采访，宣布完成了一项里程碑：美国五十余年来首座Triso反应堆正式启动发电，也是首块由核反应堆供电的AI芯片。</p>\n\n<blockquote>「核裂变是一项古老的技术，我们建造了很多反应堆，但从未以大规模量产的方式建造过。核能从未有过自己的福特时刻，或者特斯拉时刻。」—— Isaiah Taylor</blockquote>\n\n<p>Taylor的核心判断是：美国正在从\"大型土木基础设施建造\"转向\"先进制造\"，核能必须跟上这一转变——通过硬件迭代而非监管博弈来降低成本。他相信核能可以让能源成本降低10倍。对于AI数据中心而言，这不是遥远的故事，而是一个正在落地的基础设施赌注。</p>\n\n<hr>\n\n<h2>📦 OpenAI的\"用户维系周末\"：GPT-5.6 Sol的计费风波</h2>\n\n<p>OpenAI这个周末进入了一种罕见的\"公关透明模式\"。产品负责人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 接连发帖，向Codex和ChatGPT付费用户解释为何使用额度消耗异常迅速。</p>\n\n<blockquote>「我们注意到，将GPT-5.6 Sol的上下文窗口从272k扩展到372k后，产生了超出预期的用量计费。我们已回滚至272k，并将在未来几天重新推出372k。同时，我们发现高推理强度下多智能体调用的用量略高于预期，正在修复中。」—— <a href=\"https://x.com/thsottiaux/status/2076495156757577895\" data-handle=\"thsottiaux\">@thsottiaux</a></blockquote>\n\n<p>修复之外，OpenAI还宣布推理优化带来约10%的额外使用量，同时承诺GPT-5.6 Sol将持续留在所有付费订阅层级中。</p>\n\n<blockquote>「请放心，GPT 5.6 Sol会继续留在你所订阅的ChatGPT套餐中，包括Go、Plus和Pro。至少在我们推出更好的模型之前。」—— <a href=\"https://x.com/thsottiaux/status/2076459871021736245\" data-handle=\"thsottiaux\">@thsottiaux</a></blockquote>\n\n<p>CEO <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 也下场造势，<a href=\"https://x.com/sama/status/2076398253332140410\">发帖征集用5.6 Sol构建的最酷项目</a>，承诺亲自送出OpenAI档案馆的特别礼物。与此同时，Anthropic宣布将Claude Fable 5的访问权限延长至7月19日，Claude Code的周限额也维持50%的提升。社区观察者 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 则顺势点评了两家公司的沟通风格差异：</p>\n\n<blockquote>「Anthropic的模型很好，但我不明白他们为什么要用这种方式沟通。他们需要像OpenAI正在做的那样，更直接地与社区互动。」—— <a href=\"https://x.com/petergyang/status/2076510899490480228\" data-handle=\"petergyang\">@petergyang</a></blockquote>\n\n<hr>\n\n<h2>🏗️ \"不要把大脑外包出去\"：企业AI的护城河之争</h2>\n\n<p>当模型能力趋于普及，真正的竞争优势在哪里？Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 给出了他的答案：</p>\n\n<blockquote>「让模型成为你所拥有的机器中的一个齿轮。初创公司和企业必须掌控自己的数据、评估体系、模型选择和软件层。不要把你的大脑外包出去。」—— <a href=\"https://x.com/rauchg/status/2076364176252191222\" data-handle=\"rauchg\">@rauchg</a></blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 则将这个问题上升到战略高度，认为在每家公司都能使用前沿AI的时代，关键在于如何<strong>独特地</strong>利用它：</p>\n\n<blockquote>「当任何公司都能使用前沿智能时，如何独特地加以利用就成为了关键问题。为工作流建立评估体系、跨层级路由模型、捕获能够改善自身工作流的追踪数据——这些都是至关重要的考量。」—— <a href=\"https://x.com/levie/status/2076338364635287637\" data-handle=\"levie\">@levie</a></blockquote>\n\n<hr>\n\n<h2>🎯 \"Vibe Research\"与AI时代的方向感危机</h2>\n\n<p>Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 分享了一个有趣实验：用AI协助微调Qwen-8b模型来下国际象棋，他将这种工作方式称为\"Vibe Research\"——</p>\n\n<blockquote>「令人惊叹的是，模型在做机器学习方面的能力进步了多少。现在一个有良好直觉来引导过程的人，即使从未做过ML，也能做出有趣的ML工作。」—— <a href=\"https://x.com/amasad/status/2076227936202662357\" data-handle=\"amasad\">@amasad</a></blockquote>\n\n<p>工具的门槛在降低，但投资人 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Kothari</a> 发出了更清醒的提醒：旧金山满街都是声称在用多智能体\"token maxing\"的人，但真正说得清楚\"为谁建、建什么\"的人寥寥无几。</p>\n\n<blockquote>「即使在这个疯狂的AI时代，简洁和方向依然极其重要。在让你的token狂奔之前，花点时间想想你正在构建的东西是否真的重要。时间是你唯一拿不回来的东西。」—— <a href=\"https://x.com/nikunj/status/2076458876816540144\" data-handle=\"nikunj\">@nikunj</a></blockquote>\n\n<p>另一个实用亮点来自 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a>，她分享了一个颇具创意的工作流：将会议录音转录直接作为PRD发给Codex，让AI按讨论内容构建原型——<a href=\"https://x.com/zarazhangrui/status/2076300222884626754\">「会议即提示词」</a>。这或许是本周末最值得收藏的一条实操技巧。</p>"
+}
