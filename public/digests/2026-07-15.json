@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T07:01:28.551Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "url": "https://www.youtube.com/watch?v=vPnVTHYplrQ"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI's GPT-5.6 Sol is breaking usage records so fast that Sam Altman is warning of \"hiccups\" — while Anthropic quietly builds the developer infrastructure it hopes will be the backbone of the agentic era. Today's digest is about scale, craft, and what it means to build platforms in a world where form factors change faster than roadmaps.</p>\n\n<h2>🚀 Sol is Going Vertical — and OpenAI Knows It</h2>\n\n<p>The most-talked-about signal today came straight from the top. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> posted with characteristic understatement:</p>\n\n<blockquote>\"5.6 sol growth is insane. The inference team has done heroic work to be able to support demand. We are going to move mountains to continue to scale, but it is possible there are some hiccups soon.\" — <a href=\"https://x.com/sama/status/2077106587307798989\">@sama</a></blockquote>\n\n<p>Meanwhile, OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> was doing something unusual for a big-tech PM: publicly trolling his own user base about usage resets, then pivoting to a community flywheel — <a href=\"https://x.com/thsottiaux/status/2077248807533003257\">offering $100 in Codex credits</a> to the first 10,000 users who tweet about why they love GPT-5.6 Sol or switched to it. It's a smart move: turn your most vocal power users into a marketing force while harvesting authentic testimonials. The tweet hit nearly 1,500 retweets.</p>\n\n<p>The <strong>ChatGPT Work / Codex</strong> rebrand remains slightly confusing to users. <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> voiced a tension many will recognise:</p>\n\n<blockquote>\"I appreciate the in-depth feature set of the new 'ChatGPT' app... But there is a real tradeoff. I used ChatGPT (Legacy) 15-20 times a day for queries... And now it feels so heavyweight for that use case. Shame.\" — <a href=\"https://x.com/adityaag/status/2077130899733553560\">@adityaag</a></blockquote>\n\n<p>The lesson is evergreen: power and simplicity are in constant tension. The product that wins the power-user benchmark often loses the casual-use default.</p>\n\n<hr>\n\n<h2>🏗️ Anthropic's Platform Ambition: Primitives Over Products</h2>\n\n<p>The day's most substantive thinking on infrastructure came from the <em>Training Data</em> podcast, where Anthropic's platform leads Katelyn Lesse and Angela Jiang laid out their philosophy in unusually candid terms.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=vPnVTHYplrQ\">Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden</a></p>\n\n<p>The framing that stood out: Anthropic sees its platform as a <em>layer cake</em>, from raw API access up through execution harnesses and, increasingly, what they're calling a <strong>coordination layer</strong>.</p>\n\n<blockquote>\"At the coordination layer, we're beginning to think of things called strategies — it's almost like a meta harness. If tokens aren't really fungible and you need to give them different jobs, like maybe this token is advising versus this token is executing, you wanna start composing these orchestrated strategies that go together.\" — Katelyn Lesse, <a href=\"https://www.youtube.com/watch?v=vPnVTHYplrQ\">Training Data podcast</a></blockquote>\n\n<p>Crucially, Anthropic resists the temptation to over-index on internal needs when building platform primitives. The team dog-foods new abstractions internally while simultaneously opening early access to external customers — explicitly to avoid building for the wrong user.</p>\n\n<blockquote>\"It's really hard to figure out a long lasting form factor. Two years ago, we were all like, everything's chat. And now everyone's like, forget chat, it's just agents. And there's gonna be another form factor, another form factor.\" — Angela Jiang, <a href=\"https://www.youtube.com/watch?v=vPnVTHYplrQ\">Training Data podcast</a></blockquote>\n\n<p>The honest admission — that no one, including Anthropic, knows what the next form factor will be — is refreshing, and explains the company's consistent bet on open standards like MCP over proprietary moats.</p>\n\n<hr>\n\n<h2>📊 The Eval Gap: Why Most Enterprise AI Will Underperform</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> posted what may be the most practically useful thread of the day — a clean articulation of why coding is the category where agents have thrived, and what has to change for the rest of the enterprise.</p>\n\n<blockquote>\"One of the many properties that code has that makes it highly amenable to agents is that you can more or less quickly test it... Most other areas of work don't have this benefit. You only get the testing when the final product hits the real world — a stock trade is executed, a contract is negotiated, a sales pitch is delivered.\" — <a href=\"https://x.com/levie/status/2077201458546745553\">@levie</a></blockquote>\n\n<p>His conclusion has real teeth for anyone building enterprise software:</p>\n\n<blockquote>\"The enterprises that are able to eval their knowledge work the best also stand to gain the most from AI. Will become a critical aspect of agent adoption over time.\" — <a href=\"https://x.com/levie/status/2077201458546745553\">@levie</a></blockquote>\n\n<p>The implication: building evals for knowledge work — legal, sales, finance, HR — is not a nice-to-have. It's the unlock. Companies that solve this will compound their AI advantage; those that don't will run agents in the dark.</p>\n\n<hr>\n\n<h2>🌱 Claude for Teachers — and the Ecosystem Play</h2>\n\n<p>Anthropic made a quiet but meaningful move in education today. <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> announced <strong>Claude for Teachers</strong>, a K-12 focused product that pulls from state standards and curated curricula to generate lesson plans and student-facing materials — with explicit FERPA compliance and a commitment never to train on classroom conversations.</p>\n\n<blockquote>\"Ask for a lesson plan, and Claude starts from your state standards and high-quality curricula by connecting through Learning Commons. It then drafts a plan and student-facing materials you can revise and take into class.\" — <a href=\"https://x.com/claudeai/status/2077047279689535705\">@claudeai</a></blockquote>\n\n<p>Combined with the platform podcast above, a pattern emerges: Anthropic is methodically building trust infrastructure — privacy guarantees, open standards, ecosystem partnerships — rather than racing to ship features. It's a slower drumbeat than OpenAI's, but potentially a stickier one.</p>\n\n<hr>\n\n<h2>✍️ The Human Side: On Craft, AI, and Keeping the Fire Alive</h2>\n\n<p>The most widely shared piece of writing today wasn't a product announcement. It was a long, lyrical reflection from <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> on what it means to have turned your creative obsession into your profession — and then watched AI start to approximate the very things that felt most distinctly yours.</p>\n\n<blockquote>\"AI can make the output faster. It can even raise the floor of the craft. But it cannot want on your behalf. It cannot decide what is worth loving. It cannot protect the strange private thread that made you care in the first place... The real question is whether you still have a relationship with the source.\" — <a href=\"https://x.com/ryolu_/status/2077162119506833627\">@ryolu_</a></blockquote>\n\n<p>It's the kind of writing that spreads because it names something people have been feeling without the words for it. The anxiety isn't really about jobs. It's about identity — about whether the thing that made you feel singular is still yours when a model can mirror it back. The answer ryolu_ arrives at is quieter than most tech hot takes: tend the source, not the output. Keep the part of yourself that creates without an audience. The rest follows.</p>\n\n<p>A fitting note to end on, in a week when usage records are being shattered and the machines are, by all accounts, only getting faster.</p>",
+  "html_zh": "<p class=\"lead\">ChatGPT Work（即Codex）的用户增长势头令人咋舌，而AI平台的底层架构之争正悄然成为这个时代最重要的技术竞赛——从Anthropic的生态系统哲学到评估体系的缺失，行业正在直面一个根本性问题：我们准备好迎接Agent时代了吗？</p>\n\n<h2>🚀 GPT-5.6 Sol：一场让推理团队\"英雄般付出\"的增长风暴</h2>\n\n<p>本周最大的产品新闻毫无疑问属于OpenAI。<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 罕见地在Twitter上发出预警：</p>\n\n<blockquote>\n\"5.6 Sol的增长势头太疯狂了。推理团队做出了英雄般的努力来支撑需求。我们会竭尽全力继续扩容，但短期内可能会有一些波折。\"<br>\n— <a href=\"https://x.com/sama/status/2077106587307798989\">@sama</a>\n</blockquote>\n\n<p>OpenAI产品团队的<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a>则用一种颇为高明的市场调研方式来应对流量压力——他在Twitter上公开征求用户反馈，并宣布向前1万名分享GPT-5.6 Sol使用心得的用户赠送100美元Codex额度：</p>\n\n<blockquote>\n\"推文分享，领取礼品，享受更多用量。前1万名用户免费获得Token！\"<br>\n— <a href=\"https://x.com/thsottiaux/status/2077248807533003257\">@thsottiaux</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 正在准备一个关于如何用ChatGPT Work管理邮件、日历和重复性任务的完整教程，显示出这款产品已经从\"写代码的工具\"快速演变为更广义的个人操作系统。<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则不忘自夸：Every早在六个月前就开始深度报道Codex，\"如果你在看Every，你早就知道Codex要起飞了。\"</p>\n\n<hr>\n\n<h2>🏗️ Anthropic的平台哲学：生态系统，而非围墙花园</h2>\n\n<p>本周最值得细读的内容来自播客 <strong>Training Data</strong>。Watch/Listen: <a href=\"https://www.youtube.com/watch?v=vPnVTHYplrQ\">Anthropic's Katelyn Lesse & Angela Jiang: Building an Ecosystem, not a Walled Garden</a></p>\n\n<p>Anthropic平台团队描述了他们正在构建的\"抽象层蛋糕\"——从底层消息API，到执行层，再到正在浮现的<strong>协调层（Coordination Layer）</strong>：</p>\n\n<blockquote>\n\"在协调层，我们开始思考一种叫做'策略'的东西——它几乎像是一个元级别的执行框架。如果Token并非完全可互换，你需要给它们分配不同的角色，比如这个Token负责建议，那个Token负责执行，你就需要开始组合这些编排策略。\"<br>\n— Katelyn Lesse，via <a href=\"https://www.youtube.com/watch?v=vPnVTHYplrQ\">Training Data</a>\n</blockquote>\n\n<p>令人印象深刻的是Anthropic对\"内外一致\"原则的坚持——他们的内部产品团队和外部开发者使用完全相同的平台原语。这背后有一个清醒的认知：</p>\n\n<blockquote>\n\"两年前我们都说'一切皆聊天'，现在大家说'忘掉聊天，全是Agent'。还会有新的形态、再新的形态。我们不认为只有我们能找到正确的形态——越是民主化，这些形态就越会自然地从市场中涌现出来。\"<br>\n— Angela Jiang，via <a href=\"https://www.youtube.com/watch?v=vPnVTHYplrQ\">Training Data</a>\n</blockquote>\n\n<p>这种开放心态，与其说是谦逊，不如说是一种更聪明的平台战略。MCP等标准的开放，正是这一逻辑的体现。</p>\n\n<hr>\n\n<h2>📊 评估体系缺失：Agent时代最大的隐患</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 写出了本周最具洞察力的一条思考：为什么代码是目前最适合Agent的领域？因为它可以被即时测试。而大多数知识工作却不行：</p>\n\n<blockquote>\n\"一笔股票交易被执行了，一份合同谈完了，一个销售方案被送出去了——这些只有在最终产品触达现实世界时才能得到检验。今天大多数企业的工作流程根本没有对应的评估体系，来判断模型、提示词或系统变更后是否有所改善或损坏。能把知识工作评估做得最好的企业，将在AI时代获益最多。\"<br>\n— <a href=\"https://x.com/levie/status/2077201458546745553\">@levie</a>\n</blockquote>\n\n<p>这个观察精准地指出了Agent落地最难跨越的鸿沟：不是模型能力，而是<strong>我们压根不知道怎么衡量\"非代码工作\"的好坏</strong>。</p>\n\n<hr>\n\n<h2>🎓 Claude走进课堂，以及开发者生态的新动向</h2>\n\n<p><a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude官方</a>本周推出了面向K-12教育的<strong>Claude for Teachers</strong>，主打隐私保护（符合FERPA法规，不使用对话数据训练模型），并能根据各州课程标准生成教案和学生材料。教育市场是AI应用最敏感也最具潜力的领域之一，Anthropic的切入姿态颇为审慎。</p>\n\n<p>开发者生态方面，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 宣布Vercel AI Gateway开放了AI Token流量数据集，并集成了<a href=\"https://x.com/rauchg/status/2077154901013221444\">AgentMail</a>——只需一行命令即可让Agent获得邮件能力，无需注册。基础设施层的\"无摩擦化\"正在加速。</p>\n\n<p>而一个有趣的草根案例：<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 用Claude Code帮自己分析《宝可梦对战》的对局数据，调用Smogon的npm库拉取实时使用统计，生成阵容报告。Agent时代的\"杀手应用\"，有时就藏在最意想不到的角落。</p>\n\n<hr>\n\n<h2>🔥 当爱好变成工作，当机器也开始\"创作\"</h2>\n\n<p>本周最打动人心的文字，来自一位设计师 <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a>。在招募设计工程师的同时，他写下了一篇关于热情、职业与AI之间张力的长文，引发了近千人点赞：</p>\n\n<blockquote>\n\"AI可以让产出更快，甚至可以提升这门手艺的下限。但它无法替你去渴望。它无法决定什么值得去爱。它无法守护那条奇异的、私密的线索——正是那条线索，让你最初开始在乎。<br><br>\n也许真正的问题不是你还能不能亲手做出那个东西，不是你能不能在每项任务上胜过机器。那场游戏已经在改变了。<br><br>\n真正的问题是：你是否还与那个源头保持着关系——那个没有观众、没有路线图、没有截止日期的部分。\"<br>\n— <a href=\"https://x.com/ryolu_/status/2077162119506833627\">@ryolu_</a>\n</blockquote>\n\n<p>在一个充满产品发布和增长数字的新闻周里，这段话像一个必要的停顿。技术在加速，但驱动技术的人，还需要不时回到那个\"火焰最初点燃的地方\"。</p>"
+}
