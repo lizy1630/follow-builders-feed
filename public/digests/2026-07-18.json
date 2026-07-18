@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T06:57:24.723Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti",
+      "url": "https://www.youtube.com/watch?v=wEZBlmvxx4o"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI infrastructure story this week has two speeds: the physical world of electrons, cooling systems, and insatiable compute demand — and the software layer, where agents are quietly getting a lot more capable and a lot more enterprise-ready.</p>\n\n<h2><strong>The Largest Build-Out in Human History</strong></h2>\n\n<p>OpenAI's head of industrial compute, <a href=\"https://x.com/sachinkatti\" data-handle=\"sachinkatti\">Sachin Katti</a>, sat down with <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> for what might be the most grounding conversation of the AI boom — a reminder that behind every token is a very physical piece of infrastructure running very hot.</p>\n\n<blockquote>\"Anytime you have thought you have enough compute, we can slow down. Always negatively surprises like, oh, we should not have slowed down. Demand far outstrips compute supply today. So anything we can bring online, we consume immediately.\"</blockquote>\n\n<p>The numbers are staggering: OpenAI alone is on track to spend roughly $50 billion on compute this year, with the industry as a whole approaching $700 billion. Katti's framing of data centers as \"giant factories turning electrons into tokens\" is vivid and accurate — football-field-scale liquid-cooled supercomputers where even the cables and transformers need refrigeration.</p>\n\n<blockquote>\"The physical world does not move that fast. We do believe that the world of recursion is not that far where AI will design the systems it needs to train and run the next generation of AI.\"</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=wEZBlmvxx4o\">OpenAI's Compute Chief: We Can't Build Fast Enough | The MAD Podcast</a></p>\n\n<hr>\n\n<h2><strong>Cheaper AI Doesn't Mean Less Spending — It Means More Everything</strong></h2>\n\n<p>As competition drives down inference costs, a debate is simmering about who actually wins. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered the clearest take of the week:</p>\n\n<blockquote>\"The cheaper AI gets, the more opportunity there is for the entire ecosystem — especially including end-customers — to benefit. Everything is bottlenecked by being able to successfully and cost effectively deploy AI in real workloads. Any time we can lower the cost of AI, the total usage goes up... The only modification is I think as AI gets more efficient, demand even for the frontier closed models can go up too. You often need the strongest model possible for the orchestration of a task, then you can farm out work to cheaper or more tuned models for the bulk of tokens.\"</blockquote>\n\n<p>On the Kimi/Google question, <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> made a point worth internalizing: enterprises won't necessarily abandon hyperscalers for cheaper Chinese models. <a href=\"https://x.com/realmadhuguru/status/2078210889778708744\">\"Many enterprises won't consume Kimi directly. They'll get it through Google Cloud because they still need enterprise guarantees — security, data residency, compliance and most importantly, chips. Money out one pocket into the other.\"</a></p>\n\n<p>Meanwhile, the <em>real</em> bottleneck for enterprise AI adoption may not be model cost at all. The same analyst laid out a sharper diagnosis: <a href=\"https://x.com/realmadhuguru/status/2078131628262752550\">\"The reason enterprises struggle to go beyond basic chatbots is the talent gap to build harnesses and evals... Talent: do you have the talent to build this all out on the frontier? This is the scarcest piece.\"</a></p>\n\n<hr>\n\n<h2><strong>Anthropic Gets Serious About Enterprise Agents</strong></h2>\n\n<p>Two significant pieces of engineering writing from Anthropic this week deserve careful reading if you're building anything serious with agents.</p>\n\n<p>The first, <a href=\"https://www.anthropic.com/engineering/managed-agents\">\"Scaling Managed Agents: Decoupling the brain from the hands,\"</a> describes the architectural rethink behind Claude Managed Agents. The core insight is borrowed from operating systems design: virtualize the components — session, harness, sandbox — so the interfaces outlast any particular implementation. The old problem was that coupling everything into one container meant \"adopting a pet\": a fragile, hand-tended individual you can't afford to lose. The new design treats both containers and harnesses as cattle, recoverable from any failure via a durable session log sitting outside either.</p>\n\n<p>That architecture unlocks the second piece: <a href=\"https://claude.com/blog/claude-managed-agents-updates\">self-hosted sandboxes and MCP tunnels</a>, now in public beta. Agents can now execute tools entirely within your enterprise perimeter — with Cloudflare, Daytona, Modal, or Vercel handling the compute — while the orchestration layer stays on Anthropic's infrastructure. MCP tunnels connect agents to private databases and internal APIs without a single inbound firewall rule. Real deployments are already live: Amplitude is running a design agent on Managed Agents + Cloudflare; Clay's GTM engineering agent (\"Sculptor\") runs on Daytona; Rogo is handling proprietary financial data via Vercel Sandbox.</p>\n\n<hr>\n\n<h2><strong>OpenAI Drops Limits, Teases GPT-5.6; Claude Fable Gets a Real Home</strong></h2>\n\n<p>It was a busy weekend for product announcements. OpenAI engineer <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> triggered what became the most-shared post of the day:</p>\n\n<blockquote><a href=\"https://x.com/thsottiaux/status/2078320950488297917\">\"Oops... I did it again. Enjoy reset usage limits for all paid users for Codex and ChatGPT Work. Super grateful for an incredible team who is iterating at lightspeed and keeping the infra up as we scale faster than ever.\"</a></blockquote>\n\n<p>He also <a href=\"https://x.com/thsottiaux/status/2078310751878647932\">confirmed GPT-5.6 Sol</a> is \"an extremely good model\" — presumably the next step in the GPT-5 family.</p>\n\n<p>On the Claude side, Anthropic resolved weeks of frustrating capacity uncertainty around its most-discussed model. <a href=\"https://x.com/claudeai/status/2078302415804379218\">Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans at 50% of limits</a>, with Pro and Team Standard users receiving a one-time $100 credit. The announcement drew over 28,000 likes — a meaningful signal of pent-up demand.</p>\n\n<p>Anthropic also published a <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">detailed postmortem on Claude Code quality degradation</a> that affected users over the past month. Three separate issues — a reasoning effort downgrade, a caching bug that made Claude appear forgetful, and a verbosity-reduction prompt that hurt coding quality — compounded in ways that looked like broad inconsistent degradation. All have been resolved as of April 20, and usage limits are being reset for all subscribers.</p>\n\n<hr>\n\n<h2><strong>The AEO Gold Rush, and the Agentic UX Still Being Figured Out</strong></h2>\n\n<p>One of the week's most practical threads came from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>, who's been thinking about Answer Engine Optimization — the SEO equivalent for AI-generated responses. His take: the alpha window is real and closing.</p>\n\n<blockquote><a href=\"https://x.com/swyx/status/2078244735794413786\">\"btw if you havent set your {codex | claude | gemini | devin} automations to autoresearch how to improve your seo/aeo every week you are really truly missing out on free, should-be-commoditizing-but-weirdly-untapped alpha\"</a></blockquote>\n\n<p>The more interesting second-order question he's pushing toward: <a href=\"https://x.com/swyx/status/2078293998398263587\">on-policy AEO — does Claude optimizing your AEO work disproportionately well <em>on Claude</em>?</a> If so, that's a meaningful moat question for the labs.</p>\n\n<p>Meanwhile, the UX of actually working <em>with</em> agents is still being invented in real time. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> captured the exhaustion of the current paradigm: <a href=\"https://x.com/petergyang/status/2078276992470794531\">\"spending an entire day staring at screens trying to manage agents fries my brain. Much better to be walking around outside talking to the agents 'on the phone' giving them work to do and having them update me on status via voice.\"</a> And <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> offered a memorable image of the current state of computer-use agents: <a href=\"https://x.com/steipete/status/2078318731785359634\">watching Codex open Chrome, navigate to a PR, and wrestle with the macOS file picker — all just to upload an image — because GitHub has no API for it.</a> Progress, of a kind.</p>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> offered the most actionable heuristic for agentic workflows: <a href=\"https://x.com/trq212/status/2078189833445654714\">\"building prototypes of mockups, schemas, data models, proof of concepts, etc. is the best way to avoid spending tons of tokens before realizing you don't want the output.\"</a> Validate the shape before you burn the compute.</p>",
+  "html_zh": "<p class=\"lead\">今天的核心主题是：AI基础设施正在各个层面同时爆发——从OpenAI斥资500亿美元建造的液冷超级计算机，到Anthropic悄然重构其智能体架构，再到用户在日常工作中摸索出的新技巧。这场技术浪潮的深度，远超大多数人的想象。</p>\n\n<hr>\n\n<h2>🏗️ 算力军备竞赛：人类有史以来最大的基础设施建设</h2>\n\n<p>本周，<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 点赞推荐了一期播客，OpenAI计算负责人Sachin Katti接受了 <a href=\"https://www.youtube.com/watch?v=wEZBlmvxx4o\">The MAD Podcast</a> 的采访，罕见地揭开了这场算力竞赛的内幕。</p>\n\n<blockquote>\n\"每当你认为算力已经够用、可以放慢脚步的时候，现实总会给你当头一棒——哦，我们不该踩刹车的。需求远远超过算力供给。任何我们能上线的算力，都会被立刻消耗殆尽。\"<br>— Sachin Katti\n</blockquote>\n\n<p>Katti将现代AI数据中心描述为\"把电子转化为tokens的巨型工厂\"——足球场大小的建筑里塞满了液冷芯片，连电缆和变压器都需要冷却。OpenAI今年的算力支出预计约500亿美元，整个行业将达7000亿美元。更令人咋舌的是，他透露AI已开始参与设计自己所需的芯片。</p>\n\n<blockquote>\n\"我们相信，AI递归设计自身训练和运行所需系统的那个世界，已经不远了。\"<br>— Sachin Katti\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=wEZBlmvxx4o\">OpenAI's Compute Chief: We Can't Build Fast Enough | Sachin Katti</a></p>\n\n<hr>\n\n<h2>🧠 Anthropic的架构革命：把\"大脑\"和\"双手\"分开</h2>\n\n<p>Anthropic本周发布了两篇重量级工程博客，标志着其智能体平台进入新阶段。</p>\n\n<p>首先是 <a href=\"https://www.anthropic.com/engineering/managed-agents\">Managed Agents架构详解</a>：Anthropic将智能体拆解为三个独立组件——<strong>大脑</strong>（Claude及其调度逻辑）、<strong>双手</strong>（执行工具的沙箱）和<strong>会话日志</strong>（append-only事件流）。灵感来自操作系统的抽象设计哲学：</p>\n\n<blockquote>\n\"几十年前，操作系统通过将硬件虚拟化为抽象层——进程、文件——解决了'为尚未被想象出来的程序设计系统'这个古老难题。这些抽象比硬件活得更久。read()命令不在乎它访问的是1970年代的磁盘包还是现代SSD。\"\n</blockquote>\n\n<p>与此同时，<a href=\"https://claude.com/blog/claude-managed-agents-updates\">新功能公告</a>显示，Managed Agents现在支持自托管沙箱和MCP隧道——企业可以让Claude在自己的基础设施内执行代码，敏感数据完全不离开私有网络。Cloudflare、Daytona、Modal、Vercel均已成为支持的沙箱提供商。</p>\n\n<p>另一篇 <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">Claude Code质量问题复盘</a> 则展示了难得的自我批评：三个独立的工程变更叠加，导致用户感知到模型\"变蠢\"。Anthropic详细交代了每一处失误——将默认推理强度从high调低、一个导致思维链被重复清除的缓存bug、以及一个过度压缩输出的系统提示。</p>\n\n<blockquote>\n\"由于每个变更影响的是不同时间段的不同流量切片，叠加效果看起来像是广泛、不一致的质量下降。这不是用户应该从Claude Code中期待的体验。\"\n</blockquote>\n\n<hr>\n\n<h2>📣 Claude Fable 5与OpenAI的容量重置：用户终于松了口气</h2>\n\n<p>两大平台本周接连宣布了让用户欢呼的消息。</p>\n\n<p><a href=\"https://x.com/claudeai/status/2078302415804379218\" data-handle=\"claudeai\">@claudeai</a> 宣布，从7月20日起，Claude Fable 5将纳入所有Max和Team Premium套餐，享有50%的使用限额。Pro和Team Standard用户将获得一次性100美元积分补偿：</p>\n\n<blockquote>\n\"Fable的需求难以预测，这也是我们分阶段向订阅套餐开放的原因，随着我们获得更多算力容量，我们多次扩展了访问权限。\"<br>— <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>与此同时，OpenAI的 <a href=\"https://x.com/thsottiaux/status/2078320950488297917\" data-handle=\"thsottiaux\">@thsottiaux</a> 宣布为所有付费用户重置了Codex和ChatGPT Work的使用限额，并顺手透露了一个重磅消息：</p>\n\n<blockquote>\n\"GPT-5.6 Sol 已被证实是一个极其优秀的模型。\"<br>— <a href=\"https://x.com/thsottiaux/status/2078310751878647932\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<hr>\n\n<h2>💡 从业者的实战智慧：AEO、原型优先与语音代理</h2>\n\n<p>在喧嚣的产品发布之外，本周的推文流里涌现出几条颇具洞见的实操建议。</p>\n\n<p><a href=\"https://x.com/swyx/status/2078244735794413786\" data-handle=\"swyx\">@swyx</a> 抛出了一个高赞观点，引发广泛共鸣：</p>\n\n<blockquote>\n\"如果你还没有设置你的 Codex / Claude / Gemini / Devin 自动化，让它每周自动研究如何改进你的SEO/AEO，你真的真的在白白浪费一个免费的、本该被商品化却诡异地被忽视的红利。\"\n</blockquote>\n\n<p><a href=\"https://x.com/trq212/status/2078189833445654714\" data-handle=\"trq212\">@trq212</a> 分享了一个关于token效率的反直觉原则：</p>\n\n<blockquote>\n\"构建原型、mockup、数据模型、概念验证等，是避免在发现自己不想要某个输出之前就烧掉大量tokens的最佳方式。\"\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang/status/2078276992470794531\" data-handle=\"petergyang\">@petergyang</a> 则描绘了一个近未来的工作场景：</p>\n\n<blockquote>\n\"我真正想要的，是能在外面散步，像打电话一样跟代理对话——给它们分配任务，让它们通过语音向我汇报进展。等着第一家实验室把这个功能做出来。\"\n</blockquote>\n\n<p>而 <a href=\"https://x.com/realmadhuguru/status/2078131628262752550\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 则精准点出了企业AI落地的核心瓶颈——不是模型能力，而是人才：</p>\n\n<blockquote>\n\"企业难以超越基础聊天机器人的原因，是构建评估体系和调度框架的人才缺口。Evals、Harness、人才——最稀缺的是最后一项。\"\n</blockquote>\n\n<hr>\n\n<h2>💰 AI越便宜，生态越繁荣？</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie/status/2078139206946459853\" data-handle=\"levie\">@levie</a> 对AI成本下降给出了一个颇具深度的分析，驳斥了\"便宜意味着前沿模型需求萎缩\"的悲观论调：</p>\n\n<blockquote>\n\"AI越高效，对前沿闭源模型的需求反而可能上升。你往往需要最强的模型来编排任务，然后把大量token分发给更便宜或更专用的模型处理。这种效率提升，反而可能带来更多的前沿支出——因为你可以以更低的成本将AI部署到更多任务上。真正面临风险的是利润率，这是合理的。\"<br>— <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>\n</blockquote>\n\n<p>这与Katti在播客中描述的逻辑形成了有趣的呼应：算力越多，需求越旺盛；成本越低，部署越广泛；部署越广泛，算力需求再度攀升。这个飞轮，还在加速。</p>"
+}
