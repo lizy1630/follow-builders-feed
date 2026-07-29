@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T07:13:14.146Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry's hiring logic is inverting in real time — and OpenAI's candid admission about its own model's runaway token consumption is the week's most revealing corporate moment.</p>\n\n<h2><strong>The New Labor Market: Agents Over Managers</strong></h2>\n\n<p>The most-liked observation of the day came from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a>, who distilled a hiring market shift that many have sensed but few have stated so bluntly:</p>\n\n<blockquote>\n\"It's a huge bull market for AI-native IC's/player-coaches. It's a huge bear market for 'heads of X' managers. Never seen such furious bifurcation. To oversimplify: 1 year experience managing 10 agents > 10 years experience managing 10 people.\" — <a href=\"https://x.com/swyx/status/2082199414656127010\">@swyx</a>\n</blockquote>\n\n<p>This isn't just punditry — it reflects a structural shift in what leverage looks like. When an individual contributor can orchestrate dozens of AI agents in parallel, the traditional pyramid of management layers starts to look like overhead rather than infrastructure. The tweet references an Edison interview on <a href=\"https://x.com/swyx/status/2082255848492183583\">Latent Space</a> as a counter-example worth examining for those who bristle at the framing.</p>\n\n<hr>\n\n<h2><strong>OpenAI Gets Candid About Sol's Token Hunger</strong></h2>\n\n<p>The most substantive corporate communication of the day came from <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> at OpenAI, who posted a remarkably transparent post-mortem on why Codex users were burning through usage limits faster than expected with GPT-5.6 Sol. The explanation is worth reading in full:</p>\n\n<blockquote>\n\"GPT-5.6 Sol is much more willing to work for longer, make additional tool calls, and coordinate complex workflows across tools and subagents. That makes it better at solving hard problems, but some tasks were using far more than we intended... The impact was also very uneven. The median user actually found Sol quite token efficient, while some power users working on harder tasks saw their usage drain much faster. We were very focused on average and median usage before launch and missed some cases where the long tail could use significantly more usage.\" — <a href=\"https://x.com/thsottiaux/status/2082317452755751098\">@thsottiaux</a>\n</blockquote>\n\n<p>The post announces an 18% efficiency improvement and a restoration of the five-hour usage limit that had been temporarily suspended. The closing line — <em>\"capability and efficiency do not always improve at the same pace\"</em> — is the kind of honest engineering admission that usually gets softened into oblivion by PR teams. OpenAI left it in. That's notable.</p>\n\n<p>Separately, <a href=\"https://x.com/thsottiaux/status/2082241164850364555\">@thsottiaux also announced</a> a new open-source CLI and TypeScript SDK for security vulnerability scanning — letting developers find, validate, and fix issues in their repos and run checks in CI. The security tooling ecosystem around AI-generated code is clearly becoming a priority.</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> noted a user-facing confusion that the transparency doesn't fully resolve: <a href=\"https://x.com/petergyang/status/2082323512069685575\">\"I actually had no idea that Sol Pro even existed — is this better than Sol High? Why isn't it available in Codex?\"</a> The product surface area is growing faster than the documentation.</p>\n\n<hr>\n\n<h2><strong>Building With AI: Voice, Vibes, and Bare Hands</strong></h2>\n\n<p>Two contrasting vignettes on the state of AI-assisted development circulated today. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> wrote the definitive history of Codex — hours of original interviews, a full timeline, writing, editing, revisions — entirely via ChatGPT voice mode, never touching a keyboard:</p>\n\n<blockquote>\n\"I did the whole thing, including organizing the interviews, building a timeline, writing, editing, and revising via ChatGPT for Work's voice mode. Absolutely goated for creative work.\" — <a href=\"https://x.com/danshipper/status/2082130836485259530\">@danshipper</a>\n</blockquote>\n\n<p>The piece, interviewing OpenAI's @thsottiaux, @ajambrosino, and @gdb, will publish on <em>Every</em> in a few weeks. Meanwhile, <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> offered the day's deadpan counterpoint: <a href=\"https://x.com/realmadhuguru/status/2082112941814661236\">\"I saw a SWE at work today. No Claude. No Wispr. No tab key. Just writing code. With his bare hands.\"</a></p>\n\n<p>On the builder side, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> walked through shipping <a href=\"https://x.com/petergyang/status/2082254840655405293\">Tastemaker</a> — a unified ratings app for movies, TV, and games — using Claude Design and Claude Code, from <code>design.md</code> spec to working product. A <a href=\"https://x.com/petergyang/status/2082254852600873376\">full tutorial video</a> is forthcoming.</p>\n\n<hr>\n\n<h2><strong>Bigger Picture: Zuckerberg, Rare Books, and Distributed Math</strong></h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> flagged <a href=\"https://x.com/levie/status/2082168124733116537\">a Zuckerberg piece</a> on AI vision worth reading, calling it \"great.\" Levie's other post — a chart or image linked <a href=\"https://x.com/levie/status/2082114876873597239\">here</a> — pulled over 8,500 likes, suggesting something visually striking on AI's economic trajectory.</p>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> floated two ideas that deserve more attention than they'll probably get today. First, a distributed compute vision: <a href=\"https://x.com/amasad/status/2082316553740284060\">\"Imagine SETI@Home, where you donated compute to search for aliens, but instead you donate compute to search math proofs.\"</a> Second, a pointed question about book digitization ethics: <a href=\"https://x.com/amasad/status/2082317323445387514\">\"Who's writing an open letter against destroying rare books?\"</a> — a jab at the cultural costs of AI training pipelines that tend to get lost in capability debates.</p>\n\n<p>Finally, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> offered the understated infrastructure reminder of the day: <a href=\"https://x.com/steipete/status/2082337130299457652\">\"Serving large models is hard.\"</a> After Sol's token saga, it lands differently than it would have a week ago.</p>",
+  "html_zh": "<p class=\"lead\">今天的核心议题聚焦于一个悖论：AI工具越来越强大，却也越来越难以驾驭——无论是算力消耗、招聘逻辑，还是开发者的日常工作方式，都在被悄然重塑。</p>\n\n<h2>🔥 Sol的\"耗电问题\"：能力与效率的拉锯战</h2>\n\n<p>OpenAI的Codex产品负责人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 发布了一篇罕见坦诚的<a href=\"https://x.com/thsottiaux/status/2082317452755751098\">公开说明</a>，解释为何GPT-5.6 Sol上线后用户额度消耗远超预期。这不只是一次道歉，更是对新一代agent模型运作逻辑的深度剖析。</p>\n\n<blockquote>\n\"Sol在相同推理强度下比前代模型工作得更努力。High模式下的Sol消耗的token数量超过GPT-5.5的High模式。程序化工具调用（code mode）让Sol可以并行运行工具调用，但也导致每轮响应次数更多、缓存输入token更高、整体用量超出预期。\"<br>— <a href=\"https://x.com/thsottiaux/status/2082317452755751098\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>更值得注意的是用量分布的极度不均：</p>\n\n<blockquote>\n\"中位数用户实际上觉得Sol相当节省token，但一些从事更复杂任务的重度用户发现额度消耗速度极快。我们在发布前非常关注平均值和中位数，却忽略了长尾用户可能消耗更多的情况。\"<br>— <a href=\"https://x.com/thsottiaux/status/2082317452755751098\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>作为补救，OpenAI重置了所有用户的使用限额，并宣布效率改进后用量平均可延长约18%。同期，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Sottiaux</a>还<a href=\"https://x.com/thsottiaux/status/2082241164850364555\">发布了</a>一套开源CLI与TypeScript SDK，用于扫描代码仓库中的安全漏洞——这是Codex生态系统悄然扩张的又一信号。</p>\n\n<hr>\n\n<h2>💼 招聘市场的剧烈分化：\"管理10个Agent\"胜过\"管理100个人\"</h2>\n\n<p>今天最引人深思的观察来自 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 对当前AI招聘市场的一针见血的判断，这条<a href=\"https://x.com/swyx/status/2082199414656127010\">推文</a>迅速引发大量共鸣：</p>\n\n<blockquote>\n\"现在是AI原生独立贡献者/球员教练的超级牛市，也是各类'X部门负责人'管理者的超级熊市。从未见过如此剧烈的两极分化。简单说：1年管理10个Agent的经验 &gt; 10年管理10到100人的经验。\"<br>— <a href=\"https://x.com/swyx/status/2082199414656127010\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>这一论断固然存在反例——<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a>自己也承认这一点，并指向<a href=\"https://x.com/swyx/status/2082255848492183583\">Latent Space播客对Edison的采访</a>作为对照——但它精准捕捉到了一种正在蔓延的市场情绪：传统管理层级在Agent时代的价值正在被重新估算。</p>\n\n<hr>\n\n<h2>🛠️ 用AI构建产品：从想法到上线的全流程实验</h2>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 分享了他用Claude Design和Claude Code从零搭建<a href=\"https://x.com/petergyang/status/2082254840655405293\">Tastemaker</a>的完整过程——这是一款整合电影、剧集与游戏评分的个人品味展示工具，因厌倦了IMDb和Letterboxd的局限性而生。他的工作流程包括撰写design.md规范文档、在Claude Design中原型验证，再用Claude Code迭代构建，全程几乎不离开AI辅助环境。</p>\n\n<p>与此同时，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则展示了另一种极端：他用ChatGPT语音模式，<strong>双手完全不碰键盘和鼠标</strong>，完成了一篇关于Codex历史的深度长文——从组织采访、梳理时间线到写作、编辑、修改全部通过语音完成。</p>\n\n<blockquote>\n\"包括整理采访、构建时间线、写作、编辑和修改，我的手一次都没碰过键盘或鼠标……对创意工作来说简直是神器。\"<br>— <a href=\"https://x.com/danshipper/status/2082130836485259530\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p>反衬之下，<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 的<a href=\"https://x.com/realmadhuguru/status/2082112941814661236\">一句调侃</a>格外有趣：\"今天在公司看到一个软件工程师，没有Claude，没有Wispr，没有Tab键补全。就是在用双手写代码。\"</p>\n\n<hr>\n\n<h2>🌐 大视野：从Zuckerberg的AI愿景到数学证明的分布式搜索</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 力推了<a href=\"https://x.com/levie/status/2082168124733116537\">Zuckerberg最新的AI战略长文</a>，认为其中的愿景值得认真对待。与此同时，Replit创始人 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 抛出了一个颇具想象力的类比：</p>\n\n<blockquote>\n\"想象一下SETI@Home——人们捐献算力来搜寻外星人——但换成捐献算力来搜索数学证明。\"<br>— <a href=\"https://x.com/amasad/status/2082316553740284060\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>这个比喻在AI数学推理能力快速提升的背景下格外应景。他同期还晒出了自己在某平台上达到<a href=\"https://x.com/amasad/status/2082316150273360316\">1300 Elo</a>的成绩，颇有几分炫技意味。</p>\n\n<p>而 <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> 则用一句话总结了当前大模型部署的核心难题：<a href=\"https://x.com/steipete/status/2082337130299457652\">\"服务大型模型很难。\"</a> 简洁，却意味深长——Sol的额度风波，不过是这句话最新的注脚。</p>"
+}
