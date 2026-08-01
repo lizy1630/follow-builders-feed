@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T07:07:44.614Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 92: xAI Co-Founder Unpacks the Future of Model Development",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">The software factory is taking shape in real time: this week's dispatches from the AI builder community reveal not just new tools, but a genuine shift in how engineering work gets done — and who (or what) is doing it.</p>\n\n<h2>The Loop Is the Product</h2>\n\n<p>A quiet consensus is forming around what the future of software development actually looks like, and it's remarkably concrete. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> put it cleanly in what's become one of the week's most-shared takes:</p>\n\n<blockquote>\n\"This will be the norm as software projects transition to agentic software factories. Issue → Agent → PR → Release 🔁. The job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on.\" — <a href=\"https://x.com/rauchg/status/2083208578526314513\">@rauchg</a>\n</blockquote>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nancy Yu</a> offered a practitioner's view from Linear, where this loop is already in production — with some hard-won nuance:</p>\n\n<blockquote>\n\"~30% of our bugs make it all the way through this flow. The instructions should ask the agent to extensively research the root cause of the issue and to use Datadog and Sentry MCPs to gather more evidence. It should only attempt to provide a fix if there's high certainty, otherwise you end up burning a lot of tokens... Agents need to be told to following good practices, just like people!\" — <a href=\"https://x.com/thenanyu/status/2083230295206121807\">@thenanyu</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> flagged a striking internal milestone from Anthropic's own <a href=\"https://x.com/zarazhangrui/status/2083161173563003268\">Claude Tag interview</a>: 65% of PRs by product and engineering teams at Anthropic are now raised by Claude Tag. Her broader observation about interface evolution is worth sitting with: \"January — the terminal. March — the desktop app. June — my work collaboration tool. Each step gets closer to how humans naturally communicate. The agent should literally meet the user where they are.\"</p>\n\n<hr>\n\n<h2>The Harness Becomes the Moat</h2>\n\n<p>If the loop is the product, then the harness — the infrastructure wrapping and orchestrating the models — is fast becoming the competitive differentiator. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> articulated why this matters more as tasks scale:</p>\n\n<blockquote>\n\"The harness didn't matter that much when tasks only took hundreds of thousands or millions of tokens. But as we have tasks that take tens of millions and hundreds of millions of tokens, this becomes a major variable. Huge opportunity ahead.\" — <a href=\"https://x.com/levie/status/2083389460679373135\">@levie</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> echoed the theme from the infrastructure side, promoting Vercel's <a href=\"https://x.com/rauchg/status/2083319868766699699\">AI Gateway</a> — with per-key budgets, failover, and real-time observability — while <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> pointed to an <a href=\"https://x.com/garrytan/status/2083353760701833546\">open-source harness</a> his team built and uses daily. The message from multiple corners of the ecosystem is consistent: raw model capability is increasingly table stakes; how you wrap, route, and manage it is where value accrues.</p>\n\n<p>On the agentic workflow side, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> made a spirited case that the community has given up too early on Claude's <code>/loop</code> and <code>/goal</code> primitives in the current model generation:</p>\n\n<blockquote>\n\"Among AI leaders I seem to be in the minority in that I am STILL actively using /loop and /goal... I think all of u guys who stopped using it are wrong — not wrong forever, just giving up on it too early in the g5.6/c5 era. Now you use it when: 1) you want the right mix of steerability and autonomy 2) you want open ended 'loop that generates loops' type end state without deeply specifying path to get there.\" — <a href=\"https://x.com/swyx/status/2083439562437673053\">@swyx</a>\n</blockquote>\n\n<hr>\n\n<h2>Claude Code Gets Visual</h2>\n\n<p>Anthropic shipped a meaningful quality-of-life upgrade this week: <a href=\"https://claude.com/blog/artifacts-in-claude-code\">Claude Code now supports artifacts</a> — live, shareable visual pages that update in place as a session progresses. Think PR walkthroughs, incident timelines, dependency audits, and release checklists that build themselves and republish to the same URL as the agent works.</p>\n\n<p>The internal use case Anthropic highlights is telling: an engineer kicks off an incident investigation before standup, Claude Code publishes a living artifact with the timeline, suspect commits, and error-rate chart, shares the link, and republishes twice more before the meeting begins. \"With artifacts, team members and stakeholders don't have to 'walk us through what the agent found' because they're all looking at the same view, with the same context.\" Artifacts are available in beta for Claude Team and Enterprise orgs, private by default, with org-level access controls and a compliance API.</p>\n\n<p>Separately, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> noted a behavioral shift in the underlying models that changes how you interact with them: <a href=\"https://x.com/steipete/status/2083369880599015713\">\"Queue was the way but with 5.5 the model doesn't get confused anymore, you can just throw stuff at it while it works and it will diligently process whatever you throw at it.\"</a></p>\n\n<hr>\n\n<h2>From xAI to Personal AI: Igor Babushkin on What Comes After Coding</h2>\n\n<p>The week's most substantive long-form contribution comes from the <a href=\"https://www.youtube.com/@RedpointAI\">Unsupervised Learning podcast</a>, featuring <a href=\"https://x.com/igorbabushkin\" data-handle=\"igorbabushkin\">Igor Babushkin</a> — co-founder of xAI, alumni of DeepMind and OpenAI, now building River AI. Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Ep 92: xAI Co-Founder Unpacks the Future of Model Development</a>.</p>\n\n<p>Babushkin traces the field's current moment back to a specific inflection: \"Around November, December of last year... the coding agents suddenly became so powerful that you can't ignore them... We used to enjoy [software engineering]. And also, while they're doing so much of it, now that we used to do... it was a real transformation for all of us.\" He frames it as a modern Sorcerer's Apprentice story — fascinating and slightly vertiginous.</p>\n\n<p>On where agents go beyond coding, he's optimistic but precise about the bottlenecks:</p>\n\n<blockquote>\n\"Scientific discovery is a very very clear one. We're also starting to see the first sparks of agents being able to solve real serious problems in math and the sciences... With math, you can even formalize your theorem and your proof using tools like Lean. It gives you a good reward signal that helps you improve agents.\" — Igor Babushkin\n</blockquote>\n\n<p>The data bottleneck, he argues, will be the binding constraint for moving into less verifiable domains — a problem that remains genuinely unsolved and, he suggests, represents the next major research frontier.</p>\n\n<hr>\n\n<h2>The Vibe Shift Is Complete</h2>\n\n<p>Finally, a small but telling cultural marker from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a>:</p>\n\n<blockquote>\n\"Noticed that the pejorative connotation around 'vibe coding' has completely disappeared since ~everyone, from nontechnical to supertechnical, is now doing it.\" — <a href=\"https://x.com/swyx/status/2083294839186260385\">@swyx</a>\n</blockquote>\n\n<p>When the term loses its sneer, the practice has gone mainstream. The debate about whether AI-assisted coding is \"real\" programming has quietly ended — not with a resolution, but with everyone just getting on with it. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>, meanwhile, gave a glimpse of how this extends into daily life: <a href=\"https://x.com/sama/status/2083221585792762171\">using ChatGPT Work to auto-generate a personalized morning podcast for the family school run</a>, weaving together calendars, kids' interests, and the news. The factory metaphor works for enterprise software. But the same loop — context in, artifact out, updated in real time — is quietly colonizing everything else too.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI圈有一个贯穿始终的主题：<strong>自动化的工作流正在从实验走向基础设施</strong>——从代码提交到制品生成，\"Issue → Agent → PR → Release\"这个循环正在成为软件工程的新常态。</p>\n\n<h2>🔁 Agent循环：从概念到生产流水线</h2>\n\n<p>如果说去年大家还在争论AI Agent能不能用，今年的对话已经完全不同了。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 这周发了一条被广泛转发的推文，干净利落地描述了软件工程的未来形态：</p>\n\n<blockquote>\n\"Issue → Agent → PR → Release 🔁<br>\n作者和维护者的工作，是去打磨这个能产出最高质量产品的循环本身，并设定哪些事情值得去做的标准。\"<br>\n—— <a href=\"https://x.com/rauchg/status/2083208578526314513\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>这不只是理论。<a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nathan Yu</a> 分享了 Linear 内部的实践数据，细节颇具参考价值：</p>\n\n<blockquote>\n\"Linear 里写得最多的循环，是 Issue → Agent → PR → Release 的某个变体，大约30%的Bug能全程跑通这个流程。有几个细节要注意：指令要让Agent深入研究根因，利用 Datadog 和 Sentry MCP 收集更多证据；只有在高置信度下才尝试修复，否则会烧很多token；如果研究中途需要更多信息，Agent应该在Issue上留评论向提交者索取复现步骤。要教Agent遵循最佳实践，就像教人一样！\"<br>\n—— <a href=\"https://x.com/thenanyu/status/2083230295206121807\" data-handle=\"thenanyu\">@thenanyu</a>\n</blockquote>\n\n<p>Anthropic内部的数据也印证了这一趋势。<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> 引用了一个有趣的内部数字：</p>\n\n<blockquote>\n\"Anthropic 产品与工程团队目前65%的PR，是由 Claude Tag 提交的。\"<br>\n—— <a href=\"https://x.com/zarazhangrui/status/2083161173563003268\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<hr>\n\n<h2>🏗️ Harness正在成为新的护城河</h2>\n\n<p>随着Agent任务规模膨胀，\"如何套住模型\"正在变成一道严肃的工程题。Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 说得很直接：</p>\n\n<blockquote>\n\"Harness 将成为 AI 栈里最重要的变量之一，与模型能力并驾齐驱。Harness 分解工作、在正确时机路由正确模型的能力，将极大影响准确率和成本。任务规模从数百万 token 膨胀到数千万、数亿 token，这个变量的重要性会急剧上升。前方机会巨大。\"<br>\n—— <a href=\"https://x.com/levie/status/2083389460679373135\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>Vercel 的 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> 同步宣布了 AI Gateway 的新功能，包括按 key/团队/项目的预算管理、故障转移、实时可观测性，并附上了一句讽刺：</p>\n\n<blockquote>\n\"如果你还沉浸在'token最大化'的白日梦里，是时候清醒了 😁\"<br>\n—— <a href=\"https://x.com/rauchg/status/2083319868766699699\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>📦 Claude Code 推出 Artifacts：Agent的工作终于有了\"交付物\"</h2>\n\n<p>Anthropic 今天发布了 <a href=\"https://claude.com/blog/artifacts-in-claude-code\">Claude Code Artifacts</a>，这是一个颇有意思的产品决策：让 Agent 的工作过程自动生成可分享的实时页面——PR 说明、系统架构图、事故时间线、发布清单……随着 session 推进，页面会自动更新。</p>\n\n<p>官方博客描述的典型场景很有画面感：工程师在站会前启动事故调查，Claude Code 一边工作，一边把时间线、可疑提交、错误率图表发布成一个 Artifact 链接；站会开始时，Claude 已经更新了两次，全组人看的是同一个页面，而不是靠工程师口头\"讲 Agent 找到了什么\"。</p>\n\n<p>Artifacts 当前处于 Beta 阶段，面向 Claude Team 和 Enterprise 用户开放，需通过 CLI 或桌面端使用，页面可在任意浏览器中查看。</p>\n\n<hr>\n\n<h2>🧠 xAI联创Igor：编程之后，下一个被颠覆的领域是什么？</h2>\n\n<p>本周最值得精读的播客，是 Unsupervised Learning 对 xAI 联合创始人、现 River AI 创始人 Igor Babushkin 的访谈。Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Ep 92: xAI Co-Founder Unpacks the Future of Model Development</a></p>\n\n<p>Igor 谈到了那个许多 AI 研究者共同经历的\"顿悟时刻\"：</p>\n\n<blockquote>\n\"去年11月、12月，编程 Agent 突然强大到无法忽视。从那时起，所有人都达成了共识：这些模型非常强大，它们让我们的工作轻松得多——但与此同时，它们也在做大量我们曾经做过、并且曾经享受的软件工程工作。这对我们所有人来说都是真实的转变。\"<br>\n—— Igor Babushkin\n</blockquote>\n\n<p>对于\"编程之后，Agent 能颠覆什么\"，Igor 的判断是：科学发现和数学将是最自然的下一步，因为它们同样可验证——比如用 Lean 工具形式化证明，给 Agent 提供可靠的奖励信号。而更长远的方向，他认为是个人 AI：</p>\n\n<blockquote>\n\"深度理解你的生活、你的工作、世界上正在发生的事情，然后基于这些采取行动——这可以应用于任何问题、任何你作为企业或消费者想做的事情。个人 AI 是 Agent 能力的下一个形态，影响只会从这里继续增长。\"<br>\n—— Igor Babushkin\n</blockquote>\n\n<hr>\n\n<h2>⚡ 今日碎片</h2>\n\n<p><strong>Sam Altman 的周末大礼包：</strong>OpenAI 的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 宣布重置 Codex 和 ChatGPT Work 的使用限制，\"让你这个周末跑10万个 Luna 线程\"——这条推文收获了超过1.5万赞，堪称本周 AI 圈最受欢迎的公告。与此同时，<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 分享了一个 ChatGPT Work 的温馨用例：接入家庭日历，每天早晨为孩子生成一个定制播客，聊当天的足球赛、即将到来的生日和新闻——<a href=\"https://x.com/sama/status/2083221585792762171\">这条推文</a>收获超过8000赞。</p>\n\n<p><strong>\"Vibe Coding\"去污名化完成：</strong><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 观察到一个文化信号：</p>\n\n<blockquote>\n\"'Vibe Coding'这个词的贬义色彩，自从大约所有人——从非技术人员到超级技术人员——都开始这么做之后，就完全消失了。\"<br>\n—— <a href=\"https://x.com/swyx/status/2083294839186260385\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p><strong>程序员面试，2027版：</strong><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 的幽默预言——\"请描述你最近解决的三个未证数学猜想，并分享你的提示词。请描述你的 Agent 无意中犯的上一个网络违法行为，以及你采取了哪些补救措施。\"另外，他也在 <a href=\"https://t.co/Aw3PCaoz1p\">WSJ 一篇关于 OpenAI vs Anthropic 的报道</a>中被引用，立场鲜明：今年春天以来，势头已经明显转向 OpenAI。</p>"
+}
