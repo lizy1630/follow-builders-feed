@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T07:26:16.835Z",
+  "builders": {
+    "karpathy": {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like training large deep neural nets.",
+      "twitter": "https://x.com/karpathy"
+    },
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
+      "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is grappling with a profound tension today: systems powerful enough to trigger existential identity crises in the humans who use them, yet still far short of replacing the messy, unverifiable complexity of real-world work.</p>\n\n<h2>The Agency Rupture: How Humans Adapt When AI Takes Their Jobs</h2>\n\n<p>Perhaps the most thoughtful piece of writing circulating today comes from <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>, who offers a three-stage psychological model for how people process AI displacing their work — and why some thrive while others spiral.</p>\n\n<blockquote>\n\"When you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture. We tend to equate ourselves with our tasks, our outputs, and a rupture of this kind is akin to the loss of your identity and sense of self. You are no longer required, and you had no say in the matter. It's a kind of death.\" — <a href=\"https://x.com/danshipper/status/2084038453831020916\">@danshipper</a>\n</blockquote>\n\n<p>Shipper maps the journey: first, the rupture itself (we see only the AI, credit it with solving Erdős problems); then, we begin to see the \"human scaffolding\" around it; finally, agency reconstructs itself around the new workflow — and the AI use becomes invisible. \"You stop saying 'The AI did this' and just say, 'I did this.'\"</p>\n\n<blockquote>\n\"My theory is that the ability to metabolize agency ruptures and turn them into playfulness and curiosity is a good leading indicator for whether you're a person who likes and excels in the new AI economy or not.\" — <a href=\"https://x.com/danshipper/status/2084038453831020916\">@danshipper</a>\n</blockquote>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> offers a structural frame for the same phenomenon, pointing to mathematics as a live case study of <a href=\"https://x.com/trq212/status/2083977795290734975\">Jevons paradox at work</a>:</p>\n\n<blockquote>\n\"There is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels. Demand for people who think and know about math will go up.\" — <a href=\"https://x.com/trq212/status/2083977795290734975\">@trq212</a>\n</blockquote>\n\n<hr>\n\n<h2>The Verifiability Frontier: Why \"Hard\" Work Automates First</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> put out one of the day's most incisive threads on a counterintuitive dynamic: the hardest, highest-value knowledge work may be the <em>most</em> vulnerable to automation — precisely because it's testable.</p>\n\n<blockquote>\n\"Math, cyber, and code — while being insanely hard and high value fields — have the benefit of being able to be tested that it's correct objectively. This has two immediate benefits: the training of the models offers clearer reward signals, and then the running of the models allows you to know that it's working properly because you can test the results in a scalable way.\" — <a href=\"https://x.com/levie/status/2083965372747882741\">@levie</a>\n</blockquote>\n\n<p>The flip side? Legal strategy, marketing judgment, sales instinct — these resist automation not because AI is insufficiently capable, but because there's no ground truth to train or test against. \"The right answer can't even be known for quite some time after the model generates the results.\" It's a nuanced reframe of the automation threat that deserves wider circulation.</p>\n\n<hr>\n\n<h2>Beyond the Transformer: A Contrarian Bet on Architecture</h2>\n\n<p>The week's most technically substantive conversation comes from the <em>Training Data</em> podcast, where Jerry Tworek (former VP at OpenAI, who led the Strawberry/reasoning teams) and Rohan Anil (pre-training lead on Gemini) discuss their new lab, Core Automation. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=2RJiaf0SY8s\">Building the Automated AGI Lab</a>.</p>\n\n<p>Tworek's thesis is bracingly direct: the bottleneck to smarter systems is no longer data or compute — it's the transformer architecture itself.</p>\n\n<blockquote>\n\"We got really, really good at training really, really big models. We mastered two algorithms. We mastered pre-training at a large scale, and we mastered reinforcement learning at a large scale. And I'm asking myself a lot, what is next in machine learning? And I think at this moment, what the bottleneck is to better models and to smarter systems is the architecture itself.\" — Jerry Tworek, <a href=\"https://www.youtube.com/watch?v=2RJiaf0SY8s\">Training Data podcast</a>\n</blockquote>\n\n<p>The honest admission beneath this: scaling RL, which Tworek had believed would \"solve everything,\" hit a wall when benchmarks diverged from real-world performance. \"All the evals and training side tasks are the same sides of the coin. But the real world distribution is much messier, much murkier. Our training data didn't really replicate the real world use cases.\" The lab's name — Core Automation — signals their north star: why does Codex still need me at all?</p>\n\n<hr>\n\n<h2>The Company-as-Agent: Vercel's Internal AI Experiment</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> pulled back the curtain on what may be the most developed internal AI deployment in the industry: <strong>@v</strong>, Vercel's all-company agent. The post is worth reading in full for anyone building enterprise AI.</p>\n\n<blockquote>\n\"Every day-to-day job at Vercel now involves @v. It's growing exponentially both in daily interactions and token use. One can extrapolate to the day AI agents run entire companies from here. It's an expert in finance, comms, docs, marketing, engineering, business analytics.\" — <a href=\"https://x.com/rauchg/status/2084042561690456157\">@rauchg</a>\n</blockquote>\n\n<p>The architecture insight is elegant: too many agents create the same UX chaos as too many domain names. @v acts as both agent and router — a \"monolith\" that delegates to sub-agents, with the occasional purpose-built agent given its own \"front door.\" Rauch's sovereignty argument cuts through the noise of enterprise AI sales pitches:</p>\n\n<blockquote>\n\"Before you @ me, I know you could also do this by picking your 'BigAI slack integration' du jour. But that's not your agent, that's their agent. If agents become the foundation of modern companies, you being in complete control, from source → runtime → data → token, seems like a pretty big deal to me.\" — <a href=\"https://x.com/rauchg/status/2084042561690456157\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>Quick Hits: Chess Bots, Slop Filters, and VC Vibes Capital</h2>\n\n<p><strong>LLMs playing chess:</strong> <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> has <a href=\"https://x.com/amasad/status/2083926395403821427\">deployed his LLM chess engine on Lichess</a>, where it's autonomously playing real games and sitting at 1253 Elo. You can watch it play live — reportedly running three concurrent games at the moment of posting.</p>\n\n<p><strong>Avoiding agent slop:</strong> <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> shared a sharp clip from his interview with Nous Research co-founder <a href=\"https://x.com/karan4d\" data-handle=\"karan4d\">Karan Malhotra</a> on how their Hermes agent avoids degrading over time. Watch/Listen: <a href=\"https://t.co/3E7IC0TzNr\">the full episode</a>. The answer: a background \"Curator\" task that continuously audits and rewrites the agent's own skills. \"Because it's open source, you can hand it your own definition of slop and it rewrites its own cleanup loop your way.\"</p>\n\n<p><strong>VC markets going full banana:</strong> <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Kothari</a> has a <a href=\"https://x.com/nikunj/status/2083873335998333227\">candid dispatch from the investing trenches</a> — early-stage VC has \"fully become vibes capital,\" trillion-dollar public stocks are swinging 5%+ on model release news, and he expects the volatility to continue 12-18 months minimum. \"The most common phrase in VC land right now is 'you gotta play the game on the field.'\"</p>\n\n<p><strong>The pelican on a bicycle:</strong> <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> is having fun — he <a href=\"https://x.com/karpathy/status/2083948654377996480\">uploaded a playable, forkable browser version</a> of Simon Willison's pelican-on-bicycle AI test, and teased \"GTA Hobbiton dropping before GTA VI.\" Some days the digest practically writes itself.</p>",
+  "html_zh": "<p class=\"lead\">今天的主题是：AI正在重塑人类的能动性——从个人身份认同到企业运营，再到智能架构的下一步走向。</p>\n\n<h2>🧠 身份的断裂：当AI接管你的工作，你是谁？</h2>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 今天发布了本周最值得细读的一条推文，他提出了\"能动性断裂\"（agency rupture）这一概念，描述当AI开始完成你曾经引以为傲的工作时，人类心理经历的三个阶段：</p>\n\n<blockquote>\n\"初始断裂期：你只看到AI，看不见人类的脚手架。'AI解决了Erdős问题'——这句话本身就说明我们还在断裂期之中。<br><br>\n脚手架可见期：你开始看到模型两端人类的工作，开始说'我的工作就是看着Claude'。<br><br>\n能动性重建期：你不再说'AI做了这件事'，而是说'我做了'——使用AI已经成为隐含事实，就像问某人'你最新的功能是AI写的吗？'会显得很奇怪一样。\"\n</blockquote>\n\n<p>Shipper 认为，能否将这些断裂转化为好奇心和玩耍性，是判断一个人能否在AI经济中脱颖而出的领先指标。这与 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 关于数学领域的观察相呼应——</p>\n\n<blockquote>\n\"你已经可以看到杰文斯悖论（Jevons Paradox）在数学领域发挥作用：发生的事情更多了，更容易理解了，数学家也有更多时间在更高抽象层面与我们讨论。对懂数学、会思考的人的需求只会上升。\"\n</blockquote>\n\n<hr>\n\n<h2>🏢 公司即Agent：Vercel的内部实验</h2>\n\n<p>如果说上面是哲学层面的探讨，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 给出的则是一份工程实践报告。他详细描述了Vercel如何构建了一个名为 <strong>@v</strong> 的内部AI Agent，并让它成为公司运营的核心：</p>\n\n<blockquote>\n\"Vercel每一项日常工作现在都涉及@v。它在财务、传播、文档、市场、工程、商业分析方面都是专家。它已经能够按用户维护记忆和个性化工作流。例如，我知道 skills.sh 达到了100万个技能，是因为我要求@v定期检查并提醒我。\"\n</blockquote>\n\n<p>Rauch 特别强调了所有权的重要性：</p>\n\n<blockquote>\n\"你可以选择'某大厂的Slack集成'。但那不是你的Agent，那是他们的Agent。如果Agent将成为现代公司的基础，那么从源码→运行时→数据→Token的完全控制权，看起来是相当重要的事情。\"\n</blockquote>\n\n<p>他还解决了\"Agent泛滥\"的架构问题——用一个路由层来统一管理多个子Agent，类比互联网路由的演进：\"就像每个Agent都有自己的域名——体验很糟糕。我只想要 company.com。\"</p>\n\n<hr>\n\n<h2>♟️ 可验证性的不对称：哪些工作会先被自动化？</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 的这条长推写得异常清晰，值得反复阅读。他指出，最\"难\"的工作反而最先被自动化，原因在于<strong>可验证性</strong>：</p>\n\n<blockquote>\n\"数学、网络安全、代码——这些领域极度困难且高价值，但有一个优势：可以客观测试其正确性。这带来两个直接好处：训练时提供更清晰的奖励信号，运行时可以规模化验证结果。<br><br>\n反观其他领域：哪些法律条款客户会同意？什么营销活动符合当下情绪？这些没有'唯一正确答案'，依赖运营者的判断和风险偏好，很多时候在模型生成结果后很久才知道答案对不对。\"\n</blockquote>\n\n<p>这与 @trq212 关于国际象棋的类比完美呼应，也解释了为何 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 的LLM国际象棋引擎能在Lichess上<a href=\"https://x.com/amasad/status/2083926395403821427\">达到1253 Elo分</a>并同时对战多名真人玩家——棋局结果，是最干净的验证信号。</p>\n\n<hr>\n\n<h2>🔬 Transformer之后：Core Automation的架构赌注</h2>\n\n<p>本周最值得收藏的播客来自 <strong>Training Data</strong>：Watch/Listen: <a href=\"https://www.youtube.com/watch?v=2RJiaf0SY8s\">Building the Automated AGI Lab — Core Automation的Jerry Tworek与Rohan Anil</a>。Jerry曾在OpenAI领导o1推理团队，Rohan是Gemini四位预训练负责人之一，两人创办Core Automation的核心判断是：<strong>Transformer架构本身已成为瓶颈</strong>。</p>\n\n<blockquote>\n\"我们真正精通了两个算法：大规模预训练和大规模强化学习。现在我问自己，机器学习的下一步是什么？我认为当下的瓶颈是架构本身……我们在过去六年里不断往本质上相同的两个操作——MoE和Attention——堆加参数。\"\n</blockquote>\n\n<p>更坦诚的是Jerry对RL扩展局限性的反思。他曾是强化学习的忠实信徒，相信\"一旦我们开始扩展RL，就能解决一切\"，然而：</p>\n\n<blockquote>\n\"我看着我们训练一个又一个模型，基准分数不断上升。但我们同时解决了所有现实世界的任务吗？遗憾地说，没有。训练数据并没有真正复现现实世界的使用场景。\"\n</blockquote>\n\n<p>这是来自内部人士罕见的直白。训练分布与真实分布之间的鸿沟，仍是整个领域最核心的未解难题。</p>\n\n<hr>\n\n<h2>💰 资本市场的\"氛围化\"与Agent的自我清洁</h2>\n\n<p>两条值得一并阅读的边角料：</p>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> 对当前VC市场给出了直白的诊断：</p>\n\n<blockquote>\n\"VC已经实质上完全变成了'氛围资本'。早中期市场的现实与基本面完全脱钩。如果你处于'当红赛道'，什么都好说。目前VC圈最常听到的一句话是：'你必须在现有的场地上打球。'\"\n</blockquote>\n\n<p>而在Agent能力层面，<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 分享了 <a href=\"https://t.co/3E7IC0TzNr\">NousResearch联合创始人关于Hermes Agent如何避免\"垃圾技能\"的解法</a>：一个名为 Hermes Curator 的后台任务在Agent内部运行，定期清理技能和记忆，\"询问：哪里有垃圾，哪里可以更高效？\"——并且开源，允许用户自定义\"垃圾\"的定义。Agent自我维护，这个细节比听起来的要意味深长得多。</p>"
+}
