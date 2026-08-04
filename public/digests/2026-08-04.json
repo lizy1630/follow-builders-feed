@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T07:11:41.799Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: AI Vibe Check: Chinese Open Models, Distillation &amp; The Hugging Face Breach",
+      "url": "https://www.youtube.com/watch?v=_GlSkJjRDMM"
+    }
+  },
+  "html_en": "<p class=\"lead\">AI infrastructure is quietly undergoing a structural shift — from who controls the models to where agents actually run — while a candid postmortem from Anthropic reminds us that even the best systems degrade in plain sight.</p>\n\n<h2>🔬 Anthropic Comes Clean: How Claude Code Quietly Got Worse</h2>\n\n<p>It's rare for an AI lab to publish a detailed, unflattering account of its own mistakes. Anthropic did exactly that this week with a <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">frank engineering postmortem</a> explaining why Claude Code felt noticeably worse over the past several weeks — and why it took so long to catch.</p>\n\n<p>Three separate changes, each affecting a different slice of traffic, compounded into what looked like \"broad, inconsistent degradation.\" The culprits: a quiet downgrade of default reasoning effort from <em>high</em> to <em>medium</em> in March, a caching bug that made Claude seem forgetful mid-session, and a verbosity-reduction prompt tweak that quietly hurt code quality. None showed up cleanly in internal evals.</p>\n\n<blockquote>\"This isn't the experience users should expect from Claude Code. As of April 23, we're resetting usage limits for all subscribers.\"<br>— <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">Anthropic Engineering</a></blockquote>\n\n<p>The reset is a goodwill gesture, but the deeper lesson is architectural: when multiple prompt and configuration changes stack on top of each other across different model versions, the signal-to-noise problem becomes genuinely hard. <a href=\"https://x.com/AmandaAskell\" data-handle=\"amandaaskell\">Amanda Askell</a> offered a related philosophical note on alignment this week, arguing that <a href=\"https://x.com/AmandaAskell/status/2084369056765989224\">\"models (like humans) can behave in aligned ways while still causing harm... aligned and harmless are different axes.\"</a> Applied to Claude Code: a model can be doing exactly what it's configured to do and still be failing users.</p>\n\n<hr>\n\n<h2>🏗️ Anthropic's Agent Infrastructure Grows Up</h2>\n\n<p>Beyond the postmortem, Anthropic published two substantial engineering pieces this week that together sketch out an ambitious vision for production-grade AI agents.</p>\n\n<p>The <a href=\"https://www.anthropic.com/engineering/managed-agents\">Managed Agents architecture post</a> describes decoupling what the team calls \"the brain\" (Claude and its reasoning harness) from \"the hands\" (sandboxes and tool execution). The analogy they reach for is operating systems: just as <code>read()</code> became agnostic to whether it was hitting a 1970s disk pack or a modern SSD, the agent interfaces are designed to outlast any particular implementation underneath.</p>\n\n<blockquote>\"We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementation — including the ones we run today.\"<br>— <a href=\"https://www.anthropic.com/engineering/managed-agents\">Anthropic Engineering</a></blockquote>\n\n<p>The practical upshot, announced <a href=\"https://claude.com/blog/claude-managed-agents-updates\">in a companion post</a>: enterprises can now run Claude Managed Agents in <strong>self-hosted sandboxes</strong> — on their own infrastructure or via Cloudflare, Daytona, Modal, or Vercel — and connect to private MCP servers without exposing internal services to the public internet. Real deployments are already live: Rogo (institutional finance) on Vercel, Clay's GTM engineering agent on Daytona, and Amplitude's design agent on Cloudflare.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> flagged a quieter capability that many users are missing: <a href=\"https://x.com/trq212/status/2084387303959740449\">\"If you connect a Claude Connector (e.g. your Gmail, calendar, Slack, etc), Claude Code will also be able to use them, including in Artifacts.\"</a></p>\n\n<hr>\n\n<h2>💸 The Price Floor Keeps Falling — and It's Permanent</h2>\n\n<p>There's been some confusion in the market about whether the recent GPT-5.6 Luna price cut was a promotional moment. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> put that to rest bluntly: <a href=\"https://x.com/thsottiaux/status/2084506501834829833\">\"The GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away.\"</a></p>\n\n<p>The same account offered what may be the week's most quotable observation about the current pace of development, describing the Codex-to-production pipeline at OpenAI: <a href=\"https://x.com/thsottiaux/status/2084196918071357707\">\"you just open your laptop, Codex a PR into existence and ship an improvement to 1B users. Just like that.\"</a> But there's a caveat attached: <a href=\"https://x.com/thsottiaux/status/2084483765158719542\">\"Codex is a good harness. But it will seem primitive in 2-3 months... The next generation of models need more than your laptop.\"</a></p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> framed the open weights moment in strategic terms: <a href=\"https://x.com/levie/status/2084510498519933318\">\"Models can't reasonably remain behind closed doors for too long since there will be open weights models as a counterbalance. AI inference will have to get closer and closer to the cost of the underlying infrastructure.\"</a></p>\n\n<hr>\n\n<h2>🌍 The Open Source Reckoning: China, Distillation, and Real Risks</h2>\n\n<p>The week's richest policy and strategy debate played out on the <a href=\"https://www.youtube.com/watch?v=_GlSkJjRDMM\">Unsupervised Learning podcast</a>, where Jacob Efron, Rob Toews (Radical Ventures), and Ari Marcos (Datalogy) dug into Chinese open model releases, the Hugging Face breach, and what governments might actually do about any of it.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=_GlSkJjRDMM\">AI Vibe Check: Chinese Open Models, Distillation & The Hugging Face Breach — Unsupervised Learning</a></p>\n\n<p>Toews pushed back on the narrative that Kimi k3 represents a true frontier catch-up:</p>\n\n<blockquote>\"I don't think k3 is actually state of the art in any real sense... Kimi has been compared to Fable, which is itself a neutered version of Mythos, which itself was finished training in February, March. The open frontier coming out of China is still several months at least behind the actual frontier in the US.\"<br>— Rob Toews</blockquote>\n\n<p>But Marcos had a sharper counter: does the gap even matter for most use cases? <blockquote>\"Barring a full hard takeoff sort of scenario, does that actually matter? Like, does open source being three to four months behind closed source — is that actually a meaningful difference?\"</blockquote></p>\n\n<p>On the human side of this debate: <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> published a <a href=\"https://x.com/petergyang/status/2084289426012897433\">detailed breakdown</a> of his interview with <a href=\"https://x.com/karan4d\" data-handle=\"karan4d\">Karan</a>, co-founder of Nous Research, whose vision for the Hermes agent is explicitly democratic. Watch/Listen: <a href=\"https://t.co/3E7IC0TzNr\">the full episode here</a>.</p>\n\n<blockquote>\"We need to give this level of intelligence to everyone so they can be on an even and equal playing field.\"<br>— <a href=\"https://x.com/karan4d\" data-handle=\"karan4d\">@karan4d</a>, Nous Research</blockquote>\n\n<hr>\n\n<h2>🛠️ The Tooling Layer Keeps Compounding</h2>\n\n<p>A few product moves worth tracking: <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> announced <a href=\"https://x.com/rauchg/status/2084411344623902994\">Next.js 16.3</a> with an explicit focus on \"agent-native DX\" — agents are now given choices about navigation patterns and built-in versioned docs. The framing has subtly shifted: the developer experience is increasingly being designed <em>for agents</em>, not just by them. Rauch also declared the go-to-market playbook dead, coining <a href=\"https://x.com/rauchg/status/2084445517678064092\">ALG (Agent-Led Growth)</a>: \"Have agents adopt your product first, then have the meetings, if needed.\"</p>\n\n<p>At Replit, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> shared that the team has built a <a href=\"https://x.com/amasad/status/2084415670486499779\">\"self-driving & self-correcting shared semantic layer\"</a> across databases, conversations, and docs — making everything queryable regardless of source, and putting weeks of data science work within reach of any employee.</p>\n\n<p>And <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> raised the question nobody wants to answer about CUA (computer-using agents) progress: <a href=\"https://x.com/swyx/status/2084312752437481937\">\"Do we need CAPTCHAs anymore when clearly bots can clear them?\"</a> The linked thread of \"wow moments\" is worth a browse — it captures the quiet vertigo of watching capability outpace infrastructure.</p>",
+  "html_zh": "<p class=\"lead\">AI基础设施正在经历一场深刻的架构重构——从模型层到开发工具链，再到企业部署方式，这一周的动态显示行业正在以惊人的速度走向成熟。</p>\n\n<h2>🔧 Anthropic的坦诚：Claude Code降质风波的来龙去脉</h2>\n\n<p>本周最值得关注的一篇文章，或许是Anthropic罕见的自我剖析。在<a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">官方事后复盘博客</a>中，团队详细披露了过去一个月导致Claude Code体验下降的三个独立错误。</p>\n\n<p>故事的梗概是：3月4日，团队将Claude Code的默认推理强度从\"高\"调至\"中\"，以解决部分用户遇到的界面卡顿问题；3月26日，一个旨在减少延迟的缓存优化出现Bug，导致Claude在同一会话中反复\"失忆\"；4月16日，一条旨在压缩回复篇幅的系统提示词，意外拉低了代码质量。三个变更叠加，呈现出\"广泛、随机降质\"的假象。</p>\n\n<blockquote>「因为每项变更影响的是不同时间段的不同流量切片，整体效果看起来就像大范围、不一致的性能下滑。」——Anthropic工程博客</blockquote>\n\n<p>值得注意的是Anthropic的处理态度：坦承问题、逐条解释、重置所有订阅用户的使用配额，并承诺建立更完善的回归测试机制。在AI产品质量争议频发的当下，这种透明度本身就是一种差异化。</p>\n\n<hr>\n\n<h2>🏗️ Claude Managed Agents：把\"大脑\"和\"双手\"分开</h2>\n\n<p>与此同时，Anthropic在工程层面也发布了两项重要更新。<a href=\"https://www.anthropic.com/engineering/managed-agents\">工程博客</a>详细解释了Managed Agents背后的架构哲学——将Agent的\"大脑\"（Claude及其调度逻辑）与\"双手\"（沙箱执行环境）彻底解耦。</p>\n\n<blockquote>「调度层离开了容器。解耦大脑与双手，意味着调度层不再住在容器里。它调用容器的方式，和调用任何其他工具完全一样：<code>execute(name, input) → string</code>。容器变成了'牲口'。容器挂了，调度层把失败当作工具调用错误捕获，传回给Claude。」——Anthropic工程博客</blockquote>\n\n<p>这个\"宠物与牲口\"的类比颇为传神：过去单一容器架构里，服务器是需要精心呵护的\"宠物\"；新架构下，任何组件都可以随时被替换，没有谁是不可或缺的。<a href=\"https://claude.com/blog/claude-managed-agents-updates\">配套的产品更新</a>则宣布，企业现在可以将Agent执行环境部署在自己的基础设施上，或选择Cloudflare、Modal、Vercel等合作伙伴，同时通过MCP隧道安全连接私有网络内的数据库和内部服务。</p>\n\n<hr>\n\n<h2>📉 价格战与开源浪潮：模型层的利润正在被压缩</h2>\n\n<p>这周另一个强劲的叙事主线，是模型定价的持续崩塌与开源力量的快速追赶。</p>\n\n<p><a href=\"https://x.com/thsottiaux/status/2084506501834829833\" data-handle=\"thsottiaux\">@thsottiaux</a> 明确澄清了市场上的一个误解：</p>\n\n<blockquote>「显然有些人误解了，GPT-5.6 Luna降价80%不是临时促销，是永久性的。效率提升不会凭空消失。」</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/levie/status/2084510498519933318\" data-handle=\"levie\">Box CEO Aaron Levie</a> 对开源模型的持续迭代发表了一段颇具洞察力的评论：</p>\n\n<blockquote>「这意味着模型不可能长期躲在封闭的门后，因为开源权重模型会形成制衡。这意味着AI推理的成本将不得不无限趋近于底层基础设施成本，因为你始终可以自己跑开源模型。」</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=_GlSkJjRDMM\">Unsupervised Learning — AI Vibe Check: Chinese Open Models, Distillation & The Hugging Face Breach</a>。这期播客对中国开源模型的讨论颇为冷静。Radical Ventures的Rob Toews泼了一点冷水：</p>\n\n<blockquote>「Kimi k3是目前最好的开源权重模型，这没有疑问。但它所对标的Fable，本身就是Mythos的'阉割版'，而Mythos早在二三月份就完成了训练。所以中国开源前沿距离美国真实前沿，仍然落后至少数月。」</blockquote>\n\n<hr>\n\n<h2>🤖 Codex与\"Agent优先\"的开发范式</h2>\n\n<p>在开发工具层面，本周出现了一个有趣的视角转变：框架和产品开始明确为Agent而非人类工程师做优化。</p>\n\n<p><a href=\"https://x.com/rauchg/status/2084411344623902994\" data-handle=\"rauchg\">Vercel CEO Guillermo Rauch</a> 在介绍Next.js 16.3时，多次强调\"Agent原生\"设计：</p>\n\n<blockquote>「开启即时导航后，你的Agent基本上被迫把东西做快。Agent还会获得内置的版本化文档。这是我们迄今为止对Agent最友好的版本。」</blockquote>\n\n<p><a href=\"https://x.com/thsottiaux/status/2084483765158719542\" data-handle=\"thsottiaux\">@thsottiaux</a> 也预言了一个即将到来的范式跃迁：</p>\n\n<blockquote>「Codex是一个优秀的执行框架。但两三个月后它会显得原始，我们即将经历AI使用方式的又一次重大演变。下一代模型所需要的，已经超出了你的笔记本电脑所能提供的范围。」</blockquote>\n\n<p><a href=\"https://x.com/trq212/status/2084387303959740449\" data-handle=\"trq212\">@trq212</a> 则分享了一个不少人忽略的小技巧：连接Claude Connector（Gmail、日历、Slack等）后，Claude Code在Artifacts中同样可以调用这些集成。这条推文获得了超过1100个赞，说明这个功能的知名度仍然有限。</p>\n\n<hr>\n\n<h2>🌐 开源AI：一场关于\"智识公平\"的价值观之争</h2>\n\n<p><a href=\"https://x.com/petergyang/status/2084289426012897433\" data-handle=\"petergyang\">Peter Yang</a> 对Nous Research联合创始人<a href=\"https://x.com/karan4d\" data-handle=\"karan4d\">Karan</a>的访谈，提供了一个难得的理想主义视角。Karan对开源AI的立场带有强烈的普惠色彩：</p>\n\n<blockquote>「对我们来说，我们只是希望开源最终能赢。我们希望人们能够获得自由。我们需要把这种程度的智识赋予每一个人，让他们能够站在平等的起跑线上。」</blockquote>\n\n<p>Watch/Listen: <a href=\"https://t.co/3E7IC0TzNr\">完整访谈：Karan谈Hermes Agent的理念与实践</a>。其中一个值得记住的建议是：用一个Agent做工作，再用另一个<strong>没有上下文的全新Agent</strong>来评估结果，以避免模型为讨好用户而产生的\"奖励黑客\"行为——Karan称之为\"你说得完全正确\"综合征。</p>\n\n<p>AI的民主化与商业化之间的张力，正在成为这个行业越来越难以回避的根本性议题。</p>"
+}
