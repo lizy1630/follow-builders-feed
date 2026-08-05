@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T07:11:53.266Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "url": "https://www.youtube.com/watch?v=wv53mDmY-k0"
+    }
+  },
+  "html_en": "<p class=\"lead\">Intelligence is getting cheap enough to change what's valuable — and today's builder conversation is really about what happens next: to knowledge graphs, to drug discovery, to the enterprise software stack, and to anyone trying to build a sustainable business on top of commoditized AI.</p>\n\n<h2>The Complement Economy: When Intelligence Becomes Infrastructure</h2>\n\n<p>There's a useful economic principle hiding in a tweet from a Midjourney meetup. <a href=\"https://x.com/swyx/status/2084832553895444570\" data-handle=\"swyx\">@swyx</a> had a moment of clarity watching talks on knowledge graphs:</p>\n\n<blockquote>\n\"One reason that ontologies and graph knowledge are finally trending now rather than 3 years ago is that 'good enough' intelligence is finally too cheap to meter. Intelligence is commoditized so complements are increasing in value.\" — <a href=\"https://x.com/swyx/status/2084832553895444570\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>This is a quietly profound observation. The hard part of knowledge graphs — extracting and reasoning over structured information — used to require expensive, bespoke systems. Now an LLM does it for pennies. What remains scarce, and therefore valuable, is the <em>structure itself</em>: well-curated ontologies, domain-specific graphs, proprietary data relationships that models can't conjure from scratch. The same logic applies broadly. As <a href=\"https://x.com/levie/status/2084828773808239080\" data-handle=\"levie\">Box CEO Aaron Levie</a> observed from his vantage point talking to enterprise IT leaders, the AI implementation landscape is remarkably heterogeneous right now:</p>\n\n<blockquote>\n\"If you ask 10 IT leaders what their coding agent strategy looks like, you get at least 5 different answers... Anyone who's predicting ultimate market outcomes already probably will be wrong as nothing has formally settled in yet.\" — <a href=\"https://x.com/levie/status/2084828773808239080\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>The complement economy isn't just about data. It's about distribution, trust, domain knowledge — all the things that don't scale with a bigger GPU cluster.</p>\n\n<hr>\n\n<h2>Drug Discovery's AlexNet Moment</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=wv53mDmY-k0\">Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem — Training Data podcast</a></p>\n\n<p>The most intellectually rich content today comes from a podcast conversation with the co-founders of Chai Discovery, a foundation model lab for biology. Their framing of drug discovery as a scaling problem — essentially the same bitter lesson that humbled hand-crafted approaches in vision and language — is worth sitting with.</p>\n\n<blockquote>\n\"One of the exciting things we're trying to do at Chai is to make the drug discovery process look a little bit more like engineering... Biology doesn't look like that today. It's a lot of trial and error. A lot of the medicines we have today were kind of discovered quite randomly. It was a bit serendipitous.\" — Josh/Matt, Chai Discovery co-founders\n</blockquote>\n\n<p>The hosts press on an interesting boundary: how much of drug development can be <em>engineered</em> versus discovered through lab trial and error? The Chai founders reframe this around verification — a theme that echoes across AI right now:</p>\n\n<blockquote>\n\"The lab is an important part to verify that what you're doing is correct. And actually verification is a very big theme in AI as well. If you can evaluate that your model works, you can verify it, then you can start to hill climb that and you can make progress on it.\"\n</blockquote>\n\n<p>Perhaps counterintuitively, they argue that better AI models might <em>increase</em> demand for lab testing rather than reduce it — the same way productivity tools increased demand for software engineers. The goal isn't fewer experiments; it's changing from <em>drug discovery</em> (needle in a haystack) to <em>drug design</em> (specifying the dream molecule and having the model materialize it). The protein folding timeline they trace — from grainy 2018 predictions to AlphaFold2's step-change in 2020 to today's diffusion-based co-generation — maps almost perfectly onto the image generation arc. Biology's AlexNet moment has already happened. What comes next is the GPT-4 equivalent.</p>\n\n<hr>\n\n<h2>The Builder's Playbook Is Crystallizing</h2>\n\n<p>A practical consensus is emerging among early-stage AI builders, and <a href=\"https://x.com/realmadhuguru/status/2084667443046502631\" data-handle=\"realmadhuguru\">@realmadhuguru</a> articulated it cleanly after talking to founders over the weekend:</p>\n\n<blockquote>\n\"1/ Prototype with the best frontier models. Max quality. Ignore cost and latency. Learn what users actually want and iterate. 2/ Once the workflow and UX is validated, optimize like crazy for cost and latency — prompt eng, model routing, harnesses, smaller models, fine tuning. I see most teams get stuck in step 1.\" — <a href=\"https://x.com/realmadhuguru/status/2084667443046502631\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<p>The corollary: open-weight models tend to catch up to frontier quality on specific tasks within 6-8 weeks. So the frontier model is a <em>prototype instrument</em>, not necessarily a production dependency. Meanwhile, <a href=\"https://x.com/petergyang/status/2084855632029774167\" data-handle=\"petergyang\">@petergyang</a> is thinking through what the vibe-coding wave actually produces commercially:</p>\n\n<blockquote>\n\"I think if you vibe code a SaaS these days it can just be a self-serve funnel into a more expensive services offering vs. trying to make a lot of money with the SaaS itself. But the only thing about services is it feels like consulting and selling 'time for money' again.\" — <a href=\"https://x.com/petergyang/status/2084855632029774167\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>There's an honest tension here that a lot of solo builders are sitting with: AI lowers the cost of building software dramatically, but the business model question — SaaS vs. services vs. audience monetization — remains as hard as ever.</p>\n\n<hr>\n\n<h2>Tooling Updates: Notebook, Vercel, and AI in the Workflow</h2>\n\n<p><a href=\"https://x.com/joshwoodward/status/2084746170576892342\" data-handle=\"joshwoodward\">Google Labs' Josh Woodward</a> announced a design philosophy update to NotebookLM that's worth noting for what it <em>doesn't</em> do:</p>\n\n<blockquote>\n\"Notebook is built for thinking, not toggling. While others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want.\" — <a href=\"https://x.com/joshwoodward/status/2084746170576892342\" data-handle=\"joshwoodward\">@joshwoodward</a>\n</blockquote>\n\n<p>In a landscape of increasingly modal, multi-agent interfaces, the deliberate minimalism here is a genuine product statement. On the infrastructure side, <a href=\"https://x.com/rauchg/status/2084804138169446449\" data-handle=\"rauchg\">Vercel's Guillermo Rauch</a> highlighted that Factory AI is running billions of requests monthly on Fluid compute — a data point that quietly validates serverless for serious AI workloads. He also flagged a token efficiency win: a single line in the Vercel AI SDK cuts DeepSeek v4 Flash gateway token usage by 90% or more.</p>\n\n<p>On the organizational side, <a href=\"https://x.com/zarazhangrui/status/2084828855404294266\" data-handle=\"zarazhangrui\">@zarazhangrui</a> offered a sharp observation about AI adoption that cuts against the usual \"10x efficiency\" messaging:</p>\n\n<blockquote>\n\"Contrary to popular perception, most people will not adopt a new technology just because it makes them more efficient. Instead, they'll adopt new technology because someone they know who's similar to them adopted the technology and got positive results... The diffusion of technology is a SOCIAL process.\" — <a href=\"https://x.com/zarazhangrui/status/2084828855404294266\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>Her practical implication: the best enterprise AI rollout isn't a training course. It's dropping an agent into a team's group chat and letting people <em>watch it work</em>. Demonstration over documentation.</p>\n\n<hr>\n\n<h2>Ambient Notes</h2>\n\n<p>OpenAI's security team is growing up: <a href=\"https://x.com/thsottiaux/status/2084859308165271658\" data-handle=\"thsottiaux\">Thomas Sotiaux</a> welcomed reverse engineering legend Halvar Flake to the team. <a href=\"https://x.com/sama/status/2084663673570971990\" data-handle=\"sama\">Sam Altman</a> posted one of his periodic dispatches on optimism versus pessimism — light on substance, heavy on retweets (755 of them), which is its own kind of data point about the mood of the field. And <a href=\"https://x.com/mattturck/status/2084759190195536202\" data-handle=\"mattturck\">Matt Turck</a> captured a moment of SaaS gallows humor around the Airtable acquisition news: \"Many SaaS founders, secretly: 'damn, I'd take that any day, at least they had an exit.'\"</p>",
+  "html_zh": "<p class=\"lead\">今天的核心主题是：当智能本身变得廉价，真正的价值开始向其周边迁移——无论是知识图谱、药物设计，还是企业的AI落地策略，这场重心转移正在每个角落悄然发生。</p>\n\n<h2>🧠 智能商品化之后，补集才是金矿</h2>\n\n<p>在 <a href=\"https://x.com/_chenglou\" data-handle=\"_chenglou\">@_chenglou</a> 组织的 Midjourney 聚会上，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 捕捉到了一个令人回味的洞察：知识图谱（Knowledge Graph）为何偏偏在此刻走红，而不是三年前？</p>\n\n<blockquote>\n\"本体论和图谱知识之所以现在才开始流行，而不是三年前，是因为'足够好'的智能终于便宜到可以忽略不计。……KG最难的部分现在已经变廉价了。智能被商品化，所以它的补集正在升值。\"<br>\n—— <a href=\"https://x.com/swyx/status/2084832553895444570\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>这个逻辑并不复杂，但极具穿透力：当推理能力变成水电煤，真正稀缺的是结构化知识、数据管道、领域专业性——也就是那些AI本身无法自动生成的\"补集\"资产。这也解释了为什么图数据库、垂直数据平台等看似\"老派\"的技术，正在新一轮AI浪潮中悄然复苏。</p>\n\n<hr>\n\n<h2>💊 药物设计：另一个规模化问题</h2>\n\n<p>本期最值得深读的播客，来自 <em>Training Data</em> 对 Chai Discovery 两位联合创始人 Josh 与 Matt 的专访。Chai 正在做的事情，是把药物研发从\"发现\"变成\"设计\"。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=wv53mDmY-k0\">Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem</a></p>\n\n<blockquote>\n\"我们之所以把这个领域叫'药物发现'，是因为我们通常是在大海捞针——筛选数百万甚至数十亿个分子，试图找到一个有效的。如果我们能够输入你想要的分子的'理想状态'，然后让模型将其实体化，那将会非常强大。\"<br>\n—— Chai Discovery 联合创始人 Matt\n</blockquote>\n\n<p>他们的技术路径与大语言模型的演进高度相似：从早期模糊的蛋白质距离预测，到 AlphaFold2 的突破，再到扩散模型带来的同步生成能力。更有趣的是他们对\"简洁性\"的执念：</p>\n\n<blockquote>\n\"当你试图迭代一个有23个独立子模块的模型时，会变得非常困难……简洁性是我们最重要的指导原则之一。\"<br>\n—— Chai Discovery 联合创始人 Josh\n</blockquote>\n\n<p>Josh 还提出了一个反直觉的观点：AI提升效率后，实验室需求不会减少，反而可能增加——就像软件工程师越来越高效，对工程师的总需求反而更大一样。</p>\n\n<hr>\n\n<h2>🏢 企业AI落地：一百种策略，没有一个标准答案</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 在与大量企业IT负责人深度交流后，描绘了一幅异常分散的图景：</p>\n\n<blockquote>\n\"如果你问10位IT负责人他们的编程智能体策略是什么，你会得到至少5种不同的答案。……对于数据访问，有些企业让智能体直接扮演用户角色，另一些则为智能体单独设立身份。有些公司对智能体能做的事设置了严格限制，另一些则把责任交给用户自己。\"<br>\n—— <a href=\"https://x.com/levie/status/2084828773808239080\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这种早期的高度异质性，在他看来恰恰意味着机会窗口远未关闭：\"任何现在就预测最终市场格局的人，大概率会猜错——因为什么都还没有真正定型。\"</p>\n\n<p>与此同时，<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 则从创业者视角总结出一套正在形成共识的产品打法：</p>\n\n<blockquote>\n\"用最好的前沿模型做原型。不计成本。验证用户体验。然后，6-8周后，当开源模型追上来时，把生产工作负载迁移过去……不要从最便宜的模型开始。\"<br>\n—— <a href=\"https://x.com/realmadhuguru/status/2084809416105472070\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<hr>\n\n<h2>🛠️ 产品与工具：统一才是真简洁</h2>\n\n<p>Google Notebook 产品负责人 <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> 宣布了一个值得关注的产品方向调整：</p>\n\n<blockquote>\n\"Notebook 是为思考而生，而不是为切换模式而生。当其他产品不断增加更多模式时，Notebook 将一切保留在单一统一的提示栏中，只做你真正想做的事。\"<br>\n—— <a href=\"https://x.com/joshwoodward/status/2084746170576892342\" data-handle=\"joshwoodward\">@joshwoodward</a>\n</blockquote>\n\n<p>这与 Chai Discovery 对\"简洁性\"的推崇形成了有趣的跨领域共鸣：无论是基础模型架构还是消费级产品设计，去除冗余、回归本质，正在成为这个时代的一种审美共识。</p>\n\n<p>另一边，<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 提出了一个关于AI采纳的社会学洞察，值得所有做to-B AI产品的人深思：</p>\n\n<blockquote>\n\"技术的传播是一个社会过程。……最好的AI培训不是课程，而是把一个智能体拉进团队群聊，让大家看着它工作。\"<br>\n—— <a href=\"https://x.com/zarazhangrui/status/2084635984164237792\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<hr>\n\n<h2>💬 今日金句</h2>\n\n<p>最后，把今天的收尾交给 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>，这或许也是整个AI行业此刻最需要的心态：</p>\n\n<blockquote>\n\"我宁愿做一个乐观主义者并努力工作，也不愿做一个发帖解释为什么事情行不通的悲观主义者。这条路更难走，失败的概率更高，但如果没有人去尝试，社会就会停滞。再多的'永远不会成功'的文章，也无法推动社会向前。\"<br>\n—— <a href=\"https://x.com/sama/status/2084663673570971990\" data-handle=\"sama\">@sama</a>\n</blockquote>"
+}
