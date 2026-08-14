@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T06:46:42.819Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">Autonomous agents are quietly taking over the unglamorous work of software maintenance, coding benchmarks are falling faster than expected, and the debate about what humans are actually for in an AI-accelerated world is getting sharper by the day.</p>\n\n<h2>The Autonomous Codebase: Claude as Your Tireless Engineering Intern</h2>\n\n<p>The most striking demonstration of agentic AI this week came not from a lab announcement, but from a Slack channel. <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> shared a detailed account of letting Claude run unsupervised maintenance routines across his company's iOS, Android, desktop, web, and CLI apps — with results that are hard to dismiss:</p>\n\n<blockquote>\n\"Over the last few weeks, these routines have opened 388 PRs across our repos, 180 of which we merged after Claude Code Review + human review. Claude generally gets these PRs right on the first shot, and if it doesn't, we ask Claude to tune its routines so it's better the next day.\" — <a href=\"https://x.com/bcherny/status/2088014489438621990\">@bcherny</a>\n</blockquote>\n\n<p>The routines — crash fuzzing, dead-code removal, abstraction policing, deduplication — are exactly the kind of mechanical, high-discipline work that consumes junior engineering hours without producing much strategic value. The implication is significant: the first wave of AI-automated engineering won't be the glamorous stuff. It'll be the janitorial work that everyone agreed was important and nobody had time for.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> was iterating on a related insight about human-AI interaction efficiency. Taking inspiration from <a href=\"https://x.com/mattpocockuk\" data-handle=\"mattpocockuk\">Matt Pocock</a> and <a href=\"https://x.com/trq212\" data-handle=\"trq212\">Thariq</a>, he built a batch-question modification to avoid the costly round-trip of one-question-at-a-time alignment:</p>\n\n<blockquote>\n\"Human I/O is costly, so I made an /align-me modification which allows for batches of questions instead of round-by-round. Same intuition as spec decoding, you speed up by looking ahead 2–10 steps. Works INCREDIBLY for design explorations.\" — <a href=\"https://x.com/swyx/status/2088073777779515615\">@swyx</a>\n</blockquote>\n\n<hr>\n\n<h2>The Engineer Isn't Going Anywhere — They're Getting Promoted</h2>\n\n<p>One of the week's more spirited consensus moments: the \"AI will replace engineers\" thesis is getting quietly buried. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> put it plainly:</p>\n\n<blockquote>\n\"The elimination of engineers was one of the wilder hypotheses out there. Just like absurdly wrong. We just gave engineers a power tool that can accelerate the development of whatever we want. Of course their value not only remains critical in that world, but actually goes up in many domains because we can apply engineering to far more work than before.\" — <a href=\"https://x.com/levie/status/2088105350201270529\">@levie</a>\n</blockquote>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> noted the irony more pointedly: <a href=\"https://x.com/zarazhangrui/status/2088087765267386564\">\"Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word 'engineer' in them: forward-deployed engineer, design engineer, product engineer, growth engineer…\"</a></p>\n\n<p>And <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit offered the boldest prediction of the day, framing it as liberation rather than displacement: <a href=\"https://x.com/amasad/status/2088110851681386864\">\"By next year, using a computer will be optional. Work will radically change.\"</a> Whether that reads as utopian or alarming probably says something about your job title.</p>\n\n<hr>\n\n<h2>Benchmarks Crumble, Models Get Cheaper</h2>\n\n<p>Two data points that would have seemed remarkable six months ago landed with barely a shrug this week. First, <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> noted that Gemini 3.7 Flash arrived fast and cheap: <a href=\"https://x.com/joshwoodward/status/2088016871710957587\">\"Fast, 50% cheaper, happened in ~3 weeks.\"</a> The commoditization clock keeps ticking.</p>\n\n<p>Second, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> flagged something more philosophically interesting — ARC-AGI-3, designed to be a hard ceiling for AI reasoning, is already bending:</p>\n\n<blockquote>\n\"ARC-AGI-3 is nearly solved by merely adding a coding harness. As predicted, coding generalizes LLMs.\" — <a href=\"https://x.com/amasad/status/2088124774824521786\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">Thariq</a> made the same point with characteristic economy: <a href=\"https://x.com/trq212/status/2088049989306192106\">\"everything truly is code.\"</a> The thesis — that strong code generation is a general-purpose reasoning amplifier — keeps accumulating evidence.</p>\n\n<hr>\n\n<h2>What Chess Teaches Us About Living With Superhuman AI</h2>\n\n<p>The <strong>No Priors</strong> podcast this week offered a genuinely useful lens on the \"humans vs. AI\" question, via an unlikely source. Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">What Chess.com Teaches Us About Superhuman Capabilities, with CEO Erik Allebest</a>.</p>\n\n<p>Chess.com's Erik Allebest built a 250-million-member platform around a game that computers have dominated for nearly thirty years. His observation is worth sitting with: chess didn't die when machines became superhuman at it. It <em>grew</em>. The game now has 10 million daily active users, $200M in revenue, and Allebest thinks a billion players is achievable.</p>\n\n<blockquote>\n\"It's a game that's more popular than ever, despite computers outclassing humans at it for the last thirty years.\" — No Priors host\n</blockquote>\n\n<p>The implication for AI builders is clear. Superhuman AI in a domain doesn't hollow out human interest — it can, counterintuitively, deepen it. People still want to know <em>how good they are</em>, relative to each other. Rating systems, skill development, the social texture of competition: none of that evaporates when a bot can beat everyone. Allebest is now applying this logic to poker, designing a rating system that prioritizes skill over bankroll. It's a small but interesting signal about what \"human value\" looks like in an automated world.</p>\n\n<hr>\n\n<h2>Prompt Debt, Product Specs for Agents, and the Naming Crisis</h2>\n\n<p>A few shorter threads worth flagging. <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> coined a phrase that will likely spread: <strong>\"prompt debt.\"</strong></p>\n\n<blockquote>\n\"With every model update, you should be cutting at least 50% of your prompts. Most AI products have bloated prompts that are making your product quality worse. The typical flow is: model fails at something → add 10 rules. Tool call fails → add 10 examples… 3 months later, your system prompt is a novel. Meanwhile the model is way smarter and your micro-managey prompts are turning it into a dumb rules machine.\" — <a href=\"https://x.com/realmadhuguru/status/2087916590964851172\">@realmadhuguru</a>\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> raised a practical product question that's going to become increasingly common: <a href=\"https://x.com/petergyang/status/2088108304274960667\">\"What do people include in their product specs these days to make them friendly and concise for both humans and agents? Or two separate sections for each?\"</a> No clean answer yet — but the fact that product managers are thinking about dual-audience specs tells you something about where workflows are heading.</p>\n\n<p>And finally, <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> documented the AI industry's collective failure of imagination on product naming — counting 20+ products called \"Studio\": Google AI Studio, Copilot Studio, Agentforce Studio, LangGraph Studio, and on and on. <a href=\"https://x.com/realmadhuguru/status/2088074515188519182\">The full list</a> is both funny and a little depressing. Unlimited creativity, apparently, stops at the product page.</p>",
+  "html_zh": "<p class=\"lead\">从\"代码即一切\"到AI助手重塑日常工作流，今天的讨论围绕一个核心主题展开：AI不是在取代专家，而是在给每个人装上涡轮引擎。</p>\n\n<h2>⚡ 工程师价值不降反升：驳\"工程师消亡论\"</h2>\n\n<p>关于AI会消灭工程师的论调，今天遭到了多方有力反驳。<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 说得直接：</p>\n\n<blockquote>\"工程师被淘汰是最荒唐的假设之一。我们只是给工程师配备了一把电动工具，可以加速实现任何我们想要的东西。他们的价值不仅依然关键，在很多领域实际上还在上升——因为我们现在可以把工程能力应用到更多工作上。\"</blockquote>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 补充了一个颇具讽刺意味的观察：</p>\n\n<blockquote>\"很多人以为AI编程会让工程师不那么值钱，现实恰恰相反——最抢手的职位全都带着'工程师'三个字：前线部署工程师、设计工程师、产品工程师、增长工程师……\"</blockquote>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit CEO Amjad Masad</a> 则更进一步，<a href=\"https://x.com/amasad/status/2088110851681386864\">预言道</a>：\"明年，使用电脑将变成可选项。工作将发生根本性变革。\"他同时指出，ARC-AGI-3 基准测试\"仅仅添加代码执行框架就几乎被攻克\"，印证了他一贯的判断：<a href=\"https://x.com/trq212/status/2088049989306192106\">代码能力正在泛化大模型的推理能力</a>。</p>\n\n<hr>\n\n<h2>🤖 Claude当\"运维工程师\"：自动化维护的早期实验</h2>\n\n<p>今天最受关注的实战案例，来自 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a>。他分享了一个令人印象深刻的实验：让 Claude 接管应用的日常维护工作。</p>\n\n<blockquote>\"我们有一个叫 proj-claude-maintains-apps 的 Slack 频道。Claude Tag 在其中跨 iOS、Android、桌面端、Web、CLI 和 Agent SDK 执行一系列日常例程：崩溃模糊测试、重复代码统一、死代码清理、抽象层修复……过去几周，这些例程共提交了 388 个 PR，其中 180 个在 Claude Code Review 加人工审核后被合并。\"</blockquote>\n\n<p>他还分享了一个调优思路：如果 Claude 某次做错了，就让它调整自己的例程，第二天改进。\"有时需要几天调试。\" 整个流程可在 <a href=\"https://claude.ai/tag\">claude.ai</a> 上复现。</p>\n\n<p>与此同时，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 受 <a href=\"https://x.com/mattpocockuk\" data-handle=\"mattpocockuk\">Matt Pocock</a> 和 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">Thariq</a> 启发，做了一个有趣的工程优化——将 AI 对话的\"逐轮提问\"改为<a href=\"https://x.com/swyx/status/2088073777779515615\">\"批量提问\"</a>：</p>\n\n<blockquote>\"人机交互成本很高，所以我做了 /align-me 修改，允许批量提问而非逐轮交互。逻辑和投机解码（spec decoding）一样——提前看 2-10 步来加速。在设计探索场景效果惊人。\"</blockquote>\n\n<hr>\n\n<h2>💸 模型价格战：Gemini 3.7 Flash 三周降价50%</h2>\n\n<p><a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Google Labs 的 Josh Woodward</a> <a href=\"https://x.com/joshwoodward/status/2088016871710957587\">简洁地宣布</a>：\"3.7 Flash：更快、便宜50%，历时约三周。\"这一节奏再次印证了当前模型能力与价格的双重飞速演进。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel CEO Guillermo Rauch</a> 也在推动\"用一条命令统一管理所有编程AI token消耗\"的基础设施层整合。</p>\n\n<p>而 <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 则描绘了一幅更冷峻的市场图景：</p>\n\n<blockquote>\"现在你要么是 AI 原生火箭飞船——听起来很酷，直到你意识到这意味着永无止境的融资和令人窒息的估值——要么基本上就是被判了死刑，不管你的公司实际上有多好。这种局面已经持续一段时间了，但感觉最近又升级了一个档次。\"</blockquote>\n\n<hr>\n\n<h2>😂 AI帮你\"审判\"自己的工作习惯</h2>\n\n<p>轻松一刻：<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 用 ChatGPT 的电脑历史插件让 AI \"嘲讽\"了自己一整天的使用行为，结果让人又痛又笑：</p>\n\n<blockquote>\"你不是在用 Slack。是 Slack 在用你。它占据了你48%的记录活动。你的 Mac 本质上是一台价值3000美元的 Slack 通知机器，带键盘。\"<br><br>\"你最常用的快捷键是 Delete，共1191次，其中1065次在 Slack 里。你不是在起草消息，你是在你的第一个念头和执行功能之间谈判停战协议。\"<br><br>\"你今天最忙的时刻是晚上9点，有超过1500个 Slack 事件。'下班'对你来说显然不是一个时间点，而是你喜欢在会议里讨论的理论概念。\"</blockquote>\n\n<p>此外，他还分享了 ChatGPT 与 Google Docs/Sheets/Slides 的深度整合体验，<a href=\"https://x.com/thsottiaux/status/2088103609477238858\">称其\"彻底改变了我写文档、头脑风暴和校对的方式\"</a>。</p>\n\n<hr>\n\n<h2>🎙️ 深读：Chess.com CEO谈超人AI与人类技能的未来</h2>\n\n<p>本期 <strong>No Priors</strong> 播客值得一听。Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">What Chess.com Teaches Us About Superhuman Capabilities</a>。Chess.com CEO <strong>Erik Allebest</strong> 讲述了一个反直觉的故事：计算机在国际象棋上碾压人类已经整整三十年，但这款游戏从未像今天这样流行。</p>\n\n<blockquote>\"现在我们有超过2.5亿注册会员，月活4000-5000万，今年收入预计刚刚突破2亿美元。坦率地说，作为一家国际象棋公司，这个数字让我自己都感到惊讶。\"</blockquote>\n\n<p>他在斯坦福读商学院时，沙山路的VC们几乎众口一词：这是个\"无法投资的小众爱好项目\"。他最终以5.6万美元买下域名，靠会员收费滚雪球，从未外部融资。这个故事本身，就是对\"专业深度在AI时代依然有价值\"最好的注脚——正如今天所有关于工程师价值的讨论所指向的方向。</p>"
+}
