@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T06:27:46.023Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
+      "url": "https://www.youtube.com/watch?v=dlI-5W7d7uU"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is buzzing with a deceptively simple question: now that the models are good enough, who actually knows how to build products people love — and are we even measuring the right things?</p>\n\n<h2>The Social Layer AI Is Still Missing</h2>\n\n<p>The most thought-provoking argument circulating today comes from a <em>Best of the Pod</em> episode of <a href=\"https://www.youtube.com/watch?v=dlI-5W7d7uU\">Every's <em>AI & I</em></a>, featuring a Benchmark partner with deep roots in Pinterest-era consumer product thinking. Her thesis: AI is still in its \"Google phase\" — technically brilliant, but fundamentally single-player.</p>\n\n<blockquote>\n\"ChatGPT, which is in a way not that dissimilar from Google in terms of what it was — just a text box... Custom GPTs and ChatGPT feels criminal to me. It's clearly made by a team that is unbelievably capable but isn't social. What's the multiplayer network effect type experience? Someone's gonna create a UGC type community where there are people who are really, really good, make it so much easier for the rest of us.\"\n</blockquote>\n\n<p>The historical analogy she draws is compelling: Google (95% technical depth) gave way to Facebook, then Pinterest, Snap, Instagram — each wave shifted the slider toward product intuition and social mechanics. OpenAI, she argues, is essentially a research lab that accidentally built the biggest consumer product of all time. That's a powerful origin story, but possibly a ceiling too.</p>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> captured the same vision more viscerally: <a href=\"https://x.com/thenanyu/status/2088810666958196988\">\"I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software.\"</a> The dream isn't better chatbots. It's ambient, collaborative, social AI.</p>\n\n<hr>\n\n<h2>Tokens Aren't Kilowatt-Hours — Stop Treating Them Like They Are</h2>\n\n<p>One of today's most practically important threads comes from <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>, who makes a point that should be required reading for every engineering and finance team buying API access at scale.</p>\n\n<blockquote>\n\"We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn't. Different models use and produce the exact same text using different numbers of tokens, which means a lower price per token does not necessarily mean a lower bill.\"\n</blockquote>\n\n<p>His illustration: in <a href=\"https://x.com/thsottiaux/status/2088866513008873560\">one comparison</a>, GPT-5.6 Sol used 766 tokens for the same text that Claude Opus 5 rendered in ~1,170 — a 34.5% difference. The cheaper-per-token model ends up costing more per equivalent output. His pizza analogy lands perfectly: more slices at a lower per-slice price can still mean a pricier pie.</p>\n\n<p>But his real point cuts deeper: even correcting for tokenizer differences misses the mark. What matters is <strong>cost per successful outcome</strong> — and that requires measuring on your own use cases, not trusting benchmarks. He also provocatively asked: <a href=\"https://x.com/thsottiaux/status/2088850995430477882\">\"If you have a company and still use Opus instead of Sol, why so? Does price not matter to you?\"</a> — drawing over 2,600 likes and a lively debate.</p>\n\n<hr>\n\n<h2>Inside OpenAI: Vibe Check from the Building</h2>\n\n<p>Short, but impossible to ignore: <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> posted a <a href=\"https://x.com/thsottiaux/status/2088725514542575903\">terse dispatch</a> that lit up timelines — <em>\"Incredible things are happening at OpenAI right now. Energy is high.\"</em> Nearly 10,000 likes. No elaboration. Sometimes the most informative signal is what's conspicuously unsaid.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> <a href=\"https://x.com/garrytan/status/2088642982614651196\">publicly flagged</a> that Codex Desktop was erroring out on chats — a reminder that even the tools generating the most excitement have rough edges in the real world.</p>\n\n<hr>\n\n<h2>The Mythology of the Tech Illuminati</h2>\n\n<p>A quietly reassuring observation from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> that deserves more attention than it got:</p>\n\n<blockquote>\n\"As a general rule I've been surprised by how infrequently top tier folks actually meet/know each other. As an outsider I might have assumed that everyone is in secret illuminati group chats. Those exist, but are very much short lived exceptions rather than the rule. What you see of the major headlines is pretty much what they also see.\"\n</blockquote>\n\n<p>His <a href=\"https://x.com/swyx/status/2088755688361378082\">conclusion</a>: \"Most effort is still on doing the work rather than working the narrative or the gossip. And that, to me at least, is genuinely quite reassuring, this far into my career.\" In an industry that generates extraordinary amounts of insider mystique, the mundane truth — people are mostly heads-down building — is somehow the most radical take.</p>\n\n<hr>\n\n<h2>Shadcn, Efficiency Laws, and the Shape of What's Coming</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> offered a <a href=\"https://x.com/rauchg/status/2088757738037989755\">reframe on React's success</a> that doubles as a useful mental model for AI tooling: \"Shadcn is what people actually wanted from React. Reusable high quality components that also tunable. It's a pseudo-library. There's code but it's actually meant to be digested into your context window and remixed.\" The implication for AI builders: the most durable tools will be designed to flow <em>into</em> context windows, not sit outside them.</p>\n\n<p>And <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> pushed back on AI centralization doom with a <a href=\"https://x.com/amasad/status/2088867492907327573\">crisp argument</a>: scaling laws aren't laws of physics. \"If the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might be a bug and not a feature — they show the inefficiency of the ML algorithms we've discovered so far.\" It's a minority view today, but one worth keeping in your back pocket as efficiency gains quietly compound.</p>",
+  "html_zh": "<p class=\"lead\">AI行业今天的主旋律是：表象之下的真实——从代币定价的迷雾，到社交产品的下一个前沿，再到顶尖圈子远比外界想象中更加开放的真相。</p>\n\n<h2>🍕 每百万代币的价格，根本说明不了什么</h2>\n\n<p>AI定价领域流传着一个危险的神话：代币是标准化单位，像克或千瓦时一样可以横向比较。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>用一个绝妙的比喻拆穿了这个幻觉：</p>\n\n<blockquote>\n想象两块一模一样的披萨。一块切成8片，每片$2；另一块切成16片，每片$1.25。第二家宣传切片更便宜，但整块披萨要$20而不是$16。你的胃并不在乎你吃了多少片。\n<br>— <a href=\"https://x.com/thsottiaux/status/2088866513008873560\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>具体数字令人警醒：在一项涵盖英文、技术文本、多语言和数字内容的测试中，GPT-5.6 Sol的分词器仅用了766个代币，而Claude Opus 5估计需要1,170个——差距高达34.5%。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>的结论直接而有力：<strong>真正重要的是每次成功结果的成本，而不是每个代币的价格。</strong>他同时对OpenAI内部的状态释放出一个信号——</p>\n\n<blockquote>\nOpenAI正在发生令人难以置信的事情。能量很高。\n<br>— <a href=\"https://x.com/thsottiaux/status/2088725514542575903\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<hr>\n\n<h2>📱 AI的下一个大爆款，一定是社交产品</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=dlI-5W7d7uU\">Why the Next Hit AI Product Will Be Social — AI & I by Every</a></p>\n\n<p>Benchmark合伙人Sarah在Every播客中提出了一个引人深思的历史框架：每一次技术浪潮，产品的重心都会从\"深度技术\"向\"产品体验\"漂移——从Google到Facebook，再到Instagram和Pinterest。她认为AI目前仍处于\"Google时代\"。</p>\n\n<blockquote>\nChatGPT在某种程度上和Google并无二致——就是一个文本框。而Custom GPTs……说实话，这显然是一个技术能力无与伦比的团队做出来的，但他们不懂社交。\n</blockquote>\n\n<blockquote>\n总有人会创造出一种UGC式社区，让那些真正精通AI的人，帮助我们其余的人更轻松地利用这项技术。\n</blockquote>\n\n<p>这个视角与<a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a>的梦想不谋而合：</p>\n\n<blockquote>\n我想整天坐在公园里和朋友们录内容……然后让一群Agent把这些内容转化为行动和可运行的软件。\n<br>— <a href=\"https://x.com/thenanyu/status/2088810666958196988\" data-handle=\"thenanyu\">@thenanyu</a>\n</blockquote>\n\n<hr>\n\n<h2>🔮 AGI不必永远住在数据中心</h2>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a>对\"AI天然集中权力\"的担忧提出了反驳，论点简洁有力：</p>\n\n<blockquote>\n\"AI在结构上集中权力\"这个论点，忽视了125年来计算性价比的超指数增长。扩展定律不是物理定律，它们只是在特定架构、目标和数据集下观察到的经验关系。如果大脑可以作为参照，真正的AGI很可能会非常高效。事实上，当前的扩展定律或许是个Bug，而非Feature——它恰恰说明了我们目前发现的ML算法有多低效。\n<br>— <a href=\"https://x.com/amasad/status/2088867492907327573\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2>🤝 精英圈子没有你想象的那么神秘</h2>\n\n<p>最后，来自<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>的一剂\"祛魅良药\"——这或许是今天最令人宽慰的观察：</p>\n\n<blockquote>\n作为一个外来者，我可能以为顶尖的人都在某个秘密的光明会群里。那种群存在，但更多是昙花一现的例外，而非常态。你从新闻头条看到的，基本上也是他们看到的。我想这也说明，大多数努力仍然花在做事本身，而不是在经营叙事或八卦。对我来说，在职业生涯走到这一步，这是真正令人宽慰的事。\n<br>— <a href=\"https://x.com/swyx/status/2088755688361378082\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>在一个充斥着\"内幕消息\"和\"圈内人士\"神话的行业，这种平凡的真相反而显得格外珍贵。最聪明的人，依然在埋头做事。</p>"
+}
