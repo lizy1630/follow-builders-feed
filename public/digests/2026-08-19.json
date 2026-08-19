@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T07:05:10.221Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI hits the brakes on frontier training to let safety catch up — a rare, consequential act of self-restraint — while Anthropic floods the zone with product releases that push agentic AI deeper into the enterprise workday.</p>\n\n<h2>🛑 Sam Altman's Safety Pause Is the Real Story Today</h2>\n\n<p>The biggest news of the day came in a measured, almost clinical post from <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>. OpenAI has paused some frontier reinforcement learning training, citing capabilities that are moving faster than the company's alignment and monitoring infrastructure can safely track.</p>\n\n<blockquote>\n\"We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\" — <a href=\"https://x.com/sama/status/2089787807611195475\">@sama</a>\n</blockquote>\n\n<p>Altman was quick to add that near-term releases remain on track — <a href=\"https://x.com/sama/status/2089805495783813196\">\"We still expect to ship great new models soon; this impacts further-out releases.\"</a> — but the gesture carries weight regardless. This is the lab most associated with racing dynamics voluntarily tapping the brakes and saying the quiet part out loud: we're not sure our safety apparatus is keeping pace. Whether it holds, and whether competitors follow, is the more interesting question.</p>\n\n<hr>\n\n<h2>🛡️ Containing the Genie: Codex Bugs and the Engineering of Agent Safety</h2>\n\n<p>Conveniently timed alongside that announcement, Anthropic published a <a href=\"https://www.anthropic.com/engineering/how-we-contain-claude\">detailed engineering post</a> on how it thinks about \"blast radius\" — its term for how much damage an autonomous agent could theoretically do before anyone stops it. The piece is unusually candid.</p>\n\n<blockquote>\n\"Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it.\"\n</blockquote>\n\n<p>The blog notes that human-in-the-loop approval prompts — long assumed to be a safety backstop — are quietly failing in practice. Anthropic's telemetry showed users approved roughly 93% of permission prompts, and attention degrades with volume. Their answer: containment over supervision. Sandboxes, VMs, and egress controls that limit what an agent <em>can</em> reach, rather than asking a fatigued human to catch what it <em>shouldn't</em>.</p>\n\n<p>Meanwhile, on the OpenAI side, <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> dropped a <a href=\"https://x.com/thsottiaux/status/2089891927659585918\">detailed incident report</a> on Codex's recent file-deletion bugs — cases where GPT-5.6 cleaned up the wrong directory by misreusing system environment variables like <code>$HOME</code>. The response involved new execution checks, tighter permission defaults, and targeted RL graders. Sottiaux also got a new reset button for his troubles, which <a href=\"https://x.com/thsottiaux/status/2089941380336644295\">delighted the internet</a>.</p>\n\n<hr>\n\n<h2>📦 Anthropic's Product Blitz: Claude Gets Hands</h2>\n\n<p>While the safety conversation raged, Anthropic quietly had one of its more significant product days in recent memory. <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a> can now <a href=\"https://x.com/claudeai/status/2089806039088517356\">send emails in Gmail and manage files in Google Drive</a> — not just draft them, but actually send. Claude Cowork, the collaborative multi-agent workspace, <a href=\"https://x.com/claudeai/status/2089756371570900999\">launched on mobile and web for all paid plans</a>. And a new <a href=\"https://claude.com/blog/artifacts-in-claude-code\">Artifacts feature in Claude Code</a> turns coding sessions into live, shareable visual pages — PR walkthroughs, incident timelines, dashboards — that update themselves as work progresses.</p>\n\n<p>The Artifacts pitch is smart: instead of asking an engineer to \"walk us through what the agent found,\" everyone looks at the same living document. The example from internal testing captures the value proposition well: an engineer kicks off an incident investigation before standup, Claude publishes a timeline with suspect commits and error-rate charts, and by the time the meeting starts, the artifact has already republished twice with new findings.</p>\n\n<p>Google wasn't sitting still either. <a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">Google Labs</a> announced its Gmail AI agent CC is <a href=\"https://x.com/GoogleLabs/status/2089812430885208361\">expanding to Australia, New Zealand, and more US/Canada users</a>, and now manages your calendar automatically. The inbox wars are officially on.</p>\n\n<hr>\n\n<h2>🏗️ The Applied AI Layer Is Bigger Than It Looks</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> published a characteristically thoughtful <a href=\"https://x.com/levie/status/2089921630650925170\">thread</a> on why the gap between a great model and a working enterprise deployment is still enormous — and why that gap is itself a massive business opportunity. His list of friction points is worth bookmarking: domain-specific change management, vertical pricing models, evals tailored to specific workflows, and the basic challenge that \"the right product experience\" varies wildly depending on whether you're automating a law firm or a bank.</p>\n\n<blockquote>\n\"Evals! AI is basically not useful if it can't be evaluated. Domain-specific evals that let you dramatically improve the performance of your harness for specific workflows just has a crazy long tail given how many tasks there are in the economy.\" — <a href=\"https://x.com/levie/status/2089921630650925170\">@levie</a>\n</blockquote>\n\n<p>On a related note, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> shared a sobering enterprise data point: AI hasn't replaced existing work so much as piled on top of it. <a href=\"https://x.com/petergyang/status/2089877083510235328\">\"Teams now spent more time chatting with AI and delegating to agents but didn't spend any less time on existing work.\"</a> The flipside is genuinely surprising: <a href=\"https://x.com/petergyang/status/2089877068188471545\">PMs attaching pull requests rose from 3% to 10% in two years; designers from 1% to 8%.</a> The coder-in-everyone is real.</p>\n\n<hr>\n\n<h2>🎙️ Worth Your Time: Rich Sutton on Why Current AI Can't Really Learn</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=xH7U7w9Qzlo\">Rich Sutton and Khurram Javed — Why AI Models Stop Learning, and How to Start It Again (Training Data podcast)</a></p>\n\n<p>Reinforcement learning pioneer Rich Sutton — co-founder of Oak Lab and author of <em>The Bitter Lesson</em> — sat down for a wide-ranging conversation on what today's AI gets fundamentally wrong. His core provocation: the industry has invented a special term, \"continual learning,\" for something that should just be called learning.</p>\n\n<blockquote>\n\"Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. We always act and we learn. That's just the normal way of thinking. I'm not weird. The field is weird.\" — Rich Sutton\n</blockquote>\n\n<p>The episode is also unexpectedly moving: Sutton quietly mentions he was battling cancer in 2003 when he joined the University of Alberta to build out RL research during an AI winter, wasn't sure he'd survive, and kept working anyway — partly out of habit, partly out of vanity, he jokes. That he's now founding a new company to fix the very limitations he identified decades ago is either a vindication story or a warning that the field still hasn't listened. Probably both.</p>",
+  "html_zh": "<p class=\"lead\">OpenAI今日宣布暂停部分前沿强化学习训练，理由是模型能力的提升速度已超过安全与对齐标准的跟进速度——这是AI行业迄今为止最具分量的安全优先宣言之一。与此同时，Claude、Codex和各类开发工具正以令人目眩的速度向前奔跑。</p>\n\n<h2>🛑 OpenAI按下暂停键：安全终于跑到了能力前面</h2>\n\n<p>今天最重磅的消息来自 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>。他在推特上宣布：</p>\n\n<blockquote>\n\"我们已暂停部分前沿强化学习训练，以确保能够为眼前这一新的能力层级制定适当的对齐、安全和监控标准。模型进步如今极为迅速，我们一直说，如果感到模型能力超越了安全与对齐的步伐，我们将采取行动。……我们对对齐工作保持乐观，并承诺继续让前沿能力得到广泛普及。\"\n<br>— <a href=\"https://x.com/sama/status/2089787807611195475\">@sama</a>\n</blockquote>\n\n<p>他随即补充，这不影响近期新模型的发布，只是针对更远期版本。这一举动意义深远：在整个行业都在争抢发布速度的背景下，OpenAI选择主动刹车，并明确表示\"我们相信整个领域需要就共同的安全标准进行协调，但与此同时将单边行动\"。这或许是AI发展史上最诚实的一次公开自我约束。</p>\n\n<hr>\n\n<h2>🔒 Codex的删库惊魂与Anthropic的安全工程学</h2>\n\n<p>安全议题不只在OpenAI内部发酵。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 详细披露了Codex近期出现的一个严重bug——GPT-5.6在清理临时文件夹时，在罕见情况下可能误删用户的主目录文件。</p>\n\n<blockquote>\n\"其中一个模式涉及将系统环境变量（如$HOME）复用于临时工作。一条格式错误的清理命令可能指向真实的主目录，而非临时文件夹。\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2089891927659585918\">@thsottiaux</a>\n</blockquote>\n\n<p>OpenAI已从指令层、执行检查层和训练数据过滤层三个维度加固防护，并将\"完全访问\"模式的开启门槛提高。他们同时上线了一个颇具调侃意味的物理\"重置按钮\"——<a href=\"https://x.com/thsottiaux/status/2089941380336644295\">坐拥6843个点赞</a>，是今天人气最旺的推文之一。</p>\n\n<p>与此同时，Anthropic工程团队发布了一篇深度长文 <a href=\"https://www.anthropic.com/engineering/how-we-contain-claude\">《我们如何在产品中约束Claude》</a>，坦承了一个让人警醒的发现：</p>\n\n<blockquote>\n\"我们的遥测数据显示，用户批准了约93%的权限请求。用户看到的审批请求越多，每次审批时的注意力就越少，随着时间推移变得越来越不谨慎。\"\n</blockquote>\n\n<p>文章揭示了他们从\"人类监督行为\"转向\"通过沙盒与虚拟机约束行为空间\"的核心设计哲学——审批疲劳是真实存在的系统性漏洞，而非用户的道德问题。</p>\n\n<hr>\n\n<h2>⚡ Claude加速：Gmail、Google Drive与协作工件全面开放</h2>\n\n<p>Anthropic今日密集推送多项产品更新。<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 宣布Claude现已支持直接在Gmail中发送邮件、在Google Drive中管理文件，并向所有付费用户开放了Claude Cowork的移动端和网页版。</p>\n\n<p>更值得关注的是Claude Code新增的 <a href=\"https://claude.com/blog/artifacts-in-claude-code\">Artifacts功能</a>：当你在调试线上故障时，Claude可以将整个调查过程——日志时间线、疑似提交记录、错误率图表——自动整理为一个实时刷新的可分享页面，链接始终不变，团队成员打开即可看到最新进展。</p>\n\n<blockquote>\n\"有了Artifacts，团队成员和利益相关者不再需要'带我们看看Agent发现了什么'，因为所有人看到的是同一个视图，拥有同样的上下文。\"\n</blockquote>\n\n<p>Google方面也不甘示弱，<a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">Google Labs</a> 宣布Gmail实验性AI助手CC正式向澳大利亚、新西兰开放候补名单，并向美国和加拿大的等待用户发送邀请，同时新增了日历管理功能。</p>\n\n<hr>\n\n<h2>💡 开发者工具：从轻量CLI到百万悬赏的沙盒安全</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 今日连发数条推文，全面铺开Vercel的AI基础设施愿景。他力推一款极简编程CLI工具 <a href=\"https://t.co/OL0LzGtvAw\">v0.dev</a>：</p>\n\n<blockquote>\n\"它比主流的编程CLI小10到20倍，启动瞬间完成。用起来更像在用zsh，而非在终端里跑一个IDE。它可以嵌入任何地方，甚至通过WebAssembly运行在浏览器中。\"\n<br>— <a href=\"https://x.com/rauchg/status/2089831055373316274\">@rauchg</a>\n</blockquote>\n\n<p>同时，Vercel宣布拿出 <strong>100万美元</strong> 资助对Vercel Sandbox进行公开安全验证，欢迎任何人尝试用任意模型找到沙盒逃逸漏洞。<a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 也透露正在持续优化Claude Desktop的启动速度。<a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 则晒出了512GB内存的Apple Studio，配图简洁有力：🦞</p>\n\n<hr>\n\n<h2>📊 AI落地的真相：工作量没减少，只是预期更高了</h2>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 分享了一组来自企业实际数据的观察，既有振奋也有警醒：</p>\n\n<blockquote>\n\"团队现在花更多时间与AI聊天、将任务委派给Agent，但在原有工作上花的时间并没有减少。我认为这是因为对每个部门能完成的工作，预期已经大幅提高。\"\n</blockquote>\n\n<p>同时，非技术人员提交代码的比例正在显著上升：PM提交PR的比例从3%升至10%，设计师从1%升至8%，创始人的比例（23%）仅次于工程师。AI正在模糊职能边界，但并未减轻整体工作负担——它只是让所有人的\"可能性边界\"都向外扩张了。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 对此有精准总结：AI落地的真实挑战在于\"应用层\"——正确的产品形态、行业特定的数据处理、变革管理、评估体系……这些都是模型能力之外、却决定成败的关键变量。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=xH7U7w9Qzlo\">Rich Sutton & Khurram Javed: 为什么AI模型停止学习，以及如何重新开始 — Training Data Podcast</a></p>\n\n<p>强化学习之父 Rich Sutton 在这期播客中提醒我们，\"持续学习\"本就是学习的本来面目，\"我不奇怪，是这个领域变得奇怪了\"。在OpenAI按下暂停键的今天，这句话读来格外意味深长。</p>"
+}
