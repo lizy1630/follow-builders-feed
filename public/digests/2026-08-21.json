@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T07:07:46.815Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: From Restoring Sight to Reimagining the Brain, with Max Hodak",
+      "url": "https://www.youtube.com/watch?v=7HXqMepjvy8"
+    }
+  },
+  "html_en": "<p class=\"lead\">Enterprise AI infrastructure is having a serious week: from Anthropic's candid postmortem on Claude Code degradation to a flurry of announcements around data sovereignty, agentic architecture, and the quiet industrialization of the model stack.</p>\n\n<h2>Anthropic Comes Clean on Claude Code's Bad Month</h2>\n\n<p>In a notably transparent piece of writing, Anthropic published a <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">detailed postmortem</a> on why Claude Code felt worse for many users over the past several weeks. The short answer: three separate, overlapping changes compounded into something that looked like broad model degradation — but wasn't. It was engineering.</p>\n\n<p>The three culprits: a reasoning effort downgrade (from <em>high</em> to <em>medium</em> default) intended to reduce latency; a caching optimization bug that caused Claude to forget its own prior reasoning mid-session; and a verbosity-reduction prompt change that quietly hurt coding quality. All three are now reverted as of April 20.</p>\n\n<blockquote>\"Because each change affected a different slice of traffic on a different schedule, the aggregate effect looked like broad, inconsistent degradation... This isn't the experience users should expect from Claude Code. As of April 23, we're resetting usage limits for all subscribers.\"</blockquote>\n\n<p>The mea culpa is worth reading in full. It's a rare example of a frontier lab explaining not just <em>what</em> went wrong but <em>why their evals failed to catch it</em> — a harder and more important question. All users are now defaulted to <em>xhigh</em> effort for Opus 4.7, and <em>high</em> for all other models.</p>\n\n<hr>\n\n<h2>The Enterprise Data Sovereignty Race Heats Up</h2>\n\n<p>Three separate announcements this week all pointed in the same direction: enterprises want AI agents that operate within their own perimeters, not Anthropic's or OpenAI's. The message from builders is loud and consistent.</p>\n\n<p>Anthropic launched two significant upgrades to its Managed Agents platform. <a href=\"https://claude.com/blog/claude-managed-agents-updates\">Self-hosted sandboxes</a> let agent tool execution run on customer infrastructure — via Cloudflare, Daytona, Modal, Vercel, or your own setup — while Anthropic's harness handles orchestration. MCP tunnels, meanwhile, let agents reach private databases and internal APIs without exposing them to the public internet.</p>\n\n<p>The architectural philosophy underlying this is well-articulated in Anthropic's <a href=\"https://www.anthropic.com/engineering/managed-agents\">engineering deep-dive on Managed Agents</a>, which draws an explicit analogy to how operating systems abstracted hardware:</p>\n\n<blockquote>\"We virtualized the components of an agent: a session (the append-only log of everything that happened), a harness (the loop that calls Claude and routes Claude's tool calls to the relevant infrastructure), and a sandbox (an execution environment where Claude can run code and edit files).\"</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/bcherny/status/2090537902912815536\" data-handle=\"bcherny\">@bcherny</a> at Anthropic confirmed that \"Mythos-class models\" with enterprise data controls are coming this fall — customers own their data, Anthropic retains none. And over at Fable, <a href=\"https://x.com/trq212/status/2090569474139439335\" data-handle=\"trq212\">@trq212</a> announced new enterprise safeguards built alongside ~100 companies: <blockquote>\"We've been developing it alongside ~100 companies for a bit and hoping to roll it out more broadly in the fall.\"</blockquote> The pattern is unmistakable: the next competitive frontier isn't model quality alone — it's who controls the data, the sandbox, and the compliance boundary.</p>\n\n<hr>\n\n<h2>OpenAI Ships Fast, Clarifies Subscription Rules</h2>\n\n<p>OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> had a busy few days. Transparent image generation is now live in ChatGPT and through the API via GPT-Image-2. ChatGPT Sites launched, enabling collaborative real-time web building. And for those confused about Codex usage limits, he offered a pointed clarification: the issue is <em>sub2api</em> — tools that convert subscriptions into API traffic and redistribute it across users.</p>\n\n<blockquote>\"Converting a subscription into API traffic to then re-serve or share across many users is not something we support and this type of usage gets flagged by our fraud-prevention systems. You are completely fine if you use your subscription through Sign in With ChatGPT.\"</blockquote>\n\n<p>Simple enough — but worth noting that the line between \"sharing\" and \"building on top of\" is where a lot of interesting OSS tooling lives.</p>\n\n<hr>\n\n<h2>The Post-Training Playbook and the Vertical AI Bet</h2>\n\n<p><a href=\"https://x.com/levie/status/2090664811185205722\" data-handle=\"levie\">Box CEO Aaron Levie</a> flagged an important thread this week on what he calls \"purpose-designed models\" for enterprise verticals. The argument: once you have enough domain-specific volume and understand a workflow deeply enough, it starts making sense to co-optimize model behavior for cost <em>and</em> quality simultaneously.</p>\n\n<blockquote>\"In post-training, we incentivized efficient tool use and reasoning through reward shaping, preferring trajectories that would reduce tokens consumed at inference-time given equivalent performance. This allowed us to co-optimize for both cost and quality, gaining significant performance while keeping cost stable.\"</blockquote>\n\n<p>Levie's gloss: this is the compelling value proposition for applied AI companies — not just building on top of frontier models, but eventually shaping them for specific work. The NVIDIA acquisition of <a href=\"https://x.com/swyx/status/2090577677916807429\" data-handle=\"swyx\">Eiso Kant's model factory</a> — discussed in the latest <a href=\"https://t.co/EsgyFnhAIy\">Latent Space podcast</a> with <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> and <a href=\"https://x.com/vibhuuuus\" data-handle=\"vibhuuuus\">@vibhuuuus</a> — is a data point in the same direction. Watch/Listen: <a href=\"https://t.co/EsgyFnhAIy\">Latent Space — Why NVIDIA Paid $6B for a Model Factory</a>.</p>\n\n<p>Meanwhile, venture investor <a href=\"https://x.com/nikunj/status/2090585553947517298\" data-handle=\"nikunj\">@nikunj</a> articulated why ambition has become a financial necessity for VCs, not just a preference: fund sizes have ballooned to match the Anthropic/OpenAI outcome scale, meaning even a Series A needs to be underwritten to a trillion-dollar outcome. <blockquote>\"The error of omission is way, way worse than the error of admission. And then power law kind of takes care of itself.\"</blockquote></p>\n\n<hr>\n\n<h2>On the Frontier: Brains, Evals, and the Agent Infrastructure Stack</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=7HXqMepjvy8\">No Priors — From Restoring Sight to Reimagining the Brain, with Max Hodak</a>. The founder of Science (formerly of Neuralink) joined No Priors to discuss Prima, a retinal prosthesis that just received CE marketing approval in Europe — the first device to restore a form of visual image in the mind's eye of blind patients. Hodak's framing of BCIs is worth sitting with:</p>\n\n<blockquote>\"The brain very literally, very clearly, plainly is a computer. You can solve computational problems by arranging matter in a certain way and then taking your hands off and pressing go... The brain is connected to the environment through a small number of wires — the cranial and spinal nerves, these little cables that carry your interaction with the world.\"</blockquote>\n\n<p>On the more applied side, <a href=\"https://x.com/realmadhuguru/status/2090595384905113939\" data-handle=\"realmadhuguru\">@realmadhuguru</a> continued a useful thread on eval strategy for enterprises, outlining a \"laddered\" approach: hill-climb evals to push quality frontiers, regression evals to catch regressions, smoke tests for non-negotiables, and launch evals that mirror real traffic. The framing — evals on a cost/realism spectrum — is one of the cleaner mental models for teams currently drowning in ad-hoc testing.</p>\n\n<p>And <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> dropped a characteristically compact vision statement: <a href=\"https://x.com/rauchg/status/2090520415336845595\">\"We're building AWS for agents.\"</a> Vercel's sandwich position — infrastructure for both the AI development layer and now the agent execution layer — is becoming clearer by the week.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI行业主旋律清晰可辨：随着企业级需求日趋成熟，各大玩家正在竞相构建更安全、更可控的基础设施——同时，产品层面的小变化引发的信任危机，也让人警醒。</p>\n\n<h2>🏗️ 企业安全边界：数据主权成为新战场</h2>\n\n<p>本周最值得关注的产品动向，来自Anthropic对企业客户的一系列新承诺。Claude Managed Agents现已支持<strong>自托管沙箱</strong>与<strong>MCP隧道</strong>，让代理的工具执行可以在客户自己的基础设施内完成，代码、文件、数据均不离开企业边界。合作伙伴涵盖Cloudflare、Vercel、Daytona和Modal。Watch/Listen: <a href=\"https://claude.com/blog/claude-managed-agents-updates\">New in Claude Managed Agents</a></p>\n\n<p>与此同时，Anthropic还披露了Managed Agents的架构演进逻辑——将\"大脑\"（Claude及其调度器）与\"双手\"（沙箱和工具）彻底解耦。<a href=\"https://www.anthropic.com/engineering/managed-agents\">工程博客</a>对此做了精彩的类比：</p>\n\n<blockquote>\n\"就像操作系统将硬件虚拟化为进程、文件等抽象层——那些抽象比硬件本身活得更久。read() 命令不在乎你访问的是1970年代的磁盘包还是现代SSD。\"\n</blockquote>\n\n<p>在企业安全方向，Fable也在同步发力。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 宣布推出企业级安全措施：</p>\n\n<blockquote>\n\"我们正在推出新的Fable企业级保障措施，部署在您自己的基础设施上，让您掌控数据存储位置和访问权限。我们已与约100家公司共同开发了一段时间，计划秋季更广泛推出。\" — <a href=\"https://x.com/trq212/status/2090569474139439335\">@trq212</a>\n</blockquote>\n\n<p>Anthropic工程师 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 也证实了针对\"Mythos级\"模型的企业隐私方案即将落地：</p>\n\n<blockquote>\n\"客户可以拥有并控制自己的数据，Anthropic不保留任何数据。将于今年秋季推出。\" — <a href=\"https://x.com/bcherny/status/2090537902912815536\">@bcherny</a>\n</blockquote>\n\n<hr>\n\n<h2>🔍 Claude Code质量危机的事后复盘</h2>\n\n<p>Anthropic发布了一份坦诚的<a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">事后分析报告</a>，解释了过去一段时间Claude Code表现下滑的原因。结论有些讽刺：三个独立变更叠加，造成了看似系统性的能力退化。</p>\n\n<p>三个问题分别是：3月4日将默认推理强度从高降至中（为减少延迟），3月26日一个缓存优化引入了Bug导致Claude在每轮对话中都丢失历史推理，以及4月16日添加的减少冗长的系统提示损害了代码质量。报告承认：</p>\n\n<blockquote>\n\"由于每个变更影响的流量切片不同、时间节点各异，整体效果看起来像是广泛、不一致的性能退化……这不是用户应该对Claude Code抱有的期望。截至4月23日，我们已为所有订阅者重置了使用限额。\"\n</blockquote>\n\n<p>这份报告的价值，在于它为整个行业提供了一个产品质量管理的反面教材——当多个小变更的影响叠加时，即便是内部评估也可能失效。</p>\n\n<hr>\n\n<h2>✨ OpenAI的产品攻势：透明图像、协作站点与反薅羊毛</h2>\n\n<p>OpenAI产品负责人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 本周连发数条更新，透露了几项新功能：GPT-Image-2现已支持<a href=\"https://x.com/thsottiaux/status/2090631723302469995\">透明背景图像生成</a>；用户可以<a href=\"https://x.com/thsottiaux/status/2090518287532916854\">创建并分享\"ChatGPT站点\"</a>，与他人实时协作构建小游戏和网页。</p>\n\n<p>同时，OpenAI对\"sub2api\"灰色用法亮出了明确态度：</p>\n\n<blockquote>\n\"将订阅转换为API流量再分发或分享给多用户，是我们不支持的行为，会被我们的反欺诈系统标记。如果您通过'Sign in With ChatGPT'使用订阅，完全没有问题。\" — <a href=\"https://x.com/thsottiaux/status/2090675027670978569\">@thsottiaux</a>\n</blockquote>\n\n<hr>\n\n<h2>🧠 评估体系与\"管理型智能体\"：构建者的内功修炼</h2>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 在其\"如何构建优秀评估体系\"系列第四篇中，提出了企业AI系统的分层评估策略：</p>\n\n<blockquote>\n\"企业在构建AI系统时挣扎的根源，是缺乏评估策略。你需要一套阶梯式评估策略，针对你的独特用例，在成本/真实性频谱上配置多种评估：爬坡评估（Hill-climb evals）、回归评估、冒烟测试、上线评估。\"\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 则分享了一个有趣的直觉——用\"负激励\"提升AI输出质量：</p>\n\n<blockquote>\n\"我直觉认为，很多AI输出可以通过构建一个循环来改善，让管理型智能体用这样的提示词来'激将'工作智能体：'你确定这是你能做到的最好吗？''我觉得你可以做得更好，再试一次。'\" — <a href=\"https://x.com/petergyang/status/2090564541499498919\">@petergyang</a>\n</blockquote>\n\n<p>而 <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> 则从企业视角阐释了垂直化后训练的价值主张，引用了一篇关于推理效率优化的文章：</p>\n\n<blockquote>\n\"在后训练中，我们通过奖励塑造激励高效工具使用和推理，偏好在相同性能下减少推理时token消耗的轨迹。这让我们能够同时优化成本和质量。\"\n</blockquote>\n\n<hr>\n\n<h2>🚀 边角料：从视觉修复到风险投资的雄心逻辑</h2>\n\n<p>本期播客推荐：Watch/Listen: <a href=\"https://www.youtube.com/watch?v=7HXqMepjvy8\">No Priors — From Restoring Sight to Reimagining the Brain, with Max Hodak</a>。前Neuralink联合创始人、Science公司CEO Max Hodak分享了其视网膜假体产品Prima刚刚获得欧洲监管批准的消息。他对\"登月计划\"这个比喻有自己的看法：</p>\n\n<blockquote>\n\"人们忘了登月计划是成功的——我们真的在月球上留下了脚印。在硅谷，'登月'被用来描述那些极不可能成功的事情……但历史上，登月计划的成功率比人们认为的要高。\"\n</blockquote>\n\n<p>在投资逻辑层面，<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 用几组数字解释了为何\"野心\"成为当下融资的核心货币：Anthropic成为史上最快达到万亿估值的公司，Cursor四年从零到600亿美元……他的结论是：</p>\n\n<blockquote>\n\"遗漏错误（error of omission）远比误投错误（error of admission）更可怕。当一件事有一点热度，价格几乎无关紧要——因为你没法回头跟LP解释你为什么没进入最大的一笔交易。\"\n</blockquote>\n\n<p>这或许是今天最清醒也最令人不安的观察。</p>"
+}
