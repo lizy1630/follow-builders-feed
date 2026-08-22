@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T06:27:29.601Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">From simulation theory redefining AI scaling to OpenAI's Codex rate-limit drama and Anthropic's security push, today's AI builder conversation reveals an industry moving fast on every front — and finally starting to grapple with what \"superhuman\" really means.</p>\n\n<h2>🧬 The Simulation Hypothesis Gets Serious</h2>\n\n<p>The most intellectually provocative thread of the day came from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a>, who used a new interview to announce a genuine change of mind about AI simulation research — and why it matters for the future of recursive self-improvement.</p>\n\n<blockquote>\n\"I think it's easy to say 'Simulation is a new scaling law' and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. I am 2 years late to this but finally understand why Karpathy and Fei-Fei backed Smallville... if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last barrier is simulating humans and human feedback.\"\n— <a href=\"https://x.com/swyx/status/2090948945753076141\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>The reference is to <a href=\"https://x.com/joon_s_pk\" data-handle=\"joon_s_pk\">Joon Sung Park</a>'s Smallville project — the Stanford generative agents simulation that seemed academic at the time but is apparently finding product-market fit with Fortune 100 companies through a startup called Simile. The logic swyx is sketching: as AI automates more of ML research itself, the final bottleneck becomes generating synthetic human feedback at scale. Simulation isn't a research curiosity; it's infrastructure for the next phase of scaling.</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box offered a complementary macro view:</p>\n\n<blockquote>\n\"The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they're going deeper in almost every domain. As intelligence becomes too cheap to meter, then the big opportunity is driving diffusion of AI into the economy.\"\n— <a href=\"https://x.com/levie/status/2091038566260539574\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>🚨 The Codex Rate-Limit Saga: A Friday Cliffhanger With a Happy Ending</h2>\n\n<p>Few storylines captured builder attention today like the real-time drama around OpenAI Codex's rate limits. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> at OpenAI kept users informed with unusual transparency through a rolling thread of updates.</p>\n\n<blockquote>\n\"We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those users as hitting the cache consistently is an important component of being efficient. We are investigating and will have an update tomorrow.\"\n— <a href=\"https://x.com/thsottiaux/status/2091033630147854385\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>Then, in a twist that had 6,000 people hitting the like button, came the relief:</p>\n\n<blockquote>\n\"The banked reset has landed, I repeat, the banked reset has landed. Have an amazing weekend.\"\n— <a href=\"https://x.com/thsottiaux/status/2090964822422949999\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>It's a small thing — rate limits replenished, weekend saved — but the engagement numbers (6,000+ likes on a rate-limit announcement) speak to just how central Codex has become to working developers' daily routines. Also worth noting: <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> announced that <a href=\"https://t.co/G0UyDr4xgg\">v0.dev</a> now supports both Grok and Codex subscriptions, expanding the menu of AI engines available inside Vercel's builder tools.</p>\n\n<hr>\n\n<h2>🛡️ Anthropic Goes on Offense in Cybersecurity</h2>\n\n<p>Anthropic made a meaningful push into enterprise security today, announcing that its Mythos vulnerability-scanning model is now available through Claude's interface — pointed at GitHub repos, reasoning across files, and returning findings with CWE categories, severity ratings, and suggested patches.</p>\n\n<blockquote>\n\"Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity ratings, and a suggested fix. Suggested patches open in Claude Code on the web, using the models your team already uses.\"\n— <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>Anthropic is also standing up a $35M Defender Advantage Fund in credits for open-source security projects and expanding its Cyber Verification Program. The framing — \"defenders greater access\" — is deliberate: Anthropic is positioning itself as the AI lab that arms the blue team.</p>\n\n<hr>\n\n<h2>🛠️ Builder Tricks: ELI5, Personal Bots, and the Single-Thread Problem</h2>\n\n<p>Some of the most viral content today was refreshingly practical. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> from Anthropic shared an internal trick that's apparently spread across the team — an ELI5 Claude plugin that explains any concept as a visual HTML artifact:</p>\n\n<blockquote>\n\"a skill people at Anthropic have been using a lot recently: ELI5 — /eli5 &lt;what you want explained&gt; — 'explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few words'\"\n— <a href=\"https://x.com/trq212/status/2090884854590382515\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>The plugin is installable via Claude's community marketplace and already racking up 7,500 likes. Suggested uses include <code>/eli5 why did we make this tradeoff</code> and <code>/eli5 what caused this incident</code> — elegant for async technical communication across mixed-expertise teams.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> offered a charming vignette of AI as household glue: using Claude Code to reverse-engineer an unauthenticated school lunch API so a Home bot could announce breakfast and lunch options each morning before the kids leave. Small, delightful, and very real.</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> reviewed the new AI assistant Instinct — praising its onboarding smoothness and MCP integrations, but flagging two problems: a single-thread UX constraint, and a more serious privacy issue:</p>\n\n<blockquote>\n\"Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your records. I can't recommend this to anyone until this is figured out.\"\n— <a href=\"https://x.com/petergyang/status/2090936583814025417\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>It's a useful reminder that as personal AI assistants get more capable at connecting to your digital life, the data-handling question isn't a footnote — it's the whole product.</p>\n\n<hr>\n\n<h2>📊 Don't Collapse Your Evals Into One Number</h2>\n\n<p>A practical thread worth saving: <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a>, a veteran of early Gemini development, is running a multi-part series on how to build great evals. Today's installment targeted what he calls \"the tyranny of the average.\"</p>\n\n<blockquote>\n\"Stop dumbing down the results from your beautiful, complex eval suite into one single score. This often happens because some senior wants a simplified number to make decisions... Imagine a model that goes from 85%→89% on simple summarization, 80%→85% on basic factual QA, 70%→63% on complex financial analysis. A single score obscures the fact that the model got worse on your frontier use case.\"\n— <a href=\"https://x.com/realmadhuguru/status/2090930137885774324\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<p>His prescription: keep a prioritized list of evals, resist the temptation of weighted scores (which create \"false mathematical precision around a judgment call\"), and make decisions by actually understanding failure modes in depth. This is good hygiene that most teams learn the hard way — better to read it here first.</p>\n\n<hr>\n\n<p><em>That's the digest for today. The weekend's big homework: install the ELI5 plugin, think seriously about what simulation-as-scaling-law means for your roadmap, and check whether your eval dashboard is hiding something important behind a single percentage point.</em></p>",
+  "html_zh": "<p class=\"lead\">AI基础设施的毛细血管正在悄然扩张——从代码安全扫描到人类行为模拟，本周的核心议题不是某个单一的突破，而是AI渗透进每一个工作层面的速度。</p>\n\n<h2>🔄 Codex 限速风波：一场周五夜间的集体狂欢</h2>\n\n<p>本周AI圈最具戏剧性的时刻，来自OpenAI的一位工程师。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 在周五晚间连发数条推文，宣告Codex用户期待已久的\"配额重置\"正式落地，引发了近乎仪式感的集体欢呼。</p>\n\n<blockquote>\n\"配额重置已经到位，我重复一遍，配额重置已经到位。祝大家有个美好的周末。\" —— <a href=\"https://x.com/thsottiaux/status/2090964822422949999\">@thsottiaux</a>\n</blockquote>\n\n<p>在此之前，他也坦诚承认了本周的缓存命中率问题：</p>\n\n<blockquote>\n\"我们确实看到，本周部分用户的缓存命中率比此前几周的稳定状态要差。这可能解释了为何这些用户的配额消耗速度更快——稳定命中缓存是提升效率的重要因素。我们正在排查，明天会有进一步更新。\" —— <a href=\"https://x.com/thsottiaux/status/2091033630147854385\">@thsottiaux</a>\n</blockquote>\n\n<p>这一幕折射出一个更深层的现实：开发者对AI编程工具的依赖已深到足以让\"配额重置\"成为周末好消息的头条。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 也明确表态，在评测了新晋AI助手 Instinct 之后，\"实际工作我仍然坚守 ChatGPT Work 和 Codex。\"</p>\n\n<hr>\n\n<h2>🧠 模拟人类：被低估的下一个规模定律</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>（Latent Space播客主理人）发出了本周最值得深思的一条推文，谈及他对\"人类行为模拟\"这一方向的认知转变：</p>\n\n<blockquote>\n\"说'模拟即新的规模定律'很容易被当成营销噱头，但在这次采访进行到一半时，你能听到我从半开玩笑变得无比认真。我比这个想法晚了两年，但我终于明白了为什么 <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">@karpathy</a> 和 <a href=\"https://x.com/drfeifei\" data-handle=\"drfeifei\">@drfeifei</a> 会支持 Smallville 团队——当时它没有任何商业应用，但如果你认真对待递归自我改进（RSI），从模型自动化ML研究的各个环节来看，最后的壁垒就是模拟人类和人类反馈。Simile 显然是做这件事的最佳团队，他们甚至在如此早期的阶段就已经在财富100强中找到了PMF。我从未如此高兴地承认自己曾经大错特错。\" —— <a href=\"https://x.com/swyx/status/2090948945753076141\">@swyx</a>\n</blockquote>\n\n<p>这段话的分量不容小觑。当AI在ML研究本身中扮演越来越大的角色，\"如何模拟人类判断以提供反馈\"这个问题就从学术课题变成了商业命题。</p>\n\n<hr>\n\n<h2>🔐 Claude 进军安全领域：给防御者的\"不对称优势\"</h2>\n\n<p>Anthropic 本周悄然推出了一套面向网络安全的工具链，将旗下 Mythos 漏洞扫描模型整合进 Claude 的工作流。<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 官方账号描述了其工作方式：</p>\n\n<blockquote>\n\"将 Claude Security 指向一个 GitHub 仓库，Mythos 便会扫描漏洞，追踪数据在文件间的流转，并推理各组件如何交互。每条发现都会附带 CWE 分类、置信度和严重性评级，以及建议的修复方案。\" —— <a href=\"https://x.com/claudeai/status/2090852316328902930\">@claudeai</a>\n</blockquote>\n\n<p>更值得关注的是其商业模式的设计：扫描在模型端运行，只返回结果，按标准 token 用量计费。Anthropic 同时宣布设立 3500 万美元的 Defender Advantage Fund，为开源安全项目提供算力信用额度。这是一个精心设计的楔子——以安全为切入点，深入企业的核心代码库。</p>\n\n<hr>\n\n<h2>🛠️ 工具与技巧：本周值得收藏的实用发现</h2>\n\n<p>实用主义者的天堂。几条高互动推文都指向了\"AI让日常工作更顺滑\"这个永恒主题。</p>\n\n<p>Anthropic 内部工程师 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 分享了一个在公司内部广泛流传的技巧，已获超过 7500 点赞：</p>\n\n<blockquote>\n\"Anthropic 内部最近大家都在用的一个技能：ELI5。<br>\n<code>/eli5 &lt;你想要解释的内容&gt;</code><br>\n'用一个 HTML artifact 解释给对这个话题一无所知的人，配大图、少文字。'\" —— <a href=\"https://x.com/trq212/status/2090884854590382515\">@trq212</a>\n</blockquote>\n\n<p>该插件已可通过 <code>claude plugin install eli5@claude-community</code> 安装体验。适用场景包括解释模块工作原理、架构决策背后的取舍，以及事故复盘。</p>\n\n<p>另一边，<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 展示了一个更接地气的用例——让 Claude Code 通过抓取幼儿园网站的网络请求，自动告知家长每天的餐食菜单：</p>\n\n<blockquote>\n\"现在每天早上，我们的家庭机器人都会告诉我们早餐和午餐吃什么，这样我们就能提前决定要不要自带食物！\" —— <a href=\"https://x.com/nikunj/status/2090884422178627624\">@nikunj</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a>（Vercel CEO）宣布 <a href=\"https://x.com/rauchg/status/2090953806624489501\">v0.dev 现已支持 Grok 和 Codex 订阅</a>，并分享了用 <code>is-agentic</code> 在循环中对自身产品反复评测直至满分的过程——这本身就是一个关于AI驱动质量迭代的小型案例研究。</p>\n\n<hr>\n\n<h2>📊 评测的陷阱：别让平均分掩盖真相</h2>\n\n<p>来自 Google Gemini 早期团队成员 <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 的\"如何构建优质评测\"系列第五篇，击中了许多AI团队的痛点：</p>\n\n<blockquote>\n\"停止把你精心设计的复杂评测套件的结果压缩成一个单一分数。这通常是因为某位高管想要一个简化的数字来做决策。这在 Gemini 早期就发生在我们身上。<br><br>\n想象一个模型：简单摘要从85%升到89%，基础问答从80%升到85%，但复杂金融分析从70%<strong>跌到</strong>63%。一个综合分数会掩盖模型在你最前沿的用例上变差了这一事实。\" —— <a href=\"https://x.com/realmadhuguru/status/2090930137885774324\">@realmadhuguru</a>\n</blockquote>\n\n<p>他的建议是：保持按优先级排列的评测清单，找能深入细节而非追求抽象简化的人，并对关键评测结果做深度理解。在AI能力日趋复杂的今天，\"平均分的暴政\"是一个值得每个产品团队警惕的陷阱。</p>\n\n<hr>\n\n<p><em>今日播客推荐：No Priors 与 Chess.com CEO Erik Allebest 的对话——一个从$56,000域名拍卖起家、如今坐拥2.5亿会员的故事，以及\"当AI早已超越人类棋力，人类为何还在下棋\"这个关于人机共存的深层命题。</em> Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">What Chess.com Teaches Us About Superhuman Capabilities</a></p>"
+}
