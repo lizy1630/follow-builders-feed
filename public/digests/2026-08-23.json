@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T06:27:32.823Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is wrestling with a deceptively simple question: now that the models are good enough, how do we actually make them <em>useful</em>? From Microsoft's vision of an agentic internet to the unglamorous work of rate-limit debugging, today's feed is a masterclass in the gap between capability and delivery.</p>\n\n<h2>🧠 The Capability Overhang: Models Are Ready. Products Aren't.</h2>\n\n<p>The most substantive thinking today comes from Microsoft CTO <a href=\"https://x.com/kevin_scott\" data-handle=\"kevin_scott\">Kevin Scott</a>, in a conversation with <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> on the <em>AI & I</em> podcast. Scott introduces a phrase worth remembering: the <strong>capability overhang</strong>.</p>\n\n<blockquote>\"The reasoning capabilities of the models has actually gotten a little bit ahead of what we're using the models to do in products. We actually have some work to do collectively across the whole industry to close the gap between what the models are actually capable of and what we're delivering to users.\"</blockquote>\n\n<p>This reframes the familiar scaling-laws conversation entirely. Last year's Build was about bigger models and bigger infrastructure. This year, Scott says, the story is the <strong>agentic web</strong> — because the ceiling isn't compute anymore, it's plumbing.</p>\n\n<blockquote>\"If agents are going to be useful, they have to take action on your behalf. They have to be able to use tools and make changes in systems and consult information sources that are diverse and rich. In order for that to really be great, you need an ecosystem that looks a lot like the internet.\"</blockquote>\n\n<p>The analogy he reaches for is elegant: MCP (Model Context Protocol) is to the agentic web what HTTP is to the internet. NL Web plays the role HTML once played. Simple, composable, open protocols — layering up until agents can actually <em>do</em> things.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Microsoft's Vision for an Internet Made for Agents — AI & I with Dan Shipper</a></p>\n\n<hr>\n\n<h2>📊 Evals: The Unsexy Bottleneck Nobody Talks About Enough</h2>\n\n<p>Kevin Scott's \"capability overhang\" thesis finds a sharp echo in the enterprise world. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> made the case today that evals — not models — are the real rate limiter on AI adoption:</p>\n\n<blockquote>\"AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress... The far bigger space over time are evals on all the major workflows that enterprises do, down to the specifics of an individual company. You can't automate what you can't assess the progress on. Enterprises will not be able to go just on vibes.\"</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> published Part 6 of a detailed series on building great evals, with practical advice on what he calls \"hill climbing\" — picking one dimension that matters and optimizing relentlessly. The example is refreshingly concrete:</p>\n\n<blockquote>\"Maybe tool calling failures are your most common problem. You dig in and notice you stuff 20 tools in context, when each task really only needs 3-5. Hill climbing here involves context engineering to give it the right tools at the right stage and iterate until you get it to good.\"</blockquote>\n\n<p>His earlier installments cover failure mode taxonomies and model selection — worth reading as a series. <a href=\"https://x.com/realmadhuguru/status/2091278653435072523\">Start with Part 6 here.</a></p>\n\n<hr>\n\n<h2>🔧 Rate Limits, Resets, and the Messy Reality of Shipping</h2>\n\n<p>If the Kevin Scott conversation represents AI's aspirational arc, OpenAI's Codex team is living its more mundane reality. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> posted a candid engineering postmortem on what's been draining users' rate limits:</p>\n\n<blockquote>\"We've found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.\"</blockquote>\n\n<p>The good news: a full usage reset is coming for all paid subscribers. The better news: the transparency here is notable. Shipping fast means shipping bugs — and a tiger team combing through efficiency issues is exactly the kind of unglamorous work that keeps user trust intact. <a href=\"https://x.com/thsottiaux/status/2091407991736332689\">Full thread here.</a></p>\n\n<hr>\n\n<h2>🔒 Privacy as a Feature, Not a Footnote</h2>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> had a productive day on the privacy front, turning a frustration into a workflow. He shared a clever trick: use Codex or Claude Code — with access to an open browser tab — to audit and revoke third-party app permissions on your Google account.</p>\n\n<blockquote>\"Just disconnected half the apps that should no longer have my Google info.\"</blockquote>\n\n<p>He also noted that <a href=\"https://x.com/petergyang/status/2091187611507499321\">Instinct shipped a data deletion feature</a> for external records after user feedback — a small but meaningful example of privacy tooling responding to public pressure. Yang's in-progress project, <strong>/fuck-cancer</strong>, aims to help patients and families navigate their diagnosis and stay informed. He's <a href=\"https://x.com/petergyang/status/2091239339204415969\">asking for input on what to include</a> — worth following if you care about AI applied to high-stakes personal health decisions.</p>\n\n<hr>\n\n<h2>💡 Signal vs. Noise: On Talent, Hype, and Staying Humble</h2>\n\n<p>A few scattered observations that deserve to travel further. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> put her finger on something real about organizational drag:</p>\n\n<blockquote>\"There's a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing. But when the same individual is put into a large organization, they at most increase their potential by 20% (and sometimes it's even decreased).\"</blockquote>\n\n<p>And in perhaps the most quietly quotable line of the day, from the same account:</p>\n\n<blockquote>\"Everyone who's ahead in using AI thinks they're behind.\"</blockquote>\n\n<p>On the investor-founder dynamic, <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> offered a pointed reminder that hustle theater is not a fundraising strategy: <a href=\"https://x.com/nikunj/status/2091381756012511244\">\"Ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.\"</a> The fundamentals haven't changed, even if the tools have.</p>",
+  "html_zh": "<p class=\"lead\">AI行业正在经历一场深刻的基础设施转型：模型能力已经跑在了产品应用前面，而真正的挑战，是如何让智能体真正\"接入世界\"。</p>\n\n<h2>🌐 智能体的互联网时刻：MCP与\"能力过剩\"</h2>\n\n<p>本周微软Build大会上，微软CTO <a href=\"https://x.com/kevin_scott\" data-handle=\"kevin_scott\">Kevin Scott</a> 接受了 Every 播客 <em>AI & I</em> 的专访，清晰地描绘了AI下一阶段的核心命题：模型的推理能力已经超越了我们使用它的方式，行业面临的不再是\"模型够不够强\"，而是\"我们能否用好它\"。</p>\n\n<blockquote>\n\"模型的推理能力，实际上已经稍微领先于我们在产品中使用它的方式。我最近一直在谈论一件事，叫做'能力过剩'（capability overhang）。整个行业需要共同努力，来弥合模型真正能做到的事，和我们实际交付给用户的能力之间的差距。\"<br>— Kevin Scott，微软CTO（Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">AI & I with Kevin Scott</a>）\n</blockquote>\n\n<p>Scott认为，今年Build的主题从\"扩展定律\"转向了\"智能体网络\"（agentic web），原因正在于此。他把MCP协议比作智能体世界的HTTP，把NL Web比作HTML——这些简单、可组合的开放协议，正在为智能体构建一套全新的互联网基础设施。</p>\n\n<blockquote>\n\"如果智能体要真正发挥作用，它们必须能代你采取行动。它们必须能使用工具，在系统中进行更改，查阅丰富多样的信息源。要做到这一点，你需要一个生态系统，它的样子非常像互联网。\"<br>— Kevin Scott\n</blockquote>\n\n<p>他还透露，作为微软CTO，他正在内部推动所有系统使用统一的标准协议与智能体通信——目的是避免组织架构的复杂性（即所谓的\"康威定律\"）直接暴露给用户。</p>\n\n<hr>\n\n<h2>📊 评估体系：企业AI落地的真正瓶颈</h2>\n\n<p>如果说基础设施是智能体的\"身体\"，那么评估（evals）就是它的\"神经系统\"。Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 今日一针见血地指出，AI在企业中扩散的速度，远比人们意识到的更受限于评估体系的缺失：</p>\n\n<blockquote>\n\"AI扩散的速度，远比大多数人意识到的更受限于拥有良好的评估体系。你无法自动化你无法评估进展的事情。企业不可能只凭感觉行事。\"<br>— <a href=\"https://x.com/levie/status/2091359223368315050\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>与此呼应，AI顾问 <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 连载的\"如何构建优秀评估体系\"系列更新至第六章，核心观点是：所谓\"在评估上爬山\"，本质上就是找到一个重要维度并持续优化它——无论是质量、成本还是延迟。</p>\n\n<blockquote>\n\"你的故障模式分类法（来自第三章）是一个很好的指南针，告诉你产品在哪里挣扎、需要关注。比如工具调用失败是你最常见的问题，你深挖之后发现，你把20个工具塞进上下文，而每个任务实际上只需要3到5个。\"<br>— <a href=\"https://x.com/realmadhuguru/status/2091278653435072523\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<hr>\n\n<h2>🛠️ Codex的速率限制风波：一次坦诚的技术剖析</h2>\n\n<p>OpenAI工程师 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 就近期Codex速率限制问题发布了详细说明，难得的是，他罕见地对外披露了具体的技术归因：</p>\n\n<blockquote>\n\"我们发现了：(a) 在多次压缩的长会话中使用图片时存在一些低效；(b) Computer History功能的p95+用量偏高；(c) 一个原本用于生成对话标题的功能，消耗了比预期更多的用量。我们有一个专项小组正在梳理所有问题并将于明天发布修复。同时，我们还发现了一种全新的效率提升方案，与上述问题完全无关，将在下周跟进。作为明天修复的一部分，我们将对所有付费订阅的用量进行全量重置。\"<br>— <a href=\"https://x.com/thsottiaux/status/2091407991736332689\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>这种透明度值得称赞。用量重置对付费用户来说是个好消息，而\"全新效率方案\"的预告也让人对下周充满期待。</p>\n\n<hr>\n\n<h2>🧑‍💻 个人AI时代：10倍效能与组织的天花板</h2>\n\n<p>投资人 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 观察到一个越来越显著的现象：</p>\n\n<blockquote>\n\"有才华的个人在做自己的事情时，借助AI可以实现10倍于自身潜力的成就。但同样的人放进大型组织，最多只能提升20%的潜力，有时甚至会下降。这就是为什么我看到越来越多有才华的人正在离开大公司。\"<br>— <a href=\"https://x.com/zarazhangrui/status/2091379220257603593\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>她还抛出了一句颇具禅意的观察：</p>\n\n<blockquote>\n\"每个在使用AI方面领先的人，都觉得自己落后了。\"<br>— <a href=\"https://x.com/zarazhangrui/status/2091338374447763481\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 正在构建的 <code>/fuck-cancer</code> AI技能形成了有趣的对照——一个帮助癌症患者及其家属导航整个就诊过程的个人项目，正是\"个人AI\"改变现实最直接的注脚。与此同时，他还用Codex结合Chrome标签页，帮自己清理了半数不该再拥有自己Google信息的应用，并点名表扬了Instinct团队快速响应隐私删除需求。</p>\n\n<hr>\n\n<h2>💼 行业速递</h2>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Massad</a>（Replit CEO）晒出了一周七天全部发布的节奏，并暗示此前\"很快\"的承诺最终花了三个月才兑现——创业公司的时间感，果然自成一套体系。<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则在招募 Every 的新成员，并为\"agent-native\"产品形态摇旗呐喊。投资人 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> 也忍不住公开点评：用\"激怒投资人\"然后直接发SAFE文件索要投资的方式，并不是融资的正确打开方式。</p>"
+}
