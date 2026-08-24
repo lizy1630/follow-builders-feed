@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T06:28:47.362Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    }
+  },
+  "html_en": "<p class=\"lead\">AI is quietly becoming infrastructure — and this weekend's dispatches from builders suggest the industry is starting to act like it, with reliability, efficiency, and intelligent orchestration moving from nice-to-haves to table stakes.</p>\n\n<h2>🔧 The Reliability Reckoning: AI Grows Up</h2>\n\n<p>There's a telling juxtaposition in this weekend's feed. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> spent Sunday pushing fixes and communicating usage resets to what reads like a frustrated user base — the unglamorous work of keeping AI systems running at scale.</p>\n\n<blockquote>\"Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow.\" — <a href=\"https://x.com/thsottiaux/status/2091688655828246890\">@thsottiaux</a></blockquote>\n\n<p>That's not a product launch tweet. That's an ops tweet. And it pairs perfectly with his more considered take posted the same day:</p>\n\n<blockquote>\"2026 is the year companies start seriously caring about model efficiency and reliability as it becomes critical infrastructure.\" — <a href=\"https://x.com/thsottiaux/status/2091581575108653374\">@thsottiaux</a></blockquote>\n\n<p>The same dynamic is playing out at the infrastructure layer. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel noted that OpenAI's price cuts on its Sol model made it Vercel AI Gateway's fastest-growing frontier model — evidence, he argues, that demand for intelligence is far more price-elastic than anyone expected.</p>\n\n<blockquote>\"The demand for intelligence is highly elastic: as inference costs fall, usage grows rapidly. If you're not using a gateway, you're missing out on this incredible price volatility, which lowers your operating costs and increases your margins.\" — <a href=\"https://x.com/rauchg/status/2091671326897713424\">@rauchg</a></blockquote>\n\n<hr>\n\n<h2>📊 The Eval Craft: Building Trustworthy AI Pipelines</h2>\n\n<p>A running thread this weekend centered on the serious craft of AI evaluation — how you actually know whether your agent is working. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> surfaced a sharp distinction from <a href=\"https://x.com/sh_reya\" data-handle=\"sh_reya\">@sh_reya</a> between two flavors of eval:</p>\n\n<blockquote>\"Think of top-down as: If you're in a vacuum, just given the task description, what would you come up with? Claude does a very good job of helping you with these top-down evals. Bottom-up evals are the other half. When you look at lots and lots of sample outputs, what is your gut feedback that you want externalized into evals? Claude is very, very bad at coming up with bottom-up evals. That's all you.\" — <a href=\"https://x.com/petergyang/status/2091586298779955512\">via @petergyang</a></blockquote>\n\n<p>Watch/Listen: <a href=\"https://t.co/BuTklgfbr4\">Full episode on AI evals with Shreya</a></p>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> went deeper with what he calls the Goldilocks principle for eval construction — the idea that you need to measure at intermediate steps, not just the final output:</p>\n\n<blockquote>\"If the final recommendation is wrong, a well designed eval set would tell you: Client understanding: 92%, Evidence extraction: 92%, Data analysis: 70%, Recommendation: 75%. Now you know where to go dig.\" — <a href=\"https://x.com/realmadhuguru/status/2091684812012875981\">@realmadhuguru</a></blockquote>\n\n<p>It's a practical antidote to the \"golden set of right answers\" anti-pattern that trips up so many teams shipping agents into production.</p>\n\n<hr>\n\n<h2>🍎 Claude Meets Apple: On-Device + Cloud, Orchestrated</h2>\n\n<p>The most substantive product news of the weekend came from Anthropic's blog: <a href=\"https://claude.com/blog/claude-for-foundation-models\">Claude is now available through Apple's Foundation Models framework</a>, via a new Swift package that lets developers combine on-device Apple intelligence with Claude's heavier reasoning capabilities in a single, seamless experience.</p>\n\n<p>The architecture is elegant. Apple's on-device models handle fast, local tasks — summarization, extraction, typed Swift outputs via <code>@Generable</code> annotations. When the request demands multi-step reasoning, web search, or code execution, the handoff goes to Claude. The user sees one experience; the developer picks the right model for each step.</p>\n\n<blockquote>\"A journaling app can generate daily prompts on-device, then ask Claude to find threads across months of entries. A study app can define a term on-device, then hand off to Claude when the student follows up with 'why does this matter for everything else we've covered?'\" — <a href=\"https://claude.com/blog/claude-for-foundation-models\">Anthropic blog</a></blockquote>\n\n<p>Support launches on iOS 27, iPadOS 27, macOS 27, visionOS 27, and watchOS 27. For Apple developers, this is a meaningful unlock — cloud-grade reasoning, accessible from Swift, without abandoning the privacy and latency benefits of on-device inference.</p>\n\n<hr>\n\n<h2>🧱 Platforms, Protocols, and the Coming Agent Stack</h2>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> offered the sharpest strategic provocation of the weekend in a single sentence:</p>\n\n<blockquote>\"Prediction: systems of record will need to become AI harnesses or face replacement by agents.\" — <a href=\"https://x.com/garrytan/status/2091742825042030681\">@garrytan</a></blockquote>\n\n<p>It's a blunt frame, but the evidence is accumulating. On the tooling side, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> outlined Vercel's composability philosophy for its <code>fx</code> agent framework — built around open protocols (MCP, Skills, Plugins) and the old Unix maxim of small programs that do one thing well:</p>\n\n<blockquote>\"You should be able to build your own CLI, background agent, software factory. Local or cloud.\" — <a href=\"https://x.com/rauchg/status/2091583525661384813\">@rauchg</a></blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> was tinkering on the hardware-software frontier, adding USB rotation protocol support to a robotic claw and pointing it at a 360° webcam — a small, delightful reminder that the agentic imagination runs well ahead of the enterprise roadmap.</p>",
+  "html_zh": "<p class=\"lead\">AI基础设施正悄然从\"能用\"迈向\"可信赖\"——从模型效率到评估框架，再到平台级整合，这一周的信号清晰指向同一个方向：工业化时代的AI需要更严肃的工程纪律。</p>\n\n<h2>⚙️ 可靠性成为新战场：Cursor风波与基础设施觉醒</h2>\n\n<p>本周最受关注的运营事件之一来自 Cursor 团队。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 在周日发文确认，团队已完成问题修复和账户重置传播：</p>\n\n<blockquote>\n\"重置已传播至各账户，昨日发现的使用量问题已修复。你应该能感受到明显改善。明天还有更多进展，我们会持续沟通。\"<br>\n— <a href=\"https://x.com/thsottiaux/status/2091688655828246890\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>这场小风波背后，是一个更大的判断。同一位作者随后写道：</p>\n\n<blockquote>\n\"2026年是各家公司开始认真关注模型效率与可靠性的一年——因为AI正在成为关键基础设施。\"<br>\n— <a href=\"https://x.com/thsottiaux/status/2091581575108653374\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>这句话几乎可以作为整个行业的年度主题词。当AI从实验工具变成企业核心系统，\"能跑\"已不再是标准，\"稳定跑\"才是。</p>\n\n<hr>\n\n<h2>📊 评估（Evals）的黄金法则：不粗不细，恰到好处</h2>\n\n<p>如果说可靠性是目标，评估体系就是地图。本周多位从业者不约而同地聚焦于如何构建更好的AI评估框架。</p>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 在其\"如何构建优质Evals\"系列第七篇中提出了\"金发姑娘原则\"（Goldilocks Principle）：</p>\n\n<blockquote>\n\"你的评估应该在各个'待完成任务'层面上衡量，而不仅仅是最终答案。……如果最终推荐有误，一套设计良好的评估集应该能告诉你：客户理解度92%，证据提取92%，数据分析70%，推荐准确度75%——这样你就知道该去哪里深挖。\"<br>\n— <a href=\"https://x.com/realmadhuguru/status/2091684812012875981\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 分享了播客嘉宾 <a href=\"https://x.com/sh_reya\" data-handle=\"sh_reya\">@sh_reya</a> 对两种评估路径的精辟区分。Watch/Listen: <a href=\"https://twitter.com/petergyang/status/2091586298779955512\">完整播客片段</a>：</p>\n\n<blockquote>\n\"自上而下的评估是：在真空中，仅凭任务描述，你能想出什么？Claude在这方面做得很好。自下而上的评估则是另一半——当你看了大量样本输出后，你的直觉反馈是什么？Claude在自下而上的评估上非常非常差。那部分只能靠你自己。\"<br>\n— @sh_reya，via <a href=\"https://x.com/petergyang/status/2091586298779955512\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>结论清晰：Claude可以帮你设计评估框架，但识别\"哪里感觉不对\"的人类直觉，仍不可替代。</p>\n\n<hr>\n\n<h2>🍎 Claude进驻Apple生态：苹果开发者的新选项</h2>\n\n<p>本周最具战略意义的产品公告，来自Anthropic博客。<a href=\"https://claude.com/blog/claude-for-foundation-models\">Claude现已支持Apple的Foundation Models框架</a>，通过一个新的Swift包，让苹果平台开发者能够在同一套工作流中无缝调用本地模型与Claude云端能力。</p>\n\n<p>其设计逻辑颇为优雅：Apple的端侧模型处理快速本地任务（摘要、提取），当请求需要多步推理、代码生成或实时网络信息时，自动切换至Claude。用户体验是统一的，底层模型却各司其职。该功能将在iOS 27、macOS 27等平台上线，开发者只需API密钥即可接入。</p>\n\n<p>这是一次务实的平台级整合——不是替代关系，而是分工协作。对于苹果生态的独立开发者而言，这意味着以极低门槛获得云端大模型的推理能力。</p>\n\n<hr>\n\n<h2>💰 智能越便宜，用量越大：网关经济学浮出水面</h2>\n\n<p>Vercel创始人 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 分享了一个有趣的市场数据点：OpenAI o3（Sol）降价后，通过Vercel AI Gateway的用量迅速跃升为增长最快的前沿模型。他的解读值得记住：</p>\n\n<blockquote>\n\"这说明①对智能的需求具有高度价格弹性：推理成本下降，用量就快速增长。②如果你没有使用网关，你就错过了这场令人难以置信的价格波动——它会降低你的运营成本，提升你的利润率。\"<br>\n— <a href=\"https://x.com/rauchg/status/2091671326897713424\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">@garrytan</a> 给出了更宏观的预判：</p>\n\n<blockquote>\n\"预测：系统of record（记录系统）需要成为AI的承载容器，否则将被智能体所取代。\"<br>\n— <a href=\"https://x.com/garrytan/status/2091742825042030681\" data-handle=\"garrytan\">@garrytan</a>\n</blockquote>\n\n<p>从网关路由到企业系统重构，降价的不只是token，还有\"不拥抱AI\"的机会成本。</p>\n\n<hr>\n\n<h2>✍️ 今日余白：一首关于离开的诗</h2>\n\n<p>在所有技术信号之外，<a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> 发布了一首安静而深沉的<a href=\"https://x.com/ryolu_/status/2091596272654582062\">离别诗</a>，在AI从业者的时间线上意外收获了800余个点赞。</p>\n\n<blockquote>\n\"在我离开之前 / 我取出所有藏在心底的东西 / 一件一件地道别……剩下的是一片空白 / 回响着我对孤独的恐惧 / 我对自由的渴望 / 和那些我仍无法回答的问题\"<br>\n— <a href=\"https://x.com/ryolu_/status/2091596272654582062\" data-handle=\"ryolu_\">@ryolu_</a>\n</blockquote>\n\n<p>构建AI系统的人，也需要时不时清空内存，重新出发。</p>"
+}
