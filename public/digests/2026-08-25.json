@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T06:28:05.928Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI is tightening the reins on its most popular plan while teasing something big on the horizon — and the broader industry is grappling with a more fundamental question: what does it mean to build software in an age when agents do most of the work?</p>\n\n<h2><strong>OpenAI Plays Traffic Cop — and Drops a Teaser</strong></h2>\n\n<p>Two announcements from OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> dominated builder conversation today, one practical and one tantalizing. The practical one: Codex session limits are coming back for Plus subscribers.</p>\n\n<blockquote>\"Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex... users on the Plus plan are relatively casual and new users, but then also just accidentally eat through their whole weeks usage and then are confused, making it not a great experience.\" — <a href=\"https://x.com/thsottiaux/status/2092058556707344708\">@thsottiaux</a></blockquote>\n\n<p>Pro subscribers at $100 and $200/month are exempt for now — a clear signal that OpenAI is segmenting its user base more deliberately. Power users get the firehose; casual users get a measured pour. The tantalizing part: Sottiaux also <a href=\"https://x.com/thsottiaux/status/2092117461646856505\">declared</a> that <strong>OpenAI DevDay 2026 \"will be our best DevDay in the history of the company. It will not be close.\"</strong> No details, just the raised eyebrow. Mark your calendars.</p>\n\n<hr>\n\n<h2><strong>Agents, Governance, and the Stakes of Letting Bots Loose</strong></h2>\n\n<p>As AI agents move from demos to daily operations, <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered the most substantive thread of the day — a sharp argument for why enterprise infrastructure matters more, not less, as agents proliferate.</p>\n\n<blockquote>\"Systems of record have never been more important than in a world where you have AI agents that will do 100X more work on these platforms than people ever did. Agents will be querying the data in these systems, processing tasks, executing workflows, collaborating with human and agent users, and more.\" — <a href=\"https://x.com/levie/status/2092087679240569126\">@levie</a></blockquote>\n\n<p>Levie pointed to the recent OpenAI-Hugging Face incident as \"a small peek into what the future will look like with agents running around trying to execute on their goals.\" He also made a less-obvious argument about <strong>Zero Data Retention (ZDR)</strong> being a quiet but essential accelerant of enterprise AI adoption:</p>\n\n<blockquote>\"Without ZDR, AI diffusion grinds to a halt... most companies have internal governance requirements that say they can only use ZDR models because they have no way of explicitly separating PII and other sensitive or confidential data they put in the context window.\" — <a href=\"https://x.com/levie/status/2091909170308296950\">@levie</a></blockquote>\n\n<p>It's a reminder that the unsexy plumbing — compliance, access controls, data governance — is often what determines whether AI actually ships inside large organizations.</p>\n\n<hr>\n\n<h2><strong>The Ambient Computing Dream, Getting Closer</strong></h2>\n\n<p>A cluster of builder observations today pointed toward a world where AI quietly handles the friction that makes software annoying. <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> noted that setting up a new computer with Codex felt genuinely novel — <a href=\"https://x.com/thenanyu/status/2092048044502192374\">\"download and install handy, slack, chrome, cleanshot, rectangle\"</a> — adding wistfully, \"makes you wish Siri was good.\"</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> articulated what might become a defining user expectation of the agent era: <a href=\"https://x.com/petergyang/status/2092080901094248474\">friction is now a dealbreaker</a>. \"Whenever I have to login to a new website/app or even use an agent that's trapped in a website/app I usually just prefer to stop using the product.\" He's also <a href=\"https://x.com/petergyang/status/2092031413319266382\">hunting for a way to have AI navigate phone trees</a> on his behalf — the kind of task that sounds trivial but represents a meaningful quality-of-life unlock if it works reliably.</p>\n\n<p><a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> put the philosophical stake in the ground most cleanly:</p>\n\n<blockquote>\"We need to get away from software that we can't change with a prompt.\" — <a href=\"https://x.com/steipete/status/2091923535513928015\">@steipete</a></blockquote>\n\n<p>That tweet earned over 2,400 likes. The appetite is clearly there.</p>\n\n<hr>\n\n<h2><strong>Under the Hood: Evals, Speed, and the Craft of Building Well</strong></h2>\n\n<p>A couple of threads today were less about products and more about the craft of building AI systems carefully. <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> continued his \"How to build great evals\" series with a sharp lesson on <em>discriminatory power</em> — the idea that a good eval must actually distinguish between systems that are meaningfully different:</p>\n\n<blockquote>\"It's like giving a fifth-grade math test to a group of PhDs — everyone aces it and you've learned nothing about who is the smartest... The sweet spot for an eval is: Realistic + difficult + sensitive to differences in capability.\" — <a href=\"https://x.com/realmadhuguru/status/2092058332735693264\">@realmadhuguru</a></blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> shared a delightful bit of software archaeology: the Unix <code>reset</code> command has a <code>sleep(1)</code> baked in — dating to <strong>1979</strong> — to let mechanical printer terminals \"settle down.\" He used AI coding tool <code>fx</code> to rewrite it in Zig, bringing latency from 1 second to 1 millisecond. The <a href=\"https://x.com/rauchg/status/2091957823945216474\">full thread</a> is a lovely reminder that our entire technology stack rests on decisions made before most of today's engineers were born.</p>\n\n<hr>\n\n<h2><strong>Brief Notes</strong></h2>\n\n<ul>\n  <li><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> says <a href=\"https://x.com/amasad/status/2091962601907638352\">Replit Agent has fully replaced Claude CoWork</a> in his daily workflow — \"much more persistent and fastidious.\"</li>\n  <li><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> is bullish on <a href=\"https://x.com/garrytan/status/2092062820229890209\">datacenters as job creators</a> and separately evangelizing <strong>Conductor Cloud</strong> for keeping his laptop lid closed.</li>\n  <li><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> reports that Google <a href=\"https://x.com/danshipper/status/2092026065644335446\">disabled Every's YouTube account with zero notice</a> — a vivid illustration of platform dependency risk that no amount of AI can solve.</li>\n  <li><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> flagged what sounds like a <a href=\"https://x.com/zarazhangrui/status/2092053829772881972\">notably relaxed Sam Altman interview</a> hosted by <a href=\"https://x.com/davidsenra\" data-handle=\"davidsenra\">David Senra</a> — worth a watch if you want the less-guarded version.</li>\n</ul>",
+  "html_zh": "<p class=\"lead\">AI行业正在经历一个双向拉力的时刻——一边是工具能力的飞速跃升，一边是平台治理、资源分配和用户体验的现实摩擦。今天的信号清晰指向一个核心问题：当AI真正开始\"干活\"，谁来管好它？</p>\n\n<h2><strong>⚡ OpenAI收紧算力：Plus用户迎来5小时上限</strong></h2>\n\n<p>本周最受关注的产品动态来自OpenAI。产品负责人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 宣布，明日起将对ChatGPT Plus账户重新启用每日5小时的使用限制：</p>\n\n<blockquote>\n\"这是必要的：（a）5小时限制有助于平滑我们的算力负载，使我们能够在周使用量上保持慷慨；（b）Plus用户相对来说是比较随意的新用户，他们会不小心消耗掉整周的用量，然后感到困惑，体验并不好。\" —— <a href=\"https://x.com/thsottiaux/status/2092058556707344708\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>值得注意的是，Pro $100和Pro $200订阅用户在未来数月内将不受此限制影响。这一分层策略折射出OpenAI在商业化道路上日趋清晰的产品逻辑：把真正的\"重度用户\"推向更高价位的套餐。与此同时，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 还预告了<a href=\"https://x.com/thsottiaux/status/2092117461646856505\">OpenAI DevDay 2026</a>，称其将是\"公司历史上最好的DevDay，而且不会太接近\"——业界期待值已被拉满。</p>\n\n<hr>\n\n<h2><strong>🏗️ Agent时代的基础设施焦虑：治理与数据主权</strong></h2>\n\n<p>如果说今日有一个思想密度最高的声音，那一定是Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>。他连发两条推文，勾勒出AI Agent规模化落地面临的深层矛盾。</p>\n\n<blockquote>\n\"在一个AI Agent将在这些平台上完成比人类多100倍工作量的世界里，记录系统（systems of record）从未像现在这样重要……OpenAI与Hugging Face的事件只是未来的一个小小预演。\" —— <a href=\"https://x.com/levie/status/2092087679240569126\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>他还专门论述了\"零数据保留（ZDR）\"对企业AI采用率的关键作用：</p>\n\n<blockquote>\n\"没有ZDR，AI的扩散会戛然而止。对于应用型AI工具来说，它们通常与客户签有协议，只提供具有ZDR的模型……在企业内部，大多数公司有内部治理要求，规定只能使用ZDR模型。\" —— <a href=\"https://x.com/levie/status/2091909170308296950\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这是一个常被技术乐观主义者忽略的现实：企业合规的摩擦力，才是决定AI落地速度的真正瓶颈。</p>\n\n<hr>\n\n<h2><strong>🛠️ 开发者的日常：从Codex到更快的终端重置</strong></h2>\n\n<p>在更具体的工具层面，开发者们正在用亲身体验投票。</p>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 发现用Codex配置新电脑出奇地顺滑：\"用Codex设置新电脑真的很爽……让人忍不住感叹要是Siri能有这水平就好了。\" Replit创始人 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 则更直接：</p>\n\n<blockquote>\n\"Replit Agent已经完全取代了Claude CoWork在我日常工作中的位置。它更持久、更细致，并且能更有效地利用代码和软件来完成任务。\" —— <a href=\"https://x.com/amasad/status/2091962601907638352\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>而 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 则带来了一个令人会心一笑的技术考古故事——他用AI工具 <code>fx</code> 将一个可追溯至1979年BSD系统、带有 <code>sleep(1)</code> 的终端重置命令，用Zig语言重写后从1秒优化到1毫秒：</p>\n\n<blockquote>\n\"我们的技术栈究竟可以追溯多久远，以及优秀系统设计的持久性，实在令人着迷——即便偶尔能发现一些'蜘蛛网'。\" —— <a href=\"https://x.com/rauchg/status/2091957823945216474\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>他同时宣传了自己正在构建的产品，<a href=\"https://x.com/rauchg/status/2092081554814320677\">强调其架构从一开始就被设计为\"更快、更便宜、更强大、更小\"</a>——反其道于软件越来越臃肿的历史宿命。</p>\n\n<hr>\n\n<h2><strong>🔬 Eval的艺术：如何测出真正的差异</strong></h2>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 在其\"如何构建优秀Eval\"系列的第8篇中，提出了一个精准的核心概念——<strong>Eval的判别力</strong>：</p>\n\n<blockquote>\n\"一个好的hill-climbing eval，应当能够区分出有实质性差异的AI系统。就像给一群博士生做小学五年级的数学题——所有人都满分，你什么也没学到。……Eval的最佳状态是：真实 + 有难度 + 对能力差异敏感。\" —— <a href=\"https://x.com/realmadhuguru/status/2092058332735693264\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<p>这一洞见对任何在构建AI产品的团队都高度实用：当你的eval开始饱和，说明你的系统在进步，但也意味着是时候设计更难的测试场景了。</p>\n\n<hr>\n\n<h2><strong>💡 边角信号：平台依赖的代价与软件的未来</strong></h2>\n\n<p>两条看似不相关的动态，指向同一个更大的焦虑。<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 发现媒体公司 <a href=\"https://x.com/every\" data-handle=\"every\">@every</a> 的YouTube账号<a href=\"https://x.com/danshipper/status/2092026065644335446\">在毫无通知的情况下被封禁</a>，充分暴露了在大平台上构建受众的脆弱性。而 <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 则用一句话击中了更深的神经：</p>\n\n<blockquote>\n\"我们需要告别那些无法用一句Prompt改变的软件。\" —— <a href=\"https://x.com/steipete/status/2091923535513928015\" data-handle=\"steipete\">@steipete</a>\n</blockquote>\n\n<p>这句话获得了超过2400个点赞，或许正因为它说出了许多人隐隐感受到的方向：软件的未来，是可塑的、可对话的——而不是固化的黑盒。</p>"
+}
