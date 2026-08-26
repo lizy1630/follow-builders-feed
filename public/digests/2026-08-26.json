@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T06:28:20.473Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Parallel’s Parag Agrawal: Building a New Web for AI Agents",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">A big day for AI memory, agent infrastructure, and one very fast chip — the industry's plumbing is getting a serious upgrade, even as cracks appear in the foundations.</p>\n\n<h2>🧠 Memory Gets Serious</h2>\n\n<p>The most coordinated theme of the day: AI assistants are finally getting persistent, coherent memory — and both Anthropic and OpenAI are racing to make it feel seamless.</p>\n\n<p><a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a> announced unified memory across its chat and Cowork surfaces:</p>\n\n<blockquote>\n\"Hand Cowork a task and it starts from what Claude already knows from your chats: the project you talked through, your manager's preferences, or the client from last quarter.\" — <a href=\"https://x.com/claudeai/status/2092299704864284888\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>The implementation is notably transparent — everything Claude remembers is saved as an editable list in Settings, and sensitive topics like health or religion stay out of memory by default unless you opt in. <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Cat Wu</a>, who shipped the feature, <a href=\"https://x.com/_catwu/status/2092337156455051345\">invited further feedback</a>. Meanwhile, on the ChatGPT side, <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> was characteristically understated: <a href=\"https://x.com/bcherny/status/2092355642363453943\">\"A small improvement: memory is now simpler and more powerful. Enjoy!\"</a> — a tweet that earned 1,400+ likes, suggesting people had been waiting for exactly this.</p>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> captured the broader zeitgeist with his characteristically pithy take: <a href=\"https://x.com/garrytan/status/2092277912053657722\">\"You need to be cross-harness memory maxxing.\"</a></p>\n\n<hr>\n\n<h2>🛠️ The Codex Ecosystem Expands — With Caveats</h2>\n\n<p>OpenAI's Codex is clearly having a moment, with a new team plan and Dev Day anticipation running hot. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> <a href=\"https://x.com/thsottiaux/status/2092345330272780499\">laid out the new offering</a>: Google Workspace, Slack, GitHub, and Microsoft 365 integrations, SAML/SSO, centralized billing, and crucially — no five-hour limits. \"So much demand for this one,\" he noted, understating things considerably given the 2,900 likes.</p>\n\n<p>But not everyone is celebrating. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Shawn Wang (@swyx)</a> issued a pointed warning:</p>\n\n<blockquote>\n\"PSA: do not use codex 'locked use' capabilities right now. it is currently relying on unstable mac features and has completely locked me out of my macos keychain twice this week.\" — <a href=\"https://x.com/swyx/status/2092492963435946494\">@swyx</a>\n</blockquote>\n\n<p>He noted that Apple's developer forums acknowledge this as a \"known bug.\" The tension he identifies — cloud isn't ready, but local is broken — is a real growing pain for anyone trying to use these agent tools in production.</p>\n\n<p>On a more encouraging note, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> teased that Claude Code is about to get more hackable: <a href=\"https://x.com/trq212/status/2092303682616627311\">\"excited to share more on how we're making Claude Code more hackable soon.\"</a></p>\n\n<hr>\n\n<h2>⚡ Sam's Chip, and the Infrastructure Arms Race</h2>\n\n<p>The most retweeted moment of the day came in six words. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> on OpenAI's new silicon:</p>\n\n<blockquote>\n\"we made a chip and it is fast\" — <a href=\"https://x.com/sama/status/2092339694210040187\">@sama</a>\n</blockquote>\n\n<p>32,000 likes and counting. No further elaboration required, apparently.</p>\n\n<p>The chip announcement sits alongside serious developer tooling news from Vercel. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> shipped two things worth bookmarking: <a href=\"https://x.com/rauchg/status/2092382653161107534\">Run SDK</a>, a lightweight QuickJS secure sandbox for agent-generated code (\"faster and more cost-efficient\" than full sandboxes), and <a href=\"https://x.com/rauchg/status/2092352411839193234\">Vercel Connect going GA</a>, which he described as addressing \"the hardest problem in building agents\": secure connectivity to services and data. Run <code>vercel connect create notion</code>, get an MCP client you can query on behalf of an authenticated user. Elegant.</p>\n\n<hr>\n\n<h2>🌐 Reinventing Search for the Agentic Web</h2>\n\n<p>The most intellectually substantive content of the day came from the <em>Training Data</em> podcast, where former Twitter CEO <a href=\"https://x.com/paraga\" data-handle=\"paraga\">Parag Agrawal</a> laid out his thesis for <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Parallel Web Systems</a> — a startup rebuilding search infrastructure from scratch for AI agents.</p>\n\n<p>His core provocation:</p>\n\n<blockquote>\n\"Our view at Parallel is that human click data is a bug. An agent doing work with search should rely on agent feedback, not human feedback.\" — Parag Agrawal\n</blockquote>\n\n<p>The argument is compelling: the two main moats Google built — proprietary click data at scale and the cost of crawling the full web — are both eroding. LLMs can generate high-quality relevance ratings cheaply; and agents, unlike humans, will tolerate latency in exchange for depth, meaning you can crawl on-demand rather than preindex everything. Parallel launched a search <em>agent</em> first, not a search product, precisely because \"if you're doing deep research, you have patience to the extent of a minute.\"</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Parallel's Parag Agrawal: Building a New Web for AI Agents — Training Data Podcast</a></p>\n\n<hr>\n\n<h2>🩺 AI as Advocate: The Human Angle</h2>\n\n<p>Amid all the infrastructure news, one of the day's most moving contributions came from <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>, who open-sourced <a href=\"https://x.com/petergyang/status/2092249012913258946\">/fuck-cancer</a> — an AI skill built to help patients and caregivers navigate cancer diagnosis.</p>\n\n<blockquote>\n\"The volume of doctors, documents, and insurance paperwork can quickly become overwhelming.\" — a caregiver, quoted by <a href=\"https://x.com/petergyang/status/2092249012913258946\">@petergyang</a>\n</blockquote>\n\n<p>The skill creates a living brief: care-team contacts, next actions (limited to three), confirmed facts versus unknowns, plain-English medical glossary, and a running care log. It pulls from the National Cancer Institute and ClinicalTrials.gov. Yang built it while supporting his mother. It's available free on GitHub and works with both ChatGPT/Codex and Claude Code. This is what <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> was <a href=\"https://x.com/adityaag/status/2092290497826173186\">gesturing at</a> when he argued that AI's public perception problem will only shift \"when AI is able to find cures for diseases that ail everyone.\" Tools like this won't cure cancer — but they might help someone fight it more effectively.</p>",
+  "html_zh": "<p class=\"lead\">今天的科技圈，AI的记忆力突然变得无处不在——Claude打通了跨平台记忆，OpenAI悄悄发布了芯片，而前Twitter CEO则在悄然重构整个互联网的底层逻辑。</p>\n\n<h2>🧠 记忆大战：Claude率先打通跨平台上下文</h2>\n\n<p>如果说AI助手最令人沮丧的地方是什么，大概就是每次换个界面就像跟一个失忆的陌生人重新认识。Anthropic今天正面回应了这个痛点。</p>\n\n<blockquote>\n\"Claude现在在Chat和Claude Cowork之间共享同一套记忆，由你决定里面存什么。把任务交给Cowork，它会从Claude已经知道的内容出发——你上次讨论的项目、你经理的偏好、上个季度的客户。\"<br>— <a href=\"https://x.com/claudeai/status/2092299704864284888\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>Claude团队成员 <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">@_catwu</a> 也<a href=\"https://x.com/_catwu/status/2092337156455051345\">补充说</a>，这次更新是\"根据用户反馈\"做出的调整，现在只需告诉Claude记住某件事一次，它就能跨界面保留这个上下文。与此同时，<a href=\"https://x.com/bcherny/status/2092355642363453943\" data-handle=\"bcherny\">@bcherny</a> 也简短地<a href=\"https://x.com/bcherny/status/2092355642363453943\">宣布</a>记忆功能\"更简单、更强大\"。</p>\n\n<p>当然，隐私是不可回避的问题。Anthropic特别说明，健康状况、宗教信仰等敏感话题默认不纳入记忆，需要用户主动在设置中开启。<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 则用一句话点出了这场记忆军备竞赛的本质：</p>\n\n<blockquote>\n\"你需要跨平台全力记忆。\"<br>— <a href=\"https://x.com/garrytan/status/2092277912053657722\">@garrytan</a>\n</blockquote>\n\n<hr>\n\n<h2>⚡ OpenAI自研芯片登场，Sam Altman用最少的字说了最大的事</h2>\n\n<p>今天互联网上转发量最高的一条推文，只有七个英文单词：</p>\n\n<blockquote>\n\"We made a chip and it is fast.\"<br>— <a href=\"https://x.com/sama/status/2092339694210040187\" data-handle=\"sama\">@sama</a>（32,000+ 点赞）\n</blockquote>\n\n<p>OpenAI Dev Day即将到来，<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 等开发者已经迫不及待地<a href=\"https://x.com/petergyang/status/2092281120650047746\">表示</a>将亲赴现场。与此同时，OpenAI团队成员 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 也透露了备受期待的<strong>ChatGPT团队版计划</strong>的细节，涵盖Google Workspace、Slack、GitHub等全套集成，支持SAML/SSO/MFA，并<a href=\"https://x.com/thsottiaux/status/2092345330272780499\">去掉了每日5小时的使用限制</a>。用他自己的话说：</p>\n\n<blockquote>\n\"好产品需要时间打磨。至少34天。\"<br>— <a href=\"https://x.com/thsottiaux/status/2092487667426738179\">@thsottiaux</a>\n</blockquote>\n\n<hr>\n\n<h2>🕸️ 为AI代理重建互联网：前Twitter CEO的新赌注</h2>\n\n<p>如果说记忆是AI助手的软件层，那搜索就是整个代理网络的基础设施。前Twitter CEO <a href=\"https://x.com/paragagrawal\" data-handle=\"paragagrawal\">Parag Agrawal</a> 创立的 <strong>Parallel Web Systems</strong> 正在做一件听起来疯狂、但逻辑严密的事：为AI代理重新发明搜索引擎。</p>\n\n<p>在 <em>Training Data</em> 播客中，他解释了为什么传统搜索对代理来说是错的：</p>\n\n<blockquote>\n\"我们在Parallel的观点是，人类点击数据是一个缺陷。代理在搜索中工作，应该依赖代理反馈，而不是人类反馈。\"<br>— Parag Agrawal，<a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Watch/Listen: Training Data podcast</a>\n</blockquote>\n\n<p>他的核心论点是：代理使用搜索的频率将是人类的一千倍，因此整个索引、爬取和排名的逻辑都需要重建。Parallel没有一开始就建造全量索引（那需要天文数字的资金），而是先推出了一个搜索代理产品——允许在查询到达后实时爬取网页，用户愿意等待几分钟来换取更深度的研究结果。这是一个以时间换基础设施的聪明走法。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 今天也<a href=\"https://x.com/levie/status/2092466424694649066\">呼应了</a>同一个主题：</p>\n\n<blockquote>\n\"世界不只想要原始模型和代理；它想要问题被解决、结果被实现。溢价将属于那些能够将智能扩散到文明每个角落的公司——将原始token转化为现实世界成果。\"\n</blockquote>\n\n<hr>\n\n<h2>🛠️ 开发者工具：从癌症导航到El Niño监测</h2>\n\n<p>这一周，\"用AI做有意义的事\"这个主题格外突出。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 开源了一个名为 <strong>/fuck-cancer</strong> 的AI技能，专门帮助癌症患者和家属在就医过程中整理信息、与医疗系统周旋。</p>\n\n<blockquote>\n\"我建立这个技能是为了解决这些问题：它创建并更新一份实用简报，包含五个部分——患者与护理团队信息、接下来要做的三件具体事情、已知事实与未知事项的分离、用通俗英语解释的医学术语，以及最近更新的护理日志。\"<br>— <a href=\"https://x.com/petergyang/status/2092249012913258946\">@petergyang</a>\n</blockquote>\n\n<p>另一边，<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 用ChatGPT Codex和Railway搭建了一个<a href=\"https://x.com/nikunj/status/2092383834470002922\">El Niño实时监测站</a>（elneenyo.com），数据直接来自政府来源。小工具，真需求。</p>\n\n<p>在基础设施层，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel CEO @rauchg</a> 连发两条重磅公告：<strong>Vercel Connect</strong> 正式上线，一行命令即可为代理创建连接Notion等服务的MCP客户端；同时推出 <strong>Run SDK</strong>，在轻量级QuickJS沙箱中安全执行代理写的代码，\"更快、成本更低\"。</p>\n\n<p>不过，也有人踩了坑。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 发出<a href=\"https://x.com/swyx/status/2092492963435946494\">公开警告</a>：<strong>不要使用Codex的\"锁定使用\"功能</strong>——这个功能依赖不稳定的macOS特性，本周已经让他的macOS钥匙串崩溃两次。\"云端方案还没到位，但本地方案也还没稳定。\"这大概是当前AI工具链的真实写照。</p>\n\n<hr>\n\n<h2>📐 评估体系需要一份路线图</h2>\n\n<p>最后，留给所有在生产环境中部署AI的团队一个值得收藏的洞察。<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 在其评估系列第9篇中提出了\"评估路线图问题\"：</p>\n\n<blockquote>\n\"大多数评估体系失败，是因为团队把它们当作静态文物，而用户的期望和行为已经进化。你的评估需要一份随产品和实际使用模式共同演进的路线图。\"<br>— <a href=\"https://x.com/realmadhuguru/status/2092426017118028266\">@realmadhuguru</a>\n</blockquote>\n\n<p>他用一个金融研究代理的例子说明：用户第一周问\"总结这份5页财报\"，两个月后就变成了\"监控我的投资组合，当有重大变化时提醒我\"。如果你的评估体系还停留在第一周，流失率会告诉你答案。完整的九篇系列值得一读。</p>"
+}
