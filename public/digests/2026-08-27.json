@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T09:24:09.711Z",
+  "builders": {
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: A $10B Hedge Fund’s AI Playbook (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Claude grew a pair of eyes on the web today — and the broader industry is watching what happens when AI agents stop asking permission and start just <em>doing things</em>.</p>\n\n<h2>🌐 Claude Gets Its Own Browser (And Learns to Stop Asking)</h2>\n\n<p>The biggest product news of the day comes from Anthropic, which shipped two meaningfully different but complementary features for Claude's desktop app. First: Claude now has a <strong>built-in browser inside Claude Cowork</strong> — separate from your own tabs, bookmarks, and passwords — letting it fill forms, scrape dashboards, and navigate vendor portals on your behalf. Second: <a href=\"https://claude.com/blog/claude-in-chrome-generally-available\">Claude in Chrome</a> is now generally available on all paid plans, giving Claude autonomous action in <em>your</em> existing browser with your existing logins.</p>\n\n<p>The distinction matters. As <a href=\"https://claude.com/blog/cowork-built-in-browser\">Anthropic explains</a>: \"The built-in browser is for handing web tasks to Claude while you keep working... Claude in Chrome is for the page you already have open.\" Think of one as a dedicated work browser for Claude, and the other as Claude looking over your shoulder — helpfully.</p>\n\n<blockquote>\n\"Claude now has its own built-in browser in Cowork. When your task involves a website, a browser opens in Cowork's side panel, and Claude navigates, fills forms, and finishes the job.\" — <a href=\"https://x.com/claudeai/status/2092755571455758427\">@claudeai</a>\n</blockquote>\n\n<p>The autonomous action capability is the real headline. Rather than asking approval for every click, Claude now self-approves actions it deems safe — using a classifier that checks each action against your original request before executing. Anthropic reports that on their latest evaluation suite, <strong>zero prompt injection attacks succeeded</strong> against Claude Sonnet 5, Opus 5, or Fable 5 in the Cowork harness. They're candid that risk isn't eliminated, recommending users \"start on sites you trust.\"</p>\n\n<p>Meanwhile, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> — an Anthropic engineer — shipped a quietly useful quality-of-life feature:</p>\n\n<blockquote>\n\"Claude now has a SendFeedback tool so instead of you guys having to hit /feedback and write up a report, you can just tell Claude to draft and approve it.\" — <a href=\"https://x.com/trq212/status/2092696449616376140\">@trq212</a>\n</blockquote>\n\n<hr>\n\n<h2>🏗️ The Infrastructure Arms Race for Agentic AI</h2>\n\n<p>Browsers are only part of the stack. As agents proliferate, the compute and security infrastructure beneath them is becoming its own competitive arena.</p>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel announced global sandbox infrastructure purpose-built for agents — \"multiple regions, failover, up to 10,000 concurrent sandboxes & 5,000 vCPUs/min ramp by default\" — while also shipping a <code>vercel security check</code> CLI that agents can call to audit and improve security posture, with human-in-the-loop or on a cron schedule.</p>\n\n<blockquote>\n\"Much like <code>is-agentic</code>, you can call on agents to improve your security posture with human-in-the-loop, or run in crons. Who would have thunk CLIs would save the world 😁\" — <a href=\"https://x.com/rauchg/status/2092621371914482026\">@rauchg</a>\n</blockquote>\n\n<p>Security concerns are real. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> noted that several customers are being actively targeted by fraudulent API abuse, praising Stripe's fraud tooling while acknowledging \"still a lot of work to do.\" <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> flagged what he called \"a good report about a bad thing\" — <a href=\"https://x.com/sama/status/2092712656096358527\">linking</a> to coverage of the OpenAI-Hugging Face security incident, the same episode <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> cited in his earnings commentary as a cautionary tale for enterprises.</p>\n\n<hr>\n\n<h2>💼 The Enterprise AI Moment: Unstructured Data Takes Center Stage</h2>\n\n<p>Box reported Q2 earnings with $321M in revenue — 11% growth in constant currency, its highest in 14 quarters — and <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> used the moment to articulate something the enterprise software world is slowly internalizing: the real AI opportunity isn't in structured databases, it's in the unstructured mess of contracts, research docs, and marketing decks that companies have been sitting on for decades.</p>\n\n<blockquote>\n\"The world's most advanced superintelligence is only as useful as the underlying enterprise knowledge it has access to... Instead of sitting on millions or hundreds of millions of files they know very little about, companies can now use AI agents to ask questions about this data, mine it all for intelligence, and automate nearly any workflow.\" — <a href=\"https://x.com/levie/status/2092702955292230100\">@levie</a>\n</blockquote>\n\n<p>The hedge fund world is arriving at similar conclusions. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">A $10B Hedge Fund's AI Playbook — AI & I by Every</a>. The episode features Will, CEO of Walleye Capital (nearly $10B AUM), who wrote perhaps the most bracingly direct internal AI memo circulating in finance right now:</p>\n\n<blockquote>\n\"Using ChatGPT is not cheating. That's a non-applicable idea from academia. I use ChatGPT to write this email. You should be using it too and be proud of it. As a hedge fund, we should be ashamed to leave money on the table by ignoring tools that make us faster, smarter, and more effective... Not using these tools is like refusing to use the Internet in 1995 because it wasn't perfect.\"\n</blockquote>\n\n<p>What makes the conversation worth your time is how un-hype-y it is. Will's conviction comes from a decade of quant trading — \"advanced statistics, even AI for years\" — not from reading Twitter. His internal AI program, called Current, started two years ago when a TMT analyst came to him with a GPT-3 demo that upended his assumptions about what an analyst's job actually was.</p>\n\n<hr>\n\n<h2>🔬 The Post-Training Bet and the NVIDIA Gravitational Pull</h2>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> announced Social Capital's investment in <strong>DeepCogito</strong>, a $43M Series A post-training research lab focused on large-scale reinforcement learning and recursive self-improvement via iterated distillation and amplification (IDA).</p>\n\n<blockquote>\n\"The AI frontier will be determined by post-training.\" — <a href=\"https://x.com/adityaag/status/2092679288869019700\">@adityaag</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> cheered the NVIDIA-Hugging Face news — which apparently involves NVIDIA deepening its open-source footprint alongside HF — calling it a \"win-win-win\" for NVIDIA's open-source positioning, Hugging Face's business model questions, and open-source AI broadly.</p>\n\n<blockquote>\n\"NVIDIA is officially the center of open source AI w/ Nemotron and now HF... Open source AI wins!\" — <a href=\"https://x.com/mattturck/status/2092808287280329097\">@mattturck</a>\n</blockquote>\n\n<p>Turck also sat in the guest chair on a podcast to discuss what he calls the \"hyper power law\" and why \"apps are becoming labs faster than labs are becoming apps\" — a framing worth chewing on as the lines between foundation model shops and application companies continue to dissolve.</p>\n\n<hr>\n\n<h2>🎉 The OpenAI Party Industrial Complex</h2>\n\n<p>Finally, the most important strategic question of the week, posed by <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> to his 9,000+ engaged respondents:</p>\n\n<blockquote>\n\"I think we should do another party for our next model release, the 5.5 party was a lot of fun. What would make the next one awesome?\" — <a href=\"https://x.com/sama/status/2092733018838290817\">@sama</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> — apparently a recent OpenAI joiner — captured the culture with characteristic understatement: <a href=\"https://x.com/thsottiaux/status/2092756702349398036\">\"A few weeks at OpenAI feel like years at other companies in terms of how much gets done.\"</a> At this pace, the next party might come sooner than anyone expects.</p>",
+  "html_zh": "<p class=\"lead\">Claude今天拿到了自己的浏览器，一家对冲基金CEO正在以军事级别的纪律推动全员AI转型——这两件事，共同描绘出AI正以惊人速度从概念走向基础设施的现实。</p>\n\n<h2>🌐 Claude有了自己的眼睛和手：内置浏览器正式上线</h2>\n\n<p>今天最重磅的产品更新来自Anthropic。<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a> 在桌面版 Cowork 中获得了一个<strong>独立内置浏览器</strong>——它不是你的浏览器，它是Claude自己的浏览器。你可以把一项涉及网页的任务直接交给Claude：填写表单、从供应商门户抓取发票、读取内部仪表盘，Claude在侧边栏里默默完成，你继续做自己的事。</p>\n\n<blockquote>\n\"现在你可以把任务的网页部分完全交出去，留在原地专注工作：Claude可以填写表单、从仪表盘提取数据，或者操作那些没有连接器的门户网站。无需插件，无需配置，除非你主动选择，否则你自己浏览器里的任何内容都不会被共享。\" —— <a href=\"https://claude.com/blog/cowork-built-in-browser\">Anthropic官方博客</a>\n</blockquote>\n\n<p>与此同时，面向已有Chrome扩展用户的 <strong>Claude in Chrome</strong> 也正式对所有付费计划全面开放，并新增了\"自主操作\"模式——Claude在执行每一步动作前，会由一个安全分类器先行验证，确认操作与你的原始指令一致，才会放行。Anthropic坦承提示注入（prompt injection）仍是真实风险，但在新的模型训练和分类器组合下，Claude Sonnet 5、Opus 5等新模型在内部测试中对攻击的抵御率已接近100%。</p>\n\n<p>Watch/Listen: <a href=\"https://claude.com/blog/claude-in-chrome-generally-available\">Claude in Chrome 正式上线博客全文</a></p>\n\n<hr>\n\n<h2>💼 一家百亿对冲基金的AI宣言：不用就是失职</h2>\n\n<p>如果你想看AI文化如何自上而下渗透进一家金融机构，Walleye Capital CEO Will的故事是目前最极端、也最清醒的样本。这家管理规模近100亿美元的量化对冲基金，正在把AI使用上升为一种组织纪律。</p>\n\n<blockquote>\n\"使用ChatGPT不是作弊。这个概念来自学术界，不适用于这里。我用ChatGPT写了这封邮件，你们也应该用，并为此感到骄傲。作为一家对冲基金，我们若是忽视这些让我们更快、更聪明、更高效的工具，才应该感到羞愧。\" —— Walleye Capital CEO，引自 <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Every播客《AI & I》</a>\n</blockquote>\n\n<p>他将不拥抱AI类比为\"1995年拒绝使用互联网\"。更值得关注的是他的行动时间线——早在两年前，Walleye就已启动内部AI项目\"Current\"，起点是一位前分析师主动演示：他用AI工具几乎复制了自己作为分析师的全部工作。Will当场被震住了。</p>\n\n<blockquote>\n\"如果我们最终被AI颠覆，那是我的责任。所以，让我们主动出击。\" —— Walleye Capital CEO\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">A $10B Hedge Fund's AI Playbook — Every播客</a></p>\n\n<hr>\n\n<h2>🏗️ 基础设施军备竞赛：从沙箱到安全仪表盘</h2>\n\n<p>AI的能力边界在扩张，围绕它的基础设施建设也在同步加速。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 今天连发两条更新：Vercel的代理计算层现已支持多区域、自动故障转移，默认提供最多10,000个并发沙箱和每分钟5,000个vCPU的扩容速率；同时推出了 `vercel security check` CLI工具，让安全检查可以被AI代理调用，支持人工审核或定时自动运行。</p>\n\n<blockquote>\n\"全球算力，触手可及——或者说，代理可及。\" —— <a href=\"https://x.com/rauchg/status/2092735785460277627\">@rauchg</a>\n</blockquote>\n\n<p>在安全层面，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>（来自Anthropic团队）透露，针对客户的欺诈性API请求攻击正在增多，直接影响正常用户的服务可用性。与此同时，他还发布了一项小而实用的改进：Claude现在内置了 `SendFeedback` 工具，用户可以直接让Claude起草并提交反馈，省去手动操作。</p>\n\n<hr>\n\n<h2>🔬 后训练的战场：DeepCogito获4300万美元融资</h2>\n\n<p>下一阶段的AI竞争在哪里？越来越多的人把赌注押在<strong>后训练（post-training）</strong>上。<a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> 今天宣布，后训练研究机构 DeepCogito 完成4300万美元A轮融资。其核心方法是\"迭代蒸馏与放大\"（IDA），结合大规模强化学习和递归自我改进，已在从3B到600B+参数的模型上验证过效果。</p>\n\n<p>与此同时，<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 对NVIDIA与Hugging Face的深度合作表示高度认可，称这是一次\"三赢\"：NVIDIA巩固了开源AI中心地位，Hugging Face找到了理想归宿，开源生态整体受益。他在播客中还提出了一个值得玩味的观察：<em>\"应用公司变成实验室的速度，正在快过实验室变成应用公司的速度。\"</em></p>\n\n<hr>\n\n<h2>📣 边角料：Sam的派对计划，与AI写作的双标困境</h2>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 今天在推特上众包下一次模型发布派对的创意，顺带暗示新模型已在路上。他还转发了一份关于\"某件坏事\"的报告，未作详细说明，但获得了超过3200个点赞。</p>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 则点出了一个普遍的社会心理现象：</p>\n\n<blockquote>\n\"说到AI写作，很多人似乎都有双标：'我用没问题；你用就不行。'\" —— <a href=\"https://x.com/zarazhangrui/status/2092773720112988366\">@zarazhangrui</a>\n</blockquote>\n\n<p>这个观察，配上那位对冲基金CEO\"用ChatGPT写邮件并为此自豪\"的宣言，构成了今天最有意思的对照——AI使用的道德感，正在被生产力的现实逻辑快速重塑。</p>"
+}
