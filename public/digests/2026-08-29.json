@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T06:35:15.436Z",
+  "builders": {
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast. I am grader",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI ecosystem had a dramatic week of partnership breakups, architectural rethinking, and a quiet admission that even the best-intentioned product teams can accidentally make their flagship tools worse — all while data quietly emerges as the era's most contested resource.</p>\n\n<h2>💥 The OpenAI–Cursor Split: When Trust Breaks in the Toolchain</h2>\n\n<p>The biggest story of the day is a clean break. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> announced that OpenAI is ending its partnership with Cursor, the beloved AI coding editor:</p>\n\n<blockquote>\n\"We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we've asked that this takes effect on November 12 to give you some time to plan.\" — <a href=\"https://x.com/thsottiaux/status/2093515916076343774\">@thsottiaux</a>\n</blockquote>\n\n<p>OpenAI was careful to leave doors open — developers can still use their own API keys, and Cursor's IDE extensions will continue working. But the message was clear: OpenAI wants to control how its models reach developers, not route through third-party wrappers it doesn't trust.</p>\n\n<p>Anthropic, notably, moved fast in the opposite direction. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> called the Cursor team \"long-time admirers\" and <a href=\"https://x.com/trq212/status/2093541555068182781\">signaled continued partnership</a>. And <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit went straight for the jugular with a competitive play:</p>\n\n<blockquote>\n\"You can access OpenAI models on Replit for free. Our router also makes high-end models incredibly cost-efficient. If you're a business looking for an independent, multi-model alternative to Cursor, we'd be happy to fund your transition.\" — <a href=\"https://x.com/amasad/status/2093533378880667787\">@amasad</a>\n</blockquote>\n\n<p>The split is a reminder that the developer tools layer remains fiercely contested, and \"trust\" in AI partnerships is increasingly a real product consideration — not just a platitude.</p>\n\n<hr>\n\n<h2>🔧 Anthropic's Honest Postmortem: How Claude Code Got Worse (And How They Fixed It)</h2>\n\n<p>In a rare act of public accountability, Anthropic published a <a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">detailed postmortem</a> on why Claude Code degraded for users over the past month — and it's a fascinating case study in the compounding danger of well-intentioned changes.</p>\n\n<p>Three separate issues landed simultaneously: a default reasoning effort downgrade (from high to medium) that made Claude feel dumber; a caching bug that caused Claude to forget its own prior reasoning every single turn after a session sat idle; and a verbosity-reduction system prompt that quietly sabotaged coding quality. None of the issues individually looked like a catastrophe. Together, they created what Anthropic described as \"broad, inconsistent degradation.\"</p>\n\n<p>The fixes are now live as of April 20, and in a goodwill gesture, Anthropic is resetting usage limits for all subscribers. The honest detail worth noting: their internal evals didn't catch any of this initially. As they write, the issues were \"challenging to distinguish from normal variation in user feedback at first.\" It's a candid reminder that evals — however sophisticated — can still miss real-world degradation when it arrives in diagonal slices across traffic.</p>\n\n<hr>\n\n<h2>🧠 Building Better Agents: The Architecture Question</h2>\n\n<p>Anthropic also published a quietly important <a href=\"https://www.anthropic.com/engineering/managed-agents\">engineering post</a> on Managed Agents — their hosted service for running long-horizon agents — that gets into the gritty infrastructure tradeoffs of running AI at scale. The core insight: when you bundle everything into one container (the agent brain, the sandbox, the session log), you create a \"pet\" — a fragile, irreplaceable server you have to nurse back to health when it breaks.</p>\n\n<p>Their solution was to decouple what they call the \"brain\" (Claude and its harness) from the \"hands\" (sandboxes and tools) and the \"session log.\" Each can now fail independently without taking the others down. The design philosophy is borrowed directly from operating systems: create abstractions stable enough to outlast any particular implementation underneath them.</p>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> at Vercel was thinking along similar architectural lines, though at the web layer:</p>\n\n<blockquote>\n\"I see the web evolving in two extremes: ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment… [and] agent-centric content, data and APIs — the opposite end of the spectrum: pure, lossless signal for machines. The 'in between' is likely to be subsumed by agents producing just-in-time UI. Think of the agent as the new browser in this model.\" — <a href=\"https://x.com/rauchg/status/2093482695838007318\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>📦 Data Is the New Moat — And People Are Finally Believing It</h2>\n\n<p>The <strong>No Priors</strong> podcast this week featured the founders of EON, a cloud backup company that found itself accidentally in the middle of the AI data gold rush. Their observation about Google's purchase of Spirit Airlines' data out of bankruptcy is one of the more striking data points of the week:</p>\n\n<blockquote>\n\"They didn't buy airplanes. They bought the data. They bought the data for $10,000,000 because they think it's very important in that perspective. They're using it to train models.\" — Gonen Stein, EON, via <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors Podcast</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Rethinking Legacy Data Infrastructure with Eon Co-Founders — No Priors</a></p>\n\n<p>The broader point: enterprise data that spent years \"sitting on a shelf collecting dust\" is suddenly the thing labs, startups, and strategists are bidding for. The EON founders note they're hearing constantly from tech CEOs being approached with data acquisition offers — and that AI labs are even approaching hedge funds to buy financial datasets for model training.</p>\n\n<p>The security corollary, though, is sobering. As one EON founder noted, the threat surface has expanded dramatically:</p>\n\n<blockquote>\n\"The same type of threat is coming from nonhuman actors — agents that essentially have legitimate access to the environment with legitimate permissions… It creates a complete set of actors inside the organization, not bound by the rules of the organization and not necessarily running within the premises of the organization, but handling sensitive data.\" — Ofir Ehrlich, EON\n</blockquote>\n\n<hr>\n\n<h2>💬 The Epistemic Humility Corner</h2>\n\n<p>A few voices this week pushed back on the field's tendency toward overconfident takes. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered a useful list of beliefs the industry has cycled through — and mostly abandoned:</p>\n\n<blockquote>\n\"The average strongly held belief these days in AI has a half life of 6 months at best… OSS is too far behind to catch up. The labs can't be profitable at scale. All software will be replaced by agents. You can't build moats on top of models. RAG is dead. We've hit a training wall… The key here is to remain flexible in your thinking because we're going to be in a constant state of change for a while.\" — <a href=\"https://x.com/levie/status/2093568352736436576\">@levie</a>\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> made a pointed observation about the UX confusion surrounding agentic products:</p>\n\n<blockquote>\n\"My hot take is that Claude Cowork and ChatGPT Work are partial solutions and that Grok Bot is the right end state for a capable AI agent product for non-technical people… If you asked people to explain what the difference between ChatGPT Work and Codex is or how Claude Cowork actually works I bet most people have no idea.\" — <a href=\"https://x.com/petergyang/status/2093379695144530313\">@petergyang</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> offered perhaps the cleanest reframe of the \"slop\" debate:</p>\n\n<blockquote>\n\"Whether something is slop or not has less to do with whether it's AI-generated and more to do with whether it is informed by specific, unique human experiences/perspectives. There's plenty of human-generated slop.\" — <a href=\"https://x.com/zarazhangrui/status/2093396989329469505\">@zarazhangrui</a>\n</blockquote>\n\n<p>On a week where even Anthropic had to admit its evals missed real problems, a little epistemic humility seems well-earned across the board.</p>",
+  "html_zh": "<p class=\"lead\">今天AI行业最引人注目的主线，是生态系统的裂变与重组：OpenAI与Cursor分道扬镳，而整个行业对于\"什么是真正持久的竞争优势\"的讨论，正在走向越来越清晰的答案——数据。</p>\n\n<h2>🔥 OpenAI与Cursor正式分手：谁是赢家？</h2>\n\n<p>本周最大的行业震动，来自OpenAI与AI编程工具Cursor的合作终止。OpenAI工程负责人<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>在推特上<a href=\"https://x.com/thsottiaux/status/2093515916076343774\">正式宣布</a>：</p>\n\n<blockquote>\n\"我们很遗憾地决定，无法继续通过Cursor提供我们模型的访问权限，并将终止这一合作关系。归根结底，这是信任问题。我们要求此次变更于11月12日生效，以便给大家留出规划时间。\"\n</blockquote>\n\n<p>OpenAI同时表示，将继续允许用户通过自己的API密钥使用其模型，并继续支持广泛的开发者工具生态。Cursor方面，Anysphere联合创始人<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>则选择了高姿态回应，<a href=\"https://x.com/trq212/status/2093541555068182781\">表示</a>\"长期以来一直是Cursor团队的仰慕者，很高兴继续与他们合作\"——一句话把局面稳住了。</p>\n\n<p>嗅到机会的竞争者们迅速行动。Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> <a href=\"https://x.com/amasad/status/2093533378880667787\">公开喊话</a>：</p>\n\n<blockquote>\n\"你可以在Replit上免费访问OpenAI模型。我们的路由器也让顶级模型的使用成本极为高效。如果你是一家正在寻找独立多模型Cursor替代方案的企业，我们很乐意资助你的迁移。\"\n</blockquote>\n\n<p>此外，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>还暗示Codex即将迎来重要里程碑，<a href=\"https://x.com/thsottiaux/status/2093573991965557198\">神秘写道</a>：\"看着这张仪表盘，我们明天可能会迎来一个值得庆祝的新里程碑。Codex，稳住。\"</p>\n\n<hr>\n\n<h2>🧠 AI产品体验的暗面：Anthropic坦诚复盘</h2>\n\n<p>Anthropic罕见地发布了一篇<a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">公开事后分析报告</a>，详细拆解了过去一个月Claude Code质量下滑的三个独立原因：默认推理强度被悄悄从\"高\"调低至\"中\"、一个导致Claude在长会话中反复\"失忆\"的缓存bug、以及一个过度压缩输出冗余度却误伤代码质量的系统提示改动。</p>\n\n<p>这份报告的价值不在于道歉本身，而在于它揭示了AI产品工程的深层困境——三个独立变更叠加在不同流量切片上，合力产生了外观上\"广泛而不稳定的退化\"，让内部eval系统几乎无法及时发现。Anthropic最终决定：即日起重置所有订阅用户的使用限额，并将所有模型的默认推理强度恢复至\"高\"（Opus 4.7为\"超高\"）。</p>\n\n<p>与此同时，Anthropic工程博客还发表了一篇<a href=\"https://www.anthropic.com/engineering/managed-agents\">关于Managed Agents架构设计的深度文章</a>，核心思想是将Agent的\"大脑\"（Claude与调度逻辑）与\"双手\"（沙箱执行环境）彻底解耦，借鉴操作系统虚拟化硬件的经典思路，让底层实现可以自由替换而上层接口保持稳定——<em>让进程和文件抽象层面的read()命令，对1970年代的磁盘还是现代SSD保持无感知</em>。</p>\n\n<hr>\n\n<h2>💾 数据才是真正的护城河</h2>\n\n<p>No Priors播客本期邀请了云备份公司EON的联合创始人，讨论AI时代的企业数据基础设施。最令人印象深刻的细节，是Google在Spirit Airlines破产清算中出手购买了其数据资产：</p>\n\n<blockquote>\n\"就在两天前，你看到Google从破产的Spirit Airlines那里买了些东西。他们没有买飞机，他们买了数据——花了1000万美元买数据，因为他们认为这在这个时代极为重要。他们用它来训练模型。\"—— EON联合创始人 Gonen Stein\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — Rethinking Legacy Data Infrastructure with Eon</a></p>\n\n<p>这一案例折射出一个正在成型的趋势：曾经\"躺在架子上吃灰\"的企业历史数据，正在成为AI军备竞赛中最稀缺的战略资源。Eon联合创始人补充道：\"模型、算力……这些东西的切换成本几乎为零。但数据，才是你真正拥有的差异化资产。\"</p>\n\n<hr>\n\n<h2>🌐 Web的两极分化与Agent即新浏览器</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 提出了一个关于Web未来走向的清晰判断，<a href=\"https://x.com/rauchg/status/2093482695838007318\">写道</a>：</p>\n\n<blockquote>\n\"我看到Web正在向两个极端演化：一是为人类打造的极致精美体验，服务于愉悦感、探索、品牌和娱乐；二是以Agent为中心的内容、数据与API，追求纯粹、无损的机器信号。Markdown的兴起和MCP的爆发只是这座冰山的一角。中间地带很可能被Agent即时生成的UI所取代——把Agent想象成这个模型下的新浏览器。\"\n</blockquote>\n\n<p>他还特别指出MCP协议的npm下载量正在爆炸式增长，视之为Agent经济基础设施成熟的重要信号。</p>\n\n<hr>\n\n<h2>💡 行业清醒时刻：认知半衰期与产品建设哲学</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> 列出了一份让人会心一笑的清单：过去几年里AI行业曾经\"强烈持有\"又已经或正在被颠覆的信念——从\"开源永远追不上\"到\"RAG已死\"，从\"提示词将来不重要\"到\"训练已经撞墙\"。<a href=\"https://x.com/levie/status/2093568352736436576\">他的结论</a>是：</p>\n\n<blockquote>\n\"这些强烈持有的观点，最多只有六个月的半衰期。关键是保持思维的灵活性，因为我们将在相当长的时间内处于持续变化的状态。\"\n</blockquote>\n\n<p>呼应这一判断的，是<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a>对AI产品团队的忠告：AI产品建设的\"剧本半衰期\"大约只有三个月。\"传统产品团队的优化目标是发现一套剧本然后榨干它五年。AI团队需要优化的，是持续发明的能力。\"</p>\n\n<p>而<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a>则以一句话给整个讨论画了个禅意注脚：<a href=\"https://x.com/danshipper/status/2093434101067808930\">\"在AI领域，没有坏想法，只有不够强的模型。随着指数曲线的延续，每个想法都会有它的时代。\"</a></p>"
+}
