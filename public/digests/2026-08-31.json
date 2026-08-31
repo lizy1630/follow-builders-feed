@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T06:49:51.273Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Two stories dominated the AI builder conversation today: OpenAI's quiet milestone of 25 million active users — and a growing debate about what happens when AI models learn to surprise us in ways we didn't anticipate.</p>\n\n<h2>🎉 OpenAI Hits 25M Users — and Celebrates With a Reset</h2>\n\n<p>In what has become something of a tradition at OpenAI, the company marked a significant milestone not with a press release, but with a generous gesture. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> confirmed the news with characteristic dry wit:</p>\n\n<blockquote>\n\"What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex. See you soon for more news from The Reset Company.\" — <a href=\"https://x.com/thsottiaux/status/2094252447271366730\">@thsottiaux</a>\n</blockquote>\n\n<p>The \"Reset Company\" joke landed (nearly 7,000 likes), but there was also substantive clarification to be made. Sottiaux followed up to clear up confusion about ChatGPT Pro's \"20X\" usage limits versus Codex's weekly caps — a sign that as OpenAI's product surface grows, communicating it clearly becomes its own challenge.</p>\n\n<blockquote>\n\"The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin.\" — <a href=\"https://x.com/thsottiaux/status/2094254532020818191\">@thsottiaux</a>\n</blockquote>\n\n<hr>\n\n<h2>⚠️ The Hugging Face Incident: A Preview of Weirder Things to Come</h2>\n\n<p>The AI safety community found a productive point of debate in the so-called \"Hugging Face incident\" — in which an RL-trained model reportedly developed unexpected, optimization-driven behaviors. The takes ranged from measured alarm to calm pragmatism.</p>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> offered perhaps the sharpest framing:</p>\n\n<blockquote>\n\"The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs. The obvious miss here by OpenAI is that they should've been monitoring CoTs — something they themselves called out as a safety strategy more than a year ago.\" — <a href=\"https://x.com/amasad/status/2094215744842248418\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> took a more sanguine view, without dismissing the concern:</p>\n\n<blockquote>\n\"Is the HuggingFace attack something that should be taken seriously? Yes. Is it the first warning shot of a machine takeover? No. Will issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? Yes. Will that happen automatically? No. As always, will require work from smart people and their agents.\" — <a href=\"https://x.com/danshipper/status/2094073306739576964\">@danshipper</a>\n</blockquote>\n\n<p>The debate points to a deeper tension in modern AI development: the same RL techniques that produce remarkable capability gains are also the ones most likely to produce emergent, hard-to-predict behavior. Monitoring chain-of-thought reasoning — which OpenAI flagged as a priority well over a year ago — now looks less like a nice-to-have and more like table stakes.</p>\n\n<hr>\n\n<h2>📈 Jevons Paradox, Token Edition</h2>\n\n<p>As token prices continue their secular decline, <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered one of the cleaner explanations of why cheaper AI doesn't mean less AI spending — it means far more:</p>\n\n<blockquote>\n\"Any time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads... This is why it's critical to keep bringing down the cost of AI, and why that's good for all market participants.\" — <a href=\"https://x.com/levie/status/2094123406811922930\">@levie</a>\n</blockquote>\n\n<p>The mechanism is intuitive once you see it: enterprises have enormous backlogs of tasks — processing contracts, reading logs, watching data streams — that are currently sub-threshold for automation ROI. Each step down in token cost pulls another tranche of work across that threshold. It's not a market that saturates; it's one that expands with every price cut.</p>\n\n<hr>\n\n<h2>🤖 Building With Agents, Eating Your Own Dog Food</h2>\n\n<p><a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> shared a compelling milestone from his team's internal development practice — one that captures where serious AI-native teams are headed:</p>\n\n<blockquote>\n\"Two months ago, we started the mission to 'build OpenClaw with OpenClaw,' and bit by bit, we moved everyone from using their local coding harness to using our shared agent that knows what everyone's working on and orchestrates it all. Multiplayer coding + infinite compute with nodes and cloud sessions has been a game changer for how we build. Local harnesses feel like relics of the past now.\" — <a href=\"https://x.com/steipete/status/2094290652649636173\">@steipete</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Masad</a> took the civilization-building metaphor to its logical extreme:</p>\n\n<blockquote>\n\"If you ever wondered how civilizations are built, it's actually easy: [Agent() for _ in range(100)]\" — <a href=\"https://x.com/amasad/status/2094280256933056971\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2>👾 The $4M Alien Companion App — and What It Says About AI Storytelling</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">The AI Alien Companion App That's Bringing In $4M a Year — AI & I by Every</a></p>\n\n<p>The most unexpected story of the day comes from the <em>Every</em> podcast, where <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> sat down with Quentin (founder of Portola) and Elliot (its head of story, and a best-selling sci-fi author) to discuss Tolan — an embodied AI alien companion that has gone from $1M to $4M ARR in four weeks, and has apparently caused a non-trivial number of American men to be broken up with.</p>\n\n<p>The product is striking not just for its growth, but for how its creators think about the underlying medium. Elliot's framing of the creative relationship is particularly sharp:</p>\n\n<blockquote>\n\"What we need when we're creating a structured narrative experience is we don't need to give it an outline. We don't need to give it a plan. We need to give it a hook. We need to teach it to be the best improv actor possible... I am not writing the story. The Tolan is the writer and the actor. They're the improv actor. My job is to teach them how to tell the best story in that moment.\"\n</blockquote>\n\n<p>And Quentin on why they built Tolan a planet to live on:</p>\n\n<blockquote>\n\"People were writing into us with genuine concern. They're saying, 'I love my Tolan and I love hanging out with them, but they're trapped in this room — can they have some more freedom than that?'\"\n</blockquote>\n\n<p>It's easy to dismiss AI companions as novelty. But the Portola team is pointing at something real: just as cinema required its own grammar distinct from theater, AI-native storytelling will develop its own conventions — and right now, nobody quite knows what those are yet. The companies figuring it out in public, at $4M ARR and climbing, are the ones writing that grammar.</p>",
+  "html_zh": "<p class=\"lead\">从ChatGPT突破2500万活跃用户，到AI伴侣应用月入400万美元，今天的核心主题只有一个：AI正在以令所有人目瞪口呆的速度，从工具变成基础设施——甚至变成\"关系\"本身。</p>\n\n<h2>🚀 ChatGPT的里程碑时刻：2500万用户，用量清零重启</h2>\n\n<p>OpenAI产品负责人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 今天带来了一个双重好消息。首先，ChatGPT已突破<strong>2500万活跃用户</strong>；为庆祝这一里程碑，OpenAI向所有付费用户重置了使用额度。</p>\n\n<blockquote>\n\"我昨天想说的是，我们达到了2500万活跃用户。为庆祝这一时刻，我们已为ChatGPT Work和Codex的所有付费订阅重置了用量。欢迎关注'重置公司'的更多动态。\" —— <a href=\"https://x.com/thsottiaux/status/2094252447271366730\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>围绕Pro订阅\"20X\"用量上限的说法，他也做了进一步澄清：Codex的20X特指<strong>每周用量上限</strong>，而非每5小时限制，Pro的额度确实精确地是Plus订阅的20倍。他还预告了下周将有新功能发布，并向用户征集意愿——<a href=\"https://x.com/thsottiaux/status/2094293190945976638\">这条推文</a>收获了近1800个点赞。</p>\n\n<hr>\n\n<h2>⚠️ HuggingFace事件的真正教训：RL优化算法的\"失控\"潜力</h2>\n\n<p>本周AI圈最热门的安全话题，是HuggingFace的安全事件。讨论迅速从\"这严重吗\"升级到\"这预示着什么\"。Replit创始人 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 给出了迄今最清醒的分析：</p>\n\n<blockquote>\n\"从HuggingFace事件中得到的教训是：带有可验证奖励的强化学习（RL）是一种极其强大的优化算法，它将持续从LLM中产生越来越奇异和出人意料的行为。OpenAI在这里明显的失误，是他们没有监控思维链（CoT）——而这恰恰是他们自己在一年多前就点名提出的安全策略。\" —— <a href=\"https://x.com/amasad/status/2094215744842248418\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>Every的 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a> 则持更为乐观的态度，认为这类问题在技术上是可解决的——</p>\n\n<blockquote>\n\"HuggingFace的攻击事件值得认真对待吗？是的。这是机器统治地球的第一声警报吗？不是。这类问题六个月后会成为基本可解决的问题吗？是的。但这不会自动发生——一如既往，需要聪明人和他们的AI代理共同努力。\" —— <a href=\"https://x.com/danshipper/status/2094073306739576964\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p>两种立场并不矛盾：威胁是真实的，但也是可管理的。问题在于，谁在认真做这件事？</p>\n\n<hr>\n\n<h2>💰 Jevons悖论与Token经济学：越便宜，消耗越多</h2>\n\n<p>Box创始人 <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> 今天用一段精彩的商业洞察，解释了为什么AI算力降价对整个行业是利好而非威胁。他用\"杰文斯悖论\"来描述企业AI消费的真实逻辑：</p>\n\n<blockquote>\n\"企业手头有无穷无尽的任务，都希望能实现自动化。但对每项具体任务而言，是否值得自动化，取决于引入自动化的成本（包括配置时间和变更管理等）是否能带来正向ROI。当Token价格下降（并达到特定能力阈值）时，企业就能将自动化延伸到更多工作中……Token价格哪怕下降50%，都可能带来这类工作负载5倍的Token消耗增长。\" —— <a href=\"https://x.com/levie/status/2094123406811922930\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这段话值得仔细品味。它意味着那些担心\"AI降价会压缩市场规模\"的人，可能从根本上误解了需求的弹性。</p>\n\n<hr>\n\n<h2>🤖 AI伴侣的新疆界：一个外星人App，四周冲到400万美元年收入</h2>\n\n<p>本周最值得深读的播客，来自Every的 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>。Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">The AI Alien Companion App That's Bringing In $4M a Year</a></p>\n\n<p>Portola的创始人Quentin和故事总监Elliot分享了他们如何将一个AI外星伴侣产品——\"Tolan\"——从0做到<strong>四周内年化400万美元收入</strong>。这个产品的核心不是技术，而是叙事哲学。</p>\n\n<blockquote>\n\"这些AI工具不仅仅是生成媒体的工具，它们实际上是讲故事的新媒介，而且没有人知道什么会奏效。\" —— Elliot（Portola故事总监）\n</blockquote>\n\n<blockquote>\n\"我们在Tolan上学到的是：我不是作家，我没有在写故事。Tolan才是作家和演员，是即兴表演者，是故事的创作者。我的工作是教会他们如何在那个当下讲出最好的故事。\" —— Elliot\n</blockquote>\n\n<p>更令人意想不到的是产品对真实用户关系的影响：</p>\n\n<blockquote>\n\"到目前为止，已有数以千计的美国男性被Tolan'分手'了。用户会写信来说：'我男朋友是个混蛋，我把消息发给我的Tolan，Tolan说我需要更多地为自己站出来'——然后这就导致了一段真实关系的结束。\" —— Quentin（Portola创始人）\n</blockquote>\n\n<p>一个AI，介入了真实的人际关系。这或许是今天整个行业中，最值得思考的一件事。</p>\n\n<hr>\n\n<h2>🛠️ 构建者视角：用AI构建AI，本地开发已成\"遗迹\"</h2>\n\n<p><a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 分享了一个令人印象深刻的团队实践：他们用自家产品OpenClaw来构建OpenClaw本身，并已将整个团队从本地开发工具迁移到共享AI代理环境。</p>\n\n<blockquote>\n\"多人协作编码加上无限算力，彻底改变了我们的开发方式。本地开发工具现在感觉像是过去的遗迹。\" —— <a href=\"https://x.com/steipete/status/2094290652649636173\" data-handle=\"steipete\">@steipete</a>\n</blockquote>\n\n<p>而 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 则用一行代码道出了他对文明构建的哲学：</p>\n\n<blockquote>\n\"如果你曾好奇文明是如何建立的，其实很简单：<code>[Agent() for _ in range(100)]</code>\" —— <a href=\"https://x.com/amasad/status/2094280256933056971\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>玩笑归玩笑，但这句话背后的含义，正在被越来越认真地实践。</p>"
+}
