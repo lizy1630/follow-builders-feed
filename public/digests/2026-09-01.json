@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T06:42:22.120Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is wrestling with two fundamental tensions today: the gap between what models can do now versus what they'll need to do continuously, and the growing question of who — and what — we should trust as agents take on more of our work.</p>\n\n<h2>The Reinforcement Learning Godfather Has Notes for the Field</h2>\n\n<p>The most intellectually rich conversation of the day comes from the <em>Training Data</em> podcast, which secured a rare sit-down with <a href=\"https://x.com/RichardSSutton\" data-handle=\"richardssutton\">Rich Sutton</a> — inventor of reinforcement learning, author of the field's bible, and now co-founder of Oak Lab alongside former student Khurram Javed. The episode is essential listening for anyone who wants to understand why today's LLMs might be missing something foundational.</p>\n\n<blockquote>\n\"Before there was all this AI craziness, you talk about you wouldn't have to say continual learning because it wouldn't make any sense to talk about learning that wasn't continual. All learning is continual. We always act and we learn. That's just the normal way of thinking. I'm not weird. The field is weird.\"\n<br>— Rich Sutton\n</blockquote>\n\n<p>Sutton's argument, delivered with characteristic bluntness, is that the current paradigm of training-then-deploying is a kind of aberration — a frozen snapshot mistaken for a mind. His new venture, Oak Lab, is oriented around making models that keep learning in deployment, the way any intelligent system actually should. The backstory is remarkable: Sutton established the University of Alberta as a bastion of deep reinforcement learning in 2003, during an AI winter, while recovering from cancer.</p>\n\n<blockquote>\n\"I was, like, really sick. I was actually dying of cancer in 2003... Was in another remission and so I said, 'Well, I'm not dying. I haven't succeeded in dying so I might as well get another job.' And so I went to Alberta and started teaching there. And then in the end, didn't die.\"\n<br>— Rich Sutton\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again — Training Data</a></p>\n\n<hr>\n\n<h2>Trust Is the Moat Nobody's Talking About</h2>\n\n<p>As agentic AI moves from demos to daily workflows, a quieter consensus is forming around the real limiting factor. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> put it plainly:</p>\n\n<blockquote>\n\"Trust is going to be the biggest barrier (and driver) of personal agent adoption.\"\n<br>— <a href=\"https://x.com/petergyang/status/2094639655258091792\">@petergyang</a>\n</blockquote>\n\n<p>It's a deceptively simple observation with enormous strategic implications. An agent that books your flights, manages your calendar, or touches your codebase requires a fundamentally different kind of user relationship than a chatbot. The companies that crack trust — through transparency, reliability, and graceful failure modes — will define the category. Those that treat it as a UX problem rather than a systems problem will not.</p>\n\n<p>This theme runs directly through the conversation around <strong>OpenAI's Codex</strong>, where <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> <a href=\"https://x.com/thsottiaux/status/2094588317245509959\">asked builders</a> what's still holding them back from trying it. The question drew significant engagement — suggesting the hesitation is real, even among the technically curious.</p>\n\n<hr>\n\n<h2>Codex Gets Fresh Blood From Linear</h2>\n\n<p>Speaking of Codex: one of the day's most-liked announcements came from <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nan Yu</a>, a longtime design and product leader at Linear, who is joining OpenAI to work on Codex and ChatGPT.</p>\n\n<blockquote>\n\"Some personal news — I'm joining OpenAI to work on Codex and ChatGPT. I'm grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.\"\n<br>— <a href=\"https://x.com/thenanyu/status/2094427243565269107\">@thenanyu</a>\n</blockquote>\n\n<p>Linear has become something of a talent pipeline for the serious end of AI product thinking — a shop known for caring obsessively about craft and interaction quality. Bringing that sensibility to Codex, which has faced criticism for feeling more like raw capability than polished product, could matter more than it sounds.</p>\n\n<hr>\n\n<h2>The Model Frontier Is Now a PM Responsibility</h2>\n\n<p>A sharp framework from <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> is making the rounds among product leaders, and it deserves wider circulation. The argument: deep model literacy is no longer optional for PMs — it's core to the job.</p>\n\n<blockquote>\n\"You should be able to answer the following better than most frontier lab researchers and PMs for your use cases: 1/ What can models in each size category do well today? 2/ Where does each model fail? 3/ What workarounds can you use to overcome these failures? 4/ Given the trajectory, what will these models likely be able to do 2–3 months from now?\"\n<br>— <a href=\"https://x.com/realmadhuguru/status/2094591503981281503\">@realmadhuguru</a>\n</blockquote>\n\n<p>This dovetails with <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>'s observation that the maturing of open-weights models and post-training infrastructure is unlocking an entirely new category of vertical AI plays — companies with large proprietary datasets no longer need to license to labs or compete on research. They can now train their own.</p>\n\n<blockquote>\n\"Licensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.\"\n<br>— <a href=\"https://x.com/levie/status/2094650992818274514\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>Slop, Governance, and the Infrastructure Layer</h2>\n\n<p>Two product ideas worth bookmarking. First, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel is making a provocative case that Markdown — yes, Markdown — is the future of design systems in an AI-native world. The pitch is that <strong>DESIGN.md</strong> solves \"the hardest problem in AI today: slop,\" giving large organizations a way to encode and scale design taste without drowning in component libraries.</p>\n\n<blockquote>\n\"Your next design system is… Markdown.\"\n<br>— <a href=\"https://x.com/rauchg/status/2094541309579235680\">@rauchg</a>\n</blockquote>\n\n<p>Second, Rauch draws a pointed analogy for AI token governance that should land with any engineering leader who's ever had a surprise cloud bill:</p>\n\n<blockquote>\n\"Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to: 'Hey all, here's an AWS key. It can spin up anything from a t3.nano ($3.80/mo) to a p5.48xlarge ($40k/mo). Go wild.'\"\n<br>— <a href=\"https://x.com/rauchg/status/2094523399280435630\">@rauchg</a>\n</blockquote>\n\n<p>The solution he's pointing to: AI Gateway with per-key and per-user budgets. Unglamorous, but the kind of operational plumbing that separates serious enterprise deployments from expensive experiments.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI圈有一条贯穿始终的主线：<strong>信任</strong>——对AI agent的信任、对模型持续学习能力的信任、对设计品味能否规模化的信任。与此同时，人才流动和基础设施建设正在悄然重塑这个行业的格局。</p>\n\n<h2>🧠 强化学习之父的忠告：所谓\"持续学习\"，本就是学习本身</h2>\n\n<p>本周最值得细听的播客，是 <em>Training Data</em> 对强化学习先驱 <a href=\"https://x.com/richsutton\" data-handle=\"richsutton\">Rich Sutton</a> 的深度访谈。Sutton 是《强化学习》教科书的作者，也是那篇广为流传的《苦涩的教训》的撰写者——如今他与学生 Khurram Javed 联合创办了 Oak Lab，重新出发。Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again</a></p>\n\n<p>Sutton 的核心观点颇具禅意：他并不认为自己的立场\"激进\"，反而觉得是整个领域跑偏了。</p>\n\n<blockquote>\n\"在AI这股热潮出现之前，根本不需要专门说'持续学习'这个词，因为说'不持续的学习'本来就毫无意义。所有学习都是持续的。我们行动，我们学习，这才是正常的思维方式。不是我奇怪，是这个领域奇怪。\"<br>— Rich Sutton\n</blockquote>\n\n<p>这番话直指当前大语言模型的核心局限：预训练一次、冻结权重、部署上线。Sutton 认为，真正的智能应当像人一样在与世界的持续互动中学习，而不是靠一次性的大规模数据灌注。他与 Javed 创办 Oak Lab，正是为了重拾这条被主流忽视的路径。</p>\n\n<p>访谈中还有一段令人动容的个人历史：2003年，Sutton 身患癌症，在\"随时可能离世\"的状态下仍坚持去阿尔伯塔大学任教，埋头研究强化学习。他用本杰明·富兰克林的话自嘲：</p>\n\n<blockquote>\n\"如果你想知道一个人为什么做某件事，答案几乎总是两个：习惯，或者虚荣。我觉得我大概是习惯吧——因为我当时快死了。\"<br>— Rich Sutton\n</blockquote>\n\n<hr>\n\n<h2>🤝 信任：个人AI Agent普及的最大关卡</h2>\n\n<p>产品人 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 用一句话点出了AI agent落地的核心矛盾：</p>\n\n<blockquote>\n\"信任将成为个人AI agent普及最大的障碍，也是最大的驱动力。\"<br>— <a href=\"https://x.com/petergyang/status/2094639655258091792\">@petergyang</a>\n</blockquote>\n\n<p>这与 OpenAI Codex 团队成员 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 的<a href=\"https://x.com/thsottiaux/status/2094588317245509959\">公开提问</a>形成了有趣的呼应：为什么那么多人考虑过 Codex，却还没真正上手？答案恐怕也是信任——信任一个AI agent替你写代码、执行任务，需要跨越的心理门槛远比想象中高。</p>\n\n<p>与此同时，产品经理的角色正在被重新定义。<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 认为，真正优秀的AI时代PM，必须比任何人都更了解模型能力的边界：</p>\n\n<blockquote>\n\"你需要能回答：各尺寸模型现在擅长什么？在哪里会失败？有哪些变通方法？未来两三个月它们会进化到哪里？你的产品路线图应该如何应对？这已经是PM工作的核心部分。\"<br>— <a href=\"https://x.com/realmadhuguru/status/2094591503981281503\">@realmadhuguru</a>\n</blockquote>\n\n<hr>\n\n<h2>🎨 用 Markdown 驯服\"AI审美灾难\"</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 抛出了一个引发热议的观点：下一代设计系统的载体，是 Markdown。</p>\n\n<blockquote>\n\"你的下一套设计系统……是 Markdown。我们写了一篇文章，讲 DESIGN.md 如何帮助解决今天AI领域最棘手的问题：'平庸输出（slop）'。以及你如何在大型组织中真正地、终于地规模化设计品味。\"<br>— <a href=\"https://x.com/rauchg/status/2094541309579235680\">@rauchg</a>\n</blockquote>\n\n<p>这个想法的背后逻辑是：当AI生成界面和内容时，\"品味\"的传递不能靠口耳相传，必须有可执行的文档格式。Markdown 作为人机共读的语言，天然适合承载这种\"可编程的审美规范\"。</p>\n\n<p>Rauch 同时指出，AI编程token的成本管控已成企业级难题，并为此推出了 AI Gateway 的按用户预算功能：</p>\n\n<blockquote>\n\"编程token本质上是基础设施。然而企业的做法相当于：'给大家发一个AWS密钥，从每月3.8美元的nano实例到4万美元的p5实例，随便用。'……AI Gateway 为所有token使用提供治理、优化和可观测性。\"<br>— <a href=\"https://x.com/rauchg/status/2094523399280435630\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>🏭 垂直模型的黄金时代：数据才是真正的护城河</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 对开源模型崛起的战略意义给出了清晰判断：拥有大量行业数据的公司，终于可以不再仅仅靠\"授权数据给大模型\"来变现，而是可以自己训练专属模型了：</p>\n\n<blockquote>\n\"随着开源基础模型越来越强，后训练基础设施日趋成熟和商业化，那些拥有大量数据的公司将迎来全新的机会。过去，授权数据给外部模型训练是你唯一的选择；但现在，你完全可以自己训练模型，而不必承担与顶级实验室正面竞争的成本和复杂度。\"<br>— <a href=\"https://x.com/levie/status/2094650992818274514\">@levie</a>\n</blockquote>\n\n<p>这一判断与 AI 安全领域的动态相互印证——Levie 同时指出，<a href=\"https://x.com/levie/status/2094545525102235844\">开源模型在网络安全能力上正快速追赶前沿闭源模型</a>，这既是机遇，也是隐患。</p>\n\n<hr>\n\n<h2>👤 人才流动与工具之争</h2>\n\n<p>前 Linear 设计师 <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">Nan Yu</a> 宣布加入 OpenAI，负责 Codex 和 ChatGPT：</p>\n\n<blockquote>\n\"一些个人消息——我即将加入 OpenAI，参与 Codex 和 ChatGPT 的工作。感谢 Linear 团队四年来的精彩旅程，也为我们共同构建的一切感到自豪。我期待将在那里学到的软件工艺，带入这个新篇章。\"<br>— <a href=\"https://x.com/thenanyu/status/2094427243565269107\">@thenanyu</a>\n</blockquote>\n\n<p>在工具层面，Y Combinator 合伙人 <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 则毫不客气地在会议记录工具之争中站队，<a href=\"https://x.com/garrytan/status/2094465505142960443\">直言 Circleback 远胜 Granola</a>，并晒出了自己开源 AI agent 记忆层 GBrain 的最新评测结果——<a href=\"https://x.com/garrytan/status/2094462971598754010\">声称在无需LLM参与的记忆检索任务上达到当前最优水平</a>。小工具之争背后，折射的是 AI agent 基础设施竞争的白热化。</p>"
+}
