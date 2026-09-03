@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T06:41:29.179Z",
+  "builders": {
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: How a Professional Writer Writes With AI",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Background agents are quietly becoming the most important interface in AI — and today's feed makes the case that the race to make AI do the work <em>while you sleep</em> is well and truly on.</p>\n\n<h2>🤖 Claude Gets Off the Leash — Background Computer Use Arrives</h2>\n\n<p>The biggest product news of the day belongs to Anthropic. <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> announced that <a href=\"https://x.com/claudeai/status/2095226833293685100\">Claude can now use your computer in the background</a> — clicking, typing, and opening apps autonomously while you get on with something else. It's available in beta on Pro and Max plans via the macOS desktop app.</p>\n\n<p><a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> had been teasing this direction all day, noting simply that <a href=\"https://x.com/bcherny/status/2095378890370019683\">\"background computer use is underrated.\"</a> His Fable 5.1 demo made the point viscerally: Claude Tag in Slack now builds leadership decks from spreadsheets, cross-references vendor reports against internal metrics, and flags discrepancies — all before you've had your coffee.</p>\n\n<blockquote>\n  \"Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\" — <a href=\"https://x.com/bcherny/status/2095276133214491086\" data-handle=\"bcherny\">@bcherny</a>\n</blockquote>\n\n<p>The shift in mental model here is profound. As <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> put it with striking bluntness:</p>\n\n<blockquote>\n  \"We are not recording meetings for humans anymore. Nobody reads the AI summary notes or listens back. We are capturing transcripts to feed agents.\" — <a href=\"https://x.com/zarazhangrui/status/2095375073381318656\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>Meetings as agent fuel. That's the new paradigm.</p>\n\n<hr>\n\n<h2>⚡ Gemini 2.5 Flash and the Price-Performance Race</h2>\n\n<p>Google is pushing hard on value. <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> announced that <a href=\"https://x.com/joshwoodward/status/2095177483129917849\">Gemini 2.5 Flash is rolling out to the Gemini app</a>, with his characteristically efficient verdict: <a href=\"https://x.com/joshwoodward/status/2095178970912461279\">\"3.8 Flash = great quality @ great price.\"</a></p>\n\n<p>Meanwhile, <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> was watching something else on the frontier with barely-contained excitement — a major new model update from Muse:</p>\n\n<blockquote>\n  \"This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. If this thing gets released as open weights it completely changes the dynamic of US open weights competitiveness.\" — <a href=\"https://x.com/levie/status/2095234253613359200\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>The open weights angle matters enormously. <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> captured the trust dimension neatly: frontier labs saying \"we won't train on your data\" is getting harder to believe, which makes open-source models — even Chinese ones — paradoxically attractive for privacy-conscious builders. \"What a weird world,\" he writes.</p>\n\n<hr>\n\n<h2>🛠️ The Model Picker Is Dead. Long Live the Abstraction Layer.</h2>\n\n<p>One of the more thoughtful takes of the day came from <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a>, arguing that the era of asking users to choose their own model is over — or should be:</p>\n\n<blockquote>\n  \"Every AI product should be working towards abstracting model choice away from users. In any product, the intelligence is the underlying engine — all the user cares about is that the job gets done. Model picking is too much cognitive load for the user.\" — <a href=\"https://x.com/realmadhuguru/status/2095174463696589223\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<p>He argues it takes three things to make this work: deep knowledge of the model frontier across weight classes, great evals for your specific workflows, and a team that can continuously adapt as the frontier shifts. Easier said than built — but the direction is clearly right. The best AI products will feel like magic precisely because users never have to think about what's running underneath.</p>\n\n<p>On a related note, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> observed something quietly interesting about job titles at AI labs — \"Product Manager = Member of product staff, Designer = Member of design staff\" — and concluded that the dream of the single \"AI builder\" who does everything remains <a href=\"https://x.com/petergyang/status/2095255545594941910\">more fantasy than reality</a>. Specialization endures.</p>\n\n<hr>\n\n<h2>✍️ How a Professional Writer Actually Uses AI</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">AI & I — \"How a Professional Writer Writes With AI\" (Every)</a></p>\n\n<p>The best piece of longer-form content today comes from <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>'s <em>AI & I</em> podcast, featuring Every staff writer Katie Parrott in conversation with head of AI consulting Natalia Quintero. It's a genuinely moving origin story: Parrott turned to ChatGPT during a period of unemployment and depression, using it as a $20/month substitute for a career coach she couldn't afford.</p>\n\n<blockquote>\n  \"I felt like I was at the end of what I could do on my own, and I really needed an outside perspective. But because I was working on a budget with no clear visibility into how long I would be unemployed, hiring a real career coach wasn't really an option for me.\" — Katie Parrott, <em>AI & I</em>\n</blockquote>\n\n<p>What's striking is how her conclusion resists the easy techno-utopian narrative. Two years later, having built a plugin called <em>Compound Writing</em> to help others write the way Every does internally, she still insists the work belongs to the human:</p>\n\n<blockquote>\n  \"Clarity, it turns out, doesn't arrive gift wrapped from a digital assistant or even a human coach. It's something I had to dig out for myself, question by question and prompt by prompt. AI can help guide the way, but the journey is yours to take.\" — Katie Parrott, <em>AI & I</em>\n</blockquote>\n\n<p>For anyone building AI writing tools — or using them — this episode is worth an hour of your time.</p>\n\n<hr>\n\n<h2>🌍 The Industry Gets Physical: Replit Comes to London</h2>\n\n<p>Finally, a moment of IRL momentum. <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> announced that <a href=\"https://x.com/amasad/status/2095291912706220410\">Replit is opening its first international office in London</a>, celebrating with an event co-hosted with OpenAI and a fireside chat with <a href=\"https://x.com/paulg\" data-handle=\"paulg\">Paul Graham</a> on September 10th. For the London tech scene, this is a meaningful signal that the AI build-out is going genuinely global — not just coast-to-coast American.</p>\n\n<p><a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a>, meanwhile, offered the most viral cultural dispatch of the day: the ChatGPT desktop app has replaced his browser entirely, and OpenAI's internal culture, he says, is best described as a \"mega startup\" — <a href=\"https://x.com/thsottiaux/status/2095369901137654271\">\"extreme ownership, care and pace.\"</a> With 5,500+ likes on his productivity claim alone, he's clearly not the only one finding the new desktop paradigm transformative.</p>",
+  "html_zh": "<p class=\"lead\">智能体正在悄然接管日常工作——从后台电脑操控到会议记录，AI 的渗透深度远超大多数人的预期，而模型本身的迭代速度也丝毫没有放缓的迹象。</p>\n\n<h2>🤖 Claude 的后台电脑控制：被低估的生产力革命</h2>\n\n<p>本周最值得关注的产品发布，或许不是任何一个新模型，而是 <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 悄然推出的后台电脑使用功能（Computer Use）。Claude 现在可以在用户继续处理其他事务的同时，独立点击、输入、打开应用程序——真正意义上的\"分身\"。</p>\n\n<blockquote>\n\"Claude 现在可以在 Claude Cowork 和 Claude Code 中在后台使用你的电脑。交给它一项桌面任务，它会像你一样点击、输入、打开应用，同时你可以做其他事情。\" —— <a href=\"https://x.com/claudeai/status/2095226833293685100\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>这条推文获得了近九千个赞，是今日数据中互动最高的内容之一，足见市场对\"真正可操作的 AI 助理\"的渴望程度。<a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 也持同样判断：</p>\n\n<blockquote>\n\"后台电脑使用被严重低估了。\" —— <a href=\"https://x.com/bcherny/status/2095378890370019683\" data-handle=\"bcherny\">@bcherny</a>\n</blockquote>\n\n<p>与此同时，Anthropic 的 Fable 5.1 更新让 Slack 中的 Claude Tag 更加实用——<a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 展示了一个案例：系统从指标电子表格和 Slack 数据中自动生成领导力汇报幻灯片，并在发现供应商报告数据与内部数据矛盾时主动标记，再继续推进。这正是 AI 智能体从\"会话玩具\"进化为\"工作流节点\"的关键一步。</p>\n\n<hr>\n\n<h2>⚡ Gemini 3.8 Flash 与模型军备竞赛</h2>\n\n<p>Google 方面，<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> 宣布 Gemini 3.8 Flash 正式向 Gemini App 用户推出，定位简洁明了：</p>\n\n<blockquote>\n\"3.8 Flash = 极佳质量 @ 极佳价格。\" —— <a href=\"https://x.com/joshwoodward/status/2095178970912461279\" data-handle=\"joshwoodward\">@joshwoodward</a>\n</blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 则将目光投向了更宏观的趋势，对微软 Muse 模型的新进展感到震惊：</p>\n\n<blockquote>\n\"这周的 AI 发布绝对疯狂，现在又有来自 Muse 的重大模型更新。我们似乎正在到达能力进展的逃逸速度。如果这个东西以开放权重形式发布，将完全改变美国开放权重竞争格局。\" —— <a href=\"https://x.com/levie/status/2095234253613359200\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>此外，Anthropic API 侧关于 Claude 努力等级（effort levels）不破坏提示缓存的功能已上线，但 Claude Code 端的支持略有延迟，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 表示将在一天内跟进。</p>\n\n<hr>\n\n<h2>✍️ 专业写作者如何真正与 AI 共创</h2>\n\n<p>Every 的播客 <em>AI & I</em> 本期聚焦于一个更私人、更具说服力的故事：<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 团队的驻站作家 Katie Parrott 讲述了自己从 AI 怀疑者到\"AI 内容工厂\"的转变历程。Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">How a Professional Writer Writes With AI</a></p>\n\n<p>两年前，Parrott 刚刚失业、预算拮据，无力负担真正的职业教练，于是转向了 ChatGPT。她的反思极为坦诚：</p>\n\n<blockquote>\n\"清晰感并不是数字助手或人类教练包装好送来的礼物。它是我必须自己挖掘出来的东西，一个问题一个问题，一个提示一个提示。AI 可以引路，但这段旅程是你自己的。\" —— Katie Parrott，引自 <em>AI & I</em> 播客\n</blockquote>\n\n<p>这个故事的深层意义在于：AI 最持久的价值，不是替代思考，而是成为一面镜子——帮助你看清自己本已拥有的答案。Parrott 后来将这套方法论系统化，在两周内用 AI 完成了 8 篇博客、3 本电子书、24 条 LinkedIn 帖子等大量内容，真正实现了\"一人内容工厂\"。</p>\n\n<hr>\n\n<h2>🏢 OpenAI 的创业文化与 AI 原生工作方式</h2>\n\n<p>在工作方式的话题上，今天有两个有趣的信号并列出现。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 对 OpenAI 内部文化给出了罕见的正面背书：</p>\n\n<blockquote>\n\"我认为描述 OpenAI 文化的最好方式是'超级创业公司'。除非你从内部看，否则很难相信。极端的主人翁精神、投入感和节奏。\" —— <a href=\"https://x.com/thsottiaux/status/2095369901137654271\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>同一位作者还分享了一个更具体的行为变化：</p>\n\n<blockquote>\n\"ChatGPT 桌面应用现在是我的主浏览器，我的生产力从未如此之高。\" —— <a href=\"https://x.com/thsottiaux/status/2095288416292487289\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>而 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 的一句话则更为犀利，点出了 AI 原生工作流的本质转变：</p>\n\n<blockquote>\n\"我们记录会议已经不是为了人类了。没有人会去读 AI 摘要笔记，也没有人会回听。我们录制转录稿是为了喂给智能体。\" —— <a href=\"https://x.com/zarazhangrui/status/2095375073381318656\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>这句话值得每一个产品经理细细咀嚼——当智能体成为信息的真正消费者，整个企业软件的交互逻辑都需要重写。</p>\n\n<hr>\n\n<h2>💡 创业者视角：别为今天的模型问题构建产品</h2>\n\n<p>最后，几条来自投资者和创业者的战略性观点值得收尾。<a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> 对创业方向提出了一个经典但常被忽视的忠告：</p>\n\n<blockquote>\n\"太多创业公司专注于解决模型当下存在的问题（或利用当下的模型能力）。更有趣的是对一年后能力与问题的强烈预判——尽管这很难。\" —— <a href=\"https://x.com/adityaag/status/2095192873973301601\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p>在产品设计层面，<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 则认为\"让用户选择模型\"本身就是一种设计失败，真正成熟的 AI 产品应该将模型选择完全抽象掉——背后需要深度的模型评估体系、专项 evals 以及持续迭代的团队能力。这与 Replit 的国际化扩张（伦敦新办公室开幕）一道，共同勾勒出 AI 基础设施创业正在快速走向专业化、规模化的图景。</p>"
+}
