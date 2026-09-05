@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T06:35:59.594Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Redefining Chip Architecture with Arm CEO Rene Haas",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI's GPT-6 \"Astra\" rollout dominated the weekend news cycle — but the deeper story is how a frontier model release is reshaping product roadmaps, browser infrastructure, and the very definition of an AI agent's reach.</p>\n\n<h2>🚀 Astra Day: The Release That Moved Roadmaps Six Months Forward</h2>\n\n<p>Saturday felt like a holiday for the AI builder community. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> announced the staged rollout of GPT-6 Astra in quick succession — first to Pro, Enterprise, and Business Premium users, then to Plus and Business:</p>\n\n<blockquote>\n\"GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.\" — <a href=\"https://x.com/sama/status/2095973658867171733\">@sama</a>\n</blockquote>\n\n<p>The reaction from power users was immediate and effusive. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>, who had clearly been running Astra in early access, offered perhaps the week's most striking signal of the model's practical impact:</p>\n\n<blockquote>\n\"Astra was probably our biggest competitive advantage while it wasn't generally available. Since we've had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.\" — <a href=\"https://x.com/thsottiaux/status/2096101429832552872\">@thsottiaux</a>\n</blockquote>\n\n<p>To sweeten the weekend, he also announced a full \"banked reset\" of credits for all Plus, Pro, and Business users. The AI builder community, it seems, had a very good Saturday.</p>\n\n<p>On the creative-and-chaotic end of the spectrum, <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> put Astra to work on fantasy football film study, while <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> used it to generate character art for a roguelike deckbuilder — and noted it produced <a href=\"https://x.com/petergyang/status/2096036429159973348\">\"the most stereotypical image of a PM I've ever seen.\"</a> The model is clearly versatile, if occasionally on the nose.</p>\n\n<hr>\n\n<h2>🌐 The Browser Wars: Claude's Quiet Infrastructure Push</h2>\n\n<p>While OpenAI captured the headline attention, Anthropic spent the week quietly shipping what may prove to be more durable infrastructure. Two blog posts dropped in close succession, together sketching a coherent vision of Claude as a genuine web-native agent.</p>\n\n<p>First: <strong><a href=\"https://claude.com/blog/claude-in-chrome-generally-available\">Claude in Chrome is now generally available</a></strong> on every paid Claude plan, with a significant new capability — autonomous action mode. Instead of requiring approval for every click and keystroke, Claude can now act on its own, with a classifier validating each action before execution.</p>\n\n<p>The prompt injection problem — malicious instructions hidden in web content that try to hijack an agent's actions — has been Anthropic's primary stated concern since the Chrome pilot launched. The GA post details a layered defense: model training against a growing library of attacks, probes that screen web content before Claude acts on it, and action-level classifiers that block anything misaligned with the original request. Notably, no attack succeeded against Claude Fable 5, Opus 5, or Sonnet 5 in internal evaluations — even without the probe and classifier layers.</p>\n\n<p>Second: <strong><a href=\"https://claude.com/blog/cowork-built-in-browser\">Claude now has its own built-in browser in Cowork</a></strong>, separate from your personal browser entirely. The distinction the team draws is useful: the built-in browser is for <em>delegating</em> web tasks (research, invoice collection, vendor portals), while Claude in Chrome is for <em>collaborating</em> on pages you already have open. As the post puts it: \"a lot of web tasks don't need your browser, just a browser.\"</p>\n\n<p>Rolling out this week to Pro, Max, and Team plans on the desktop app — with Enterprise available immediately.</p>\n\n<hr>\n\n<h2>🔧 WebMCP and the Agent Infrastructure Layer</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel offered the week's most intellectually interesting infrastructure take, making the case for WebMCP — a protocol that lets web pages expose their own agent tools directly, rather than requiring separate MCP server configuration:</p>\n\n<blockquote>\n\"Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents <em>need</em> to ride the existing WWW infrastructure… WebMCP makes it more efficient. e.g: Next.js dev pages could expose debugging tools directly to agents in the specific tab they're testing, with page-specific context, instead of sifting through server logs.\" — <a href=\"https://x.com/rauchg/status/2096065378598441431\">@rauchg</a>\n</blockquote>\n\n<p>He also shared a link to a post arguing that <a href=\"https://x.com/rauchg/status/2095926173293572467\">\"AI software factories will yield bug-free, self-improving software\"</a> — a vision that rhymes with where browser-native agent infrastructure is clearly heading.</p>\n\n<p>On the tooling front, <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> was effusive about <a href=\"https://x.com/AsideAI\" data-handle=\"asideai\">@AsideAI</a>, an AI browser and agent harness that he says reduced a two-hour Slack integration setup to under three minutes. GStack has apparently adopted it as its preferred remote session browser — a strong endorsement from a high-signal operator.</p>\n\n<hr>\n\n<h2>🏭 Deep Hardware: ARM's CEO on Chips, AI, and the Supply Chain</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — Redefining Chip Architecture with ARM CEO Rene Haas</a></p>\n\n<p>For those who want to zoom out from model releases to the physical substrate underneath them, this week's No Priors is essential listening. ARM CEO Rene Haas explains the company's evolution from pure IP licensing to shipping its own physical CPUs — starting with a request from Meta for a \"general purpose agentic CPU\" that nobody else could supply.</p>\n\n<blockquote>\n\"There's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do.\" — Rene Haas, ARM CEO\n</blockquote>\n\n<p>On AI's role in chip design itself, Haas was characteristically blunt:</p>\n\n<blockquote>\n\"The actual design is not the largest amount of time. The largest amount of time is in the verification, the validation, the debug. AI is really good at that. And if we were to shut it off, it's like being in the 1990s — you've got internet and you're now saying, only internet between the hours of two and four. After that, go to the library. It'd be anarchy.\"\n</blockquote>\n\n<p>ARM's gross margin was once 98.5% — \"no inventory, no RMA, no scrap,\" as Haas recalls thinking when he joined from Nvidia. Building physical chips has complicated that beautiful simplicity, but the strategic logic is clear: when your customers can't get what they need from anyone else, you build it yourself.</p>\n\n<hr>\n\n<h2>💡 Builder Wisdom & The Weekend Assignment</h2>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit captured the week's ambient mood with a riff on a classic:</p>\n\n<blockquote>\n\"The singularity is here, it's just not evenly distributed.\" — <a href=\"https://x.com/amasad/status/2096022087035195647\">@amasad</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> offered the most practical advice of the week — a weekend challenge worth taking seriously:</p>\n\n<blockquote>\n\"Pick a workflow you know well — from your personal life or your work. Automate the whole thing with AI. This exercise will force you to think about: What does a great end-to-end experience look like? How should you use MCPs and tools? Where should humans stay in the loop? How do you evaluate it? You'll learn more by doing this once than by reading about AI product building for a month.\" — <a href=\"https://x.com/realmadhuguru/status/2095907570540335174\">@realmadhuguru</a>\n</blockquote>\n\n<p>Good advice. The models are now good enough that the bottleneck is imagination and execution — not capability. Enjoy the weekend.</p>",
+  "html_zh": "<p class=\"lead\">今天，AI 行业迎来了一个以\"模型即基础设施\"为核心的重要时刻——OpenAI 的 GPT-6 Astra 正式向大众推出，而 Anthropic 则悄然将 Claude 武装上了完整的浏览器能力，两家公司同日展示了截然不同的战略路径。</p>\n\n<h2>🚀 Astra 时刻：OpenAI 的新旗舰引爆社区</h2>\n\n<p>这一天，AI 推特的主角毫无悬念——GPT-6 Astra。<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 分两步宣布了这一消息：先是向 Pro、Enterprise 和 Business Premium 用户开放，随后扩展至 Plus 和 Business 用户。</p>\n\n<blockquote>\n\"GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，API 同步上线。感谢大家的耐心等待。\"<br>— <a href=\"https://x.com/sama/status/2095973658867171733\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>而最能说明 Astra 实际影响力的，或许不是 OpenAI 自己的声明，而是来自 Cursor 联合创始人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 的坦诚披露。他透露，在内测阶段，Astra 是他们最大的竞争优势——生产力的跃升甚至让他们把原定明年中期的发布计划提前了整整六个月。</p>\n\n<blockquote>\n\"自从用上 Astra，我们的生产力大幅提升，以至于将部分计划提前了六个月，将在 DevDay 而非明年年中发布。\"<br>— <a href=\"https://x.com/thsottiaux/status/2096101429832552872\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 则第一时间宣布 <a href=\"https://x.com/amasad/status/2095986658185453928\">Astra 已接入 Replit</a>，并附上了一句颇具末世感的感叹：</p>\n\n<blockquote>\n\"奇点已至，只是分布尚不均匀。\"<br>— <a href=\"https://x.com/amasad/status/2096022087035195647\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2>🌐 Claude 的浏览器战略：无缝、自主、有防护</h2>\n\n<p>就在 Astra 占据舆论头条的同一天，Anthropic 低调但坚定地推进了自己的 agent 布局。两篇博客同步发布，宣告 Claude 在浏览器能力上的全面跃进。</p>\n\n<p><strong>其一：<a href=\"https://claude.com/blog/claude-in-chrome-generally-available\">Claude in Chrome 正式全面开放</a>。</strong>这一扩展程序现已向所有付费用户开放，并引入了\"自动审批\"模式——Claude 可以在不打扰用户的情况下自主执行浏览器操作，但每一步都有安全分类器在后台实时审核，以防范提示注入攻击（prompt injection）。Anthropic 表示，在最新评估中，针对 Claude Fable 5、Opus 5 和 Sonnet 5 的提示注入攻击成功率为零。</p>\n\n<p><strong>其二：<a href=\"https://claude.com/blog/cowork-built-in-browser\">Claude Cowork 内置浏览器</a>。</strong>这是一个独立于用户本人浏览器的专属浏览环境——Claude 不会看到你的标签页、书签或密码。它更适合\"完全交给 AI 去做\"的网页任务，比如从供应商门户收集发票、或在不支持 API 集成的内部系统中填写表单。</p>\n\n<p>两种模式定位清晰：Claude in Chrome 适合\"当前页面，当前账户\"的实时协作；内置浏览器则适合\"甩给 Claude，我去干别的\"的异步委托。这是一个在产品设计上难得的清醒之举。</p>\n\n<hr>\n\n<h2>🔧 WebMCP 与 AI 原生基础设施的下一站</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 对 WebMCP 协议表达了强烈看好，并提出了一个颇具启发性的类比：</p>\n\n<blockquote>\n\"就像 Tesla FSD 需要适应现实世界的道路、红绿灯和坑洼一样，AI agent 也必须在现有的 WWW 基础设施上运行……WebMCP 让这一过程更高效。比如，Next.js 的开发页面可以直接向 agent 暴露调试工具，无需额外配置 MCP 服务器，因为页面本身就携带了上下文。\"<br>— <a href=\"https://x.com/rauchg/status/2096065378598441431\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>他还引用了一篇博文，提出\"AI 软件工厂将催生无 bug、自我迭代的软件\"。这与 <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 对 <a href=\"https://x.com/garrytan/status/2095948689823121872\">@AsideAI</a> 的大力推荐相互呼应——Aside 被他称为目前最好的 AI agent 浏览器与凭证管理工具，GStack 已将其设为默认远程浏览器。AI 原生的工具链正在快速成形。</p>\n\n<hr>\n\n<h2>🎙️ ARM CEO：芯片验证是 AI 的下一个主战场</h2>\n\n<p>本周 <em>No Priors</em> 播客邀请了 ARM CEO Rene Haas，深入探讨了芯片行业与 AI 的交叉地带。Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Redefining Chip Architecture with Arm CEO Rene Haas</a></p>\n\n<p>Haas 指出，芯片设计流程中耗时最长的并非设计本身，而是验证与调试——而这恰恰是 AI 大展身手的地方：</p>\n\n<blockquote>\n\"芯片设计从头到尾可能需要二十四到三十六个月，但最耗时的不是设计，而是验证、确认和调试。AI 在这方面非常擅长。如果现在把它关掉，就像回到九十年代，你有了互联网，却被告知只能在下午两点到四点之间使用——剩下的时间请去走廊尽头的图书馆查资料。那会是一场灾难。\"<br>— Rene Haas，ARM CEO\n</blockquote>\n\n<p>他还披露了 ARM 推出自有物理芯片产品的幕后逻辑：Meta 需要一款通用的 agentic CPU，市场上找不到，于是找到 ARM 联合开发——这正是 ARM GI CPU 的起源。ARM 正在从一家 IP 授权公司，悄然转型为 AI 基础设施的直接参与者。</p>\n\n<hr>\n\n<h2>💡 编辑手记：学习的唯一方式是动手做</h2>\n\n<p>在今天这个新模型、新工具密集发布的周末，<a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 的一条推文或许是最值得收藏的一条：</p>\n\n<blockquote>\n\"挑一个你熟悉的工作流，用 AI 把它端到端地自动化。这个练习会逼着你思考：好的用户体验是什么样的？MCP 和工具应该怎么用？人在哪些环节应该留在回路中？怎么做评估？你做一次，胜过读一个月关于 AI 产品构建的文章。学习的唯一方式是动手。\"<br>— <a href=\"https://x.com/realmadhuguru/status/2095907570540335174\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<p>今天的行业节奏已经快到令人眩晕——Cursor 把发布计划提前了半年，Anthropic 同日发出两篇重磅博客，OpenAI 在同一天完成了从 Pro 到 Plus 的全量推送。<a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> 说得最诚实：<em>\"我完全理解 RL、推理时扩展、现代数据验证循环是怎么工作的。但这些模型能做到的事，依然像魔法一样不可思议。\"</em> 也许，承认这种敬畏感，本身就是理解这个时代的第一步。</p>"
+}
