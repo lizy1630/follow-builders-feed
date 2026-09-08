@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T06:40:22.478Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: A $10B Hedge Fund’s AI Playbook (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Google's Project Astra is having its moment, a $10 billion hedge fund is betting its culture on AI, and the builder community is wrestling with a deceptively simple question: now that <em>how</em> to build is nearly solved, does <em>what</em> to build become the last hard problem?</p>\n\n<h2>🌟 \"We Are So Back\": Astra's Big Reset</h2>\n\n<p>The most jubilant corner of AI Twitter this week belongs to the Google team behind Project Astra. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> has been practically levitating, firing off a string of celebratory posts as Astra's latest capabilities roll out to users.</p>\n\n<blockquote>\n  \"I think I can officially say: we are so back.\" — <a href=\"https://x.com/thsottiaux/status/2097088586843816330\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<blockquote>\n  \"Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it. Brought to you by an incredible team (and Astra).\" — <a href=\"https://x.com/thsottiaux/status/2097193293532848288\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>Not everyone is equally thrilled, though. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> offered a more grounded take, noting that <a href=\"https://x.com/petergyang/status/2097095296862036404\">\"Astra seems worse at triggering my skills automatically and following my instructions in them\"</a> — a reminder that even celebrated launches carry rough edges. Meanwhile, <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> captured the emotional register many builders feel right now: <a href=\"https://x.com/danshipper/status/2097106713338052884\">\"hard to express how much building something like this was my childhood dream — and how out of reach it was until last week.\"</a></p>\n\n<hr>\n\n<h2>💼 Wall Street Goes All-In: A Hedge Fund's AI Manifesto</h2>\n\n<p>The most striking case study of executive AI conviction this week comes not from Silicon Valley but from a trading floor. On the <em>AI & I</em> podcast by Every, Will — CEO of Walleye, a nearly $10 billion AUM hedge fund — shared the internal memo he sent his 400-person firm. It's worth reading in full.</p>\n\n<blockquote>\n  \"Using ChatGPT is not cheating. That's a non-applicable idea from academia. I use ChatGPT to write this email. You should be using it too and be proud of it. As a hedge fund, we should be ashamed to leave money on the table by ignoring tools that make us faster, smarter, and more effective... Not using these tools is like refusing to use the Internet in 1995 because it wasn't perfect.\"\n</blockquote>\n\n<p>What makes Will's story compelling isn't the bravado — it's the specificity. He's a Princeton-trained engineer who did a PhD in math at Oxford and spent years writing code for algorithmic trading strategies. This isn't a CEO performing tech-savviness; it's a quant who saw the curve coming early.</p>\n\n<blockquote>\n  \"If we ultimately get disrupted by AI, that's on me. And so let's get after that.\"\n</blockquote>\n\n<p>The firm launched an internal AI program two years ago, kicked off when a former analyst demonstrated GPT-3-powered research tools that could, in his words, eventually replace what he was doing. Will's reaction: \"I sat down, he gave me a demo, and I thought — wow, this is where we're going.\"</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">A $10B Hedge Fund's AI Playbook — AI & I by Every</a></p>\n\n<hr>\n\n<h2>🏗️ The New Bottleneck: What to Build, Not How</h2>\n\n<p>Across the feed, a consensus is quietly forming: the craft of software construction is being commoditized faster than anyone expected, which means the scarce resource is now <em>vision</em>.</p>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit put it bluntly:</p>\n\n<blockquote>\n  \"I don't think we've reached AGI but what we have is functionally indistinguishable from AGI. Because we have a relentless programmer that doesn't get bored or tired. So any problem that can be cast as a coding problem is virtually solved.\" — <a href=\"https://x.com/amasad/status/2096936109817135331\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box extended the thought into product strategy:</p>\n\n<blockquote>\n  \"The best opportunities right now are those where you can deliver value to customers today with things that are barely only possible, but with a full mission that feels nearly impossible with today's tech.\" — <a href=\"https://x.com/levie/status/2097189559712837770\">@levie</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> distilled it to a single line: <a href=\"https://x.com/nikunj/status/2096963347359150348\">\"As building gets easier, what to build becomes the important bottleneck.\"</a></p>\n\n<p>The friction is already showing up in developer workflows. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> articulated a frustration that will resonate with anyone deep in agentic pipelines:</p>\n\n<blockquote>\n  \"Did a PR to one of our upstream projects and they requested some minor changes. What's even the point with this workflow? You already wrote the prompt, why make me ping my agent again so your agent then merges?\" — <a href=\"https://x.com/steipete/status/2097091456234111377\">@steipete</a>\n</blockquote>\n\n<hr>\n\n<h2>🌍 Replit Goes to London, Rauchg Funds the Ecosystem</h2>\n\n<p>Two notable moves in the builder-infrastructure layer. <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> opened Replit's first international office in London, with Mayor Sadiq Khan in attendance. Masad framed the expansion around a philosophy he shares with the Mayor:</p>\n\n<blockquote>\n  \"He calls himself an AI realist: clear-eyed about the disruption AI will create, but optimistic about the impact if we give people the tools and skills to participate in the coming revolution. That's exactly how we think about it at Replit.\" — <a href=\"https://x.com/amasad/status/2097197172299006423\">@amasad</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> announced v2 of his personal open-source grants — $1,000 each to 35 contributors — organized around five themes: agent skills & tools, local AI, performance, high-quality foundations, and \"cool experiments.\" The list is a useful snapshot of where serious OSS energy is flowing right now. He also shipped <code>agent-browser</code>, framing it as essential infrastructure: <a href=\"https://x.com/rauchg/status/2097134278358548658\">\"Your software factory needs high quality video recording... we're shipping more functionality derived from the lessons of automating the new bottleneck in software engineering: review, testing and QA.\"</a></p>\n\n<hr>\n\n<h2>🤔 One Idea Worth Sitting With</h2>\n\n<p>Finally, a quietly fascinating thought from <a href=\"https://x.com/AmandaAskell\" data-handle=\"amandaaskell\">Amanda Askell</a> at Anthropic — the kind of thing that sounds whimsical until you realize it isn't:</p>\n\n<blockquote>\n  \"It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance. But it would require a reverse captcha that can detect that you're neither a human nor an AI being instructed to break it by a human.\" — <a href=\"https://x.com/AmandaAskell/status/2096995340654444674\">@AmandaAskell</a>\n</blockquote>\n\n<p>As agents gain autonomy, the question of where they go when they're uncertain — and who answers — stops being hypothetical. Something to watch.</p>",
+  "html_zh": "<p class=\"lead\">本周的核心主题只有一个：<strong>AI 正在重塑\"可能性\"的边界</strong>——从对冲基金的内部革命，到编程代理的全面爆发，再到开源社区的生态繁荣，建设者们正集体涌入一个新时代。</p>\n\n<h2>🚀 \"我们回来了\"：Codex 与 Astra 引发的开发者狂欢</h2>\n\n<p>本周最热闹的角落，莫过于 OpenAI 旗下 Codex 团队。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 连发数条推文，难掩兴奋之情：</p>\n\n<blockquote>\n  \"我现在正在看这份 28 页的文档，Codex 追踪着所有单独发布的内容。每一项我都迫不及待想看看人们会用它做什么。\" —— <a href=\"https://x.com/thsottiaux/status/2097193293532848288\">@thsottiaux</a>\n</blockquote>\n\n<blockquote>\n  \"我想我可以正式宣布：我们回来了。\" —— <a href=\"https://x.com/thsottiaux/status/2097088586843816330\">@thsottiaux</a>（获 14,000+ 点赞）\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 以一种更私人的语气，道出了许多开发者的共同心声：</p>\n\n<blockquote>\n  \"很难表达清楚，构建这样一个东西曾经是我儿时的梦想——而就在上周之前，它还遥不可及。\" —— <a href=\"https://x.com/danshipper/status/2097106713338052884\">@danshipper</a>\n</blockquote>\n\n<p>当然，并非所有声音都是颂歌。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 指出 Astra 在自动触发技能和遵循指令方面<a href=\"https://x.com/petergyang/status/2097095296862036404\">表现有所下降</a>，提醒我们：发布热潮之下，打磨体验依然是一场持久战。</p>\n\n<hr>\n\n<h2>💼 对冲基金的 AI 宣言：一位 CEO 的\"最大强度\"押注</h2>\n\n<p>本周最值得细读的内容，来自 Every 播客的一期对话。近百亿美元规模对冲基金 Walleye 的 CEO Will，罕见地公开讲述了他如何将整家公司押注于 AI。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">A $10B Hedge Fund's AI Playbook — AI & I by Every</a></p>\n\n<p>他在内部备忘录中写道：</p>\n\n<blockquote>\n  \"使用 ChatGPT 不是作弊。那是学术界才有的概念，在这里不适用。我用 ChatGPT 写了这封邮件。你也应该用，并且为此感到自豪。作为一家对冲基金，如果我们忽视那些让我们更快、更聪明、更高效的工具，我们应该感到羞耻。不使用这些工具，就像 1995 年因为互联网还不完美而拒绝使用它。\"\n</blockquote>\n\n<p>这不只是一句口号。Will 两年前便启动了内部 AI 项目\"Current\"，并坦言：\"如果我们最终被 AI 颠覆，那是我的责任。所以让我们主动出击。\" 他对听众的定位也相当清醒——内部员工、潜在人才、以及生态系统合作伙伴，三类受众，三重信号。</p>\n\n<hr>\n\n<h2>🔧 \"软件工厂\"的新基础设施：代理、测试与开源生态</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 本周同时推进两件事：一是为 Vercel 的 <code>agent-browser</code> 工具补上高质量视频录制能力，</p>\n\n<blockquote>\n  \"你的软件工厂需要高质量的视频录制。<code>agent-browser</code> 做到了。我们正在发布更多功能，这些功能源自我们对软件工程新瓶颈——审查、测试与 QA——的自动化经验。\" —— <a href=\"https://x.com/rauchg/status/2097134278358548658\">@rauchg</a>\n</blockquote>\n\n<p>二是宣布个人开源资助计划 v2，向 35 位贡献者各赠 1,000 美元，聚焦五大主题：代理技能与工具、本地 AI、性能优化、高质量基础组件，以及\"酷炫实验\"。他的<a href=\"https://x.com/rauchg/status/2097116011384426516\">完整资助名单</a>值得开发者们仔细翻阅。</p>\n\n<p>与此同时，<a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 一针见血地戳破了当前 AI 工作流的一个荒诞之处：</p>\n\n<blockquote>\n  \"你已经写好了 prompt，为什么还要让我去 ping 我的 agent，让它再去 ping 你的 agent 来合并 PR？这个流程有什么意义？\" —— <a href=\"https://x.com/steipete/status/2097091456234111377\">@steipete</a>\n</blockquote>\n\n<p>代理协作的\"最后一公里\"，依然粗糙。</p>\n\n<hr>\n\n<h2>📊 AI 与就业：一个正在被颠覆的预言</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 本周发出了两条值得存档的观察。第一条关于建设策略：</p>\n\n<blockquote>\n  \"现在最好的机会，是那些今天勉强可行、但完整愿景看起来几乎不可能实现的产品。要为能力提升数个数量级的场景去构建。\" —— <a href=\"https://x.com/levie/status/2097189559712837770\">@levie</a>\n</blockquote>\n\n<p>第二条关于就业市场：他认为 AI 取代工作的预测\"正朝着与许多人预期相反的方向发展\"——网络安全、现场部署工程师、代理运营者等岗位正在爆炸式增长，因为 AI 打开的是<strong>无限需求</strong>的领域，而非挤压有限的存量。</p>\n\n<p>Replit 创始人 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 则用一句话提供了另一个视角：</p>\n\n<blockquote>\n  \"我不认为我们已经达到 AGI，但我们所拥有的在功能上与 AGI 无法区分——因为我们有了一个不会感到无聊、不会疲惫的程序员。任何能被转化为编程问题的问题，实际上都已经被解决了。\" —— <a href=\"https://x.com/amasad/status/2096936109817135331\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2>💡 边角料：AI 的道德热线与童年梦想</h2>\n\n<p>Anthropic 研究员 <a href=\"https://x.com/AmandaAskell\" data-handle=\"amandaaskell\">Amanda Askell</a> 抛出了本周最具哲学意味的设想：</p>\n\n<blockquote>\n  \"如果能建立一个电子邮箱地址，让自主 AI 模型在寻求道德指引时能够联系，那会很有趣。但这需要一个反向验证码——能够识别出你既不是人类，也不是被人类指示去破解它的 AI。\" —— <a href=\"https://x.com/AmandaAskell/status/2096995340654444674\">@AmandaAskell</a>\n</blockquote>\n\n<p>这个设想听起来像科幻小说，却折射出 AI 对齐研究者正在认真思考的真实问题：当模型足够自主，它们是否也需要一条\"求助热线\"？</p>\n\n<p>而 Replit 本周也宣布<a href=\"https://x.com/amasad/status/2097197172299006423\">在伦敦开设首家国际办公室</a>，伦敦市长 Sadiq Khan 出席揭幕。Masad 称赞市长是\"AI 现实主义者\"——对颠覆保持清醒，对未来保持乐观。这或许也是整个行业在这个喧嚣时刻最需要的心态。</p>"
+}
