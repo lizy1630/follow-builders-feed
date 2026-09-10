@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T06:40:40.193Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    }
+  },
+  "html_en": "<p class=\"lead\">A day of quiet infrastructure-building across the AI industry — from OpenAI navigating its first growing pains at scale to Anthropic quietly expanding its commercial ecosystem — while the deeper question of what AI actually does to human work refuses to stay settled.</p>\n\n<h2>⚠️ OpenAI's First Reset Fumble — and How It Handled It</h2>\n\n<p>Even the best-run launches hit turbulence. OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> — who appears to be a new face at the company — had to address a real hiccup on day one of his public presence:</p>\n\n<blockquote>\n\"There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.\" — <a href=\"https://x.com/thsottiaux/status/2097752790177370535\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>The response was textbook: transparent, specific, and remediated quickly. What's more interesting is the broader signal — thsottiaux is clearly someone newly embedded in the product layer, and his aside about naming meetings is the kind of detail that suggests a researcher-turned-PM energy:</p>\n\n<blockquote>\n\"One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff.\" — <a href=\"https://x.com/thsottiaux/status/2097912273264095536\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> welcomed someone named Paul back into the fold on safety work — <a href=\"https://x.com/sama/status/2097776310940569783\">\"Grateful you are doing this, and all you have done for AI safety. Excited to work together again\"</a> — without elaborating further. The cryptic warmth suggests a significant hire or return, details pending.</p>\n\n<hr>\n\n<h2>🏪 Anthropic Opens Its Marketplace for Business</h2>\n\n<p>The Claude Marketplace quietly became a lot more interesting today. <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> announced a cohort of enterprise-grade additions that reads like a who's-who of the developer infrastructure world:</p>\n\n<blockquote>\n\"New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel. Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.\" — <a href=\"https://x.com/claudeai/status/2097718980437831935\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>The strategic logic here is sharp: by routing enterprise spend commitments through the marketplace, Anthropic turns its API relationships into a distribution flywheel. Cursor, Vercel, and Factory are tools that developers already live inside — getting them listed means Claude becomes ambient infrastructure rather than a product you have to choose. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> at Vercel has been tracking the pricing dimension of this race separately, noting <a href=\"https://x.com/rauchg/status/2097828203658383674\">\"8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone.\"</a> Falling prices plus expanding distribution is a potent combination.</p>\n\n<hr>\n\n<h2>💻 Coding Agents: The Sleeper Category Nobody's Done Counting</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> laid out the most optimistic — and arguably most coherent — case for coding agents going mainstream, and it's worth reading in full:</p>\n\n<blockquote>\n\"The world is going to be using coding agents for far more than anyone would have thought before. We'll be building tools in all new categories, building software for companies that couldn't afford it before, using agents to protect systems from cyber risk, automating research in life sciences… By lowering the cost of code, we are going to do so much more with it. This will result in software becoming more useful and the leverage of engineers going up dramatically, which coincidentally will mean we need more of them, not fewer.\" — <a href=\"https://x.com/levie/status/2097920810543468551\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>The \"more engineers, not fewer\" argument is the productive contrarian take of the moment — and it connects to Levie's separate thread on why AI's GDP impact will disappoint near-term forecasters:</p>\n\n<blockquote>\n\"You could bring the world's greatest superintelligence to many workflows, and still be bound by the laws of corporate physics: getting data prepared and put into a pipeline, process reengineering and change management, aligning on how the new workflow should function… AI diffusion is going to be the theme of the next decade.\" — <a href=\"https://x.com/levie/status/2097738533297689012\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>This is a useful corrective to both the doom and the hype. The bottleneck isn't intelligence — it's integration.</p>\n\n<hr>\n\n<h2>🧠 The Jobs Question: What the Task-List Models Miss</h2>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> published a sharp methodological critique of a jobs-and-automation report making the rounds. The critique cuts deeper than most:</p>\n\n<blockquote>\n\"Does automation always reduce human work? In my experience, the answer is no. Automation often creates multiples more work for humans… Another way of looking at this, borrowing from Wittgenstein and Heidegger, is that a job is a particular way of seeing and caring about the world. An editor notices things a nurse doesn't, and vice versa. What you care about shapes what you notice, what seems worth doing, and what counts as doing it well. You can make some of that explicit as a task list. But as your tools and circumstances change, the same cares can generate entirely new tasks. That process is part of the job.\" — <a href=\"https://x.com/danshipper/status/2097758891270697101\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p>It's a genuinely philosophical intervention in what usually passes for economic analysis. The full argument is <a href=\"https://t.co/Lb7SUCe2pO\">here</a>. The core insight — that \"jobs as task lists\" is a frame that makes automation measurable but not necessarily true — is one that labor economists would do well to wrestle with seriously.</p>\n\n<hr>\n\n<h2>⚡ Builder Notes</h2>\n\n<p>A few quieter signals worth tracking: <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> got cloud sessions working fast in <strong>OpenClaw</strong>, including Remote Terminal, WebVNC and computer-use — a milestone for anyone building agent infrastructure that needs to reach out and touch real machines. The <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel</a>/<a href=\"https://x.com/rauchg/status/2097837950612717804\">Benchmark event in SF</a> on AI evals is shaping up to be one of the more intellectually serious gatherings of the season. And <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>, for his part, has already blocked his calendar for November 5th and 6th — the Ocarina of Time remake takes priority over everything.</p>",
+  "html_zh": "<p class=\"lead\">今日AI圈最引人注目的主线，是技术能力与现实扩散速度之间的深层张力——从OpenAI的运营小插曲，到Claude生态系统的快速扩张，再到一场关于\"自动化究竟会消灭还是创造工作\"的严肃辩论，这个行业正在以比任何人预期都更复杂的方式走向成熟。</p>\n\n<hr>\n\n<h2>🔧 OpenAI的小风波：当\"重置\"没有真正重置</h2>\n\n<p>今天早上，OpenAI遭遇了一次尴尬的技术失误。<a href=\"https://x.com/thsottiaux/status/2097752790177370535\" data-handle=\"thsottiaux\">@thsottiaux</a> 坦诚地向用户说明了情况：</p>\n\n<blockquote>\n\"今天早上，ChatGPT Work和Codex中有部分已储存的重置未能完全生效。所有在受影响时间窗口内使用过的用户，都将获得一次额外补偿，并收到一封道歉邮件。\"\n</blockquote>\n\n<p>这位OpenAI工程师同时也流露出对这份工作的真实热情——<a href=\"https://x.com/thsottiaux/status/2097912273264095536\" data-handle=\"thsottiaux\">分享道</a>，和研究人员一起争论新模型命名是\"最大的乐趣之一\"，\"他们总能想出最搞笑的名字\"。透明沟通加上自嘲式幽默，是大公司与用户维系信任的低成本方式。</p>\n\n<p>与此同时，<a href=\"https://x.com/sama/status/2097695001341829212\" data-handle=\"sama\">Sam Altman</a> 对某条可能影响服务的消息回应简短而有力：\"这会很糟糕，但我们会优先保障用户服务质量，直到我们重新站稳脚跟。\" 危机沟通教科书式的表态。</p>\n\n<hr>\n\n<h2>🏪 Claude Marketplace：Anthropic开始构建生态护城河</h2>\n\n<p>今天最值得关注的产品动态，来自Anthropic。<a href=\"https://x.com/claudeai/status/2097718980437831935\" data-handle=\"claudeai\">Claude官方账号宣布</a>，Claude Marketplace迎来重量级新成员：</p>\n\n<blockquote>\n\"CrowdStrike、Cursor、Factory AI、Gamma App和Vercel现已加入Claude Marketplace。企业客户现在可以用Anthropic的消费承诺额度，直接购买更多由Claude驱动的产品和智能体。\"\n</blockquote>\n\n<p>这不只是一次合作公告，而是一个生态战略信号。Anthropic正在将Claude定位为企业AI采购的统一入口——类似AWS Marketplace的逻辑：让客户用同一张账单，购买整个由Claude驱动的软件世界。对于<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel的Guillermo Rauch</a>而言，这也契合他今天分享的另一条消息：过去六个月，Vercel已完成\"8次降价、取消费用及结构优化，以及16款模型折扣\"。AI基础设施的价格战仍在持续。</p>\n\n<hr>\n\n<h2>📊 自动化会消灭工作，还是创造工作？一场被低估的辩论</h2>\n\n<p>今天最具思想深度的内容，来自<a href=\"https://x.com/danshipper/status/2097758891270697101\" data-handle=\"danshipper\">Dan Shipper</a>对一份就业影响报告的细致批评。他指出该报告存在两个根本性假设盲区：</p>\n\n<blockquote>\n\"自动化真的总是减少人类工作量吗？根据我的经验，答案是否定的。自动化往往会为人类创造出数倍于原来的新工作……另一种视角，借用维特根斯坦和海德格尔的思路：一份工作，是一种特定的看待和关心世界的方式。编辑注意到的事情，护士不会注意到，反之亦然。你所关心的，塑造了你所观察到的、值得去做的、以及何为'做好'的标准。\"\n</blockquote>\n\n<p>这段话击中了当前AI经济学讨论中最薄弱的环节：大多数模型把工作拆解为任务清单，却忽略了\"关怀\"和\"视角\"本身也是工作的一部分。<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 从另一个角度呼应了这一判断：</p>\n\n<blockquote>\n\"AI扩散将是未来十年的主题。即便你拥有世界上最强大的超级智能，你依然受制于企业物理定律：数据准备、流程再造、变革管理……还有现实世界的速度：等待客户回复提案、等待项目获批许可、一条药物研发管线需要数年才能抵达消费者。\"\n</blockquote>\n\n<p>能力与影响之间，永远隔着一段叫\"扩散\"的距离。</p>\n\n<hr>\n\n<h2>🛠️ 构建者日记：从命名到部署</h2>\n\n<p>今日来自一线构建者的碎片，同样值得关注。<a href=\"https://x.com/steipete/status/2097935551735423464\" data-handle=\"steipete\">steipete</a> 宣布在OpenClaw中实现了云端会话的快速运行，支持\"远程终端、WebVNC和计算机使用的CUA\"——AI原生开发工具栈正在快速成形。</p>\n\n<p><a href=\"https://x.com/petergyang/status/2097729250505966046\" data-handle=\"petergyang\">Peter Yang</a> 则分享了一个有趣的模型测试方法：让AI对你的盲点给出\"残酷诚实的反馈\"——他特别提到Google的Astra\"反馈尤为直接\"。</p>\n\n<p>而<a href=\"https://x.com/sama/status/2097776310940569783\" data-handle=\"sama\">Sam Altman</a> 今天最高赞的严肃推文，是欢迎Paul加入OpenAI从事AI安全工作：\"感谢你为AI安全所做的一切，很高兴再次携手合作。\" 至于他今天点赞最多的推文？是《时之笛》重制版的消息，他表示\"11月5日和6日将无法联系到我，需要备好一箱Mountain Dew。\" 这才是真实的硅谷。</p>\n\n<hr>\n\n<h2>💡 今日一句</h2>\n\n<p><a href=\"https://x.com/zarazhangrui/status/2097599758391255259\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 今天用五个字总结了创业最难的地方：</p>\n\n<blockquote>\n\"想法容易，信念难。\"\n</blockquote>\n\n<p>在这个每周都有新模型、新基准、新生态的时代，这句话或许比任何技术分析都更值得钉在墙上。</p>"
+}
