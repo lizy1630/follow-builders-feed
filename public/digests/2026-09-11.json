@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T06:40:01.402Z",
+  "builders": {
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: When AI Improves Itself | Richard Socher (Recursive)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is maturing on two fronts simultaneously: a furious infrastructure build-out to handle demand that's already breaking systems, and a dawning reckoning with the dual-use dangers that capable models inevitably bring.</p>\n\n<h2>🔥 Demand Is Breaking Everything — In a Good Way</h2>\n\n<p>The clearest signal that AI has crossed some adoption threshold: <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>, apparently posting from inside OpenAI, shared a remarkable announcement about Astra's $200 Pro plan:</p>\n\n<blockquote>\"To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible.\" — <a href=\"https://x.com/thsottiaux/status/2098113585683808624\">@thsottiaux</a></blockquote>\n\n<p>Pausing your highest-tier paid plan due to demand is a genuinely unusual move — and a telling one. Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel reported that agentic deployments are putting pressure on infrastructure at a civilizational scale:</p>\n\n<blockquote>\"Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date... We just made this system 91% faster at p99, and in the process sped up the build→deploy pipeline. All of this while the system is under immense pressure from the growth in agentic deployments.\" — <a href=\"https://x.com/rauchg/status/2098091056302833837\">@rauchg</a></blockquote>\n\n<p>Vercel also announced <a href=\"https://x.com/rauchg/status/2098158541932794222\">\"a computer for every agent, in every region\"</a> — shorthand for the kind of distributed compute fabric that agentic workloads require. The infrastructure layer is clearly in a race to keep up.</p>\n\n<hr>\n\n<h2>🛡️ The Security Reckoning Arrives in the Enterprise</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box did his usual road-warrior synthesis, meeting with technology leaders across banking, media, insurance, and consulting. His field report is one of the more grounded enterprise dispatches you'll read this week — and cybersecurity dominated the conversation:</p>\n\n<blockquote>\"Cyber! Everyone nervous about the growing rate of vulnerabilities coming at them from AI, and the implications of the OpenAI Hugging Face incident. The conversation is not as existential as it is in Silicon Valley, but still highly concerned and pragmatic about what to do about it operationally... Lots of new discoveries due to AI, and still hard to keep up with all the changes they have to execute now.\" — <a href=\"https://x.com/levie/status/2098218284139311615\">@levie</a></blockquote>\n\n<p>Anthropic's <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> was more pointed, flagging the company's latest Threat Intelligence report as essential reading:</p>\n\n<blockquote>\"As models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack critical infrastructure; a model that assists with biology research can also be used to engineer the next pandemic.\" — <a href=\"https://x.com/bcherny/status/2098281805770309686\">@bcherny</a></blockquote>\n\n<p>Levie also noted that \"agent security and identity\" has become a boardroom topic: enterprises want to assign identities to agents and control what they touch — but the messy reality is that agents often need to act <em>as</em> the user. No clean solution yet.</p>\n\n<hr>\n\n<h2>🧑‍💻 How to Actually Ship Good Code With AI</h2>\n\n<p>One of today's most widely shared threads came from Anthropic's <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a>, who responded to a user question about code quality with a frank, practical framework. It's worth reading in full:</p>\n\n<blockquote>\"Prototypes and other throw-away code can be treated as totally black box... Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring... Your job is to hold the bar on code quality.\" — <a href=\"https://x.com/bcherny/status/2098217573276131577\">@bcherny</a></blockquote>\n\n<p>He also name-dropped the model lineup in a way that will interest close watchers — references to \"Opus 5 or Fable 5.1\" suggest Anthropic's internal naming conventions are evolving. Speaking of which, <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> announced <a href=\"https://x.com/claudeai/status/2098138736642933143\">Fable 5.1 Build Days</a>, a global series of buildathons running September 11–25.</p>\n\n<p>On a related note, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> flagged a counterintuitive insight about AI-era software architecture that's been circulating:</p>\n\n<blockquote>\"Duplicating logic is no longer painful. Abstractions still are.\" — <a href=\"https://x.com/steipete/status/2098089196800098798\">@steipete</a></blockquote>\n\n<p>A small but profound reframe: the economics of code have shifted enough that the old DRY (Don't Repeat Yourself) religion may need updating.</p>\n\n<hr>\n\n<h2>🔬 The Eureka Machine: AI as the New Calculus for Science</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">When AI Improves Itself | Richard Socher (Recursive) — The MAD Podcast with Matt Turck</a></p>\n\n<p><a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> sat down with <a href=\"https://x.com/RichardSocher\" data-handle=\"richardsocher\">Richard Socher</a>, who just raised $650M for Recursive — a company built around the premise of recursive self-improvement. The conversation is a fascinating tour through what Socher calls \"the labyrinth of knowledge\" problem: scientific progress has paradoxically slowed as the body of knowledge has exploded into 34,000 journals and thousands of sub-fields no single researcher can traverse.</p>\n\n<blockquote>\"A good example in biology is that you study not all of biology anymore. You study either biology at the cell level or the tissue level or the biochemistry level or the protein level — and if you ask a PhD in biology about a deep question in one of the other layers, they often don't know either.\" — <a href=\"https://x.com/RichardSocher\" data-handle=\"richardsocher\">Richard Socher</a></blockquote>\n\n<p>His thesis: AI is to biology what calculus was to physics — a new language capable of weaving complex systems back together. The recursive self-improvement loop, he argues, is the unlock:</p>\n\n<blockquote>\"Anything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop... Boy, are we far away from the true upper bounds of any of the spaces of intelligence.\" — <a href=\"https://x.com/RichardSocher\" data-handle=\"richardsocher\">Richard Socher</a></blockquote>\n\n<hr>\n\n<h2>📡 Signals & Noise</h2>\n\n<ul>\n  <li><strong>Gemini hits Windows</strong> — <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> <a href=\"https://x.com/joshwoodward/status/2098131750660772342\">announced the desktop app</a>, a quiet but meaningful distribution expansion for Google.</li>\n  <li><strong>Google Labs launches Dreambeans</strong> — <a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">@GoogleLabs</a> opened its <a href=\"https://x.com/GoogleLabs/status/2098110018289803558\">AI dream-journaling app</a> to all US users, now integrated with Gemini for personalization.</li>\n  <li><strong>VC fever math</strong> — <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> offers a dry market read: <a href=\"https://x.com/nikunj/status/2098078391065018816\">\"everyone wants to raise a $50M seed, everyone thinks they'll hit $30M ARR next year, and every hot tranched seed round magically ends up at ~$300M valuation.\"</a></li>\n  <li><strong>Eval craft</strong> — <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> continues a useful series: <a href=\"https://x.com/realmadhuguru/status/2098064969464217720\">measure the steps, not just the result</a>. Two agents that both answer \"42\" are not equivalent if one took 17 messy tool calls to get there.</li>\n  <li><strong>Extinction risk debate</strong> — <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> <a href=\"https://x.com/amasad/status/2098171265924116732\">pushes back</a> on existential risk framing: \"Lots of risk with AI. I worry a lot about cybersecurity for example. However, 'extinction risk' — literally 100% of humans die — is not remotely one of them.\"</li>\n</ul>",
+  "html_zh": "<p class=\"lead\">今天的AI圈有两条主线交织并行：一边是产品与基础设施的快速扩张，另一边是关于AI安全与科学潜力的深层拷问——这个行业正在同时应对它所创造的机遇与风险。</p>\n\n<h2>🚀 平台争夺战：Astra爆火、Gemini登陆Windows</h2>\n\n<p>本周最抢眼的产品新闻，莫过于OpenAI的Astra供不应求。<a href=\"https://x.com/thsottiaux/status/2098113585683808624\" data-handle=\"thsottiaux\">@thsottiaux</a> 宣布暂停$200 Pro套餐的新订阅：</p>\n\n<blockquote>为了确保现有用户能够继续获得出色的体验和对Astra的访问权限，我们将暂停$200 Pro套餐的新订阅。这些套餐对我们的系统造成了最大压力，我们希望以最小的调整来保障尽可能广泛的访问。所有其他套餐和API不受影响。</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/joshwoodward/status/2098131750660772342\" data-handle=\"joshwoodward\">@joshwoodward</a> 宣布 <a href=\"https://t.co/mKpROGeCl3\">Gemini正式登陆Windows</a>，Google持续扩大桌面端布局。Google Labs旗下的梦境故事应用 <strong>Dreambeans</strong> 也向全美用户免费开放，并支持与Gemini打通以实现个性化叙事体验。</p>\n\n<p>用户层面的体感分歧也在显现。<a href=\"https://x.com/petergyang/status/2098215935467544604\" data-handle=\"petergyang\">@petergyang</a> 直言：</p>\n\n<blockquote>就我个人而言，在实际搞定事情这件事上，Sol > Astra。</blockquote>\n\n<hr>\n\n<h2>⚙️ 代理基础设施：算力与部署的军备竞赛</h2>\n\n<p>在看不见的底层，支撑AI代理运行的基础设施正在经历密集升级。<a href=\"https://x.com/rauchg/status/2098091056302833837\" data-handle=\"rauchg\">@rauchg</a> 透露，Vercel每天处理约<strong>1000万次部署</strong>，其CDN元数据存储系统在代理部署爆炸式增长的压力下，P99延迟已优化了<strong>91%</strong>。</p>\n\n<p><a href=\"https://x.com/thsottiaux/status/2098238138334548260\" data-handle=\"thsottiaux\">@thsottiaux</a> 则介绍了OpenAI\"按需弹性代理\"的API基础设施：</p>\n\n<blockquote>这基本上就是ChatGPT Work底层运行的基础设施，封装成一个API，不到一分钟就能上手。</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">When AI Improves Itself | Richard Socher (Recursive) — The MAD Podcast</a></p>\n\n<hr>\n\n<h2>🔬 AI与科学的未来：递归自我改进的野心</h2>\n\n<p>本周最值得深读的内容，来自 <a href=\"https://x.com/mattturck/status/2098081448330674182\" data-handle=\"mattturck\">@mattturck</a> 与 <a href=\"https://x.com/RichardSocher\" data-handle=\"richardsocher\">Richard Socher</a> 的对话。Socher刚为其公司Recursive完成6.5亿美元融资，核心论点是：科学进步已陷入困境，而AI是解药。</p>\n\n<blockquote>任何你能模拟的事物，AI都能解决。在你意识到之前，你就已经进入了递归自我改进的循环。我们相信这将是一次巨大的突破。我们距离任何智能空间真正的上界还差得很远，AI还有太多路可以走。</blockquote>\n\n<p>Socher将当下的科学困境归结为知识从\"体系\"变成了\"迷宫\"——34,000本学术期刊，每个子领域都像挂着\"禁止入内\"的牌子。他认为AI的角色，就如同微积分之于物理学：</p>\n\n<blockquote>AI将对生物学做微积分对物理学所做的事——帮助我们把那些构成复杂系统的繁杂碎片重新编织在一起。</blockquote>\n\n<hr>\n\n<h2>🛡️ 安全警报：双刃剑的代价</h2>\n\n<p>技术能力的提升从来不是单向的好消息。<a href=\"https://x.com/bcherny/status/2098281805770309686\" data-handle=\"bcherny\">@bcherny</a>（Anthropic工程师Boris Cherny）分享了最新威胁情报报告，语气罕见地严峻：</p>\n\n<blockquote>随着模型变得更加智能，若缺乏适当的安全措施和监控，它们也会变得更加危险。许多能力本质上是双用途的：一个擅长编程的模型可以被用来攻击关键基础设施；一个辅助生物研究的模型也可以被用来设计下一场大流行病。这些问题复杂而棘手，对每个人来说都越来越重要。</blockquote>\n\n<p>企业界的感受与此呼应。<a href=\"https://x.com/levie/status/2098218284139311615\" data-handle=\"levie\">Box CEO @levie</a> 走访了数十位技术领袖，\"网络安全\"是他们最担忧的话题之一——尤其是OpenAI与Hugging Face事件之后，代理身份管理的漏洞正在被重新审视。</p>\n\n<p>相较之下，<a href=\"https://x.com/amasad/status/2098171265924116732\" data-handle=\"amasad\">@amasad</a> 的立场则更为务实：</p>\n\n<blockquote>AI确实存在很多风险，比如网络安全，我非常担忧。但\"灭绝风险\"——字面意思是100%的人类死亡——根本不在其列。</blockquote>\n\n<hr>\n\n<h2>💻 给开发者：代码质量标准与评估体系</h2>\n\n<p><a href=\"https://x.com/bcherny/status/2098217573276131577\" data-handle=\"bcherny\">@bcherny</a> 就\"如何用Claude写出高质量生产代码\"给出了一封公开回信，干货满满：</p>\n\n<blockquote>Claude编写的生产代码应该比人类编写的代码有更高的标准。在Anthropic，我们有大量Lint规则、测试、Claude驱动的端到端测试、每日运行的Claude模糊测试器、自动化代码审查和安全审查……你的职责是守住代码质量的标准线。如果Claude的代码达不到要求，尝试使用最新的前沿模型（Opus 5或Fable 5.1），或者把effort等级调到high或xhigh。</blockquote>\n\n<p>评估体系（Evals）同样是今日热议话题。<a href=\"https://x.com/realmadhuguru/status/2098064969464217720\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 提出，好的Eval不能只看结果，要看过程：两个代理都得出了正确答案，但一个干净利落地完成了4次工具调用，另一个重复搜索、反复出错、兜兜转转调用了17次——显然前者更好。\"就像高中数学，过程分同样重要。\"</p>\n\n<p>此外，<a href=\"https://x.com/claudeai/status/2098138736642933143\" data-handle=\"claudeai\">Claude官方账号</a>宣布，<strong>Fable 5.1 Build Days</strong> 将于9月11日至25日在全球多个城市同步举办社区建造松，<a href=\"https://t.co/AjMK4OHHBV\">可在此报名参与</a>。"
+}
