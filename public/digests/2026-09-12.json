@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T06:36:41.733Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+      "url": "https://www.youtube.com/watch?v=uLDK4l_-gUE"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI's pre-DevDay shipping spree, a candid reckoning with AI agent limitations, and Brian Armstrong's vision of a world where AIs have their own bank accounts — today's feed captures an industry simultaneously racing forward and doing honest self-assessment.</p>\n\n<h2>🚀 OpenAI's Pre-DevDay Sprint — and a Quality Mea Culpa</h2>\n\n<p>If you thought the pace of AI releases was already dizzying, <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> of OpenAI wants you to know things are about to get busier. This week alone, Astra shipped Images 2.5, GPT-Live-1, the Agents API, Data Agent, and ChatGPT for Financial Services — and that's <em>before</em> DevDay next week.</p>\n\n<blockquote>\"Astra powered ships this week... and yet it's not yet DevDay. Busy plans for next week too.\" — <a href=\"https://x.com/thsottiaux/status/2098639827084480864\" data-handle=\"thsottiaux\">@thsottiaux</a></blockquote>\n\n<p>But alongside the fanfare came something rarer in tech: a transparent post-mortem. Sottiaux acknowledged real quality regressions that had been affecting Astra users, pinpointing three culprits — stale skills triggering too often, a poorly-configured opt-in context management experiment that caused early stops or replies to old messages (affecting an estimated 4–5k users), and badly configured inference engines degrading quality for a long tail of traffic.</p>\n\n<blockquote>\"The examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.\" — <a href=\"https://x.com/thsottiaux/status/2098612714704891959\" data-handle=\"thsottiaux\">@thsottiaux</a></blockquote>\n\n<p>OpenAI also announced an acquisition of sorts, welcoming the <a href=\"https://x.com/thsottiaux/status/2098569976143806918\" data-handle=\"thsottiaux\">Git AI team</a> to help businesses understand how Codex contributes to their codebases — with a promise to keep the tool open source. It's a smart move as enterprises start demanding attribution and auditability from their AI coding assistants.</p>\n\n<hr>\n\n<h2>🤖 The \"Software Factory\" Skeptics Speak Up</h2>\n\n<p>Not everyone is caught up in the hype. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> offered a grounded reality check on the dream of fully autonomous AI development loops:</p>\n\n<blockquote>\"I am skeptical of 'software factories.' Other than for verification & testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop. Whenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens. What products or features have been built end-to-end with a software factory and no human defining the requirements or checking the work?\" — <a href=\"https://x.com/petergyang/status/2098565668241334366\" data-handle=\"petergyang\">@petergyang</a></blockquote>\n\n<p>Yang's pragmatism extends to his own workflow: he's split his automation stack cleanly, routing all local scheduled tasks through Codex and cloud tasks to Grok Bot. Meanwhile, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> (writing from Anthropic's ecosystem) made a related point about the limits of benchmark scores as a guide:</p>\n\n<blockquote>\"It's basically impossible to interpret evals by looking at just the pass/fail scores these days. Many of the failures I see in benchmarks are due to overly strict hidden tests — in some cases the model's answer makes more sense than the expected eval result.\" — <a href=\"https://x.com/trq212/status/2098490139798655427\" data-handle=\"trq212\">@trq212</a></blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> at Every is tackling this head-on, building an internal platform for personal benchmarks based on real day-to-day work — \"vibe checks\" becoming more quantitative without losing the contextual richness that raw scores miss.</p>\n\n<hr>\n\n<h2>💳 Banking the Bots: Coinbase's Agentic Finance Vision</h2>\n\n<p>The most expansive thinking of the day came from Coinbase CEO <a href=\"https://x.com/brian_armstrong\" data-handle=\"brian_armstrong\">Brian Armstrong</a> on the <em>No Priors</em> podcast. His thesis: AI agents will need their own financial infrastructure, and crypto rails are uniquely positioned to provide it. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=uLDK4l_-gUE\">Coinbase's Everything Exchange: Agentic Finance, Stablecoins, and Tokenization</a></p>\n\n<blockquote>\"We don't want the AIs to be unbanked. If we want to bank the AIs, they deserve financial services as well. So we've made some simple tools where with a single command, just prompt, you paste it into your AI agent, it can now have its own financial account.\" — Brian Armstrong</blockquote>\n\n<p>The practical problem Armstrong is solving is one every developer using agents has hit: the agent gets stuck at a paywall or needs to spin up AWS resources, and has to break the loop to ask a human for a credit card. His solution is agent-native spend accounts — either subsidiary accounts linked to human identities on Coinbase, or fully self-custodial crypto wallets that require no KYC (\"Our AI agents don't have a government ID. They can't walk into a bank branch, at least not yet without their humanoid robot companion\").</p>\n\n<p>The macro framing is striking. Some 76% of agent ecommerce transactions Coinbase is seeing are under 30¢ — below the minimum viable threshold for traditional card rails. Armstrong's protocol X402, now housed in the Linux Foundation with Google, Cloudflare, and AWS as partners, is his bet on becoming the payment layer for the agentic economy.</p>\n\n<blockquote>\"There'll be more agents than humans in the not too distant future. It kind of stands to reason that the agentic economy will be bigger than the human economy at some point.\" — Brian Armstrong</blockquote>\n\n<hr>\n\n<h2>🏗️ Infrastructure: Gateways, Sandboxes, and Long-Lived Agents</h2>\n\n<p>A few quieter but substantive infrastructure moves worth noting. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> revealed that Tailscale's model router runs on Vercel AI Gateway, making the case that AI gateways are becoming as essential as CDNs:</p>\n\n<blockquote>\"AI Gateways are the new CDNs. You could go 'direct to origin', but it's brittle. You could DIY, but it's painful and costly.\" — <a href=\"https://x.com/rauchg/status/2098531157230969062\" data-handle=\"rauchg\">@rauchg</a></blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> flagged a Box integration allowing agents to mount file storage directly into their sandboxes — a small but telling sign that enterprise AI is maturing toward giving agents \"the same primitives that people have had.\" And <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> announced long-lived agents are now available in Cursor, quietly unlocking a new category of persistent, stateful AI work sessions.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit marked a milestone: Replit acquired a business that was itself built entirely on Replit. \"I expect first of many to come,\" he noted — a genuine inflection point for platform-native entrepreneurship.</p>\n\n<hr>\n\n<h2>📋 Why Enterprise AI Keeps Failing (and What to Do About It)</h2>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> offered a sharp diagnosis of why so many corporate AI initiatives disappoint, boiling it down to three failure modes: applying old product playbooks to AI, under-investing in evals, and building AI <em>for</em> the business from a detached central platform team rather than <em>with</em> the functions being transformed.</p>\n\n<blockquote>\"These products are often disconnected from the actual workflows, context and judgment of the people doing the work. Begrudging adoption follows. But not meaningful productivity gains.\" — <a href=\"https://x.com/realmadhuguru/status/2098448235048378456\" data-handle=\"realmadhuguru\">@realmadhuguru</a></blockquote>\n\n<p>The prescription — embed your best AI builders inside finance, sales, support — sounds obvious, but it cuts against the instinct of most large organizations to centralize and standardize. And <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> added a human dimension often missing from the one-person-company discourse: \"Building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together.\" The tools are getting more powerful, but the social architecture of building still matters enormously.</p>",
+  "html_zh": "<p class=\"lead\">OpenAI的发布节奏令人窒息，而加密与AI的融合正在催生一种全新的\"代理经济\"——本周的核心叙事，是机器正在学会用钱。</p>\n\n<h2>🚀 OpenAI的发布狂潮：DevDay还没到，已经热身完毕</h2>\n\n<p>如果你觉得最近AI新闻的密度有些喘不过气，那你的感觉没有错。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>（OpenAI产品负责人Thomas Sotiaux）本周列出了一张令人印象深刻的发布清单：</p>\n\n<blockquote>\n\"本周由Astra驱动的发布：Images 2.5、GPT-Live-1、Agents API、Data Agent、面向金融服务的ChatGPT——而DevDay还没到。下周计划同样繁忙。\"<br>\n— <a href=\"https://x.com/thsottiaux/status/2098639827084480864\">@thsottiaux</a>\n</blockquote>\n\n<p>与此同时，Astra用户上周遭遇了一系列质量问题。Sotiaux随后发布了一份坦诚的<a href=\"https://x.com/thsottiaux/status/2098612714704891959\">问题复盘</a>，承认有约4000至5000名用户受到了一项上下文管理实验的影响，部分技能配置不当也导致了质量下降。修复已上线，他对社区的反馈表示感谢：</p>\n\n<blockquote>\n\"用户发布的案例以及直接与我们合作的用户，对于快速定位问题极为有帮助。永远感激这个了不起的社区。\"<br>\n— <a href=\"https://x.com/thsottiaux/status/2098612714704891959\">@thsottiaux</a>\n</blockquote>\n\n<p>此外，OpenAI还<a href=\"https://x.com/thsottiaux/status/2098569976143806918\">收购了Git AI团队</a>，这支团队构建了一款帮助开发者理解编程代理如何贡献代码库的开源工具，将与Codex深度整合，并承诺保持开源。</p>\n\n<hr>\n\n<h2>💰 给AI装上钱包：代理经济的基础设施之战</h2>\n\n<p>本周最具前瞻性的对话来自播客 <em>No Priors</em>，Coinbase CEO <a href=\"https://x.com/brian_armstrong\" data-handle=\"brian_armstrong\">Brian Armstrong</a> 描绘了一幅大胆的图景：AI代理将拥有自己的银行账户。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=uLDK4l_-gUE\">Coinbase的\"Everything Exchange\"：代理金融、稳定币与代币化</a></p>\n\n<blockquote>\n\"我们不希望AI成为无银行账户的群体。如果我们要'银行化'AI，它们同样值得拥有金融服务……有趣的是，代理经济在不远的将来很可能比人类经济规模更大。\"<br>\n— Brian Armstrong\n</blockquote>\n\n<p>Armstrong指出了一个当下AI代理的真实痛点：它们在执行任务时常常\"卡住\"——遇到付费墙、需要信用卡、或者要开通云资源。他的解决方案是让代理拥有独立的稳定币账户，并推动X402协议（由Coinbase孵化，已捐给Linux基金会），谷歌、Cloudflare和AWS均已参与合作。</p>\n\n<p>另一个数字值得记住：</p>\n\n<blockquote>\n\"我们看到约76%的代理电商交易金额低于30美分——而传统借记/信用卡的最低手续费就是30美分外加百分比。这根本行不通。\"<br>\n— Brian Armstrong\n</blockquote>\n\n<p>这正是稳定币和加密支付轨道在代理时代的价值所在——不是投机，而是基础设施。</p>\n\n<hr>\n\n<h2>🛠️ 工具层的悄然成熟：评估、网关与长期代理</h2>\n\n<p>本周多个团队都在解决同一个问题：如何让AI工具变得<em>可信</em>、<em>可测量</em>、<em>可持续运行</em>。</p>\n\n<p>Claude插件团队的<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>推出了插件评估功能，让开发者在模型版本更新后可以快速检验技能是否仍然正常运作（<code>claude plugin eval init</code>）。但他也点出了评估领域一个深层矛盾：</p>\n\n<blockquote>\n\"如今仅靠通过/失败分数来解读评估结果几乎是不可能的。我在基准测试中看到的许多'失败'，是因为测试条件过于严苛——有时模型的答案比预期的标准答案更合理。\"<br>\n— <a href=\"https://x.com/trq212/status/2098490139798655427\">@trq212</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 和 Every 团队走的是另一条路：放弃依赖官方基准，转而构建<a href=\"https://x.com/danshipper/status/2098481799047647715\">基于真实工作任务的内部评估平台</a>——用自己的实际工作来量化模型好坏。这种\"个人化基准\"的思路，或许比任何通用排行榜都更有参考价值。</p>\n\n<p>与此同时，Cursor宣布支持<a href=\"https://x.com/ryolu_/status/2098324260867772806\">长期运行代理</a>，Vercel的<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 则宣布 <a href=\"https://x.com/rauchg/status/2098531157230969062\">Tailscale的模型路由器以Vercel AI Gateway为底层基础设施</a>，并抛出一个有趣的类比：</p>\n\n<blockquote>\n\"AI网关就是新的CDN。你可以'直连源站'，但那很脆弱；你可以自己搭建，但那既痛苦又昂贵。\"<br>\n— <a href=\"https://x.com/rauchg/status/2098531157230969062\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>🏭 \"软件工厂\"的幻觉与企业AI的真实困境</h2>\n\n<p>两位观察者本周对AI能力边界发出了清醒的警告。</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 对\"软件工厂\"概念持怀疑态度：</p>\n\n<blockquote>\n\"除了验证和测试之外，我不认为AI目前能够在没有人类参与的情况下自我改进产品或端到端构建新功能。每当我让它通宵循环构建新东西——只要它做了一个错误假设，整件事就成了浪费token。\"<br>\n— <a href=\"https://x.com/petergyang/status/2098565668241334366\">@petergyang</a>\n</blockquote>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 则从企业视角总结了AI项目失败的三大症结：沿用旧有产品开发打法、忽视评估体系建设、以及让中央AI团队\"从外部为公司构建AI\"。他的处方直接：</p>\n\n<blockquote>\n\"把你最好的AI构建者嵌入到你想要转型的业务部门里。<em>与</em>财务一起构建，<em>与</em>销售一起构建，<em>与</em>客服一起构建。\"<br>\n— <a href=\"https://x.com/realmadhuguru/status/2098448235048378456\">@realmadhuguru</a>\n</blockquote>\n\n<p>这两种观点共同指向同一个结论：AI最大的风险，不是它太强大，而是人们对它抱有不切实际的期待。</p>\n\n<hr>\n\n<h2>📌 今日速览</h2>\n\n<ul>\n  <li><strong>Replit收购</strong>：<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 宣布 Replit <a href=\"https://x.com/amasad/status/2098548464452055437\">收购了一家完全在Replit上构建的企业</a>，称其为\"第一家，预计还会有更多\"。</li>\n  <li><strong>Box + 代理沙箱</strong>：Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 介绍了<a href=\"https://x.com/levie/status/2098478938003841123\">将Box挂载到代理沙箱的新功能</a>，让AI代理能够像人类一样读写企业文件。</li>\n  <li><strong>独自创业的孤独</strong>：<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 提醒道，\"一人公司\"的概念被过度美化——<a href=\"https://x.com/zarazhangrui/status/2098483800456179923\">\"构建新事物可能是一种深刻的孤独体验\"</a>，你需要能一起头脑风暴、共同承受、一起庆祝的人。</li>\n</ul>"
+}
