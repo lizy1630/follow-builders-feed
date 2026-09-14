@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T06:51:58.098Z",
+  "builders": {
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Redefining Chip Architecture with Arm CEO Rene Haas",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry's most pressing questions converged today on a single tension: how fast should we go, and who gets left behind when we go too fast? From Sam Altman's unusually candid safety manifesto to sobering adoption statistics, the builders are doing some rare public soul-searching.</p>\n\n<h2>The Pacing Debate Gets Serious</h2>\n\n<p>Something notable happened today: the CEOs of the two most powerful AI labs in the world essentially agreed with each other — in public — that the industry needs to slow down enough to keep safety ahead of capability. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> published what may be his most substantive statement on AI risk to date, and it pulled no punches about where the real dangers lie.</p>\n\n<blockquote>\n\"There are two ways AI progress could go very badly and that we must avoid. First, we could lose control of the future to AI... Second, we could end up in a world with too much concentration of power. If an extraordinarily powerful AI is used by one person or company to impress their worldview onto everyone else, the results could be extremely dystopian.\"\n<br>— <a href=\"https://x.com/sama/status/2099352016988614852\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>The specificity is worth noting. Altman named labs — including, implicitly, his own — as potential vectors for dangerous power concentration. He also drew a careful distinction between \"pacing\" and \"stopping,\" offering a rare window into OpenAI's internal safety processes:</p>\n\n<blockquote>\n\"At OpenAI we now formulate explicit safety cases in advance of frontier reinforcement learning runs we expect to significantly increase capability... When we talk about 'pacing', we do not mean 'stopping'. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs. Pacing will be well worth this cost; no amount of American competitive pressure should justify recklessness.\"\n<br>— <a href=\"https://x.com/sama/status/2099348812305473766\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> offered perhaps the most balanced outside take, acknowledging that \"pacing\" is a loaded word while defending the underlying necessity:</p>\n\n<blockquote>\n\"'Pacing' can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. However, the specific improvement goals laid out in Dario's are absolute necessities in AI development... AI is going to be the technology underpinning our financial trading systems, our medical devices, our biotech breakthroughs, defense systems, government workflows, and many more mission critical domains.\"\n<br>— <a href=\"https://x.com/levie/status/2099167992835924301\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>84% of the World Hasn't Even Started</h2>\n\n<p>While frontier labs debate the ceiling, a striking chart making the rounds today illustrates just how low the floor still is. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> shared a clip from a Brex CEO interview that reframes the entire adoption conversation:</p>\n\n<blockquote>\n\"Each dot is 3.2 million people. Every gray box is someone that never used AI in the world (84%). Green boxes are free chatbot users (16%). Orange boxes are people who pay $20 a month for AI (~0.3%). And this tiny red box is people using agents effectively (~0.04%).\"\n<br>— <a href=\"https://x.com/petergyang/status/2099200231820963891\" data-handle=\"petergyang\">@petergyang</a>, citing Brex CEO Pedro Franceschi. Watch/Listen: <a href=\"https://t.co/0E7XHvBEBR\">Full episode</a>\n</blockquote>\n\n<p>The numbers are from February 2026, so the picture has almost certainly shifted — but the point stands. The industry's loudest voices spend enormous energy debating AGI timelines and existential risk, while the overwhelming majority of humanity remains entirely outside the conversation. The <em>real</em> growth story hasn't begun.</p>\n\n<hr>\n\n<h2>The Chip Layer: ARM's Rene Haas on AI as Infrastructure</h2>\n\n<p>In a wide-ranging conversation on <em>No Priors</em>, ARM CEO Rene Haas offered a ground-level view of how AI is transforming chip design itself — and why the genie truly cannot be put back in the bottle. Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Redefining Chip Architecture with ARM CEO Rene Haas</a></p>\n\n<blockquote>\n\"Chip design can take anywhere from twenty-four to thirty-six months... The largest amount of time is in the verification, the validation, the debug. AI is really good at that. And if we were to shut it off, it's like being in the 1990s — you've got internet and you're now saying, only internet between the hours of two and four. After that, go to the library down the hall. It'd be anarchy.\"\n<br>— Rene Haas, ARM CEO\n</blockquote>\n\n<p>Haas also described ARM's move from pure IP licensing into physical chip products — prompted, fascinatingly, by Meta wanting a \"general purpose agentic CPU\" that nobody else could supply. The resulting ARM-Meta partnership drew congratulations from Jensen Huang, Amazon, Microsoft, and Google at launch. Not bad for a company that used to have a 98.5% gross margin precisely because it <em>didn't</em> touch physical hardware.</p>\n\n<hr>\n\n<h2>Developer Tooling: Speed, Cost, and the Texture of Building</h2>\n\n<p>On the more immediate, tactical side of the industry, a few signals worth tracking. <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit celebrated what sounds like a meaningful pricing shift for AI coding tools:</p>\n\n<blockquote>\n\"It was painful to see so many users being priced out of AI coding for a while. But now it's free to build again!\"\n<br>— <a href=\"https://x.com/amasad/status/2099197117013340450\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> meanwhile posted a series of updates that will delight anyone living in a terminal: the next release of what appears to be a Codex-adjacent toolchain brings worktrees ~80% faster via filesystem-level folder clones, saving significant disk space. The whole thing, he noted with characteristic developer humor, is written in Rust — \"because you can't escape Rust.\"</p>\n\n<p>A separate frustration surfaced from <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a>, who flagged a behavioural quirk in Google's Astra that will feel familiar to anyone who's wrestled with agentic models:</p>\n\n<blockquote>\n\"Astra: I have done X. Me: This is wrong, you should do Y instead. Astra: You're right. I should do Y. Me: ... Why doesn't it just go and do Y, like the other models??\"\n<br>— <a href=\"https://x.com/zarazhangrui/status/2099348631291883945\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>Agreeing without acting: a relatable failure mode for both AI systems and certain colleagues.</p>\n\n<hr>\n\n<h2>One More Thing: A 370-Year-Old Cipher Falls</h2>\n\n<p>And finally, a small delight to end on. <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> flagged that Fable — an AI-native creative studio — used Claude to solve the <a href=\"https://t.co/0fgTdITSfO\">Cyphral Distich</a>, a cipher that had resisted decoding for 370 years. Whatever hand-wringing is warranted about AI's risks, moments like this are a useful reminder of what \"tools that extend human capability\" can actually look like in practice. The builders are still building — and occasionally, they're cracking problems that stumped everyone who came before them.",
+  "html_zh": "<p class=\"lead\">AI安全讨论正在从抽象哲学走向具体行动——Sam Altman的公开表态标志着行业自律进入新阶段；与此同时，AI的实际渗透率数据提醒我们，这场革命才刚刚开始。</p>\n\n<hr>\n\n<h2>🔒 Altman的\"节奏\"宣言：安全优先，但不是刹车</h2>\n\n<p>本周最引人注目的声音来自OpenAI CEO <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>，他发表了一系列措辞审慎却立场鲜明的长推，直接触及整个行业最敏感的议题：AI发展速度与安全保障之间的张力。</p>\n\n<blockquote>\n\"有两种方式可能让AI进展走向灾难，我们必须避免。第一，我们可能失去对未来的控制权，任由AI主导。这是不可接受的——我们坚定地站在人类这一边，AI必须始终服务于人类。第二，我们可能陷入权力过度集中的世界。如果一个极其强大的AI被某个人或某家公司用来将其世界观强加给所有人，后果将极为反乌托邦。\"\n<br>— <a href=\"https://x.com/sama/status/2099352016988614852\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>他进一步解释，\"节奏\"（pacing）并不意味着停止进步，而是要让安全工具跟上能力提升的步伐：</p>\n\n<blockquote>\n\"当我们谈论'节奏'时，我们不是指'停止'。进展一直很快，也将继续如此。但它应该比本来可能的速度慢一点——安全案例和监控等干预措施有相当大的成本。节奏绝对值得付出这个代价；任何美国竞争压力都不应为鲁莽行为辩护，或让能力跑在对齐和监控的前面。\"\n<br>— <a href=\"https://x.com/sama/status/2099348812305473766\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 对此给出了商业界少见的理性回应，他承认\"节奏\"这个词本身就是一个敏感词，但支持Dario（Anthropic CEO）所提出的具体改进目标：</p>\n\n<blockquote>\n\"AI将成为支撑我们金融交易系统、医疗设备、生物技术突破、国防系统、政府工作流程等众多关键任务领域的技术。因此，我们希望这些系统是安全且'对齐'的，这完全合乎逻辑。\"\n<br>— <a href=\"https://x.com/levie/status/2099167992835924301\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>📊 84%的世界还没用过AI——我们究竟有多早期？</h2>\n\n<p>当科技圈在争论AI是否会毁灭人类时，一组数据悄悄地把整个讨论拉回地面。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 在一期播客片段中引用了Brex CEO Pedro的图表，令人震醒：</p>\n\n<blockquote>\n\"每个点代表320万人。每个灰色方块是世界上从未使用过AI的人（84%）。绿色方块是免费聊天机器人用户（16%）。橙色方块是每月付20美元使用AI的人（约0.3%）。而这个极小的红色方块，是有效使用Agent的人（约0.04%）。\"\n<br>— <a href=\"https://x.com/petergyang/status/2099200231820963891\" data-handle=\"petergyang\">@petergyang</a> 引述 Brex CEO Pedro\n</blockquote>\n\n<p>这张图来自2026年2月，距今数据或许略有更新，但结构性结论仍然成立：绝大多数人类尚未接触过这项被我们视为\"改变世界\"的技术。这既是一个警示——行业的自我叙事远超实际渗透——也是一个令人兴奋的信号：增长空间近乎无限。</p>\n\n<hr>\n\n<h2>🛠️ 工具战线：免费编程回归，模型执行力仍是痛点</h2>\n\n<p>在产品层面，本周有两个值得关注的信号。其一是 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>（Replit CEO）宣布AI编程再次免费可用，显然是在回应此前定价策略将部分用户拒之门外的批评：</p>\n\n<blockquote>\n\"看到这么多用户因为价格问题被挡在AI编程门外，真的很痛苦。但现在，构建再次免费了！\"\n<br>— <a href=\"https://x.com/amasad/status/2099197117013340450\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>其二是一个产品体验上的普遍抱怨，由 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 一针见血地指出——Google Astra似乎陷入了\"会说不会做\"的困境：</p>\n\n<blockquote>\n\"Astra：我已经完成了X。我：这是错的，你应该做Y。Astra：你说得对，我应该做Y。我：……为什么它不直接去做Y呢？其他模型都会这样做的。\"\n<br>— <a href=\"https://x.com/zarazhangrui/status/2099348631291883945\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则用一句俏皮话总结了他自己的\"节奏策略\"——在能力过剩的模型之间寻找平衡：</p>\n\n<blockquote>\n\"我开始用Astra medium处理简单任务。就叫它'引领前沿的节奏'吧。\"\n<br>— <a href=\"https://x.com/danshipper/status/2099231248027730195\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<hr>\n\n<h2>🔬 芯片前沿：ARM的进化与AI加速验证</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — Redefining Chip Architecture with Arm CEO Rene Haas</a></p>\n\n<p>在No Priors播客中，ARM CEO Rene Haas 描绘了一幅芯片行业的全景图，并对AI在芯片设计中的角色给出了极为生动的比喻。他指出，AI最大的贡献不在于\"设计\"本身，而在于耗时最长的验证与调试环节：</p>\n\n<blockquote>\n\"芯片设计可能需要24到36个月，取决于芯片的复杂程度。实际设计并不是耗时最长的部分，最长的是验证、确认和调试。AI在这方面非常擅长。如果我们把它关掉，就像在1990年代，你有了互联网，然后有人说，只允许在下午两点到四点之间使用互联网，其余时间去走廊里的图书馆查资料——那会是一片混乱。精灵已经出瓶，无法再塞回去。\"\n<br>— Rene Haas，ARM CEO，<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors</a>\n</blockquote>\n\n<p>ARM从单纯授权IP到推出自有CPU产品（与Meta合作开发的通用Agentic CPU）的转型，折射出整个行业对\"更快交付\"的迫切需求。当产品周期在缩短、制造周期在延长，谁能提供\"开箱即用\"的解决方案，谁就掌握了主动权。</p>\n\n<hr>\n\n<h2>🔑 今日一句</h2>\n\n<p>最后，把今天最高共鸣的推文留给 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>（Vercel CEO），一句话道出了多少工程师的内心世界：</p>\n\n<blockquote>\n\"你不懂，我写代码是为了放松的。\"\n<br>— <a href=\"https://x.com/rauchg/status/2099248037507797164\" data-handle=\"rauchg\">@rauchg</a>（2523人点赞）\n</blockquote>\n\n<p>这或许也是整个行业最真实的底色——无论安全论战多么宏大，无论渗透率数据多么冷峻，真正推动这一切的，是一群把构建本身当作乐趣的人。</p>"
+}
