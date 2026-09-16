@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T06:42:14.459Z",
+  "builders": {
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">Sam Altman is teasing a flood of launches, Claude is muscling into the enterprise and small business stack simultaneously, and the debate over where AI value actually accrues — model or application layer — is reaching a kind of consensus. Today's thread: the applied layer is winning.</p>\n\n<h2>🚢 The Ship Is Coming In: OpenAI's Big Week and DevDay</h2>\n\n<p>The most-liked post of the day came from <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>, who offered the kind of teaser that only he can get away with:</p>\n\n<blockquote>big 🚢 this week — and then for devday 🚢🚢🚢🚢🚢🚢 <br>— <a href=\"https://x.com/sama/status/2099872600977760451\">@sama</a></blockquote>\n\n<p>Twelve thousand likes and counting. No context, no details — just the promise of something significant before DevDay. Whatever's coming, the market is paying attention.</p>\n\n<hr>\n\n<h2>🏢 Claude Goes Deep Into the Business Stack</h2>\n\n<p>While OpenAI teases the future, Anthropic is busy wiring Claude into the present. Two major product moves landed today, bookending the enterprise and small business markets.</p>\n\n<p>First, <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> announced Salesforce integration in beta — bringing accounts, opportunities, and pipeline directly into Claude conversations, with 37 pre-built sales skills. The pitch: prep a call, review a deal, build a pipeline dashboard, send a forecast — all without leaving the chat window. (<a href=\"https://claude.com\">Learn more</a>.)</p>\n\n<p>Second, a <a href=\"https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs\">major expansion of Claude for Small Business</a> arrived, adding 43 workflows and 27 new integrations — Shopify, TikTok, Square, Stripe, Xero, Gusto, and more. The suite has been installed over 900,000 times since May. The testimonials from the Claude SMB Tour are striking in their directness:</p>\n\n<blockquote>\"What used to take me 120 hours now takes me five minutes. I have so much time on my hands that I can now spend more time with my family.\" — Pedro Rubio, Founder, Blackfyre GovCon</blockquote>\n\n<blockquote>\"I made $20,000 in the last month and a half using Claude to do these professional proposals. I know that's getting the business, and it put money in my bank account. How about that?\" — Dan Ninerell, Founder, Modern Classical Chefs</blockquote>\n\n<p>The SMB tour returns this fall with free workshops in 10 U.S. cities. Anthropic is clearly betting that the path to ubiquity runs through small business owners, not just developers.</p>\n\n<hr>\n\n<h2>🧱 The Application Layer Thesis Hardens</h2>\n\n<p>The day's most intellectually substantive content came from two directions that converged on the same point: the gap between model capability and enterprise workflow is enormous, and filling it is where the real business opportunity lies.</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> put it plainly on Twitter:</p>\n\n<blockquote>\"There's a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate. This gap is the opportunity for the applied AI layer to fill... ironically, even as models improve at incredible rates, this layer still must exist — and may become even more important and useful.\" — <a href=\"https://x.com/levie/status/2099976021311398230\">@levie</a></blockquote>\n\n<p>He expanded on this at length on the <em>Training Data</em> podcast. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion</a>. The analogy he reaches for is apt:</p>\n\n<blockquote>\"If you were to go back ten years ago and you looked at what early versions of GCP or AWS was building, I guarantee you would not have predicted Snowflake or Databricks existing. You would have been like, the infrastructure just already does that. The same thing is going to be true for intelligence — the models will be insanely valuable, but the application of bringing those models into real workflows in banking and life sciences and healthcare and government, that's just going to be a lot of software.\" — Aaron Levie</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> echoed this from a different angle, formally launching <a href=\"https://labs.vercel.com\">Vercel Labs</a> as a public research and experimentation arm, and arguing for model plurality over abstraction:</p>\n\n<blockquote>\"The future is multi-model. Trying to hide the choice confuses and hurts customers, who can't participate in the upside of the most exciting market competition of our times, nor master the best tool for the job.\" — <a href=\"https://x.com/rauchg/status/2099905740505055680\">@rauchg</a></blockquote>\n\n<hr>\n\n<h2>⚙️ MCP Beats CLI, and Probability Beats Words</h2>\n\n<p>Two quieter technical signals worth flagging. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> dropped a take that's gaining traction fast — over 2,400 likes — on the maturation of tool-calling infrastructure:</p>\n\n<blockquote>\"I was not expecting things to go this way, but I think MCPs are better than CLIs for most integrations. The models have gotten much better at tool calling, we can defer tools & MCP is now stateless.\" — <a href=\"https://x.com/trq212/status/2099958388230873165\">@trq212</a></blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> of Every is excited about a model that doesn't produce words at all — it produces probabilities, making it dramatically more efficient as a classification and judgment layer:</p>\n\n<blockquote>\"It doesn't produce words as output, it produces probabilities. So it can efficiently act as a judge in cases where you'd need a Fable-level model — but in our testing was 25x faster and 600x lower priced.\" — <a href=\"https://x.com/danshipper/status/2099947471518474522\">@danshipper</a></blockquote>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit offered a sharp counterpoint: <blockquote>\"If your output domain is known in advance, why not just train a model to produce logprobs over enums?\" — <a href=\"https://x.com/amasad/status/2100056178705514703\">@amasad</a></blockquote> The underlying question — how to make model-as-judge cheap and fast — is one of the more practically important open problems in applied AI right now.</p>\n\n<hr>\n\n<h2>💰 Funding, Solopreneurs, and a Word of Caution</h2>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> at SPC celebrated the $180M Series D for <strong>Profound</strong>, the AI marketing platform now valued at $1.8B and used by a third of the Fortune 100, co-led by Sequoia and Kleiner Perkins. The origin story is a good one — two founders who met at SPC with no shared background and no idea in hand, just a partnership that formed first.</p>\n\n<p>On the other end of the capital spectrum, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> — three months into solopreneurship — shared advice that resonated well beyond his situation:</p>\n\n<blockquote>\"Design your business so you can spend more time doing work you actually enjoy. There will always be choices that could make more money. But if those choices leave you doing work you don't enjoy, then that defeats the purpose of becoming a solopreneur in the first place. Delegate that boring work to your bots instead — or just don't do it.\" — <a href=\"https://x.com/petergyang/status/2099968897323778416\">@petergyang</a></blockquote>\n\n<p>And <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> offered a sober note for founders riding the current wave of exuberance:</p>\n\n<blockquote>\"Figure out the default path that ensures the survival of your company and a great self-fulfilling business. We don't know how capital markets evolve in the next 6-18 months.\" — <a href=\"https://x.com/nikunj/status/2100008917980102863\">@nikunj</a></blockquote>\n\n<p>Wise words for a moment when it's easy to mistake momentum for gravity.</p>",
+  "html_zh": "<p class=\"lead\">从企业AI落地的\"最后一公里\"，到模型能力的边界探索，今天科技圈的核心议题只有一个：<strong>智能与现实工作流之间的鸿沟，究竟谁来填平？</strong></p>\n\n<h2>🏗️ 应用层才是真正的战场</h2>\n\n<p>如果说过去两年大家都在争抢模型能力，那么今天的共识已经悄然转移——真正的价值，在模型与真实工作流之间那片混乱的中间地带。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 在 <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Training Data 播客</a>中，以一贯犀利的方式道出了这个现实：</p>\n\n<blockquote>\n\"模型可以是世界上最智能的超级智能，但那个工作流仍然要求你连接其他数据系统，仍然需要人在关键节点介入，仍然有流程变更管理，仍然有没有现代化的遗留系统……这些事情比模型的纯粹智能要'接地气'得多，也更难搞定。\"\n</blockquote>\n\n<p>他的类比精准而有力：十年前没人能预测到 Snowflake 或 Databricks 的崛起，因为大家以为 AWS 和 GCP 已经\"做完了\"。但事实证明，基础设施之上还能诞生数千亿美元的软件市场。</p>\n\n<blockquote>\n\"同样的事情将发生在智能领域。模型本身无比珍贵，但将这些模型引入银行、生命科学、医疗和政府的真实工作流——那将是大量的软件。\"\n</blockquote>\n\n<p>他在 <a href=\"https://x.com/levie/status/2099976021311398230\">X 上也呼应了这一观点</a>，指出企业需要的不只是智能，还有：连接工作流、重新设计流程、汇聚正确的数据、设计人机协作节点、进行领域评估、管理安全与合规……这个\"应用层\"将在每一个行业垂直领域涌现，而且随着模型能力越来越强，这一层反而会变得更重要，而非被取代。</p>\n\n<hr>\n\n<h2>🤝 Claude 全面进攻企业与小企业市场</h2>\n\n<p>Anthropic 今天同时在两个方向发力，用行动回答了上述问题。</p>\n\n<p>面向企业端，<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 宣布 <a href=\"https://x.com/claudeai/status/2099876514330206578\">Salesforce 集成正式进入 Beta 阶段</a>，将账户、商机和销售管道直接带入 Claude 对话，内置 37 项销售技能，覆盖备会、交易回顾、预测发送等场景，无需离开对话界面。</p>\n\n<p>面向小企业，<a href=\"https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs\">Claude for Small Business</a> 大幅扩容：新增 43 个工作流、27 个新集成（涵盖 Shopify、TikTok、Xero、Stripe、Zapier 等），安装量已突破 <strong>90 万次</strong>。来自真实用户的反馈令人印象深刻：</p>\n\n<blockquote>\n\"以前需要 120 小时的工作，现在 5 分钟完成。\" —— Pedro Rubio，Blackfyre GovCon 创始人\n</blockquote>\n\n<blockquote>\n\"我用 Claude 做专业提案，过去一个半月赚了 2 万美元。\" —— Dan Ninerell，Modern Classical Chefs 创始人\n</blockquote>\n\n<p>这种扎根草根、从真实需求出发的扩张策略，与 Levie 描述的\"应用层\"逻辑高度契合——智能必须嵌入人们已经在用的工具里，才能真正释放价值。</p>\n\n<hr>\n\n<h2>🚀 Sam Altman 预告\"大船周\"，OpenAI DevDay 蓄势待发</h2>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 今天在 X 上发出了让整个行业屏息的一句话：</p>\n\n<blockquote>\n\"本周有大新闻要发布，然后 DevDay 还有更多：🚢🚢🚢🚢🚢🚢\"\n<br>—— <a href=\"https://x.com/sama/status/2099872600977760451\">@sama</a>\n</blockquote>\n\n<p>六艘船的 emoji，没有更多细节。这是 Altman 的经典操作，市场的想象力已经开始奔跑。与此同时，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 正式宣布成立 <a href=\"https://x.com/rauchg/status/2099911447598059812\">Vercel Labs</a>——Vercel 的公开研究与实验部门，承诺透明地分享正在支持的方向、正在研究的课题，以及\"那些没跑通的实验\"。他还明确表态：</p>\n\n<blockquote>\n\"未来是多模型的。试图隐藏这种选择，只会让用户感到困惑，让他们错过这个时代最令人兴奋的市场竞争带来的红利。\"\n—— <a href=\"https://x.com/rauchg/status/2099905740505055680\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>⚙️ MCP 悄悄赢了，概率输出是下一个原语？</h2>\n\n<p>两个值得关注的技术信号在今天浮出水面。</p>\n\n<p>首先，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 给出了一个出人意料的结论：</p>\n\n<blockquote>\n\"我没想到事情会走到这一步，但我认为 MCP 在大多数集成场景下比 CLI 更好。模型的工具调用能力大幅提升，我们可以延迟工具调用，而且 MCP 现在已经是无状态的了。\"\n—— <a href=\"https://x.com/trq212/status/2099958388230873165\">@trq212</a>\n</blockquote>\n\n<p>其次，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 透露 Every 正在测试一种\"不产出文字，而是产出概率\"的新型模型，在他们的测试中，速度比同级别模型快 <strong>25 倍</strong>，价格低 <strong>600 倍</strong>，尤其适合用作高速评判器（judge）。<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 则对此提出了更深的问题：</p>\n\n<blockquote>\n\"如果你的输出域是已知的，为什么不直接训练一个模型，让它对枚举值输出 logprobs？\"\n—— <a href=\"https://x.com/amasad/status/2100056178705514703\">@amasad</a>\n</blockquote>\n\n<p>这个问题触及了结构化输出与概率推理的本质边界，值得每一个在做模型评估基础设施的团队认真思考。</p>\n\n<hr>\n\n<h2>💰 融资、创业与那些诚实的忠告</h2>\n\n<p>AI 营销平台 <strong>Profound</strong> 宣布完成 <strong>1.8 亿美元 D 轮融资</strong>，由 Sequoia 和 Kleiner Perkins 联合领投，估值达 18 亿美元，三分之一的《财富》百强企业已在使用其平台。<a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> 分享了这段投资故事：团队在 SPC 相识，两人来自截然不同的背景，合伙关系先于想法而形成。</p>\n\n<p>而 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Kothari</a> 则给那些沉浸在融资热情中的创始人泼了一盆冷水：</p>\n\n<blockquote>\n\"资本是加速的武器。用好了无人能敌。但如果你过于依赖它，一场简单的下行周期就足以带来灾难性后果……先找到那条确保公司存活的默认路径，再去考虑资本充裕或匮乏对你业务的影响。\"\n—— <a href=\"https://x.com/nikunj/status/2100008917980102863\">@nikunj</a>\n</blockquote>\n\n<p>最后，<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 作为全职独立创业者第三个月，给出了他最真实的感悟：\"把无聊的工作交给机器人，或者干脆不做。\"——这或许是今天所有 AI 讨论中，最朴素也最有力的一句话。</p>"
+}
