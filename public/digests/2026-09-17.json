@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T06:42:41.601Z",
+  "builders": {
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    }
+  },
+  "html_en": "<p class=\"lead\">Anthropic made its most significant product move in months today, collapsing the boundary between conversation and creation — while Google quietly reminded everyone that speed and efficiency are their own kind of superpower.</p>\n\n<h2>The End of the Tab Era: Claude Becomes One</h2>\n\n<p>The big news of the day belongs to Anthropic. Starting today, Claude Cowork and Claude's chat interface are merging into a single, unified experience — and Claude Docs, Claude Slides, and Claude Design are now woven directly into every conversation. No switching apps. No deciding where a task \"belongs.\" Just Claude.</p>\n\n<blockquote>\n\"Many of you shared that you didn't want to choose which Claude product to use for any task. As Claude models have become more capable, we've found that Claude can handle the routing for you. Based on your prompt, Claude will decide whether to give a quick answer or do deeper agentic work, and what kind of output best fits the task.\" — <a href=\"https://x.com/_catwu/status/2100260655312089562\" data-handle=\"_catwu\">@_catwu</a>\n</blockquote>\n\n<p>The practical implications are significant. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF — right there in the chat thread. The <a href=\"https://claude.com/blog/cowork-is-now-claude\">official blog post</a> paints a vivid picture of the use case: a weekly pipeline report due at noon, drafted as a doc, automatically summarized into five slides for the leadership meeting, all from a single conversation, with a teammate's comments already threaded in.</p>\n\n<blockquote>\n\"Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. Cowork proved knowledge workers could do the same: hand Claude the brief, come back to finished files. Today, chat and Cowork start merging into one Claude.\" — <a href=\"https://x.com/bcherny/status/2100259951398789487\" data-handle=\"bcherny\">@bcherny</a>\n</blockquote>\n\n<p>The response from the builder community was warm. <a href=\"https://x.com/danshipper/status/2100269017977987341\" data-handle=\"danshipper\">@danshipper</a> declared with characteristic flair: <strong>\"THE END OF THE TABS ERA IS UPON US.\"</strong> And <a href=\"https://x.com/alexalbert__/status/2100295757953917120\" data-handle=\"alexalbert__\">@alexalbert__</a> noted that \"the resulting UX feels so much better than chat or Cowork did on their own.\" The rollout is gradual — Pro and Max plans first, with Team and Free to follow — and Anthropic is being deliberate about reliability before scale.</p>\n\n<hr>\n\n<h2>Google's Astra Moment: Physics Is the Only Limit</h2>\n\n<p>While Anthropic grabbed the product headlines, Google's <a href=\"https://x.com/thsottiaux/status/2100297380968997327\" data-handle=\"thsottiaux\">@thsottiaux</a> was making waves with a pointed four-word summary of their Astra model: Fast. Frontier. Efficient. For everyone. A follow-up tweet landed harder: <a href=\"https://x.com/thsottiaux/status/2100363668051603608\">\"Sometimes physics can't be cheated.\"</a> With 5,400 likes and counting, it read less like a product note and more like a competitive taunt — the kind that lands when you're genuinely confident in your inference stack.</p>\n\n<p><a href=\"https://x.com/levie/status/2100448648672993540\" data-handle=\"levie\">@levie</a> picked up the thread, articulating why speed-and-efficiency gains matter at the enterprise level beyond raw benchmark scores:</p>\n\n<blockquote>\n\"Being able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks. Data classification tasks, routing decisions inside of a workflow, decision making when handed a particular domain problem, quick judgment calls about safety or security — these are the gates in a large number of processes.\" — <a href=\"https://x.com/levie/status/2100448648672993540\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>The subtext: the next wave of agentic enterprise software won't be won by the model that writes the best essay. It'll be won by the model that makes the fastest, cheapest routing decision ten thousand times a day inside a workflow no one ever sees.</p>\n\n<hr>\n\n<h2>The Agentic Tooling Rethink</h2>\n\n<p>Away from the big announcements, a quieter but important conversation was happening among engineers rethinking how to actually build with these models. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> shared a few hard-won updates to their mental model:</p>\n\n<blockquote>\n\"I think bash is no longer all you need, if your goal is just reliable tool calling. But sandboxes + bash are still good for work that involves code generation and execution.\" — <a href=\"https://x.com/trq212/status/2100315535758217422\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<blockquote>\n\"Increasingly you can just give Claude tools shaped in the way you want vs. tricking it with a layer of indirection — e.g. for data storage, do you really want a file system or do you want an API to a database?\" — <a href=\"https://x.com/trq212/status/2100315537251463523\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>It's the kind of practitioner wisdom that doesn't make headlines but shapes how the next generation of AI-native tooling actually gets built. Meanwhile, over at Vercel, <a href=\"https://x.com/rauchg/status/2100307962262872105\" data-handle=\"rauchg\">@rauchg</a> reported striking results from <a href=\"https://x.com/typesafeai\" data-handle=\"typesafeai\">@typesafeai</a>'s model — a safety reviewer running on \"GPT Luna\" that made their <code>fx</code> tool <strong>18x faster at p95 while improving accuracy</strong>. It's heading to Vercel AI Gateway as a likely new default. The lesson: specialized, purpose-built models running as reviewers inside a pipeline can dramatically outperform monolithic inference on latency-sensitive tasks.</p>\n\n<hr>\n\n<h2>The UX That's Starting to Grate</h2>\n\n<p>Not everyone is in a celebratory mood about Claude's trajectory. <a href=\"https://x.com/zarazhangrui/status/2100278750776824115\" data-handle=\"zarazhangrui\">@zarazhangrui</a> voiced a frustration that clearly resonated — 1,800 likes' worth:</p>\n\n<blockquote>\n\"I find myself using Claude less these days because the way it speaks has just become insufferable. Like it's constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across.\" — <a href=\"https://x.com/zarazhangrui/status/2100278750776824115\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>It's a useful counterpoint to the launch-day euphoria. Anthropic is betting on a unified, increasingly agentic Claude as the future of knowledge work. But if the model's voice starts feeling like a consultant who charges by the adjective, the UX win of merging chat and Cowork could be undermined by something harder to ship a fix for: personality drift. Tone is a product decision too.</p>\n\n<hr>\n\n<h2>One More Thing: Sama Teases Next Week</h2>\n\n<p>In the tradition of understated anticipation, <a href=\"https://x.com/sama/status/2100351958167220547\" data-handle=\"sama\">@sama</a> noted that whatever he'd been most excited about launching this week is getting bumped to next week — adding only that it's \"imo worth the wait.\" With 8,700 likes on a single sentence, the speculation industry is officially open for business.</p>",
+  "html_zh": "<p class=\"lead\">今天AI行业最大的新闻来自Anthropic——Claude的界面迎来了一次根本性的重构，\"做什么用哪个工具\"这个困扰用户的老问题，终于被一个更聪明的答案取代。</p>\n\n<h2>🔀 标签页的终结：Claude把一切合而为一</h2>\n\n<p>今天，Anthropic正式宣布将 Claude Cowork 与普通对话界面合并，同时推出 Claude Docs 和 Claude Slides，并将 Claude Design 整合进对话流程。这不是一次小更新——这是对\"AI助手应该长什么样\"的一次重新定义。</p>\n\n<p>此前，用户面临一个令人头疼的抉择：这个任务是该去 Cowork 做，还是在普通对话里问一下就够了？现在，这个问题消失了。</p>\n\n<blockquote>\n\"人们两个都在用，但令人沮丧的地方在于要决定某个任务该放在哪里。在一个地方开始的内容也无法带到另一个地方。所以我们不再让你做这个选择了。\"\n<br>— <a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude 官方博客</a>\n</blockquote>\n\n<p>产品负责人 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 描述了这次合并背后的逻辑演进：</p>\n\n<blockquote>\n\"Claude Code 证明了 AI 能做真正的工作，而不只是回答问题。开发者把一个功能交给 Claude，回来就是已经写好的代码。Cowork 证明了知识工作者也可以做到同样的事：把简报交给 Claude，回来就是完成的文件。今天，对话和 Cowork 开始合并成一个 Claude。\"\n<br>— <a href=\"https://x.com/bcherny/status/2100259951398789487\" data-handle=\"bcherny\">@bcherny</a>\n</blockquote>\n\n<p>产品设计师 <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">@_catwu</a> 补充了用户控制权的细节：</p>\n\n<blockquote>\n\"Claude 会根据你的提示，自己判断是给一个快速回答，还是做更深度的 agentic 工作，以及什么样的输出形式最适合这个任务。你全程掌控：你仍然可以随时停止、重定向，或者对 Claude 的工作力度和方式施加更精细的控制。\"\n<br>— <a href=\"https://x.com/_catwu/status/2100260655312089562\" data-handle=\"_catwu\">@_catwu</a>\n</blockquote>\n\n<p>具体来说，新的 Claude Docs 和 Claude Slides 支持与 Claude 协同编辑、直接演示、导出为 PowerPoint 或 PDF，并通过同一个分享链接访问所有内容。<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 的反应代表了很多人的感受：</p>\n\n<blockquote>\n\"他们做到了——标签页时代即将终结。\"\n<br>— <a href=\"https://x.com/danshipper/status/2100269017977987341\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p>目前正在向 Pro 和 Max 用户缓慢灰度推出。Watch/Listen: <a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude 官方博客全文</a></p>\n\n<hr>\n\n<h2>⚡ Google 的 Astra：又快又便宜，物理定律除外</h2>\n\n<p>在 Claude 合并新闻的同一天，Google DeepMind 的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 发布了关于 Project Astra 的更新，给出了一份简洁有力的产品描述：</p>\n\n<blockquote>\n\"Astra：✅ 快速 ✅ 前沿 ✅ 高效 ✅ 面向所有人\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2100297380968997327\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>不过他也坦诚地补了一句意味深长的话：</p>\n\n<blockquote>\n\"有时候物理定律是没办法欺骗的。\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2100363668051603608\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>这句话耐人寻味——无论模型能力如何提升，延迟、算力成本与物理约束之间的张力，始终是所有\"面向所有人\"的野心背后最难绕过的现实。</p>\n\n<p>与此同时，Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 对这类超快、超低成本模型的企业潜力表示兴奋：</p>\n\n<blockquote>\n\"能够以极快的速度、极低的成本、较高的能力处理信息，对大量企业任务意义重大。数据分类、工作流内的路由决策、特定领域的判断、安全或安全方面的快速判断——这些都是大量流程中的关键节点。这种模型和方法在企业 agentic 工作流中可能非常有价值。\"\n<br>— <a href=\"https://x.com/levie/status/2100448648672993540\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>🛠️ Agent 工程的新共识：Bash 不再是万能钥匙</h2>\n\n<p>在更偏技术的讨论中，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 分享了他在 agent 工程实践上的认知更新，引发了不少共鸣：</p>\n\n<blockquote>\n\"Bash 不再是你唯一需要的东西——如果你的目标只是可靠的工具调用的话。但沙盒加 Bash 对于涉及代码生成和执行的工作依然很好用。\"\n<br>— <a href=\"https://x.com/trq212/status/2100315535758217422\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<blockquote>\n\"我越来越觉得，你可以直接给 Claude 提供你想要形状的工具，而不是用一层间接性来欺骗它。比如数据存储——你真的想要一个文件系统，还是想要一个数据库的 API？\"\n<br>— <a href=\"https://x.com/trq212/status/2100315537251463523\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>同时，Vercel 的 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 分享了一个令人印象深刻的实际数据：他们在 <strong>fx</strong> 产品中使用 <a href=\"https://x.com/typesafeai\" data-handle=\"typesafeai\">@typesafeai</a> 让一个安全审查模型（GPT Luna）分析每条命令，结果是 p95 延迟提升 <strong>18 倍</strong>，同时准确率也有所提高。</p>\n\n<blockquote>\n\"Jev 只是一个 JSON 分类器\"——<a href=\"https://x.com/danshipper/status/2100251499443998766\" data-handle=\"danshipper\">@danshipper</a> 用这句话总结了这种小而快模型的本质，语气里带着几分调侃，但也道出了一种架构哲学：不是所有任务都需要最大的模型。\n</blockquote>\n\n<hr>\n\n<h2>😤 Claude 的语气问题：聪明，但令人不适</h2>\n\n<p>并非所有 Claude 的消息都是好消息。<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> 的一条抱怨获得了近两千个点赞，精准击中了不少用户的痛点：</p>\n\n<blockquote>\n\"最近我发现自己越来越少用 Claude 了，因为它的说话方式变得让人难以忍受——它总是在努力展示自己有多聪明/多有深度，而不是真正把一个观点传达清楚。\"\n<br>— <a href=\"https://x.com/zarazhangrui/status/2100278750776824115\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>这个批评在 Claude 大规模推进界面整合的当天出现，颇具讽刺意味。用户界面可以更流畅，但如果模型的\"人格\"让人疲惫，再好的产品设计也难掩摩擦。这或许是 Anthropic 下一步需要认真倾听的声音。</p>\n\n<hr>\n\n<h2>🔮 一个悬念：Altman 的\"下周\"</h2>\n\n<p>最后，OpenAI CEO <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 留下了本周最吊人胃口的一条推文：</p>\n\n<blockquote>\n\"我本来最兴奋的本周发布内容将推迟到下周，但我认为等待是值得的。\"\n<br>— <a href=\"https://x.com/sama/status/2100351958167220547\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>在 Claude 今天大规模整合、Google Astra 持续推进的背景下，OpenAI 选择再等一周。悬念感十足——竞争最激烈的时候，节奏的选择本身就是一种策略。</p>"
+}
