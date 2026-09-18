@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T06:41:02.530Z",
+  "builders": {
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    }
+  },
+  "html_en": "<p class=\"lead\">Anthropic's Claude gets a major architectural rethink today, transforming from a chat tool into a persistent, cloud-native coding collaborator — while Google quietly rolls out its own ambient AI for your household logistics.</p>\n\n<h2><strong>Claude Projects: The End of Session Management</strong></h2>\n\n<p>The biggest product news of the day comes from Anthropic, which is rolling out a revamped <strong>Projects</strong> experience for Claude Code that fundamentally changes how developers interact with AI. Rather than managing a tangle of discrete sessions, Claude now coordinates everything through a single persistent project brain — with memory that evolves, threads that spin up and down, and context that carries across your entire workflow.</p>\n\n<blockquote>\n\"I stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now.\" — <a href=\"https://x.com/bcherny/status/2100669598995816511\" data-handle=\"bcherny\">@bcherny</a>\n</blockquote>\n\n<p>The architecture is worth understanding. As <a href=\"https://x.com/trq212/status/2100638355872706571\" data-handle=\"trq212\">@trq212</a> explains, Projects brings the multi-agent structure of Claude Tag to Claude Code proper:</p>\n\n<blockquote>\n\"It has one agent per project that manages memory and spins off subagents for tasks. You can ask it to be proactive, to do things on a schedule, etc. It feels a lot nicer than a bunch of sessions.\"\n</blockquote>\n\n<p>For power users, the shift is less about convenience and more about operating at a different cognitive level entirely. <a href=\"https://x.com/_catwu/status/2100641163120423057\" data-handle=\"_catwu\">@_catwu</a> from Anthropic describes the experience:</p>\n\n<blockquote>\n\"I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated status update whenever I ask. It also has long-lived memory that evolves as I use it.\"\n</blockquote>\n\n<p>One practical note from <a href=\"https://x.com/claudeai/status/2100632687316730327\" data-handle=\"claudeai\">@claudeai</a>: threads run in the cloud, so they persist even when your machine is offline — though local file and network access is still \"coming very soon.\" The rollout is gradual; Pro and Max users can <a href=\"https://x.com/claudeai/status/2100632688625348890\">join a waitlist for earlier access</a>.</p>\n\n<hr>\n\n<h2><strong>Google Wants to Run Your Family</strong></h2>\n\n<p>While Anthropic targets developers, <a href=\"https://x.com/GoogleLabs/status/2100653821907366366\" data-handle=\"googlelabs\">@GoogleLabs</a> is going after the family calendar. CC — Google's AI coordination agent — is expanding into a multi-member household tool, and the feature list reads like a domestic operations center:</p>\n\n<blockquote>\n\"Add up to 5 members to your CC agent. Start mornings aligned with a shared 'Your Day Ahead' brief email. Autosync schedules & to-dos with a shared Google Calendar and Tasks. Delegate paperwork (permission slips, forms, and more) for CC to complete under your direction. CC remembers what applies to everyone (family grocery lists, favorite restaurants) versus what applies to one person (dietary restrictions, local timezones).\"\n</blockquote>\n\n<p>Josh Woodward of Google Labs called it out warmly — <a href=\"https://x.com/joshwoodward/status/2100665648825483726\" data-handle=\"joshwoodward\">\"Have a family? We ❤️ this in ours\"</a> — suggesting this is a product the team genuinely uses. The waitlist is US-only and 18+, for now.</p>\n\n<hr>\n\n<h2><strong>The Infrastructure Arms Race Underneath It All</strong></h2>\n\n<p>Zooming out, the sheer volume of software being created — and deployed — is staggering. <a href=\"https://x.com/rauchg/status/2100698591417499972\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel put a number on it:</p>\n\n<blockquote>\n\"It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone... It's likely that more software will be produced next year than in all of the history of computing.\"\n</blockquote>\n\n<p>Vercel's response has been to compress deployment time to under one second — CDN, firewall, domain assignment and all. <a href=\"https://x.com/levie/status/2100799668573946191\" data-handle=\"levie\">Box's Aaron Levie</a> adds the demand-side framing: agents already make up the majority of inference traffic, and that share is accelerating fast:</p>\n\n<blockquote>\n\"The vast majority of tokens used in the world will be agents that are executing unbelievable amounts of tasks for us in the background 24/7... Just in the past week I've introduced multiple completely new workflows that would not have been possible technically even a month ago.\"\n</blockquote>\n\n<hr>\n\n<h2><strong>Builder Experiments Worth Watching</strong></h2>\n\n<p>At the indie end of the spectrum, <a href=\"https://x.com/nikunj/status/2100714665571737885\" data-handle=\"nikunj\">@nikunj</a> shared a quietly impressive experiment: a site called <a href=\"https://nosugarforkids.com\">nosugarforkids.com</a> — a catalog of healthy kids' snacks — run almost entirely by a Claude agent that wakes up daily to audit the catalog, write SEO content, prune dead products, and even reach out to publications for backlinks. With zero paid distribution, it's already hitting ~6,000 impressions a day. It's a small but instructive proof-of-concept for what \"agent as autonomous business operator\" looks like in practice.</p>\n\n<p>On the memory front, <a href=\"https://x.com/garrytan/status/2100668489178456268\" data-handle=\"garrytan\">Garry Tan</a> flagged work from Memorable that uses embeddings rather than raw tokens to handle long-term memory — potentially a more efficient architecture for persistent agents that don't want to burn context windows just remembering who you are.</p>\n\n<p>And <a href=\"https://x.com/thsottiaux/status/2100645454245720513\" data-handle=\"thsottiaux\">@thsottiaux</a> raised an intriguing open question that nobody seems to have answered yet: has anyone tried getting Astra and Fable — two of the more capable multi-modal agents — to collaboratively agree on a design styleguide, then host it via Web MCP? The tweet has over 5,500 likes, which suggests the builder community finds it as tantalizing as we do.</p>",
+  "html_zh": "<p class=\"lead\">今天的主题只有一个：AI从工具变成了<em>基础设施</em>。无论是Claude的Projects、Google的家庭CC助手，还是Vercel秒级部署，AI正在悄悄嵌入我们工作和生活的底层。</p>\n\n<hr>\n\n<h2>🧵 Claude Projects：会记住你的AI同事来了</h2>\n\n<p>本周最受关注的产品动态，毫无疑问是Anthropic正在推出的<strong>Claude Projects</strong>新体验——一个让Claude跨会话持续记忆、主动协调任务的全新工作模式。这不再是聊完就忘的对话助手，而是真正意义上的\"项目伙伴\"。</p>\n\n<p><a href=\"https://x.com/bcherny/status/2100669598995816511\" data-handle=\"bcherny\">@bcherny</a> 分享了他的亲身体验，语气里藏不住兴奋：</p>\n\n<blockquote>Projects不只改变了我与Claude的互动方式，更改变了我写代码的方式。我不再管理会话了——想到什么就发过去，Claude自动拆分成线程，项目会记住我的工作习惯。现在我大量的编程工作都在这里完成。</blockquote>\n\n<p>技术层面，<a href=\"https://x.com/trq212/status/2100638355872706571\" data-handle=\"trq212\">@trq212</a> 解释了其架构逻辑：</p>\n\n<blockquote>Projects把Claude Tag的架构带进了Claude Code——每个项目有一个主Agent负责管理记忆，并为具体任务派生子Agent。你可以让它主动出击、按计划执行任务。比一堆散乱的会话好用太多了。</blockquote>\n\n<p>Anthropic的<a href=\"https://x.com/_catwu/status/2100641163120423057\" data-handle=\"_catwu\">@_catwu</a> 则描述了这种\"更高抽象层\"的工作感受：</p>\n\n<blockquote>我每天都在用它——批量扔进去一堆任务，然后去忙别的。Claude对我所有在做的事都有上下文，随时可以给我一个汇总状态更新，记忆也会随着使用不断演化。</blockquote>\n\n<p><a href=\"https://x.com/claudeai/status/2100632684074549309\">@claudeai</a> 官方也补充了关键细节：每个线程在云端运行，离线时仍可继续；共享文件库保存用户上传的文件以及Claude自己生成的文件。本地文件支持\"即将推出\"。目前正在向Pro和Max用户逐步开放，并提供<a href=\"https://t.co/s0RrhrolEm\">提前体验候补名单</a>。</p>\n\n<hr>\n\n<h2>🏠 Google把AI塞进了家庭群聊</h2>\n\n<p>如果说Claude Projects是面向开发者的，那Google Labs推出的<strong>CC家庭版</strong>则是把AI助手直接塞进了全家人的日常——从早间日程简报到权限条签署，一网打尽。</p>\n\n<p><a href=\"https://x.com/GoogleLabs/status/2100653821907366366\" data-handle=\"googlelabs\">@GoogleLabs</a> 宣布：</p>\n\n<blockquote>今天我们推出全新的CC——一个专为家庭设计的AI Agent，帮你少花时间在日常琐事上，多花时间在一起。支持最多5位家庭成员，共享Google日历和任务清单，在Google Chat中委托CC处理事项，比如制定每周餐计划、学校用品购物清单，甚至替你填写权限条和各类表格。</blockquote>\n\n<p>Google的<a href=\"https://x.com/joshwoodward/status/2100665648825483726\" data-handle=\"joshwoodward\">@joshwoodward</a> 补充道这在自家已经真实落地——\"我们家很喜欢用它\"。同时他也推荐了<a href=\"https://x.com/joshwoodward/status/2100616682431807860\">Gemini Notebook手机版</a>，认为\"不用简直是在错过\"。</p>\n\n<p>目前CC家庭版仅限美国、18岁以上用户，可加入<a href=\"https://t.co/6Id5GRBrVc\">候补名单</a>。</p>\n\n<hr>\n\n<h2>⚡ Vercel：软件部署正在突破物理极限</h2>\n\n<p>AI时代的软件产量爆炸，正在倒逼基础设施层跑出新速度。<a href=\"https://x.com/rauchg/status/2100698591417499972\" data-handle=\"rauchg\">@rauchg</a>（Vercel CEO）用一组数字说明了这件事有多疯狂：</p>\n\n<blockquote>Vercel花了10年才达到10亿次部署，但仅过去10个月就又增加了14亿次。明年产出的软件，很可能超过计算机历史上所有软件的总和。我们已经把从部署、上传、分配域名到全球传播的时间压缩到了<strong>1秒</strong>。</blockquote>\n\n<p>这1秒还包括全球CDN、防火墙、不可变部署、域名分配、可观测性和回滚——并非裸跑。<a href=\"https://x.com/rauchg/status/2100682030170489160\">新推出的 <code>vercel --turbo --prod</code> 模式</a>则专为Agent紧急热修复场景设计，调用最快的构建机器。</p>\n\n<hr>\n\n<h2>🧠 记忆、Agent与推理：技术前沿的三个信号</h2>\n\n<p>今天还有几条值得关注的技术信号，分散在各处，但拼在一起颇有意思。</p>\n\n<p><a href=\"https://x.com/garrytan/status/2100668489178456268\" data-handle=\"garrytan\">@garrytan</a> 转发了一个关于记忆优化的新思路：</p>\n\n<blockquote>Memorable找到了一种用embeddings替代更多tokens来优化记忆的方法——这是一种强大的新型记忆范式。</blockquote>\n\n<p>少花token、多存记忆，正是当前Agent架构的核心矛盾之一。</p>\n\n<p><a href=\"https://x.com/levie/status/2100799668573946191\" data-handle=\"levie\">@levie</a>（Box CEO）则对Agent的规模扩张做了一个宏观预判：</p>\n\n<blockquote>Agent已经占据了推理流量的大多数。未来一两年内，几乎所有推理都将来自Agent——它们24/7在后台执行海量任务：审查代码变更、处理工作流数据、完成招聘和客户调研、监控所有系统的日志……仅过去一周，我就引入了多个一个月前在技术上根本不可能实现的全新工作流。</blockquote>\n\n<p>而在独立创业的小宇宙里，<a href=\"https://x.com/nikunj/status/2100714665571737885\" data-handle=\"nikunj\">@nikunj</a> 用Claude搭建了一个儿童健康零食目录网站 <a href=\"https://nosugarforkids.com\">nosugarforkids.com</a>，配备了每日自动运行的Claude Agent：检查目录更新、剪除失效产品、分析SEO数据、撰写内容，甚至主动联系媒体争取外链。零社交、零外链，已做到每天6000次曝光。这或许是AI原生\"一人公司\"最生动的样本之一。</p>\n\n<hr>\n\n<h2>🔭 编辑后记</h2>\n\n<p>今天这些产品更新背后，有一条隐线：<strong>AI正在从单次对话走向持续运作的系统</strong>。Projects记住你的工作习惯，CC记住全家人的偏好，Agent在你睡觉时帮你跑SEO——这种\"后台常驻\"的形态，才是AI真正融入生活的方式。<a href=\"https://x.com/garrytan/status/2100612808568172830\" data-handle=\"garrytan\">@garrytan</a> 说得简洁：\"未来已经在这里，我们只需要选择它，并更快地传播它。\"</p>"
+}
