@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T06:37:30.918Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEaje1wd \nYouTube: https://t.co/8xzbGWsHgY",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">From OpenAI teasing a packed keynote to Claude Code embracing cross-tool standards, the week closed with the industry humming at an unusually high pitch — and a sleeper technology called diffusion LMs quietly threatening to upend how we think about inference entirely.</p>\n\n<h2>🎭 Something Big Is Coming from OpenAI</h2>\n\n<p>The most tantalizing signal of the day came not from a product launch but from a keynote prep session. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> surfaced from a day of working with <a href=\"https://x.com/romainhuet\" data-handle=\"romainhuet\">Romain Huet</a> and <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> with barely contained excitement:</p>\n\n<blockquote>\n\"Most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in there that it's a bit ridiculous all in quick succession. We'll have some things next week already to not keep you waiting so long.\" — <a href=\"https://x.com/thsottiaux/status/2101157729037586694\">@thsottiaux</a>\n</blockquote>\n\n<p>That's the kind of teaser that tends to age well. The framing — struggling to explain the sheer density of new things — suggests this isn't a single product reveal but a broader architectural vision. Watch this space next week.</p>\n\n<hr>\n\n<h2>⚡ The Jev Moment: Small Models, Big Implications</h2>\n\n<p>If there's one product dominating builder Twitter this weekend, it's <strong>Jev</strong> — a fast, cheap inference product from <a href=\"https://x.com/typefaceai\" data-handle=\"typefaceai\">Typeface AI</a> that has developers dreaming up new use cases faster than they can ship them. The adoption numbers are striking. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel noted that open models now account for <strong>78.4%</strong> of token volume on Vercel's AI Gateway today — with Jev a major driver:</p>\n\n<blockquote>\n\"The data and the anecdata on Jev's adoption are shocking. Everyone is adopting it. I think it's a great product, but this is also downstream of the 'AI is too expensive/slow' zeitgeist. People are eager to optimize and put AI in even more places!\" — <a href=\"https://x.com/rauchg/status/2101079472732848510\">@rauchg</a>\n</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> gave perhaps the clearest enterprise articulation of why this matters, demoing Box + Jev classifying incident reports and routing files into folders — nearly instantly, at near-zero cost:</p>\n\n<blockquote>\n\"Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise... You can imagine this in insurance claims, contract management, loan processing, security reviews, customer log analysis, and so on. Definitely a great new class of AI use-case.\" — <a href=\"https://x.com/levie/status/2101007708044574906\">@levie</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> built <a href=\"https://jevable.com\">Jevable</a>, a community showcase of Jev demos filterable by category — itself a meta-signal of how quickly an ecosystem forms around a genuinely useful primitive. One demo: scoring 3,000 kid snacks across multiple criteria in 28 seconds for $0.11.</p>\n\n<hr>\n\n<h2>🛠️ Claude Code Gets Friendlier Across the Ecosystem</h2>\n\n<p>A quietly significant interoperability move landed today. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> announced that Claude Code version 2.1.277 now supports <code>AGENTS.md</code> as a fallback when no <code>CLAUDE.md</code> is present in a project folder:</p>\n\n<blockquote>\n\"We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. You can toggle this behavior in /config.\" — <a href=\"https://x.com/trq212/status/2101009392611278961\">@trq212</a>\n</blockquote>\n\n<p>This matters because <code>AGENTS.md</code> is a cross-tool standard — the same file used by OpenAI's Codex and others. Claude Code is effectively lowering the friction for developers who work across multiple AI coding environments. The implementation is built on Claude Code's upcoming \"mods\" system, which will let users build custom project instruction handlers themselves. <a href=\"https://x.com/trq212/status/2101009392611278961\">The source is already available.</a></p>\n\n<hr>\n\n<h2>🤖 Personal Agents Are Having Their \"Oh Wow\" Moment</h2>\n\n<p>The gap between \"AI assistant\" and \"AI that does things for you in the real world\" is collapsing fast. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> published a breakdown of Meta's <strong>Muse</strong> agent that's been making the rounds for good reason — not because of flashy demos, but because of a $288 negotiated off a Comcast cable bill via an autonomous phone call:</p>\n\n<blockquote>\n\"Meta's Muse is the best personal agent I've tried to date. It actually saved me $800+ a year on my cable and phone bills, which is just insane value for a free AI agent... Honestly, I can see Muse becoming Meta's next billion-user app.\" — <a href=\"https://x.com/petergyang/status/2101033599319613533\">@petergyang</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://t.co/jte6evu5iI\">Peter Yang's full Muse walkthrough (10 use cases)</a></p>\n\n<p>The wrinkle? Most enterprise customer support infrastructure isn't ready for this. As Yang noted with a laugh after sharing the Comcast transcript: \"I think most companies' customer support lines are NOT ready for agents.\" That's an understatement — and a massive strategic blind spot for businesses still optimizing their IVR trees.</p>\n\n<hr>\n\n<h2>🔬 The Long Game: Why Diffusion LMs Could Reshape Inference</h2>\n\n<p>Step back from the product news and there's a more structural story worth following. On this week's <em>No Priors</em> podcast, host Sarah Guo sat down with <a href=\"https://x.com/stefanoermon\" data-handle=\"stefanoermon\">Stefano Ermon</a> — Stanford professor and one of the original architects of diffusion models — now CEO of <strong>Inception</strong>, which is betting that diffusion will eventually win text and code generation too.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — \"Why Diffusion Will Win AI Inference\" with Stefano Ermon</a></p>\n\n<p>The core thesis: autoregressive models generate one token at a time, left to right, serially. Diffusion models generate many tokens simultaneously through iterative denoising — inherently more parallelizable, with built-in error correction. Ermon's lab showed in 2024 that a diffusion LM at GPT-2 scale could match autoregressive quality while generating text <strong>10x faster</strong>:</p>\n\n<blockquote>\n\"We were able to train, basically, still a transformer model as a diffusion model on the same data. We were able to match the quality, like the same perplexity... But the diffusion model was significantly faster. Because it's diffusion, because you're outputting many tokens at the same time, we were able to generate text like 10x faster compared to the autoregressive model.\" — Stefano Ermon, <em>No Priors</em>\n</blockquote>\n\n<p>If this scales — a big if that Inception is now racing to answer with commercial-scale models — the implications for inference cost and latency are profound. The Jev moment playing out this weekend is really a <em>demand signal</em>: developers desperately want faster, cheaper inference. Diffusion LMs, if they mature, could be the supply-side answer. The two stories rhyme in ways worth watching.</p>",
+  "html_zh": "<p class=\"lead\">当扩散模型悄然挑战自回归范式，AI推理的效率革命正在多条战线上同时打响——从底层架构到个人助手，速度与成本正成为这个时代最热门的竞争维度。</p>\n\n<h2>🌊 扩散模型的野心：挑战自回归霸权</h2>\n\n<p>本周最值得深思的一场对话，来自播客 No Priors。斯坦福教授、<strong>Inception</strong> 联合创始人 Stefano Ermon——扩散模型的奠基人之一——详细阐述了他为何相信扩散式语言模型将颠覆当前以自回归Transformer为核心的AI格局。</p>\n\n<p>Ermon 的故事颇具戏剧性。2019年，他与博士生 Yang Song 提出了一个看似简单的想法：训练神经网络对图像去噪。</p>\n\n<blockquote>\n\"如果你能对一张图像去噪，那你对图像结构的理解就已经足够深入，以此为基础构建生成程序应该是可行的。你从纯噪声开始，逐步精炼，直到最终得到一张清晰的图像。\"<br>— Stefano Ermon，<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors 播客</a>\n</blockquote>\n\n<p>这个想法成为了现代扩散模型的底层技术。而2024年，他的团队取得了一个关键突破：在 GPT-2 规模下，扩散式语言模型首次在质量上追平了自回归模型，同时生成速度<strong>快了整整10倍</strong>。</p>\n\n<blockquote>\n\"因为是扩散，因为你同时输出多个token，我们能够比自回归模型快约10倍地生成文本。这感觉非常、非常令人兴奋。\"<br>— Stefano Ermon\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Why Diffusion Will Win AI Inference — No Priors Podcast</a></p>\n\n<hr>\n\n<h2>⚡ Jev 席卷开发者社区：效率崇拜的新图腾</h2>\n\n<p>如果说本周有一个词霸占了开发者的时间线，那非 <strong>Jev</strong>（by <a href=\"https://x.com/typefaceai\" data-handle=\"typefaceai\">@typefaceai</a>）莫属。这款主打极速、极低成本推理的工具，正在以近乎病毒式的速度被各类场景验证。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 给出了一个企业级的具体画面：</p>\n\n<blockquote>\n\"Jev 将在工作流中的瞬间决策、数据分类、判断调用以及数百个其他企业场景中大显身手……从 Box 拉取事故报告，判断是否面向客户、严重程度如何，将文件移入对应文件夹，整个过程几乎即时完成，成本几乎为零。\"<br>— <a href=\"https://x.com/levie/status/2101007708044574906\" data-handle=\"levie\">Aaron Levie</a>\n</blockquote>\n\n<p>社区的热情更是具体而微：<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 展示了用 Jev <a href=\"https://x.com/nikunj/status/2101006585481073093\">在28秒内、仅花$0.11对3000款儿童零食进行多维度评分</a>，并顺手搭了一个 demo 展示网站 <a href=\"https://t.co/BImN16sFqz\">Jevable</a>。Vercel 创始人 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 则从数据层面印证了这股热潮：</p>\n\n<blockquote>\n\"这背后也是'AI太贵/太慢'时代情绪的折射。人们迫切地想要优化，把AI放进更多地方！\"<br>— <a href=\"https://x.com/rauchg/status/2101079472732848510\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>🤖 个人AI代理：Meta Muse 的真实账单</h2>\n\n<p>抽象的\"代理能力\"最终要用真实的省钱数字来说话。科技博主 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 本周分享了他用 Meta 的 <strong>Muse</strong> 代理打电话给 Comcast 客服、成功<a href=\"https://x.com/petergyang/status/2101083891507593576\">谈判节省年费$288</a>的完整通话记录，累计为自己节省了超过$800的年费。</p>\n\n<blockquote>\n\"Meta 的 Muse 是我迄今为止试过的最好的个人代理……我能看到 Muse 成为 Meta 下一个十亿用户级应用。\"<br>— <a href=\"https://x.com/petergyang/status/2101033599319613533\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>不过他也不忘泼一盆冷水：<em>\"大多数公司的客服热线根本没准备好应对 AI 代理。\"</em> Watch/Listen: <a href=\"https://t.co/jte6evu5iI\">Peter Yang 演示 Muse 的10个真实用例</a></p>\n\n<hr>\n\n<h2>🔧 Claude Code 向互操作性迈进</h2>\n\n<p>一个看似小但意义深远的工程决定：Anthropic 的 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 宣布，<strong>Claude Code</strong> 从 2.1.277 版本起正式支持 <code>AGENTS.md</code> 文件格式——这是其他 AI 编程工具（如 OpenAI Codex）已采用的标准。</p>\n\n<blockquote>\n\"从今天起，如果一个文件夹中没有 CLAUDE.md，Claude 会自动检测并使用 AGENTS.md。\"<br>— <a href=\"https://x.com/trq212/status/2101009392611278961\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>这条推文获得了超过25,000个点赞——在开发者工具领域实属罕见。更值得关注的是，这一功能建立在即将推出的 <strong>Claude Code Mods</strong> 机制之上，意味着开发者未来可以深度定制 Claude Code 的行为。<a href=\"https://x.com/trq212/status/2101009395052343462\">源码已公开</a>。</p>\n\n<hr>\n\n<h2>📊 开源模型的无声胜利</h2>\n\n<p>最后，一组来自 Vercel AI Gateway 的数据值得收藏。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 披露，今天平台上<strong>78.4%的 token 消耗来自开源模型</strong>，仅有21.6%来自闭源模型。</p>\n\n<blockquote>\n\"在消费金额上，Moonshot AI 与 DeepSeek 排名第三、第四。加上 Z.ai，三者合计消费已超过 OpenAI（第二名）。\"<br>— <a href=\"https://x.com/rauchg/status/2101186741042663579\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>当然，Rauch 也提醒读者，这是跨提供商的推理消费，并非直接流向开源实验室的收入。但趋势已足够清晰：在效率驱动的当下，开源模型正在以价格优势悄然重塑市场格局。而 Stefano Ermon 在播客里的那句话，或许正是整个行业的隐喻：<em>\"速度与效率，将是未来几年AI的主旋律。\"</em></p>"
+}
