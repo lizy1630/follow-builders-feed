@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T06:52:51.933Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">The agentic economy is becoming real infrastructure — AI agents are getting bank accounts, debugging iPhones in simulators, and competing to be your most personal digital companion. Welcome to the week it all started feeling inevitable.</p>\n\n<h2>🏦 Banking the Bots: Agentic Finance Gets Serious</h2>\n\n<p>The most quietly consequential conversation of the day came from the <em>No Priors</em> podcast, where <a href=\"https://x.com/brian_armstrong\" data-handle=\"brian_armstrong\">Brian Armstrong</a>, CEO of Coinbase, laid out a vision for what he's calling \"AIFi\" — agentic finance — with the kind of matter-of-fact confidence that suggests it's closer than most people realize.</p>\n\nWatch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — \"Coinbase's Everything Exchange: Agentic Finance, Stablecoins, and Tokenization\"</a>\n\n<blockquote>\"We don't want the AIs to be unbanked. If we want to bank the AIs, they deserve financial services as well. The AI agents themselves are going to have to have their own accounts. So we've made some simple tools where with a single command — just a prompt — you paste it into your AI agent, it can now have its own financial account.\" — Brian Armstrong</blockquote>\n\n<p>The practical problem Armstrong is solving is one anyone who's used an agent for real tasks has hit: the agent stalls at a paywall. <em>\"Oh, here's a hotel booking — can you go put in your credit card?\"</em> Coinbase's answer is to give agents their own spend accounts, backed by stablecoins, operating over a new protocol called X402 (now under the Linux Foundation, with Google, Cloudflare, and AWS onboard).</p>\n\n<p>The numbers make the urgency concrete. Armstrong noted that roughly <strong>76% of agent e-commerce transactions are currently under 30¢</strong> — making traditional card rails (with their 30¢ flat fee minimum) essentially useless for this economy. Stablecoins, moving money in under a second for under a cent, are the only infrastructure that fits.</p>\n\n<blockquote>\"It kind of stands to reason that the agentic economy will be bigger than the human economy at some point in the not too distant future.\" — Brian Armstrong</blockquote>\n\n<hr>\n\n<h2>🤖 The Personal Agent Race Heats Up</h2>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> published a sharp <a href=\"https://x.com/petergyang/status/2101862331345154469\">armchair breakdown</a> of the personal agent landscape that's worth reading in full. His hierarchy: Meta's Muse is surging, ChatGPT still leads on users, Grok Bot is a sleeper for work, and Google remains a baffling underperformer given its data advantages.</p>\n\n<blockquote>\"Once you use the Muse app, you realize that it makes little sense for an agent to live in an existing messaging app like iMessage... I think this will become Meta's most successful homegrown app after Facebook. It will be much bigger than Threads.\" — <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a></blockquote>\n\n<p>His most interesting structural observation is about <strong>multiplayer AI</strong> — nobody has cracked it yet. \"I can't easily add my spouse to a Muse chat to plan a vacation. I also can't loop coworkers into ChatGPT or Grok Bot threads.\" He calls it the next big unlock, and it's hard to disagree. On Apple, Yang is diplomatic but pointed:</p>\n\n<blockquote>\"They have all the devices and a great reputation on privacy. They can easily win this race but what holds them back is their annual release cycle for major updates... The iteration speed for Siri just feels far too slow to compete.\" — <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a></blockquote>\n\n<p>His practical advice: <em>design your personal skills and files to be portable between agents</em>. Lock-in is coming, and you don't want to be caught moving furniture when the music stops.</p>\n\n<hr>\n\n<h2>🔧 Agents as QA Engineers: The Grind Is Real</h2>\n\n<p>While the strategy debates rage, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> offered a vivid, ground-level dispatch on what AI agents actually look like doing software work in 2025 — and it's striking.</p>\n\n<blockquote>\"I pointed out something wasn't rendering right in a mobile browser. The thing goes to the depths of Mordor to reproduce, simulate, fix, deploy, verify. It created an ephemeral Vercel deployment to throw at an iPhone simulator! The absolute grind on these things. Humans could simply never match this level of intensity. We'd run out of energy, we'd extrapolate, we'd hope it'd work out.\" — <a href=\"https://x.com/rauchg/status/2101846262840799251\" data-handle=\"rauchg\">@rauchg</a></blockquote>\n\n<p>This is the underrated story of agentic software development: not just that agents can write code, but that they can QA with a relentless thoroughness that human engineers — tired, distracted, optimistic — simply don't sustain. \"The software of the future will be of a quality and performance we've never experienced before.\"</p>\n\n<hr>\n\n<h2>📡 Signal & Noise: Benchmarks, Jev, and the Churn</h2>\n\n<p>A few smaller threads worth flagging. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> <a href=\"https://x.com/steipete/status/2101748820237500557\">dropped a new benchmark</a> that's getting traction (1,358 likes, 136 retweets — the AI benchmark industrial complex remains fully operational). <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> is teasing a \"Jev pod\" tomorrow on <a href=\"https://x.com/latentspacepod\" data-handle=\"latentspacepod\">Latent Space</a> — <a href=\"https://x.com/swyx/status/2101873256097804529\">subscribe on Apple or YouTube</a> if Jev is your thing, and apparently right now, Jev is everyone's thing.</p>\n\n<p><a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> captured the tempo of this moment with the dry precision it deserves:</p>\n\n<blockquote>\"Everyone is obsessed with Jev now, but I'm old enough to remember when people couldn't shut up about Instinct, all the way back to mid last week. Simpler times.\" — <a href=\"https://x.com/mattturck/status/2101820308009206077\" data-handle=\"mattturck\">@mattturck</a></blockquote>\n\n<p>The attention cycle in AI is now measured in days. Build accordingly.</p>",
+  "html_zh": "<p class=\"lead\">AI代理正在从概念走向基础设施——无论是帮你调试移动端渲染的bug，还是独立开设银行账户完成支付，这一周的讨论让人感受到，\"代理经济\"的轮廓正在变得清晰可见。</p>\n\n<h2>🏦 给AI开户：Coinbase的\"代理金融\"野心</h2>\n\n<p>本周最值得深思的对话，来自 <em>No Priors</em> 播客对 Coinbase CEO <a href=\"https://x.com/brian_armstrong\" data-handle=\"brian_armstrong\">Brian Armstrong</a> 的专访。Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — Coinbase's Everything Exchange</a></p>\n\n<p>Armstrong 描述的愿景颇为大胆：AI代理不仅要能工作，还要能\"花钱\"。他指出，当前主流支付基础设施根本无法支撑代理经济——信用卡最低收取30美分手续费，而Coinbase观察到，<strong>76%的代理电商交易金额不足30美分</strong>。</p>\n\n<blockquote>\n\"我们不希望AI沦为无银行账户的群体。如果我们要让AI拥有金融服务，它们理应得到这些服务。只需一条指令，粘贴到你的AI代理里，它就能拥有自己的金融账户。\"<br>— Brian Armstrong\n</blockquote>\n\n<p>Coinbase正在为此构建两条路径：一是绑定用户身份的\"子账户\"，二是完全自托管的钱包——后者让AI代理可以独立持有稳定币余额，甚至发行代币。Armstrong还提到他们孵化的 X402 协议，目前已有 Google、Cloudflare、AWS 参与共建。</p>\n\n<blockquote>\n\"未来代理经济的体量，极有可能超过人类经济本身。\"<br>— Brian Armstrong\n</blockquote>\n\n<p>这不是科幻，而是正在搭建的管道。</p>\n\n<hr>\n\n<h2>🤖 个人代理大战：谁会赢得你的日常？</h2>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 发布了一份<a href=\"https://x.com/petergyang/status/2101862331345154469\">颇受关注的\"扶手椅分析\"</a>，梳理了当前个人AI代理的竞争格局，获得近600个赞。他的核心判断：</p>\n\n<blockquote>\n\"Muse 有望成为领头羊。这款应用直觉友好，Meta 正在旗下所有产品线上强力推广。一旦你用过 Muse，就会意识到让代理住在 iMessage 这样的即时通讯app里根本说不通。\"<br>— @petergyang\n</blockquote>\n\n<p>他同时认为 ChatGPT 凭借超10亿用户仍是现任王者，但\"同时服务企业和消费者\"的定位让产品体验愈发分裂。Google 是他眼中的\"暗马\"——Gmail、日历等数据天然是个人代理的燃料，但 Spark 产品至今藏在 Gemini 的二级标签里，\"Google 需要更激进\"。</p>\n\n<p>最有趣的盲点，是<strong>多人协作</strong>：</p>\n\n<blockquote>\n\"没有人解决这个问题。我没法把配偶加入 Muse 一起规划假期，也没法把同事拉进 ChatGPT 或 Grok Bot 的对话里。今天所谓的多人AI，基本上就是在 Slack 里 @ 机器人。\"<br>— @petergyang\n</blockquote>\n\n<p>至于 Apple，Yang 补充道，Siri 有设备优势和隐私声誉，却被年度发布节奏和缓慢的迭代速度拖累——\"从外部看，Siri 的迭代速度实在太慢，难以竞争。\"</p>\n\n<hr>\n\n<h2>⚡ 代理QA：软件质量的新基准线</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 分享了一个让人印象深刻的<a href=\"https://x.com/rauchg/status/2101846262840799251\">第一手体验</a>：他随口指出一个移动端渲染问题，AI代理随即展开了一场\"深入魔多\"的排查之旅。</p>\n\n<blockquote>\n\"它创建了一个临时 Vercel 部署，直接扔给 iPhone 模拟器！这种绝对的执行强度，人类根本无法匹敌。我们会消耗精力，会做假设，会寄希望于'应该没问题'。未来的软件质量，将是我们从未经历过的水准。\"<br>— @rauchg\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 的一句玩笑形成有趣呼应——他转发了一张图，配文\"<a href=\"https://x.com/levie/status/2101731574668747081\">对代理群攻，完全无懈可击</a>\"，暗示面对AI代理的穷举式测试，传统软件的边边角角再也无处遁形。</p>\n\n<hr>\n\n<h2>📡 行业余波：Jev时刻与速朽的网红效应</h2>\n\n<p>本周AI圈还有一个有趣的元叙事：新模型或新产品一出，注意力迅速转移。<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 以一贯的冷幽默<a href=\"https://x.com/mattturck/status/2101820308009206077\">总结道</a>：</p>\n\n<blockquote>\n\"现在所有人都在聊 Jev，但我还记得上上周中期，大家对 Instinct 的热情根本停不下来。那时候多单纯。\"<br>— @mattturck\n</blockquote>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> 则预告明日 <em>Latent Space</em> 播客将发布 Jev 专访。Watch/Listen（明日上线）: <a href=\"https://x.com/swyx/status/2101873256097804529\">Latent Space Pod — Jev episode</a></p>\n\n<p>而 Replit 创始人 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Massad</a> 则暂时跳出了行业喧嚣，分享了<a href=\"https://x.com/amasad/status/2101852258468299182\">为儿子组装的第一台电脑</a>——944个赞，或许是今天最温暖的一条内容。在代理经济与AI金融的宏大叙事之外，有人还在手把手教孩子认识第一块主板。</p>"
+}
