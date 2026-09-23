@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T06:42:38.470Z",
+  "builders": {
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    }
+  },
+  "html_en": "<p class=\"lead\">A pair of major model launches — Claude Opus 5.5 from Anthropic and GPT-6 Sol/Luna from OpenAI — dropped on the same day, sending token prices tumbling and lighting up the AI builder community with a rare convergence of capability gains and cost relief.</p>\n\n<h2>🚀 The Double Launch: Opus 5.5 Meets GPT-6</h2>\n\n<p>It's not often that two frontier labs drop significant model updates on the same day, but here we are. Anthropic quietly made <strong>Claude Opus 5.5</strong> the default across its Pro, Max, and Team plans, while OpenAI answered with <strong>GPT-6 Sol and Luna</strong> — and a 50% API price cut to go with it.</p>\n\n<p><a href=\"https://x.com/_catwu/status/2102437713781944397\" data-handle=\"_catwu\">@_catwu</a> from Anthropic framed the upgrade crisply:</p>\n\n<blockquote>\"Claude Opus 5.5 is now the default model in Claude Code and the Claude app... We're defaulting to effort medium across products, which is comparable to Fable 5.1 on intelligence but faster. Your rate limits will go 25% further on Opus 5.5 compared to Opus 5.\"</blockquote>\n\n<p>Over at OpenAI, <a href=\"https://x.com/thsottiaux/status/2102463847714247142\" data-handle=\"thsottiaux\">@thsottiaux</a> went further, bundling product generosity into the announcement:</p>\n\n<blockquote>\"GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general 'you know when you try it' quality. We are also permanently reducing the API price by 50%... And one more thing. We are loading a banked reset into all accounts of our Plus, Pro and Business users.\"</blockquote>\n\n<p>Independent evals from <a href=\"https://x.com/rauchg/status/2102519097770885231\" data-handle=\"rauchg\">@rauchg</a> at Vercel showed remarkable parity at the top of the stack — Opus 5.5, GPT-6 Sol, and Fable 5.1 all tied at 97% on Next.js benchmarks — with Grok 4.7 close behind at 94% but at \"2x-7x cheaper\" price points. The frontier is getting crowded, and the competition is clearly benefiting everyone's wallets.</p>\n\n<hr>\n\n<h2>💰 Jevons Paradox in Real Time</h2>\n\n<p>Price cuts of this magnitude don't just save money — they reshape what's economically viable to build. <a href=\"https://x.com/levie/status/2102477253070430322\" data-handle=\"levie\">Aaron Levie</a> put the macro argument most crisply:</p>\n\n<blockquote>\"The rate at which the cost per task (on a like-for-like basis) drops in AI is unlike any other type of technology in history. And every time the cost of AI drops, the use-cases you can deploy agents against dramatically increase. This is Jevons paradox applied to agents... The cost of tokens is directly correlated to these use-cases being opened up at scale.\"</blockquote>\n\n<p>Levie's team at Box ran Opus 5.5 through a serious enterprise gauntlet, and the efficiency numbers are striking. Across financial due diligence, cloud cost analysis, and clinical diagnostics tasks, Opus 5.5 used <strong>63% fewer tokens</strong> and was <strong>30% faster</strong> than Opus 5, while improving task accuracy by 15–65% depending on the domain. As he noted: \"this is a major win for any agentic computer use, coding, analytics, or data work.\"</p>\n\n<hr>\n\n<h2>🔧 Formal Verification Has a Moment</h2>\n\n<p>The most technically eyebrow-raising use case of the day came from <a href=\"https://x.com/bcherny/status/2102543349102338309\" data-handle=\"bcherny\">@bcherny</a>, who used Opus 5.5 to <em>formally verify the Claude Agent SDK using Lean</em> — a mathematical proof language — surfacing bugs a human reviewer would almost certainly have missed:</p>\n\n<blockquote>\"A couple short prompts = 16 PRs fixing various bugs and race conditions... I don't know either language well, but Claude is excellent at both. This approach is super useful for formally modeling your code and finding bugs that a human probably wouldn't have spotted. Is formal verification the future of coding (or at least, bug finding)?\"</blockquote>\n\n<p>He also ran a head-to-head on a more classical benchmark — porting HAProxy from C to Rust — where Opus 5.5 beat Fable 5.1 by 2.5 hours and came in at <strong>51% lower cost</strong>. The combination of raw coding speed and the ability to operate in proof-verification languages like Lean and TLA+ suggests something qualitatively new is happening at the frontier.</p>\n\n<p>Separately, <a href=\"https://x.com/steipete/status/2102501642176528743\" data-handle=\"steipete\">@steipete</a> noted that Google's Astra had <a href=\"https://x.com/steipete/status/2102501642176528743\">surfaced a roughly 14-year-old bug in libuv</a> while debugging ChatGPT crashes on macOS — another data point for AI-assisted bug archaeology becoming genuinely useful.</p>\n\n<hr>\n\n<h2>🎨 When Models Meet the Physical World</h2>\n\n<p>Not every exciting Opus 5.5 application is a benchmark or an enterprise workflow. <a href=\"https://x.com/alexalbert__/status/2102466523164274839\" data-handle=\"alexalbert__\">@alexalbert__</a> from Anthropic has been on what he calls a \"Blender kick,\" using Opus 5.5 to reconstruct historically accurate 3D environments from primary sources. His prompt for a pre-earthquake 1906 San Francisco — cross-referenced against Sanborn fire insurance maps, period photographs, and a 1906 Miles Brothers film — is a remarkable piece of prompt engineering in its own right. <a href=\"https://x.com/alexalbert__/status/2102466524934271381\">Read the full prompt here.</a></p>\n\n<p><a href=\"https://x.com/rauchg/status/2102438365455167883\" data-handle=\"rauchg\">@rauchg</a> captured the aesthetic ambition well:</p>\n\n<blockquote>\"Main reason I got excited about 'headless' for the web is that any given page could take whatever whimsical or unique shape you wanted. With AI, there's no excuse not to push the design frontier.\"</blockquote>\n\n<p>And <a href=\"https://x.com/rauchg/status/2102594015669756323\" data-handle=\"rauchg\">his broader provocation</a> about what cheap, capable AI enables for software permanence deserves a moment's reflection: <em>\"Software will never die again. You liked Google Reader? Cool, you can generate and deploy your own. Yours, forever.\"</em></p>\n\n<hr>\n\n<h2>📐 A Note on Product Velocity vs. Product Wisdom</h2>\n\n<p>Amid the launch excitement, <a href=\"https://x.com/trq212/status/2102548686303854790\" data-handle=\"trq212\">@trq212</a> offered a measured counterpoint that deserves to be read slowly:</p>\n\n<blockquote>\"The right way to use model capabilities is not to ship 10x more features to prod. It's to spend more time understanding your users, trying experiments, building prototypes, learning about things you don't understand so that you can ship things that actually work.\"</blockquote>\n\n<p>It's a quiet but important corrective. As frontier model costs collapse and capability ceilings rise, the temptation to ship faster will intensify. The builders who resist that pull — who use the additional intelligence budget to <em>understand</em> rather than simply <em>produce</em> — may be the ones who build the more durable things.</p>",
+  "html_zh": "<p class=\"lead\">今天是模型发布的盛宴之日：Anthropic 的 Claude Opus 5.5 与 OpenAI 的 GPT-6 Sol 和 Luna 同日亮相，价格双双大幅下调，AI 能力与经济性的边界再次被重写。</p>\n\n<h2>🚀 双雄齐发：Opus 5.5 与 GPT-6 改写价格曲线</h2>\n\n<p>如果说 AI 行业有一种节奏，那今天的节奏是\"双管齐下\"。Anthropic 正式推出 <strong>Claude Opus 5.5</strong>，同日 OpenAI 紧随其后发布 <strong>GPT-6 Sol 和 Luna</strong>，并宣布 API 价格永久下调 50%。两家公司的发布在互联网上掀起轩然大波。</p>\n\n<p>OpenAI 产品负责人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> <a href=\"https://x.com/thsottiaux/status/2102463847714247142\">写道</a>：</p>\n\n<blockquote>GPT-6 Sol 和 Luna 发布了。不仅在各项指标上有显著提升，在写作和那种\"用了才知道\"的整体质量上也同样出色。我们还永久下调了 API 价格 50%，让两款模型都能适用于大量新场景……我们还为所有 Plus、Pro 和 Business 用户重置了额度储备。出发！</blockquote>\n\n<p>Anthropic 方面，<a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Cat Wu</a> 介绍了 Opus 5.5 的实际表现：</p>\n\n<blockquote>Claude Opus 5.5 现已成为 Claude Code 和 Claude 应用的默认模型……我们默认采用中等算力，与 Fable 5.1 的智能水平相当，但速度更快。与 Opus 5 相比，你的请求次数限额将多出 25%。</blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 的评论则将这场价格战拔高到宏观经济层面：</p>\n\n<blockquote>AI 中每次任务成本的下降速度，在历史上任何技术类别中都是绝无仅有的。每当 AI 的成本下降，你能用 Agent 处理的场景数量就会剧增。这是 Jevons 悖论在 Agent 上的体现。</blockquote>\n\n<hr>\n\n<h2>🔬 形式化验证：AI 找 Bug 的下一个前沿</h2>\n\n<p>今天最令工程师眼前一亮的内容，来自 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a>。他用 Opus 5.5 结合形式化验证工具 Lean 和 TLA+，对 Claude Agent SDK 进行了正式验证——几个简短的提示词换来了 16 个 PR，修复了多个 bug 和竞态条件。</p>\n\n<blockquote>我对这两门语言都不太熟悉，但 Claude 在两者上都表现出色。这种方式对于正式建模代码、发现人类可能根本不会注意到的 bug 非常有用。形式化验证会是编程（或至少是 bug 查找）的未来吗？</blockquote>\n\n<p>他还做了一项更直观的横向对比测试——让 Opus 5.5 和 Fable 5.1 分别将 HAProxy 从 C 移植到 Rust：</p>\n\n<blockquote>两者几乎都通过了 HAProxy 的全部测试，但 Opus 5.5 用了 9.5 小时完成，Fable 5.1 用了 12 小时，而且成本低了 51%。</blockquote>\n\n<p>同时，<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> 分享了一个意外的发现：Google 的 Astra 在诊断 ChatGPT macOS 崩溃问题时，<a href=\"https://x.com/steipete/status/2102501642176528743\">挖出了一个存在约 14 年的 libuv 底层 bug</a>。AI 做 debug，越来越不只是玩笑话了。</p>\n\n<hr>\n\n<h2>🎨 Blender + AI：用一个提示词重建历史</h2>\n\n<p>Anthropic 的 <a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> 展示了 Opus 5.5 在 3D 创作上的能力边界——<a href=\"https://x.com/alexalbert__/status/2102466523164274839\">用一个提示词，在 Blender 中重建了 1906 年旧金山大地震前夕的 Market Street</a>，历史细节精确到每栋建筑的立面材料和来源置信度。他的完整提示词令人印象深刻：</p>\n\n<blockquote>在建模任何东西之前，先从 1899-1905 年 Sanborn 火险地图、Miles Brothers 拍摄的《A Trip Down Market Street》影片、OpenSFHistory 的历史照片等来源构建一个数据文件，记录每栋建筑的占地面积、高度、立面材料、租户，以及每条信息的来源和置信度……所有内容用 Blender Python 构建，不允许下载任何网格、纹理或 HDRI。</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 也对 Anthropic 的发布美学表达了欣赏，并分享了 Next.js 对顶级模型的最新评测结果：Opus 5.5、GPT-6 Sol、Fable 5.1 三者并列第一，均达到 97%，Grok 4.7 以 94% 位居第四——但价格便宜 2 到 7 倍。</p>\n\n<hr>\n\n<h2>💡 速度与克制：AI 时代产品人的两种选择</h2>\n\n<p>在喧嚣的发布日里，有一条推文显得格外清醒。Anthropic 产品负责人 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">Lior Belenki</a> <a href=\"https://x.com/trq212/status/2102548686303854790\">写道</a>：</p>\n\n<blockquote>使用模型能力的正确方式，不是把 10 倍的功能推上生产环境，而是花更多时间了解你的用户、做实验、构建原型、学习你不懂的东西，这样你才能交付真正有用的东西。</blockquote>\n\n<p>这与 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 对软件未来的豪迈宣言形成有趣对照：<a href=\"https://x.com/rauchg/status/2102594015669756323\">\"软件永远不会再消亡。你喜欢 Google Reader？很好，你可以自己生成并部署一个，永远属于你。\"</a></p>\n\n<p>两种声音并不矛盾——更强的模型、更低的价格，只是扩大了选择的空间；而选择如何使用这种力量，依然是人的问题。</p>"
+}
