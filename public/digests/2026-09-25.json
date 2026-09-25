@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T06:43:22.960Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry's center of gravity is shifting — from frontier model breakthroughs to the unglamorous, lucrative infrastructure and tooling that makes those breakthroughs useful to everyone else.</p>\n\n<h2>📊 The Model Wars: Anthropic's Lead Is Slipping</h2>\n\n<p>If you want a real-time barometer of which AI models are winning, look no further than <a href=\"https://vercel.com\" data-handle=\"rauchg\">Vercel's</a> AI Gateway spend data. <a href=\"https://x.com/rauchg/status/2103216656747262419\" data-handle=\"rauchg\">Guillermo Rauch shared</a> a striking snapshot of the past two months:</p>\n\n<blockquote>\n\"Anthropic still #1 in spend, but went 69% → 40%. OpenAI: 10% → 24% in spend. GPT-6 Astra + GPT 5.6 Sol are ripping. OpenAI now leads in tokens #. Kimi K3 + DeepSeek took ~half of Anthropic's loss. Opus 5.5 is up to 10% of spend in 2 days. OpenAI is 62% of image generations.\" — <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> captures the disorienting pace of it all: <a href=\"https://x.com/petergyang/status/2103318850641260959\">\"Astra blew up 3D models. Then Opus blew up videos. I don't even know what's next anymore.\"</a> That vertigo is becoming the defining emotional register of working in AI right now.</p>\n\n<hr>\n\n<h2>🏗️ The $30B Layer Nobody Talks About</h2>\n\n<p>Jensen Huang's \"five layer cake\" model of AI — power, chips, software infrastructure, models, applications — is useful precisely because it reveals how much attention pools at the top and bottom, while the crucial middle rots from neglect. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> spent an hour with Renen Hallak, CEO of VAST Data, fixing that blind spot.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">Who Feeds the GPUs? Inside AI's Hidden $30B Layer | The MAD Podcast</a></p>\n\n<p>VAST powers xAI, CoreWeave, MistralAI, and others — and almost nobody outside the infrastructure world has heard of it. Hallak's framing of enterprise AI adoption is the best I've heard:</p>\n\n<blockquote>\n\"I like the analogy — if you go back to the nineteen seventies, you needed a PhD in computer science to operate a computer. Today, everybody can do it. And the reason everybody can do it is not because we learned, it's because operating a computer became much simpler. It is our job as the ones building that software infrastructure layer to make these new technologies accessible to the enterprises such that they don't need to think about it too much.\" — Renen Hallak, VAST Data\n</blockquote>\n\n<p>His most striking moment? A customer originally projected needing 500 petabytes over three years.</p>\n\n<blockquote>\n\"Last week, came back to us and said, we're gonna need an extra two exabytes on top of that 500 petabytes. Sometimes it scares me.\" — Renen Hallak\n</blockquote>\n\n<p>And his model for how enterprises will ultimately own AI — the \"infer during the day, fine-tune at night\" analogy — is worth sitting with: every organization's IP will eventually be distilled into model weights they own, the same way our experiences quietly shape our beliefs while we sleep.</p>\n\n<hr>\n\n<h2>🛠️ Tooling Matures: From Demos to Daily Workflows</h2>\n\n<p>Two product launches this week signal that AI is graduating from impressive demos into operational infrastructure for everyday businesses.</p>\n\n<p><strong>Anthropic's Claude for Small Business</strong> <a href=\"https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs\">expanded significantly</a>, adding 43 workflows and 27 new integrations — Shopify, Stripe, Square, TikTok, Gusto, Xero — and the suite has been installed over 900,000 times since May. The testimonials from the SMB Tour are the kind of numbers that cut through the hype:\n\n<blockquote>\n\"What used to take me 120 hours now takes me five minutes.\" — Pedro Rubio, Founder, Blackfyre GovCon<br><br>\n\"I made $20,000 in the last month and a half using Claude to do these professional proposals.\" — Dan Ninerell, Founder, Modern Classical Chefs\n</blockquote>\n\n<p><strong>Replit's Muse</strong> can now <a href=\"https://x.com/amasad/status/2103129037011120525\">make apps directly on Replit</a>, per CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> — a quiet but significant tightening of the loop between AI-assisted ideation and deployed software.</p>\n\n<p>On the developer tooling side, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> is iterating fast on Cursor's \"plan mode\" based on user feedback, moving toward a modular system where users can customize or override the planning prompt entirely:</p>\n\n<blockquote>\n\"My plan is to make plan mode into a built-in mod, allow mods to add new modes or override shift+tab.\" — <a href=\"https://x.com/trq212/status/2103212051065921632\">@trq212</a>\n</blockquote>\n\n<hr>\n\n<h2>📡 Signal & Noise: Media, Creativity, and Agentic Prompting</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Shawn Wang (@swyx)</a> <a href=\"https://x.com/swyx/status/2103361254433993165\">announced</a> that his \"Scaling without Slop\" content strategy — patient, high-quality publishing over volume — is finally paying off: Latent Space went from 0 to 100k YouTube subscribers in three years, then added the next 100k in just 1.2 months. In an era where AI can generate infinite content, quality differentiation is compounding in unexpected ways.</p>\n\n<p><a href=\"https://x.com/trq212/status/2103259550325575806\" data-handle=\"trq212\">@trq212 flagged</a> what he called \"an incredibly thoughtful piece on AI and creativity,\" expressing hope that products can better \"enable and amplify creatives\" — a tension the industry hasn't resolved. Meanwhile, Google Labs' <a href=\"https://x.com/joshwoodward/status/2103182635992514569\" data-handle=\"joshwoodward\">Josh Woodward highlighted Dreambeans</a>, an experiment that pushes back against the screen-first tendency of AI: a daily drip of \"beans\" pointing users toward real-world activities with real people. Counterintuitive from a tech company, and probably wise.</p>\n\n<p>Finally, a tactical note from <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> worth bookmarking for anyone running AI coding agents:</p>\n\n<blockquote>\n\"If you just tell the agent to clean up, it will stop far too early. Give it an ambitious goal. Try 'remove 20% of the least useful tests while maintaining code coverage within 2%.'\" — <a href=\"https://x.com/steipete/status/2103148444701610233\">@steipete</a>\n</blockquote>\n\n<p>Specificity as a prompting strategy. The more you constrain the goal with measurable targets, the harder the agent works. File that one away.</p>",
+  "html_zh": "<p class=\"lead\">模型市场的格局正在以令人眩晕的速度重塑——与此同时，AI的价值正悄然渗透进每一家小型企业的日常运营。</p>\n\n<h2>📊 模型战场：Anthropic失守，OpenAI反攻</h2>\n\n<p>如果你想知道开发者们真正在用什么模型，不妨看看实际的API账单。Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 分享了来自 Vercel AI Gateway 过去两个月的真实消费数据，画面颇为戏剧性：</p>\n\n<blockquote>\n\"Anthropic 仍是消费额第一，但占比从 69% 跌至 40%；OpenAI 则从 10% 攀升至 24%。GPT-6 Astra 和 GPT-5.6 Sol 势头强劲。OpenAI 在 token 消耗量上已经领先。Kimi K3 和 DeepSeek 瓜分了 Anthropic 失去的份额中约一半。Opus 5.5 上线两天内就占到了 10% 的消费额。图片生成领域 OpenAI 占比 62%。\" — <a href=\"https://x.com/rauchg/status/2103216656747262419\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 则从另一个角度印证了这种混乱感：<a href=\"https://x.com/petergyang/status/2103318850641260959\">\"Astra 炸掉了 3D 模型，Opus 炸掉了视频，我已经不知道下一个会是什么了。\"</a> 在模型能力爆炸式跃升面前，连行业观察者都开始跟不上节奏了。</p>\n\n<hr>\n\n<h2>🏗️ AI 的隐形地基：那家 300 亿美元的公司你可能从没听说过</h2>\n\n<p>Jensen Huang 曾用\"五层蛋糕\"描述 AI 栈：能源、芯片、软件基础设施、模型、应用。大多数人的目光都盯着顶层和底层，却鲜少有人关注夹在中间的软件基础设施层。<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 的最新播客对话填补了这一盲区。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data</a></p>\n\n<p>VAST Data 为 xAI、CoreWeave、MistralAI 等顶级 AI 玩家提供存储和数据基础设施，估值已达 300 亿美元——但在公众视野中几乎隐形。CEO Renen Hallak 用一个惊人的例子描述了数据需求的爆炸式增长：</p>\n\n<blockquote>\n\"有时候这让我感到恐惧。我们的一个客户，一家 AI 云公司，之前说未来三年大概需要 500 PB。上周他们回来说，要在这 500 PB 之上再加 2 EB。我认为未来十年所发生的变化，将超过过去一千年的总和。\" — Renen Hallak, VAST Data\n</blockquote>\n\n<p>他用了一个绝妙的类比解释企业未来该如何拥抱 AI：</p>\n\n<blockquote>\n\"我们白天推理，晚上微调。就像人类一样——我们都拥有同一个基础模型，但随着各自的人生经历，我们的'世界模型'变得越来越不同。每个组织的知识产权，最终都会被蒸馏进他们自己拥有的模型权重之中。\"\n</blockquote>\n\n<hr>\n\n<h2>🛠️ 工具层的两个信号：Replit Muse 与 Claude 小企业版</h2>\n\n<p>应用层的进展同样值得关注。Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 宣布 <a href=\"https://x.com/amasad/status/2103129037011120525\">Muse 现已可以直接在 Replit 上构建应用</a>，这一消息获得了超过 1600 个点赞——在 AI 工具的信息流中，这个数字不算小。</p>\n\n<p>另一边，Anthropic 悄然推进了 <a href=\"https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs\">Claude for Small Business</a> 的大规模扩张：新增 43 个工作流和 27 个集成（包括 Shopify、Salesforce、Square、Stripe 等），累计安装量已超过 90 万次。更有说服力的是来自真实用户的反馈：</p>\n\n<blockquote>\n\"以前要花 120 小时的事，现在 5 分钟搞定。我有了更多时间陪家人，去做我一直忽略的那部分业务。\" — Pedro Rubio，Blackfyre GovCon 创始人\n</blockquote>\n\n<blockquote>\n\"我在过去一个半月里用 Claude 写提案，赚了 2 万美元。我知道是这些提案拿下了生意，钱打进了我的账户。\" — Dan Ninerell，Modern Classical Chefs 创始人\n</blockquote>\n\n<p>AI 正在成为中小企业的\"平权器\"——这不是营销话术，而是账单上真实的数字。</p>\n\n<hr>\n\n<h2>✍️ 编辑层：如何在 AI 时代做内容与工具</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 分享了一个令人振奋的增长曲线：Latent Space 的 YouTube 频道用了三年才积累第一个 10 万订阅，而下一个 10 万只用了 1.2 个月。他把这归因于年初提出的\"无糟粕扩张\"（Scaling without Slop）策略——在 AI 生成内容泛滥的时代，高质量、有判断力的内容反而更具稀缺价值。</p>\n\n<p>Cursor 背后的 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 则在认真倾听用户声音后，宣布对 Plan Mode 进行重构——将其做成可定制的内置 mod，并允许用户添加新模式或彻底重新绑定快捷键。<a href=\"https://x.com/trq212/status/2103212051065921632\">这条推文获得了 1600 多个点赞</a>，足以说明开发者对\"给我更多控制权\"的渴望有多强烈。</p>\n\n<p>而 <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 贡献了本日最实用的一条 agent 使用技巧：<a href=\"https://x.com/steipete/status/2103148444701610233\">\"如果你只是告诉 agent '清理一下'，它会停得太早。给它一个有野心的目标。比如：'在保持代码覆盖率误差 2% 以内的前提下，删除 20% 最不有用的测试。'\"</a> 模糊的指令只会换来平庸的结果。</p>"
+}
