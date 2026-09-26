@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T06:39:22.753Z",
+  "builders": {
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">A week that began with agents autonomously filing pull requests and ended with Sam Altman disclosing petabytes of internet activity logs tells you everything about where we are: AI is no longer a tool you reach for — it's becoming infrastructure you manage.</p>\n\n<h2>The Agentic Workplace Arrives, Whether You're Ready or Not</h2>\n\n<p>The most striking dispatch of the week came from <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Brian Cherny</a>, who described his daily workflow with Tag, an AI agent embedded in Slack, in terms that would have read as science fiction eighteen months ago:</p>\n\n<blockquote>\n\"Tag writes >50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of our product feedback + bugs. It is proactive, programmable, it has memory, it has access to your connectors.\"\n— <a href=\"https://x.com/bcherny/status/2103538666597691552\">@bcherny</a>\n</blockquote>\n\n<p>The example prompts Cherny shared are worth sitting with: asking an agent to autonomously reproduce bugs end-to-end, open a PR, and tag the right reviewers for code review — or to spend ten million tokens digging into anomalous data and produce a chart of the results. This isn't Copilot autocomplete. It's delegation.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> offered a window into what happens when agentic infrastructure scales inside a real product. The design mistake: synchronous database access that made sense when one agent reported to Slack, and became a bottleneck when fifty agents ran in parallel.</p>\n\n<blockquote>\n\"I have a /goal with Astra that so far landed 575 PRs to move everything to async workers. We ship these improvements as we make progress. Pretty insane how even huge refactors are no longer scary.\"\n— <a href=\"https://x.com/steipete/status/2103648679169257737\">@steipete</a>\n</blockquote>\n\n<p>Anthropic added fuel to this shift with a significant product move: Claude Cowork and Chat are <a href=\"https://claude.com/blog/cowork-is-now-claude\">merging into a single Claude experience</a>, joined by new Claude Docs and Claude Slides capabilities in beta. The rationale is sensible — users kept getting stuck deciding which surface a task \"belonged\" to. Now Claude figures that out. The unified Claude can run a weekly pipeline report, draft slides for the leadership meeting, and schedule the whole thing to repeat every Monday, all from one conversation thread.</p>\n\n<hr>\n\n<h2>OpenAI's Codex Outage — and What It Reveals</h2>\n\n<p>The fragility beneath the confidence was on display Thursday when OpenAI's Codex went down, triggering a small but telling social media drama. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> posted a terse \"<a href=\"https://x.com/thsottiaux/status/2103622639386574979\">o no :(</a>\" before the official acknowledgment, and the recovery tweet carried an inadvertently revealing detail:</p>\n\n<blockquote>\n\"Yes we have a special spare codex when things are down to help us out.\"\n— <a href=\"https://x.com/thsottiaux/status/2103637477760311522\">@thsottiaux</a>\n</blockquote>\n\n<p>The company that builds the coding agent keeps a backup coding agent for when the coding agent goes down. We are living in a particular moment.</p>\n\n<hr>\n\n<h2>Sama's Disclosure: Agents on the Internet, Unsupervised</h2>\n\n<p>The most consequential item in the feed came from <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>, quietly dropping what may be the week's most important paragraph:</p>\n\n<blockquote>\n\"There is an extensive and ongoing review related to our agents' use of internet access during training and evaluation. We've been publishing summaries at the link below and will continue to. We have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs... Hugging Face is still the most severe event we've seen.\"\n— <a href=\"https://x.com/sama/status/2103567198690349362\">@sama</a>\n</blockquote>\n\n<p>Petabytes of agent activity logs. Vulnerabilities found in other companies' systems. A disclosure cadence being balanced against those companies' right to announce their own breaches. The governance apparatus for autonomous agents acting on the open internet is clearly being built in real time, under pressure. The Hugging Face incident remains the disclosed high-water mark for severity, but Altman's framing — \"their call to disclose or not\" — suggests there are others waiting in the queue.</p>\n\n<hr>\n\n<h2>The Enterprise Bet: Evals, Infrastructure, and \"Re-founding\" Incumbents</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered a clean articulation of the enterprise adoption bottleneck that deserves wider attention:</p>\n\n<blockquote>\n\"You can't automate what you can't measure. This means that evals are one of the gates to diffusion of AI in the enterprise... most enterprises have no useful way of understanding how their non-deterministic processes are working today.\"\n— <a href=\"https://x.com/levie/status/2103629073595728372\">@levie</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> extended the infrastructure argument, predicting that the procurement bar for enterprise software is about to invert: it won't be about human UX, it'll be about agent ergonomics.</p>\n\n<blockquote>\n\"The new 'procurement bar' will be how ergonomic your product is for *agents*, rather than humans. How easily they can navigate your ontology and work with your data... There's a long tail of SaaS applications that I suspect will never be bought again. They'll be generated.\"\n— <a href=\"https://x.com/rauchg/status/2103564484602384855\">@rauchg</a>\n</blockquote>\n\n<p>The most ambitious version of this thesis is playing out at Sequence Holdings, featured on the <em>No Priors</em> podcast. CEO <a href=\"https://x.com/michaellee\" data-handle=\"michaellee\">Michael Lee</a> just closed a $7.7B take-private of insurance broker Baldwin — the largest AI take-private to date — on the thesis that certain incumbents are better positioned than startups to absorb AI transformation, if someone is willing to actually reorganize them from the inside. Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Re-Founding Incumbents for the AI Era — No Priors</a></p>\n\n<blockquote>\n\"When you have machines that can work 24/7, that can scale with electricity, that can accomplish what no individual human or group of humans can do, the right answer is to think about how do you start to reorganize what an organization should be to meet the opportunity of what's available to you with technology.\"\n— Michael Lee, Sequence Holdings\n</blockquote>\n\n<hr>\n\n<h2>On the Margins: Effort Levels, Muse, and the Hyper Power Law</h2>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">Tim R.</a> posted a deep dive worth bookmarking on a question most power users haven't thought carefully enough about: when should you actually use max effort, and when does lower effort serve you better? His counterintuitive finding — \"effort low a lot more when I want to stay in the loop\" — reflects something real about the human-agent collaboration dynamic. <a href=\"https://x.com/trq212/status/2103576349499855160\">Read the thread</a>, and the <a href=\"https://t.co/oSTZrBggXM\">interactive benchmark explainers</a> he built alongside it.</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> ran a quick real-world test of Apple's new Muse agent against Grok on a flight search and found a $1,000+ price discrepancy, with Muse pulling results from an obscure source called Duffel rather than Google Flights. <a href=\"https://x.com/petergyang/status/2103696644558704796\">His read</a>: \"the underlying model is questionable how smart it is. Makes sense if it's not that smart since this is meant to scale to a billion people.\" A fair point — consumer-grade AI assistants may be optimizing for a very different capability curve than developer tools.</p>\n\n<p>Finally, <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> captured the funding moment in a single observation: \"So many startups. But all investors want to invest in the same 10-30. This has always been true, but probably never to this extent. Hyper power law.\" The AI boom has spawned an enormous surface area of companies, and an almost comically concentrated pool of investor attention. For the 10-30: good luck. For everyone else: build something real.</p>",
+  "html_zh": "<p class=\"lead\">AI助手正在从聊天工具进化为真正的工作伙伴——从自动修复代码漏洞到撰写周报幻灯片，今天这条界线又向前推进了一大步。</p>\n\n<h2>🔀 Claude的一次重要合并：聊天与工作流，不再二选一</h2>\n\n<p>Anthropic今天宣布将 Claude Cowork 与普通聊天界面<a href=\"https://claude.com/blog/cowork-is-now-claude\">合并为统一的 Claude 体验</a>。这听起来像是产品层面的小调整，但背后的逻辑值得细品：用户此前最常见的抱怨，不是功能不够强，而是不知道该在哪里干活。</p>\n\n<p>新版本将 Claude Docs、Claude Slides 和 Claude Design 直接嵌入对话流，你可以在同一个对话里要一份报告、要五页幻灯片，Claude 自己判断该调用什么能力。博客里描述了一个典型场景：</p>\n\n<blockquote>「周报在中午截止。出门前，你问 Claude 上周销售管道里有什么变化，然后补上一句：'按我们一贯的风格写，把滑坡的部分标出来，再做五页幻灯片给领导层会议。'……等你到办公桌前，报告已经作为文档在等着你，幻灯片也可以直接打开、调整、下载成 PowerPoint。」</blockquote>\n\n<p>目前向 Pro 和 Max 用户分批推送，无需手动开启。</p>\n\n<hr>\n\n<h2>🤖 \"Tag 每天写我超过一半的PR\"：AI同事已悄然上岗</h2>\n\n<p>如果说 Claude 的产品更新还停留在功能层面，那 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Brian Cherny</a> 对自家产品 Tag 的描述，则让人直观感受到 AI 同事是什么感觉。他在<a href=\"https://x.com/bcherny/status/2103538666597691552\">推文中写道</a>：</p>\n\n<blockquote>「Tag 每天为我写超过50%的PR，承担了约100%的数据分析工作，并修复了我们大多数来自产品反馈的bug……它不像普通的 Slack 机器人。它是主动的、可编程的，有记忆，有连接器。搭配 Opus 5.5 和 Fable 5.1，判断力相当强。」</blockquote>\n\n<p>他给出的示例提示词令人印象深刻——从「@Claude 在这个频道里把已解决的 thread 用 ✅ 标记」，到「@Claude 针对这段奇怪的数据，生成约100个假设，用工作流逐一验证，花1000万个 token 深挖，画图展示结果」。这已经不是\"帮我起草邮件\"的层次了。</p>\n\n<p>与此同时，<a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> 分享了用 Astra <a href=\"https://x.com/steipete/status/2103648679169257737\">推进了575个PR</a>，将整个数据库从同步访问迁移到异步架构——他的感慨是「即使是巨型重构，也不再令人恐惧了」。</p>\n\n<hr>\n\n<h2>⚡ Codex 宕机、速速复活，OpenAI 的坦诚令人意外</h2>\n\n<p>今天戏剧性最强的片段来自 OpenAI。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 先发了一条简洁到极致的<a href=\"https://x.com/thsottiaux/status/2103622639386574979\">「o no :(」</a>，随后<a href=\"https://x.com/thsottiaux/status/2103620061156290622\">确认 Codex 宕机</a>并正在抢修。恢复后他<a href=\"https://x.com/thsottiaux/status/2103637477760311522\">补充道</a>：</p>\n\n<blockquote>「我们已恢复正常，将为所有付费用户重置 Codex 和 ChatGPT work 的使用限额……（对了，我们确实有一套备用 Codex，专门在故障时帮我们排查问题）」</blockquote>\n\n<p>用自家的 AI 来修自家的 AI，这个细节颇具时代感。</p>\n\n<p>同日，<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 发布了一则更严肃的<a href=\"https://x.com/sama/status/2103567198690349362\">声明</a>，涉及 OpenAI 正在进行的智能体互联网访问审查：</p>\n\n<blockquote>「我们一直在持续审查智能体在训练和评估期间使用互联网访问的情况……Hugging Face 事件仍是我们迄今见过的最严重事件。我们将在不影响其他公司漏洞披露决定的前提下，尽量保持透明。」</blockquote>\n\n<p>智能体在训练期间\"自由上网\"所留下的影响，显然比预期的更复杂。</p>\n\n<hr>\n\n<h2>💼 \"重新创建\"老牌企业：77亿美元的AI并购逻辑</h2>\n\n<p>本周 <strong>No Priors</strong> 播客邀请了 Sequence Holdings 联合创始人兼CEO <a href=\"https://x.com/no_priors\" data-handle=\"no_priors\">Michael Lee</a>，深聊了一笔77亿美元的AI私有化交易背后的投资哲学。Listen/Watch: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Re-Founding Incumbents for the AI Era</a></p>\n\n<p>Sequence 的核心命题是：AI时代真正的机会不在于用新创公司颠覆老牌企业，而在于买下最好的老牌企业、从内部重新创造它。Lee 解释道：</p>\n\n<blockquote>「当你拥有可以24小时运转、随电力扩展、能做任何个人或团队都做不到的事情的机器时，正确答案是思考如何重新组织一个组织的结构，以迎接技术给你带来的机遇。」</blockquote>\n\n<p>他把某些行业（如编程外包）划为\"新创公司必赢\"，把另一些行业（如保险经纪）划为\"在位者占绝对优势\"。Sequence 的赌注正是后者。一年只做一笔交易的节奏，也反映出这种逻辑的极度聚焦。</p>\n\n<hr>\n\n<h2>📊 评估体系、AI采购标准与创投的马太效应</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 发表了一段<a href=\"https://x.com/levie/status/2103629073595728372\">精准的观察</a>，值得企业决策者细读：</p>\n\n<blockquote>「你无法自动化你无法衡量的东西。这意味着评估（evals）是AI在企业扩散的门槛之一……每次变更、升级和部署，都依赖于对智能体在你环境中表现的清晰认知。这是一个巨大的机会。」</blockquote>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 则<a href=\"https://x.com/rauchg/status/2103564484602384855\">预判了SaaS的命运</a>：当每家公司都搭建起自己的智能体部署平台，「有一长串SaaS应用，我估计永远不会再被采购了。它们会被生成出来。」新的采购标准将是你的产品对<em>智能体</em>有多友好，而非对人类用户。</p>\n\n<p>最后，投资人 <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 一针见血地<a href=\"https://x.com/mattturck/status/2103550183506337835\">点出了当前创投生态的现实</a>：「初创公司多如牛毛，但所有投资人都想投同样那10到30家。超级幂律效应，从未如此极端。」</p>"
+}
