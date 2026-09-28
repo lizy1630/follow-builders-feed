@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T06:57:29.581Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">Software development is being quietly rewritten from the ground up — and the ripple effects are only beginning to reach enterprises, users, and the broader economy.</p>\n\n<h2>**The Death of the Code Freeze (and What Comes Next)**</h2>\n\n<p>One of the most liked observations of the day came from <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>, whose deceptively simple post about release engineering went quietly viral:</p>\n\n<blockquote><a href=\"https://x.com/thsottiaux/status/2104108167806550046\">\"Code freeze isn't really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.\"</a></blockquote>\n\n<p>It's a small observation with enormous implications. If software can be synthesized on demand — shaped by constraints rather than compiled in advance — then the entire rhythm of product development changes. No more release trains. No more feature freezes. Software becomes less like a manufactured good and more like a live performance. <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> is already living this future at the CI layer:</p>\n\n<blockquote><a href=\"https://x.com/steipete/status/2104305554760114488\">\"My plan is to let codex decide which tests actually need to run and drastically nix CI and run tests hourly.\"</a></blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> went a step further, announcing he'd ported his personal web browser to Rust and Swift — with an AI agent embedded via a local MCP server — and drew a sweeping conclusion: <a href=\"https://x.com/rauchg/status/2104428800134013205\">\"Native is the future, both on the desktop and in the cloud. I suspect the entire software world will 'nativify' faster than people realize.\"</a></p>\n\n<hr>\n\n<h2>**Agents, Friction, and the Economy Being Quietly Reorganized**</h2>\n\n<p>The most substantive economic analysis of the day came from <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>, Box's CEO, who sketched out a two-sided theory of how agents will reshape markets:</p>\n\n<blockquote><a href=\"https://x.com/levie/status/2104350592290406849\">\"There is some subset of the economy that benefits from the friction customers traditionally have changing something about their habits… switching costs will come down and competition is going to increase dramatically. On the other hand, there are lots of markets that are hurt by a significant amount of friction, where agents will begin to unlock all kinds of economic activity… Healthcare, travel, local services — these are net beneficiaries.\"</a></blockquote>\n\n<p>Levie expanded on this theme in a long-form conversation on the <em>Training Data</em> podcast. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Box's Aaron Levie: On Reinventing Yourself in the AI Age</a>. His central argument: the gap between a model's raw capability and an actual enterprise workflow is enormous, and that gap is where the next generation of valuable software companies will be built.</p>\n\n<blockquote>\"The model could be the most intelligent, super intelligence in the world, but that workflow still requires you to connect up to other data systems, still requires these moments where there's a human in the loop interaction… So you kind of go through these five or ten things that are way much more operational, much more blocking and tackling than just the pure super intelligence of the model.\"</blockquote>\n\n<p>He drew the comparison to cloud infrastructure: <em>\"If you were to go back ten years ago and look at what early versions of GCP or AWS was building, I guarantee you would not have predicted Snowflake or Databricks existing. The same thing is going to be true for intelligence.\"</em></p>\n\n<p>The wry counterpoint came from <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>, who captured the meta-irony in a single line: <a href=\"https://x.com/danshipper/status/2104302924251951553\">\"industry built on modeling humans as rational agents panics as humans adopt rational agents.\"</a></p>\n\n<hr>\n\n<h2>**The Laziness Problem Nobody Wants to Talk About**</h2>\n\n<p>Amid the optimism, one voice struck a cautionary note. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> posted what may be the most quietly important concern about the agentic future:</p>\n\n<blockquote><a href=\"https://x.com/trq212/status/2104273243599405395\">\"I am most afraid of us eating the productivity gains of agents by just becoming lazier.\"</a></blockquote>\n\n<p>It's a real risk that tends to get lost in the capability conversation. Every productivity technology in history — from the spreadsheet to the search engine — has had its gains partially absorbed by expanded appetite rather than delivered output. There's no obvious reason agents will be different. The question of whether AI makes people more productive, or simply lowers their baseline effort, may be the defining organizational challenge of the next decade.</p>\n\n<hr>\n\n<h2>**The Expert Humility Gap**</h2>\n\n<p><a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> made an observation that deserves wider circulation:</p>\n\n<blockquote><a href=\"https://x.com/mattturck/status/2104331402385002831\">\"It continues to be notable how many AI researchers (who understand how AI actually works) believe in neither AI doom nor massive uncontrollable acceleration, while non AI researchers (who have limited knowledge) have very definite and certain views on the topic.\"</a></blockquote>\n\n<p>This maps cleanly onto a broader phenomenon — <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> put it well: <a href=\"https://x.com/zarazhangrui/status/2104112917264126195\">\"New technology can be so dazzling and flashy that it blinds us to the ways in which it's not working — and sometimes makes you feel that if something is not working, it's probably your fault not the technology's fault, because the world is moving so fast and everyone seems ahead of you.\"</a> The loudest voices on AI's future are often those with the least hands-on experience. The builders, characteristically, are more measured — and more focused on the unglamorous work of making things actually function in the real world.",
+  "html_zh": "<p class=\"lead\">AI正在重塑软件的底层逻辑——从代码的生成方式，到企业工作流的改造，再到智能体如何重新定义市场摩擦。今天的讨论让我们看到：这场变革比大多数人预想的更深、更快。</p>\n\n<hr>\n\n<h2>🧱 代码冻结已死：软件发布的终结与重生</h2>\n\n<p>软件工程界有一个古老的仪式：发布前的\"代码冻结期\"。但这个传统正在消亡。<a href=\"https://x.com/thsottiaux/status/2104108167806550046\" data-handle=\"thsottiaux\">@thsottiaux</a> 抛出了一个颠覆性的预判：</p>\n\n<blockquote>\n\"代码冻结在发布前实际上已经不再是惯例。未来，代码甚至可能根据某些约束条件，在每次请求时在线动态生成。\"\n</blockquote>\n\n<p>这一观点的意义远不止于工程流程。如果代码可以按需生成，那么\"版本\"这个概念本身就会动摇。与此同时，<a href=\"https://x.com/steipete/status/2104305554760114488\" data-handle=\"steipete\">@steipete</a> 分享了一个更为务实的当下实践——用 AI 来决定哪些测试真正需要跑：</p>\n\n<blockquote>\n\"我的计划是让 Codex 来决定哪些测试真正需要运行，大幅削减 CI 流程，改为每小时跑一次测试。\"\n</blockquote>\n\n<p>从\"冻结代码\"到\"智能决策测试范围\"，软件交付正在被 AI 从内部重构。</p>\n\n<hr>\n\n<h2>🏢 企业AI的真正战场：不在模型，在工作流</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Training Data — Box's Aaron Levie: On Reinventing Yourself in the AI Age</a></p>\n\n<p>本周最值得细读的一段对话，来自 Box 创始人 <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 接受播客采访时的坦诚剖析。他指出，AI 圈普遍存在一种\"研究滤镜\"——默认模型的智能是唯一重要的变量。但现实的企业场景远比这复杂：</p>\n\n<blockquote>\n\"模型可以是世界上最智能的超级智能，但那个工作流仍然需要你接入其他数据系统，仍然需要人在某些节点介入。流程中存在延迟，智能体不得不空等；还有业务流程的变更管理、尚未现代化的遗留系统……你会遇到五到十个这样的问题，它们远比模型的纯粹智能更偏向运营层面，更像是基础工作。\"\n</blockquote>\n\n<p>他还用了一个绝妙的历史类比：</p>\n\n<blockquote>\n\"如果你回到十年前，看看当时 GCP 或 AWS 在做什么，我保证你不会预测到 Snowflake 或 Databricks 的出现。你会说，'基础设施已经能做这些了，为什么还要再花几十亿美元买那些帮你处理数据的产品？'同样的事情将发生在智能领域。\"\n</blockquote>\n\n<p>这段话是对\"应用层公司只是模型包装器\"这一偏见最有力的反驳。在银行、生命科学、医疗、政府等领域，将模型真正嵌入工作流，本身就是一门庞大的生意。</p>\n\n<hr>\n\n<h2>🤖 智能体经济：摩擦的消失是祸是福？</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 在播客之外也继续延伸了这个话题。他在<a href=\"https://x.com/levie/status/2104350592290406849\">推文中</a>指出，智能体将对不同市场产生截然相反的影响：</p>\n\n<blockquote>\n\"一方面，部分经济体从用户的切换摩擦中获益——在这些市场，切换成本将大幅下降，竞争会急剧加剧。另一方面，很多市场本身就因为高摩擦而受损，智能体将解锁大量此前因门槛太高而无法发生的经济活动。医疗、旅行、本地服务……很可能是净受益者。\"\n</blockquote>\n\n<p>然而，<a href=\"https://x.com/trq212/status/2104273243599405395\" data-handle=\"trq212\">@trq212</a> 提出了一个更令人不安的警示：</p>\n\n<blockquote>\n\"我最担心的是，我们会用变懒来吞噬智能体带来的生产力增益。\"\n</blockquote>\n\n<p>效率工具最终服务于谁的意志？这是智能体时代最根本的哲学问题之一。<a href=\"https://x.com/danshipper/status/2104302924251951553\" data-handle=\"danshipper\">Dan Shipper</a> 则用一句俏皮话点破了另一层吊诡：</p>\n\n<blockquote>\n\"一个建立在'把人类建模为理性智能体'基础上的行业，正在因为人类开始使用理性智能体而陷入恐慌。\"\n</blockquote>\n\n<hr>\n\n<h2>💻 原生化浪潮：Electron 的黄昏</h2>\n\n<p><a href=\"https://x.com/rauchg/status/2104428800134013205\" data-handle=\"rauchg\">Guillermo Rauch</a>（Vercel CEO）分享了他用 Rust 和 Swift 重写迷你浏览器的经历，并得出了一个宏观判断：</p>\n\n<blockquote>\n\"原生才是未来，无论是桌面端还是云端。我预感整个软件世界'原生化'的速度会比人们意识到的更快。\"\n</blockquote>\n\n<p>他用 AI（Opus 5.5）辅助完成了这次迁移，抛弃 Electron 后获得了 Liquid Glass 效果、更快的启动速度，以及更地道的 Mac 体验。这不只是一次技术选型的分享，更是一个信号：AI 辅助编程正在让\"重写\"这件事的成本大幅下降，原本因为迁移代价太高而维持现状的项目，正在获得新的选择权。</p>\n\n<hr>\n\n<h2>🧠 旁注：专家的沉默与外行的确信</h2>\n\n<p>最后，一个值得记录的观察。<a href=\"https://x.com/mattturck/status/2104331402385002831\" data-handle=\"mattturck\">Matt Turck</a> 注意到了一个持续存在的反差：</p>\n\n<blockquote>\n\"值得注意的是，许多真正理解 AI 运作原理的 AI 研究者，对'AI 末日论'和'失控加速论'都持保留态度；而那些对 AI 所知有限的人，反而往往持有最确定、最极端的观点。\"\n</blockquote>\n\n<p>知道得越多，越倾向于不确定——这或许是今天所有讨论中，最值得反复咀嚼的一句话。</p>"
+}
