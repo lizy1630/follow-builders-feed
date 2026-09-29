@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T06:45:20.961Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    }
+  },
+  "html_en": "<p class=\"lead\">Two major model releases are commanding the AI world's attention today — Claude Sonnet 5.5 is drawing genuine enthusiasm from enterprise builders, while Sam Altman's cryptic \"we have found a new thing\" has everyone counting the hours until OpenAI DevDay.</p>\n\n<h2>🚀 Sonnet 5.5: The Model That's Actually Impressing People</h2>\n\n<p>Anthropic's Claude Sonnet 5.5 dropped to near-universal praise — and unusually, much of it is coming with hard numbers rather than vibes. The headline stats: roughly 30% more tasks completed in Claude Code, faster completions, and fewer tokens consumed. That combination — better <em>and</em> cheaper — is the kind of release the industry rarely gets to celebrate.</p>\n\n<blockquote><a href=\"https://x.com/bcherny/status/2104638725317923228\" data-handle=\"bcherny\">@bcherny</a>: \"Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage.\"</blockquote>\n\n<blockquote><a href=\"https://x.com/_catwu/status/2104639552170377399\" data-handle=\"_catwu\">@_catwu</a>: \"In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work... 24s faster than Sonnet 5, with 6K fewer tokens.\"</blockquote>\n\n<p>The enterprise validation is striking. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box ran Sonnet 5.5 through rigorous internal evals and shared a detailed breakdown that reads more like an analyst report than a tweet:</p>\n\n<blockquote><a href=\"https://x.com/levie/status/2104648654074343480\" data-handle=\"levie\">@levie</a>: \"Across the board we saw a 4 pt overall improvement on our hardest tests, but it was roughly 2.4× faster to a finished deliverable on 12% fewer tokens... Financial services (+48 points): a due-diligence review of a trading-tool acquisition, where the deal book's arithmetic doesn't hold up. Sonnet 5.5 caught the miscalculated interest totals and the mispriced options and flagged them.\"</blockquote>\n\n<p>Legal, life sciences, and public sector showed similar gains — with the life sciences result particularly notable: Sonnet 5 \"missed nearly all\" sample standard deviations in a field trial writeup. Sonnet 5.5 got them right, 41% faster.</p>\n\n<p>On the writing and coding side, <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> gave perhaps the most nuanced take:</p>\n\n<blockquote><a href=\"https://x.com/danshipper/status/2104636728992776510\" data-handle=\"danshipper\">@danshipper</a>: \"It has dramatically improved writing even versus Opus 5.5 in my testing... It's faster and cheaper than Opus 5.5, so it's [a] preferred model for quick iterative coding and design work. But both [teammates] feel like they don't have room in their stack for mid-tier models anymore.\"</blockquote>\n\n<p>That last note is worth sitting with. As the gap between tiers narrows, the calculus for which model to reach for gets simpler — and more competitive.</p>\n\n<hr>\n\n<h2>⚡ The New Prompt Stack: References, Skills, and Agents All the Way Down</h2>\n\n<p>Alongside the model release, a more philosophical thread emerged about how experienced builders are actually working with these tools — and it's increasingly alien to the \"write a good prompt\" advice of two years ago.</p>\n\n<blockquote><a href=\"https://x.com/trq212/status/2104608785696440510\" data-handle=\"trq212\">@trq212</a>: \"it's basically impossible for someone to just 'show you their prompt' now, because everything is about references, skills and examples. I often ask my agent to look at 3 other repos I've made first, search the web for references, use other AI APIs, etc.\"</blockquote>\n\n<blockquote><a href=\"https://x.com/trq212/status/2104660926373023830\" data-handle=\"trq212\">@trq212</a>: \"With Sonnet + Opus 5.5 I think this sort of intelligence should be very available. Try Sonnet 5.5 in particular when making workflows.\"</blockquote>\n\n<p>The implication is clear: prompt-sharing as knowledge transfer is becoming obsolete. The real moat is the orchestration layer — the agents, the context graphs, the tool chains. Sharing a prompt is like sharing one ingredient from a recipe you've never tasted.</p>\n\n<hr>\n\n<h2>🔮 OpenAI DevDay Eve: Sam Drops a Cryptic Teaser</h2>\n\n<p>Tomorrow's OpenAI DevDay is already generating enormous anticipation — with <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> doing his best to maximize suspense:</p>\n\n<blockquote><a href=\"https://x.com/sama/status/2104661956879913457\" data-handle=\"sama\">@sama</a>: \"Pretty excited for DevDay tomorrow. We have found a new thing.\"</blockquote>\n\n<p>Eight thousand likes and climbing. \"A new thing\" is doing a lot of heavy lifting there. Meanwhile, <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Tibo from OpenAI's subscription team</a> got ahead of one expected announcement — changes to the Pro $200 plan — with unusual transparency:</p>\n\n<blockquote><a href=\"https://x.com/thsottiaux/status/2104823812042940713\" data-handle=\"thsottiaux\">@thsottiaux</a>: \"In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan... We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit... We don't want to put an incentive on ourselves to artificially inflate the API list prices.\"</blockquote>\n\n<p>It's a genuinely interesting pricing philosophy — resist the temptation to inflate list prices and pocket the difference, and instead pass model efficiency gains directly to subscribers. Whether the execution matches the promise will become clear as GPT-6 Sol and Luna roll out at 50% of their previous prices.</p>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>, a DevDay veteran, noted the scale of what's coming: <a href=\"https://x.com/danshipper/status/2104662907716050988\">\"this is by far the most launches @OpenAI has ever had.\"</a> Friendly reminder that this is a company that once made \"function calling\" a headline event.</p>\n\n<hr>\n\n<h2>🏗️ The Infrastructure Layer Quietly Gets Better</h2>\n\n<p>Not every important development comes with a dramatic reveal. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> at Vercel pushed out a pair of quietly significant updates: Vercel domains are now searchable without authentication (\"especially great if you're an agent\"), and a migration case study showing ~70% faster builds and ~75% faster paints — completed in under a week.</p>\n\n<p>These aren't flashy announcements, but they reflect where a lot of the real leverage is accumulating: in the deployment and tooling layer that agents interact with. Faster builds and agent-accessible search aren't demos — they're infrastructure.</p>\n\n<hr>\n\n<h2>🌐 A Note on Competition (and Equanimity)</h2>\n\n<p>The X discourse can whipsaw violently between \"Anthropic is cooked\" and \"OpenAI is cooked\" on roughly a weekly basis. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> offered a sensible corrective:</p>\n\n<blockquote><a href=\"https://x.com/petergyang/status/2104809410040336784\" data-handle=\"petergyang\">@petergyang</a>: \"Folks on X are so fickle about 'omg openai is getting mogged by Claude 5.5' or just a few months ago 'anthropic is so cooked by codex.' I'm just glad there are 2 (and soon more) competitors pushing the frontier so we can all benefit.\"</blockquote>\n\n<p>A good reminder as DevDay kicks off tomorrow. The race isn't over — it's just getting interesting.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI圈有两条主线交织上演：Claude的新模型Sonnet 5.5以亮眼的实测数据强势登场，而OpenAI DevDay的倒计时也让整个社区屏息以待。</p>\n\n<h2>🚀 Sonnet 5.5：不只是\"小升级\"</h2>\n\n<p>本周AI圈最热闹的话题，莫过于Anthropic悄然发布的<strong>Claude Sonnet 5.5</strong>。与其说它是一次常规迭代，不如说它彻底重新定义了\"中端模型\"的天花板。</p>\n\n<p><a href=\"https://x.com/bcherny/status/2104638725317923228\" data-handle=\"bcherny\">@bcherny</a> 最先引发广泛关注，他展示了Sonnet 5.5在Claude Code中修复bug的实测结果：</p>\n\n<blockquote>速度提升30%，token消耗减少30%。</blockquote>\n\n<p>这个数字得到了Anthropic内部的佐证。<a href=\"https://x.com/_catwu/status/2104639552170377399\" data-handle=\"_catwu\">@_catwu</a> 补充道：</p>\n\n<blockquote>在Claude Code中，用户使用Sonnet 5.5完成的任务比Sonnet 5多出约30%。模型更聪明，所以完成同样的工作所需的token更少。</blockquote>\n\n<p>企业端的数据更令人印象深刻。<a href=\"https://x.com/levie/status/2104648654074343480\" data-handle=\"levie\">Box CEO Aaron Levie</a> 披露了他们的内部测评结果，涵盖金融服务、法律、生命科学等多个垂直领域：</p>\n\n<blockquote>金融服务提升了48个百分点：在一次交易工具收购的尽职调查中，交易文件的算术存在问题，Sonnet 5.5发现了错误计算的利息总额和错误定价的期权，并完成了标注——而且速度快了约61%。法律领域提升14个百分点：在一份商业租约审查中，Sonnet 5.5拒绝虚构\"标准\"市场基准，转而明确指出租约中真正缺失的内容。</blockquote>\n\n<p>用户层面的感受同样积极。<a href=\"https://x.com/alexalbert__/status/2104633937280811010\" data-handle=\"alexalbert__\">@alexalbert__</a> 如此描述：</p>\n\n<blockquote>Sonnet 5.5有着我在Opus 5.5上喜欢的那种感觉。写作清晰，速度极快，能力上比Sonnet 5有重大飞跃。是一个非常适合快速迭代的模型。</blockquote>\n\n<p><a href=\"https://x.com/danshipper/status/2104636728992776510\" data-handle=\"danshipper\">@danshipper</a> 则给出了一个有趣的团队视角：</p>\n\n<blockquote>它的写作能力相比Opus 5.5也有显著提升。它比Opus 5.5更快更便宜，所以是团队里做快速迭代编码和设计的首选模型。但也有成员认为，他们的工作流里已经没有\"中端模型\"的位置了。</blockquote>\n\n<hr>\n\n<h2>⚙️ 提示词时代的终结？工作流才是新战场</h2>\n\n<p>Sonnet 5.5的发布，也引发了一场关于AI使用方式演变的深度讨论。<a href=\"https://x.com/trq212/status/2104608785696440510\" data-handle=\"trq212\">@trq212</a> 说出了很多重度用户的心声：</p>\n\n<blockquote>现在基本上不可能有人只是\"把提示词分享给你\"了，因为一切都依赖于引用、技能和示例。我经常让我的Agent先看我做的其他三个代码库，在网上搜索参考资料，调用其他AI API，等等。</blockquote>\n\n<p>他进一步指出，随着Sonnet和Opus 5.5的到来，更高层次的抽象——比如项目管理、动态工作流——在token成本上已经变得越来越可接受：</p>\n\n<blockquote>有了Sonnet + Opus 5.5，这种层次的智能应该变得非常普及。尤其推荐在构建工作流时试试Sonnet 5.5。</blockquote>\n\n<p>这一趋势也让有人感到困惑——<a href=\"https://x.com/trq212/status/2104702728270471594\" data-handle=\"trq212\">@trq212</a> 甚至截图分享了自己对Claude说\"能帮我一步步思考这个问题吗\"后得到的回应，引发了2000多人点赞的共鸣与笑声。（Claude大概已经对这种说法免疫了。）</p>\n\n<hr>\n\n<h2>🎪 OpenAI DevDay前夜：期待拉满</h2>\n\n<p>就在Anthropic刷屏的同时，<strong>OpenAI DevDay</strong>也正在聚拢业界目光。<a href=\"https://x.com/sama/status/2104661956879913457\" data-handle=\"sama\">Sam Altman</a> 在前夜发出了一条措辞考究的预告：</p>\n\n<blockquote>对明天的DevDay非常期待。我们发现了一些新东西。</blockquote>\n\n<p>言简意赅，却足够挑动神经。与此同时，OpenAI订阅产品负责人 <a href=\"https://x.com/thsottiaux/status/2104823812042940713\" data-handle=\"thsottiaux\">@thsottiaux</a> 在DevDay前夕罕见地主动披露了Pro $200订阅的变更逻辑，措辞诚恳：</p>\n\n<blockquote>实际上，如果你算一下，与旧版Pro $200方案相比，API消费的实际价值将减半。话虽如此，让我解释一下为什么这样做，以及为什么你仍然能比一个月前的Pro $200订阅完成更多工作……我们承诺随着时间推移，你总能完成更多工作，质量也会不断提升。随着模型效率提升，我们会以API降价的形式将改善传递给用户。</blockquote>\n\n<p>他还预告DevDay当天将上线一些不计入用量的新功能，吊足了胃口。<a href=\"https://x.com/danshipper/status/2104662907716050988\" data-handle=\"danshipper\">@danshipper</a> 感叹道：\"这是我参加过的DevDay里发布最多的一次。\"</p>\n\n<hr>\n\n<h2>🌐 基础设施与工具层：安静的支撑者</h2>\n\n<p>在模型之争的喧嚣之外，基础设施层也有动作。<a href=\"https://x.com/rauchg/status/2104764419305796094\" data-handle=\"rauchg\">Vercel CEO @rauchg</a> 宣布了一项对AI Agent友好的小而美更新：</p>\n\n<blockquote>你现在可以不需要身份验证就能搜索Vercel域名。对于Agent来说尤其实用。</blockquote>\n\n<p>他还分享了一次迁移案例，显示Vercel构建速度提升约70%，页面渲染提升约75%，全程不到一周。在Agent和工具层的军备竞赛中，部署基础设施的效率正在变得越来越关键。</p>\n\n<hr>\n\n<h2>💬 编辑观察：竞争本身才是最大的红利</h2>\n\n<p>今天的Feed里，有一条推文被低估了。<a href=\"https://x.com/petergyang/status/2104809410040336784\" data-handle=\"petergyang\">@petergyang</a> 写道：</p>\n\n<blockquote>X上的人对于\"天哪OpenAI被Claude 5.5吊打了\"或者几个月前的\"Anthropic被Codex打垮了\"总是摇摆不定。我只是很高兴有两个（很快会更多）竞争者在不断推进前沿，让我们所有人都能从中受益。</blockquote>\n\n<p>这句话放在今天格外应景。Sonnet 5.5刷新了编码Agent的效率基准，OpenAI则在DevDay前夜吊足胃口。用户不需要选边站——他们只需要坐等两家公司继续卷下去。这，才是这个行业最健康的状态。</p>"
+}
