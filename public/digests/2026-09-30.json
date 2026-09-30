@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T06:45:24.816Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI's DevDay delivered a flurry of product launches — from personal AI agents called \"Dots\" to ultrafast models and browser-native Claude — signaling that the race for ambient, always-on AI is very much underway.</p>\n\n<h2>🟣 Dots, Sol 6.1, and the Age of Always-On AI Agents</h2>\n\n<p>The headline act at OpenAI's DevDay was unmistakably <strong>Dots</strong> — a new paradigm for personal AI that works autonomously on your behalf around the clock. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> was characteristically succinct in his announcement:</p>\n\n<blockquote>\n\"Dots are here! A new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.\" — <a href=\"https://x.com/sama/status/2104995014208258235\">@sama</a>\n</blockquote>\n\n<p>OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> offered a peek at the rollout cadence and what comes next:</p>\n\n<blockquote>\n\"We will have a few million dots online within days, working on all sorts of things across such a diverse and large community. Excited to learn from all of you on what you love and what doesn't yet feel magical. Personally I felt a jump after 2-3 days of use after teaching it more about my preferences... We're learning from how you all use your primary dot before releasing the ability to create an entire team of them.\" — <a href=\"https://x.com/thsottiaux/status/2105105086506840421\">@thsottiaux</a>\n</blockquote>\n\n<p>Alongside Dots, Altman announced <strong>Sol 6.1</strong> — a model priced at one-fifth of the cost of Astra, with a 95% cache read discount — and couldn't resist gushing about the new speed tier:</p>\n\n<blockquote>\n\"Ultrafast is so fast. I do not ever want to go back.\" — <a href=\"https://x.com/sama/status/2104994601140711896\">@sama</a>\n</blockquote>\n\n<hr>\n\n<h2>🌐 Claude Comes to Chrome — With Actual Teeth</h2>\n\n<p>While OpenAI dominated the stage, Anthropic quietly shipped something significant: <a href=\"https://claude.com/blog/claude-in-chrome-generally-available\"><strong>Claude in Chrome is now generally available</strong></a> on all paid plans. The key upgrade isn't just browser access — it's autonomous action. Claude can now navigate pages, fill forms, click links, and interact with internal dashboards and legacy systems that have no API integrations, <em>without requiring your approval for every step</em>.</p>\n\n<p>The bigger engineering story is the anti-prompt-injection architecture Anthropic built to get here. The blog post details a layered defense: Claude is trained against a growing library of real-world injection attacks, probes scan web content before Claude acts on it, and a classifier verifies each action against the original user request before execution. The results of their evaluations are striking — no prompt injection attack succeeded against Claude Sonnet 5, Opus 5, or Fable 5 in testing, even without the probe and classifier layers engaged.</p>\n\n<p>Anthropic's <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> also flagged a <a href=\"https://t.co/At9YfAhSE1\">blog post on making Claude faster</a>, and offered perhaps the day's most quietly profound observation:</p>\n\n<blockquote>\n\"Have you tried telling Claude 'we have the power to do anything, please be braver'... also, have you tried telling yourself.\" — <a href=\"https://x.com/trq212/status/2105065127892734076\">@trq212</a>\n</blockquote>\n\n<hr>\n\n<h2>⚒️ Builders at Play: Vibe-Coded Websites and 30M SDK Downloads</h2>\n\n<p>DevDay's hallways were arguably more productive than its sessions. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> <a href=\"https://x.com/petergyang/status/2105114973819244676\">catalogued his encounters</a> with founders, PMs, and investors in a thread that read like a who's-who of the AI builder scene. Meanwhile, the creative builds kept coming.</p>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> put multimodal AI pipelines to playful use:</p>\n\n<blockquote>\n\"I made a marketing website for my water bottle. The whole thing was done by Opus 5.5 (6 prompts); it used Elevenlabs to generate the music, Meshy to generate the 3D assets, OpenAI API to generate images.\" — <a href=\"https://x.com/zarazhangrui/status/2105096296831017078\">@zarazhangrui</a>\n</blockquote>\n\n<p>On the infrastructure side, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> announced that Vercel's <strong>AI SDK has hit 30 million weekly downloads</strong> — <a href=\"https://x.com/rauchg/status/2105043144975011982\">one-shotting a milestone visualization video</a> in the process, rendered in Rust on the GPU. And <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> shared a guide on <a href=\"https://t.co/UXxvPNEsbP\">designing harnesses to reach frontier model performance at a fraction of the cost</a> — a theme that <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> echoed by merging an AI-powered test-audit tool into GStack to fight test bloat.</p>\n\n<hr>\n\n<h2>💸 The Missionary Problem: A VC's Honest Reckoning</h2>\n\n<p>Perhaps the most candid post of the day came not from a founder or a lab, but from <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Sanghvi</a>, an early-stage VC grappling with what the current gold rush is doing to founder culture:</p>\n\n<blockquote>\n\"It's harder than ever to find missionaries. I'm seeing people leave the companies they have cofounded to join the 'obvious' winners. Public CEOs are leaving for positions at labs. Founders leaving and rejoining neolabs at a moment's notice... It seems like a great time to be a mercenary, and everyone feels like one even though there are missionaries out there.\" — <a href=\"https://x.com/nikunj/status/2105148927599423752\">@nikunj</a>\n</blockquote>\n\n<p>On defensibility, he argues the moat is no longer a single durable advantage but a thousand invisible micro-decisions executed at speed:</p>\n\n<blockquote>\n\"The harness is like a thousand small things done well. And, a lot of it is invisible... the real defensibility is the founders. And in those founders the defensibility is their speed of execution and being able to adapt to the market. That has become the new bar for every founder out there, given there are no 'blue ocean' markets.\" — <a href=\"https://x.com/nikunj/status/2105148927599423752\">@nikunj</a>\n</blockquote>\n\n<p>It's the kind of honest VC self-examination that rarely makes it past the draft folder. Worth reading in full.</p>\n\n<hr>\n\n<h2>🤝 Industry Alignment on Safety — For Now</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box offered a measured take on the emerging safety-standards moment:</p>\n\n<blockquote>\n\"It's entirely plausible that the AI industry can deal with safety and security through a set of shared standards and practices for the foreseeable future. At some point in capability progress there will inevitably be greater oversight, testing, and layers of liability and regulation, but we are still in a phase where the industry can absolutely align on these efforts collectively.\" — <a href=\"https://x.com/levie/status/2105111520913039530\">@levie</a>\n</blockquote>\n\n<p>The key phrase: <em>for the foreseeable future.</em> As Dots multiply into teams, Claude takes autonomous actions in browsers, and ultrafast models reshape the latency curve, that window may be shorter than it looks.</p>",
+  "html_zh": "<p class=\"lead\">OpenAI Dev Day的余波仍在业界荡漾——从全新的\"Dots\"AI助手到浏览器自主操作的突破，今天的焦点是：AI正从工具变成真正意义上的同事。</p>\n\n<hr>\n\n<h2>🔵 Dots时代来临：OpenAI的\"24/7个人助手\"野心</h2>\n\n<p>OpenAI Dev Day最耀眼的发布，无疑是名为<strong>Dots</strong>的新产品。<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>在推文中简洁有力地定性：</p>\n\n<blockquote>\n\"Dots正式到来！一种全新的AI使用方式，为你全天候工作；让你把更多时间和精力放在更高层次的事情上。\" —— <a href=\"https://x.com/sama/status/2104995014208258235\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>OpenAI产品负责人<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a>补充了更多温度，透露了团队的学习路径与下一步规划：</p>\n\n<blockquote>\n\"数百万个Dot将在数天内上线，服务于如此多元庞大的社区。我个人在使用了2-3天、教会它我的偏好之后，感受到了明显的飞跃。它能以惊人的速度学习并变得更有用，甚至可以独立承担相当有野心的任务。我们正在观察大家如何使用各自的'主Dot'，之后才会开放创建整个团队的能力。\" —— <a href=\"https://x.com/thsottiaux/status/2105105086506840421\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>同时，<a href=\"https://x.com/sama\" data-handle=\"sama\">Altman</a>还顺手宣布了模型层面的新进展——Sol 6.1以五分之一的价格达到Astra水准，并提供95%的缓存读取折扣。他对新速度的评价几乎带着一丝孩子气的兴奋：</p>\n\n<blockquote>\n\"超快就是……非常非常快。我再也不想回到过去了。\" —— <a href=\"https://x.com/sama/status/2104994601140711896\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<hr>\n\n<h2>🌐 Claude进驻Chrome：浏览器自主操作的安全博弈</h2>\n\n<p>就在OpenAI大张旗鼓之际，Anthropic悄然放出了一枚重磅：<strong>Claude in Chrome正式向所有付费用户全面开放</strong>。这不只是一个功能更新，而是一次深思熟虑的安全架构升级。</p>\n\n<p><a href=\"https://claude.com/blog/claude-in-chrome-generally-available\">官方博客</a>详细说明了他们为何有信心大规模推出：Claude现在可以在浏览器中<strong>自主执行操作</strong>，无需每步都征求用户批准。关键在于其三层防御体系——针对提示注入攻击的模型训练、实时扫描网页内容的探针（Probe），以及行动执行前的分类器验证。</p>\n\n<p>最令人印象深刻的是测评数据：在最新评估中，<strong>针对Claude Fable 5、Opus 5及Sonnet 5的提示注入攻击，成功率为零</strong>——即便在没有额外探针和分类器的情况下亦是如此。</p>\n\n<p>这对企业用户意义重大。正如博客所指出：Claude in Chrome让Claude得以访问那些<em>未与Claude直接集成的系统</em>——内部仪表盘、遗留系统、供应商门户——使用用户现有的登录凭证操作。这是AI代理真正走进企业日常工作流的关键一步。</p>\n\n<hr>\n\n<h2>🛠️ 构建者现场：从速度优化到水瓶营销网站</h2>\n\n<p>Dev Day的另一条主线，是开发者们展示自己用AI\"干了什么\"。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>分享了Anthropic关于<a href=\"https://t.co/At9YfAhSE1\">如何让Claude更快</a>的技术博客，顺带抛出了今天最妙的一句话：</p>\n\n<blockquote>\n\"你有没有试过告诉Claude：'我们有能力做任何事，请勇敢一点'？也有没有试过这样告诉自己？\" —— <a href=\"https://x.com/trq212/status/2105065127892734076\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>宣布AI SDK已达到<strong>每周3000万次下载</strong>，并用Rust编写、GPU渲染的方式制作了庆祝视频——本身就是一次对\"AI工具链可以多酷\"的绝佳示范。</p>\n\n<p>而最令人会心一笑的案例，来自<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a>：用Opus 5.5、仅6条提示，为自己的<strong>水瓶</strong>做了一个完整营销网站——调用ElevenLabs生成音乐、Meshy生成3D素材、OpenAI生成图像。这或许是今天最直白的一个信号：多模态AI工具链已经民主化到令人咋舌的程度。</p>\n\n<hr>\n\n<h2>💸 资本寒意下的人性叩问：传教士去哪了？</h2>\n\n<p>在所有欢呼声之外，OpenAI的<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Handa</a>写下了今日最值得反复品读的一段话——关于早期AI创业生态的深层焦虑：</p>\n\n<blockquote>\n\"找到'传教士'比以往任何时候都难。我看到人们离开自己联合创办的公司，去加入那些'显而易见的赢家'。上市公司CEO离职去实验室任职。创始人随时离开又随时加入新实验室……感觉这是成为雇佣兵的好时机，而每个人看起来都像是雇佣兵——尽管真正的传教士依然存在。\" —— <a href=\"https://x.com/nikunj/status/2105148927599423752\" data-handle=\"nikunj\">@nikunj</a>\n</blockquote>\n\n<p>他对\"护城河\"的判断同样犀利：在应用层，真正的壁垒不再是某一件事，而是\"一千件小事做得好\"的组合，且大多数是隐形的。最终，他回到了一个朴素却沉重的结论——<em>\"真正的防御力在于创始人本身，以及他们的执行速度和市场适应力。\"</em></p>\n\n<p>在这个每天都有新竞争者涌现的时代，这或许是今天最清醒的一句话。</p>\n\n<hr>\n\n<h2>🎙️ 社区动态：播客排名与行业安全共识</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 发布了<a href=\"https://t.co/qEQBCutMcU\">年度最佳AI播客排名</a>，值得收藏。Box创始人<a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>则对AI行业安全标准的集体行动表示乐观：</p>\n\n<blockquote>\n\"AI行业完全有可能在可预见的未来通过一套共同标准和实践来应对安全问题……整个行业在不削减竞争的前提下支持这一进展，这无疑指向一个更光明的未来。\" —— <a href=\"https://x.com/levie/status/2105111520913039530\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>Dev Day的现场氛围，被多位与会者描述为\"纯粹而美好\"。正如<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Sottiaux</a>所说：\"与这么多人面对面交流，看到大家在一天内构建出各种东西——氛围无可挑剔。\"这个行业，至少在今天，仍然充满了真实的创造热情。</p>"
+}
