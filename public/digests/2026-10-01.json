@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T06:46:31.245Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: How Sam Altman Uses Dots to Take Back His Time",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI's DevDay dominated the conversation today — 22 launches, a capacity-strained flagship model, and Sam Altman drawing a sharp line between the Renaissance and the Industrial Revolution as competing visions for what AI should mean for humanity.</p>\n\n<h2>The Renaissance vs. The Machine: Sam Altman's Vision for AI</h2>\n\n<p>The most compelling thread running through today's feed came from <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Every's interview with Sam Altman at DevDay</a> — a wide-ranging conversation about what it means to build AI that centers people rather than displaces them. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> pressed Altman on the surprise of AI's deeply human character, and got one of the more quotable answers of the year:</p>\n\n<blockquote>\n\"We just don't care that much about what the machines do. And in some sense we never have. We're obsessed with other people. We want to know about the person behind the art or the person behind the company or the idea or the product.\" — Sam Altman\n</blockquote>\n\n<p>Altman's framing of the Industrial Revolution versus the Renaissance as two competing templates for AI's societal role is worth sitting with. The Industrial Revolution delivered material abundance, he argued, but at the cost of something human — turning people into \"a cog in a machine doing some extremely specialized thing.\" The Renaissance, by contrast, was \"fundamentally centered around people.\" His discomfort with the \"house cats\" scenario of total AI autonomy felt genuine rather than performed.</p>\n\n<p>On the developer demand side, Altman offered a characteristically optimistic read: the coding tools are better than anyone imagined four years ago, yet there are <em>more</em> developers at DevDay than ever, not fewer.</p>\n\n<blockquote>\n\"People just want so much more stuff. People's expectations are so high. And I think that's a wonderful thing... developers, they've never been able to do more, but there's never been a higher bar either.\" — Sam Altman\n</blockquote>\n\n<p>He also acknowledged, with refreshing candor, that the App Store problem remains unsolved: \"We clearly have not yet figured out the App Store equivalent, but we have figured out how to build a platform that a lot of people are building incredible value on top of.\"</p>\n\n<hr>\n\n<h2>DevDay's Big Launches: GPT-6.1, MCP Servers, and a Dot That Googles You</h2>\n\n<p>OpenAI shipped 22 things at DevDay — \"we cut a bunch of things we were going to launch,\" Altman noted, \"just because you have to fit it in 50 minutes.\" The reaction online focused on two things in particular.</p>\n\n<p>First, the demand for GPT-6.1 Sol has been extraordinary. <a href=\"https://x.com/thsottiaux/status/2105464274747527543\" data-handle=\"thsottiaux\">@thsottiaux</a> confirmed the scale of the moment:</p>\n\n<blockquote>\n\"GPT-6.1 Sol is our most demanded model pretty much ever, both across the API and subscriptions. Within ChatGPT & Codex, we were under heavy load, but have brought more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed compared to what we served yesterday.\" — <a href=\"https://x.com/thsottiaux/status/2105464274747527543\">@thsottiaux</a>\n</blockquote>\n\n<p>Second, the ability to build and deploy MCP servers directly inside ChatGPT is a meaningful platform move. <a href=\"https://x.com/thsottiaux/status/2105519215092584786\" data-handle=\"thsottiaux\">@thsottiaux</a> noted: <a href=\"https://x.com/thsottiaux/status/2105519215092584786\">\"You can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world.\"</a></p>\n\n<p>And then there's the \"dot\" — OpenAI's personal agent product. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> shared a <a href=\"https://x.com/thsottiaux/status/2105395200248156556\">delightful demo</a> of asking his dot to paint a portrait of him. After a cartoonish first attempt, he asked it to try harder — and find a recent photo of him on the internet. It did. The video of him clicking through the dot's computer screen captures something quietly remarkable about where personal agents are headed.</p>\n\n<hr>\n\n<h2>Google Fires Back: Gemini 4 and the Skills Era</h2>\n\n<p>Not to be overshadowed, Google had a big day too. <a href=\"https://x.com/joshwoodward/status/2105396307250782446\" data-handle=\"joshwoodward\">@joshwoodward</a> announced <a href=\"https://x.com/joshwoodward/status/2105396307250782446\">Gemini 4 Argon</a> to considerable excitement (1,300+ likes), and <a href=\"https://x.com/petergyang/status/2105393240392585359\" data-handle=\"petergyang\">@petergyang</a> gave a measured verdict: <a href=\"https://x.com/petergyang/status/2105393240392585359\">\"Google cooked on Gemini 4! Now they just need to be more competitive on coding harness (Antigravity) + personal agent (Spark).\"</a></p>\n\n<p>Meanwhile, Google Labs announced the retirement of Opal — its workflow customization experiment — with the warm note that its learnings now live in the globally-launching <strong>Skills</strong> feature inside Gemini. <a href=\"https://x.com/GoogleLabs/status/2105352889665564838\" data-handle=\"googlelabs\">Google Labs wrote</a>: \"Opal lives on in every skill you build next.\" Opal shuts down November 17, 2026.</p>\n\n<p><a href=\"https://x.com/mattturck/status/2105261211906384132\" data-handle=\"mattturck\">@mattturck</a> offered the sharpest line of the day, noting that <a href=\"https://x.com/mattturck/status/2105261211906384132\">SaaS companies watching Anthropic's ARR growth flatten</a> might want to pay close attention to today's model announcements from both camps.</p>\n\n<hr>\n\n<h2>The AI Deployment Gap: Where the Real Money Will Be Made</h2>\n\n<p><a href=\"https://x.com/levie/status/2105354449795621179\" data-handle=\"levie\">Aaron Levie</a> wrote what may be the most important strategic observation of the day — a thread on why deploying AI into enterprises is structurally different from deploying software, and why that gap is a massive opportunity:</p>\n\n<blockquote>\n\"AI is not the same as just deploying software. Software you generally did the implementation of an existing, well understood category of technology, then stepped back and the customer kept running. With AI agents, you're delivering actual work augmentation to the organization... You're no longer deploying tools that the company is merely enabled by, you're deploying work output in a process. Completely different implementation and enablement process.\" — <a href=\"https://x.com/levie/status/2105354449795621179\">@levie</a>\n</blockquote>\n\n<p>His conclusion: expect a wave of new firms — and transformed old ones — specializing in AI deployment by industry, company size, and workflow type. \"Great time to be an FDE or FDE firm.\"</p>\n\n<p>On the infrastructure side, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> made the case for Vercel AI Gateway as the cleanest data source for understanding real AI token flows, taking a pointed shot at \"token aggregators\" with dubious Zero Data Retention claims. His framing of <a href=\"https://x.com/rauchg/status/2105390544096841942\">Vercel Connect</a> — solving the \"static credentials\" problem for agents — fits neatly into the same deployment-layer thesis Levie articulated.</p>\n\n<hr>\n\n<h2>Culture, Craft, and the Energy That's Hard to Teach</h2>\n\n<p>Two observations about organizational culture stood out today. <a href=\"https://x.com/thenanyu/status/2105316751802348005\" data-handle=\"thenanyu\">@thenanyu</a>, just one week into OpenAI, captured something that no org chart can manufacture:</p>\n\n<blockquote>\n\"Sometimes you have a casual discussion about a possible feature, and the PR is sitting in front of you by the time you get back to your desk. Or you meet someone on Slack and say 'let's grab lunch next week' and the meeting invite is on your calendar within the next five minutes... you can't really teach this energy, and if you ever lose it, it's unbelievably hard to get it back.\" — <a href=\"https://x.com/thenanyu/status/2105316751802348005\">@thenanyu</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/adityaag/status/2105339569139056776\" data-handle=\"adityaag\">@adityaag</a> from SPC articulated what might be the defining paradox for founders right now: <a href=\"https://x.com/adityaag/status/2105339569139056776\">\"AI makes building easier but dramatically raises the floor on what it means to be a great startup.\"</a> Starting small, he argues, is now a strategic liability — not a virtue.</p>\n\n<p>Finally, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> noted that <a href=\"https://x.com/swyx/status/2105419486383964544\">his podcast landed on Apple's top charts</a> without any optimization effort — \"beating @MKBHD is pretty fkin nuts.\" A small reminder that in a noisy industry, genuine craft still cuts through.</p>",
+  "html_zh": "<p class=\"lead\">从 DevDay 的产品狂潮到企业 AI 部署的深层变革，今天的 AI 产业在模型竞争与平台生态两条轨道上同步提速——而人类始终站在中心。</p>\n\n<hr>\n\n<h2>🚀 DevDay 冲击波：OpenAI 的发布密度创历史新高</h2>\n\n<p>如果说去年的 DevDay 发布了九件新事物，今年则是二十二件。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 接连透露了几个关键细节：<strong>GPT-6.1 Sol</strong> 成为史上需求最旺盛的模型，同时 ChatGPT 现已支持用户<a href=\"https://x.com/thsottiaux/status/2105519215092584786\">直接构建并发布 MCP 服务器</a>，并可自由控制访问权限。</p>\n\n<blockquote>\n\"GPT-6.1 Sol 是我们有史以来在 API 和订阅端需求最高的模型……我们已扩容，速度将在数小时内提升至昨日的近两倍。\"<br>— <a href=\"https://x.com/thsottiaux/status/2105464274747527543\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>在播客节目中，Every 的 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 与 Sam Altman 进行了深度对谈。Altman 坦言，今年原本准备了更多发布内容，只是时间不够用。Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">How Sam Altman Uses Dots to Take Back His Time — Every Podcast</a></p>\n\n<blockquote>\n\"我们砍掉了很多原本打算今天发布的东西，因为五十分钟根本塞不下。我们要以身作则——如果我们说这些工具能让人们更高效、构建更多，我们自己也得做到。\"<br>— Sam Altman\n</blockquote>\n\n<hr>\n\n<h2>💎 Gemini 4 登场：Google 的反攻时刻</h2>\n\n<p>与此同时，Google 也没有坐等。<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> 简洁地宣布了 <a href=\"https://x.com/joshwoodward/status/2105396307250782446\">Gemini 4 Argon</a> 的到来，引发大量转发。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 给出了务实的评价：</p>\n\n<blockquote>\n\"Google 在 Gemini 4 上发挥出色！现在他们只需要在编程套件（Antigravity）和个人助理（Spark）上更具竞争力。\"<br>— <a href=\"https://x.com/petergyang/status/2105393240392585359\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>Google Labs 同步宣布，实验性项目 Opal 将于 2026 年 11 月 17 日<a href=\"https://x.com/GoogleLabs/status/2105352889665564838\">正式关闭</a>，其经验已融入 Gemini App 的全球\"Skills\"功能。一个小实验，以一种体面的方式完成了历史使命。</p>\n\n<hr>\n\n<h2>🏗️ 平台与生态：谁来做 AI 时代的\"基础设施层\"</h2>\n\n<p>模型之争之外，更大的战场是部署层。<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 发表了今日最值得细读的一段分析：</p>\n\n<blockquote>\n\"AI 不等同于单纯部署软件。软件是你完成实施后退场，客户自行运转。而 AI 智能体是在向组织交付真实的工作产出——这是一套完全不同的复杂性。你不再是部署工具，你是在为一个流程部署工作输出。\"<br>— <a href=\"https://x.com/levie/status/2105354449795621179\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>Vercel 的 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 则从另一角度切入，强调平台的<strong>可信度</strong>才是护城河：</p>\n\n<blockquote>\n\"大多数 token 聚合器充斥着噪音……Vercel AI Gateway 是理解全球 AI token 流向最可靠的数据源，因为我们有真实用户、真实使用量，以及超过 40 万付费客户的规模——零溢价。\"<br>— <a href=\"https://x.com/rauchg/status/2105476587756138942\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>Replit 的 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 宣布支持<a href=\"https://x.com/amasad/status/2105321112389443805\">一键构建并发布 Meta VR 应用</a>，而 <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 则为一款名为 Capy 的代码编辑器站台，称其实现了前所未见的 agent 群体自协调：</p>\n\n<blockquote>\n\"其他代码编辑器让你自上而下协调子 agent。我从未见过这种 agent 群体作为平等节点相互通信、自我协调的方式——让你有机地探索问题空间，而非预先编排好一切。Capy 与众不同。\"<br>— <a href=\"https://x.com/garrytan/status/2105449821645480046\" data-handle=\"garrytan\">@garrytan</a>\n</blockquote>\n\n<hr>\n\n<h2>🧠 \"文艺复兴 vs. 工业革命\"：Altman 关于 AI 与人的核心论断</h2>\n\n<p>今天最引人深思的内容，来自 Altman 在 Every 播客中的一席话。他用\"文艺复兴\"与\"工业革命\"的比较，勾勒了他对 AI 未来的根本判断：</p>\n\n<blockquote>\n\"文艺复兴的核心是人，工业革命的核心是机器……工业革命在很多方面对世界产生了巨大的积极影响，但很多人的个人体验并不那么正面。他们在某种程度上变成了机器里的齿轮，做着极度专业化的单一工作，与生活中许多美好的部分脱节了。\"<br>— Sam Altman，<a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Every Podcast</a>\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a>（刚加入 OpenAI 一周）的内部观察形成有趣呼应——这家公司的\"行动偏见\"文化，或许正是将理念转化为产品的关键燃料：</p>\n\n<blockquote>\n\"有时你随口聊了一个可能的功能，回到桌前 PR 已经在等你了。或者在 Slack 上认识了某人说'下周吃个午饭吧'，五分钟内日历邀请就到了……OpenAI 已经不是一家小公司了，它在旧金山有好几栋大楼。这种能量还能保留下来，令人印象深刻。\"<br>— <a href=\"https://x.com/thenanyu/status/2105316751802348005\" data-handle=\"thenanyu\">@thenanyu</a>\n</blockquote>\n\n<hr>\n\n<h2>📌 边角料：值得关注的细节</h2>\n\n<p><strong>初创公司的雄心门槛正在提高。</strong> <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> 点出了 AI 时代创业的悖论：</p>\n\n<blockquote>\n\"AI 让构建变得更容易，却大幅提高了成为伟大初创公司的门槛。如果你从小处着眼，你将很难融资、招募优秀人才，最终也难以改变未来的走向。\"<br>— <a href=\"https://x.com/adityaag/status/2105339569139056776\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p><strong>硬件工程的\"Git 时刻\"？</strong> <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 为硬件协作工具 Flow 发声，称其正在<a href=\"https://x.com/swyx/status/2105348724331606411\">为硬件工程做 Git+GitHub 为软件工程做的事</a>——对齐数千个利益相关方，处理从汽车到火箭的复杂不可逆流程。<strong>Anthropic</strong> 的 Claude Founder House 活动将于旧金山 Tech Week（10 月 6–8 日）和斯德哥尔摩（10 月 14 日）举行，<a href=\"https://x.com/claudeai/status/2105370680485417401\">欢迎报名参加</a>。</p>"
+}
