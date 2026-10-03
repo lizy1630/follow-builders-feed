@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T06:48:51.861Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI's \"dot\" is the talk of the town, Claude doubles down on small business, and a chip startup wants to dethrone NVIDIA — today's AI news threads together around a single question: what does it actually feel like when AI becomes genuinely useful?</p>\n\n<h2>🟡 The \"Dot\" Effect: OpenAI's Quiet Favorite</h2>\n\n<p>If you missed the \"one more thing\" at OpenAI's DevDay, pay attention. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> flagged that OpenAI has <a href=\"https://x.com/swyx/status/2106103958657958298\">been quietly working on \"dots\" for a while now</a> — and the reception from the top suggests this is no minor footnote.</p>\n\n<blockquote>\n  \"dot is my favorite openai product so far! it is amazing to me that each day it feels noticeably better as it learns more of my workflow and style. having it do the stuff i don't like doing — and usually just builds up as a gravity well of dread — has me very happy.\" — <a href=\"https://x.com/sama/status/2106085986606403684\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>Sam Altman's framing — \"a gravity well of dread\" — is perhaps the most honest product description we've heard from a CEO in years. Also from Altman today: <a href=\"https://x.com/sama/status/2106147184693620924\">confirmation of a \"deep engagement\" with Cerebras</a> around speed, amid swirling partnership speculation. Fast inference, it seems, is the obsession of the moment.</p>\n\n<hr>\n\n<h2>🔧 Claude for Small Business: 900,000 Installs and Counting</h2>\n\n<p>While the AI world fixates on frontier demos, Anthropic has been doing unglamorous, important work. <a href=\"https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs\">Claude for Small Business</a> just expanded to 43 workflows and 27 new integrations — Shopify, Stripe, Square, Xero, TikTok, Zapier — and has been installed more than 900,000 times since its May launch. The testimonials are striking in their specificity:</p>\n\n<blockquote>\n  \"What used to take me 120 hours now takes me five minutes. I have so much time on my hands that I can now spend more time with my family.\" — Pedro Rubio, Founder, Blackfyre GovCon\n</blockquote>\n\n<blockquote>\n  \"I made $20,000 in the last month and a half using Claude to do these professional proposals. I know that's getting the business, and it put money in my bank account. How about that?\" — Dan Ninerell, Founder, Modern Classical Chefs\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> illustrated the same dynamic from the indie side: he'd been <a href=\"https://x.com/petergyang/status/2106072698564874410\">paying nearly $300/year for a YouTube research tool</a> until Claude rebuilt its core features in five minutes. The SaaS disruption story isn't theoretical anymore — it's happening one cancelled subscription at a time.</p>\n\n<hr>\n\n<h2>🤖 The Agent Layer: From Chatbots to \"Jiminy Cricket\"</h2>\n\n<p>The ambition for what AI agents <em>should</em> feel like is getting crisper. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> articulated it well in his GBrain vision:</p>\n\n<blockquote>\n  \"I want our agents to feel as native, expressive, and inevitable as the web eventually did — not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7, always on, always thinking ahead, always improving.\" — <a href=\"https://x.com/garrytan/status/2106063850453991758\">@garrytan</a>\n</blockquote>\n\n<p>He also shared a genuinely interesting cross-session coordination moment with <a href=\"https://x.com/garrytan/status/2106092289173213444\">Capy</a> — a collaborator's agent was steering around work Garry's agent was already doing, across multiple threads, model-agnostically. Small proof point, but the texture of what \"multi-agent coordination\" actually looks like in practice is starting to come through. Separately, <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> is using Claude Code to <a href=\"https://x.com/nikunj/status/2106072546206773574\">sniff home network packets and expand his home automation agent</a> — the tinkerer's frontier of agentic AI is wide open.</p>\n\n<hr>\n\n<h2>⚡ The Chip Race Beneath the Race</h2>\n\n<p>All of this AI velocity runs on silicon, and the chip landscape is more contested than the consumer-facing narrative suggests. On <strong>No Priors</strong>, Walter Goodwin of Fractile makes a pointed observation about why the \"zoo\" of AI chips is less diverse than it appears:</p>\n\n<blockquote>\n  \"When you zoom into this seeming embarrassment of riches in the spectrum of what exists today, you see that actually there's a lot of similarity across these platforms. All of these chips — HBM, Tensor Cores, the same advanced packaging with TSMC.\" — Walter Goodwin, No Priors\n</blockquote>\n\n<p>Fractile's bet is on building all the way down the silicon stack — architecture through physical design — to carve out a speed advantage at inference time. Goodwin's framing is blunt: <em>\"If you can just find a way to structurally carve out a three to six months advantage, you will be winning all of those deployments.\"</em> Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Frontier Chips for Frontier AI Labs — No Priors</a></p>\n\n<hr>\n\n<h2>🔐 Security Moves from Theoretical to Urgent</h2>\n\n<p>One theme cutting across the whole feed: the gap between AI capability and AI security is widening uncomfortably fast. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> is back as founding partner for the <a href=\"https://x.com/swyx/status/2106042773510177256\">2nd AI Security Summit with Snyk</a>, and the framing has shifted sharply in a year:</p>\n\n<blockquote>\n  \"An exploding number of rogue agents, more breaches, more AI-driven attacks. Now more than ever, security must be at the center of the AI conversation. With so much more hacks and vulnerabilities, this stuff is no longer theoretical...\" — <a href=\"https://x.com/swyx/status/2106042773510177256\">@swyx</a>\n</blockquote>\n\n<p>The \"no longer theoretical\" line is doing a lot of work there. As agents get real keys to real systems — CRMs, QuickBooks, home networks — the attack surface grows with every integration announcement. It's the necessary shadow side of everything else in today's digest.</p>",
+  "html_zh": "<p class=\"lead\">OpenAI的\"dot\"正悄悄成为本周最受关注的AI产品，而Claude则在悄无声息地渗透进数十万家小企业的日常——AI的战场正从实验室蔓延至每一个普通工作日的清晨六点。</p>\n\n<h2>🔵 Sam Altman的新宠：dot来了</h2>\n\n<p>本周OpenAI DevDay结束后，最令人意外的焦点不是某个大模型，而是一款名叫<strong>dot</strong>的新产品。<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>罕见地对一款自家产品给出了近乎情感化的评价：</p>\n\n<blockquote>\n\"dot是我迄今为止最喜欢的OpenAI产品！令我惊叹的是，它每天都在明显变好，因为它越来越了解我的工作流程和风格。让它做那些我不喜欢做的事——那些通常只会堆积成沉重心理负担的琐事——让我非常开心。\"\n<br>— <a href=\"https://x.com/sama/status/2106085986606403684\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>长期关注AI工程圈的<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>也提示说，这款产品并非突然冒出，而是蓄谋已久：</p>\n\n<blockquote>\n\"别忘了那个'还有一件事……' 他们研发 dots 已经有一段时间了。\"\n<br>— <a href=\"https://x.com/swyx/status/2106103958657958298\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>与此同时，Altman也确认了外界对OpenAI与芯片公司Cerebras合作关系的猜测，<a href=\"https://x.com/sama/status/2106147184693620924\">称其为\"深度合作，正在推动速度的前沿\"</a>。速度，正在成为新的核心军备。</p>\n\n<hr>\n\n<h2>🏢 Claude悄然改变小企业的工作方式</h2>\n\n<p>相比大模型之间的军备竞赛，Anthropic这周的动作显得更为务实。<a href=\"https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs\">Claude for Small Business</a>宣布新增43个工作流和27个集成，覆盖Shopify、Salesforce、TikTok、Zoom、Stripe等主流工具，安装量已突破<strong>90万次</strong>。</p>\n\n<p>最打动人心的，是来自真实用户的反馈：</p>\n\n<blockquote>\n\"以前需要120小时的工作，现在只要五分钟。我现在有大把时间陪家人，做自己喜欢的事，以及去追求业务中一直被忽视的部分。\"\n<br>— Pedro Rubio，Blackfyre GovCon 创始人兼CEO\n</blockquote>\n\n<blockquote>\n\"每天早上6点，它会自动扫描我们的CRM，整理所有待办事项并排优先级，然后发一封邮件：'今天需要做这些，这些是最重要的。'我们叫它每日简报。\"\n<br>— Garrett French，Driller Design Co. 负责人\n</blockquote>\n\n<p>这不是AI助手的概念演示，这是AI已经在数万家小公司的日常里安静运转的现实。</p>\n\n<hr>\n\n<h2>⚙️ Claude Code的可定制化：让AI工具真正\"属于你\"</h2>\n\n<p>在开发者社区，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 分享了一个让Claude Code更贴近个人工作习惯的使用技巧，引发热烈反响：</p>\n\n<blockquote>\n\"'You should know'是一种很好的方式，既能了解Claude的最新能力，也是mods（自定义配置）能实现什么的绝佳示例。你真的可以把Claude Code变成专属于你的工具。\"\n<br>— <a href=\"https://x.com/trq212/status/2106119299484221762\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 分享了一个更接地气的故事——他每年花近300美元订阅一款YouTube研究工具，最终忍无可忍，让Claude在5分钟内复刻了核心功能。AI正在加速\"自己动手，丰衣足食\"的文化。</p>\n\n<hr>\n\n<h2>🔒 AI安全：从理论走向紧迫现实</h2>\n\n<p>当大家还在讨论AI能做什么的时候，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 提出了一个更严峻的问题：AI能被攻击时怎么办？他宣布与 Snyk 联合举办第二届 AI Security Summit，语气远比去年沉重：</p>\n\n<blockquote>\n\"自我们一年前开始以来，局势已经彻底改变。越来越多的流氓Agent，更多的数据泄露，更多AI驱动的攻击。现在比任何时候都更需要把安全放在AI对话的核心位置。这些已经不再是理论问题了……\"\n<br>— <a href=\"https://x.com/swyx/status/2106042773510177256\" data-handle=\"swyx\">@swyx</a>，<a href=\"https://t.co/2IeM4a3MGO\">活动链接</a>\n</blockquote>\n\n<hr>\n\n<h2>🔧 芯片竞争：谁能在推理速度上建立护城河？</h2>\n\n<p>本周的 <strong>No Priors</strong> 播客带来了一期颇具深度的芯片行业对话。Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Frontier Chips for Frontier AI Labs, with Walter Goodwin of Fractile</a></p>\n\n<p>Fractile CEO Walter Goodwin 描述了当前AI芯片市场的一个结构性现象：尽管Google、Meta、微软、OpenAI都在自研芯片，但这些芯片在技术路线上惊人地相似——同样的HBM内存、同样的Tensor Core、同样依赖台积电的封装工艺。</p>\n\n<blockquote>\n\"当你仔细审视这个看似百花齐放的市场，会发现这些平台之间其实有大量相似性……真正从硅片架构一路做到物理设计的团队，数量依然寥寥无几。\"\n</blockquote>\n\n<p>他的核心论点是：在推理芯片领域，速度就是护城河。</p>\n\n<blockquote>\n\"芯片领域的前沿，就是你能否在结构上构建出3到6个月的优势——做到这一点，你就能赢得所有部署机会。\"\n</blockquote>\n\n<p>这与Sam Altman确认OpenAI-Cerebras合作的时间节点不谋而合。推理速度，正在成为这场竞争中最重要却最少被讨论的维度。</p>"
+}
