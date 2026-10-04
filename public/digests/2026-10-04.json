@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T08:22:04.655Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data",
+      "url": "https://www.youtube.com/watch?v=awoR908Yu5Y"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is wrestling with a productive tension this week: the tools are becoming extraordinarily powerful, but the gap between capability and usability has never felt wider — and the builders who close it first will win.</p>\n\n<h2>🧹 Simplicity Is the New Feature</h2>\n\n<p>Anthropic made its most significant product move in months this week, quietly merging Claude Cowork and Claude chat into a single, unified experience — and launching <strong>Claude Docs, Claude Slides, and Claude Design</strong> directly inside conversations. The <a href=\"https://claude.com/blog/cowork-is-now-claude\">announcement blog post</a> explains the reasoning plainly: \"We built Cowork as a separate place for bigger work, and Design for visual work. People used both, and told us the frustrating part was deciding where a task belonged.\"</p>\n\n<p>The new Claude can now run in the background — drafting a weekly report, building slides, checking in only when it needs you — while you're away from your desk. The vision is genuinely compelling: hand Claude a Monday morning report, walk to the office, and find it waiting as a formatted doc with matching slides, ready to download as PowerPoint.</p>\n\n<p>The impulse toward consolidation seems to be catching. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a>, CEO of Dust, <a href=\"https://x.com/thsottiaux/status/2106610099720720811\">announced a strategic refocus</a> this weekend:</p>\n\n<blockquote>\"Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. Sometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.\"</blockquote>\n\n<p>He also shared a charming personal proof point: after years of trying, he finally achieved inbox zero — by setting his AI agent loose on his email. It deleted unneeded categories in batch, <a href=\"https://x.com/thsottiaux/status/2106603980386394123\">labeled emails by work type, and walked him through replies</a>, surfacing relevant context along the way. \"It was a good Saturday.\"</p>\n\n<p>The broader diagnosis comes from <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a>, who put it bluntly:</p>\n\n<blockquote>\"AI adoption is largely a product problem today. Even among the 2% that are paying for AI today, the depth of usage is shallow. The main reason: most AI products look like airplane cockpits with 100 levers — connectors, permissions, model selection, token usage etc.\"</blockquote>\n\n<hr>\n\n<h2>🏭 The $30 Billion Layer Nobody Talks About</h2>\n\n<p>While the model wars get all the headlines, there's a quietly enormous business being built underneath them. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=awoR908Yu5Y\">Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data</a> — a conversation between <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> and VAST Data CEO Renen Hallak — is essential listening for anyone trying to understand where the real infrastructure bets are being placed.</p>\n\n<p>The numbers alone are staggering. Hallak recounted a customer conversation that illustrates the pace of AI's appetite:</p>\n\n<blockquote>\"We had a customer, one of these AI clouds, they said we're probably going to need about 500 petabytes over the next three years. Last week, came back to us and said, we're gonna need an extra two exabytes on top of that 500 petabytes.\"</blockquote>\n\n<p>VAST Data sits in what Hallak calls \"the software infrastructure layer\" — the middle of Jensen Huang's famous five-layer AI stack — acting as something like an operating system for data flowing into GPU clusters. His analogy for what AI factories will eventually mean for enterprises is memorable: \"If you go back to the 1970s, you needed a PhD in computer science to operate a computer. Today, everybody can do it... it is our job as the ones building that software infrastructure layer to make these new technologies accessible to enterprises such that they don't need to think about it too much.\"</p>\n\n<hr>\n\n<h2>📈 Agent Adoption: Bimodal and Early</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box offered one of the more clear-eyed takes on where enterprise AI actually stands right now — and why the gap between the hype and reality is so large:</p>\n\n<blockquote>\"AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, and then everything else... We're still so unbelievably early in what this is going to look like outside of a few categories of work right now. This is why you can basically expect 100X more agent adoption from what we've seen so far.\"</blockquote>\n\n<p>The friction, Levie argues, isn't product design alone — it's organizational. Workflows need to be rebuilt from scratch, data wired up differently, accountability structures rethought. Dropping an agent into an existing process doesn't work. And yet the opportunity is proportionally enormous: if coding went from zero to mainstream in 18 months, the rest of knowledge work is still essentially untouched.</p>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj Kothari</a> flagged an interesting <a href=\"https://x.com/nikunj/status/2106488814940414455\">innovator's dilemma shaping up in commerce</a>: Amazon protecting its ads business is leaving the door open for smaller players like DoorDash, which is experimenting with ordering via text through developer CLIs. Personal agents as a commercial interface are coming — the question is who gets disrupted first.</p>\n\n<hr>\n\n<h2>⚠️ Two Warnings Worth Heeding</h2>\n\n<p><a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> posted a <a href=\"https://x.com/sama/status/2106388373221118198\">terse but high-engagement warning</a> this weekend that cut through the noise:</p>\n\n<blockquote>\"I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.\"</blockquote>\n\n<p>At 24,000 likes, it's clearly resonating. As AI becomes more capable and more embedded in daily life, the cultural risk of deference — treating model outputs as oracular rather than probabilistic — may be as important a safety challenge as the technical ones.</p>\n\n<p>Meanwhile, designer <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> published a <a href=\"https://x.com/ryolu_/status/2106337039201505453\">widely-shared essay</a> on a subtler danger: what happens to creative culture when AI makes the feedback loop frictionless and imitation costless.</p>\n\n<blockquote>\"AI makes this loop frictionless. It can draw from more references than we could see in a lifetime. But access to every perspective isn't the same as having one... When we ask it to choose for us without bringing any intention of our own, we get something plausible, easy to approve. Then we ship it, measure it, copy it, and feed it back into the next round. A tidal wave of mid.\"</blockquote>\n\n<p>The essay, which drew 1,700+ likes, ends with a challenge that applies as much to software as to art: \"What is the point of everyone being able to make something, if we all end up making the same thing?\" <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> captured the mood in a single <a href=\"https://x.com/steipete/status/2106489264443981978\">dryly funny tweet</a>: \"laughing about how we all are building the same thing.\"</p>\n\n<hr>\n\n<h2>⚡ One More Thing</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> dropped what might be the most optimistic — or most utopian, depending on your disposition — line of the week:</p>\n\n<blockquote>\"AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity's final frontier.\"</blockquote>\n\n<p>Over 3,200 likes. The dream persists. Also worth a listen: <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>'s <a href=\"https://x.com/amasad/status/2106450234369085609\">deep-dive conversation</a> with <a href=\"https://x.com/alexatallah\" data-handle=\"alexatallah\">Alex Atallah</a> of OpenRouter, for those wanting to go technical on the model routing and infrastructure layer.</p>",
+  "html_zh": "<p class=\"lead\">AI行业正站在一个微妙的转折点：工具越来越强大，但真正的挑战已从\"能做什么\"转向\"能否让人真正用起来\"。</p>\n\n<h2>🔀 合并时代：Claude把聊天与深度工作合二为一</h2>\n\n<p>本周最值得关注的产品动作来自Anthropic。Claude正式宣布将Cowork与Chat合并为统一体验，同步推出了Claude Docs、Claude Slides和Claude Design三个新功能。用一句话总结：你再也不用决定\"这个任务该去哪个页面做了\"。</p>\n\n<blockquote>\n\"我们把Cowork建成一个独立的大型工作空间，把Design用于视觉工作。人们两个都用，但告诉我们最令人沮丧的部分是——要决定一个任务该属于哪里。\" —— <a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude官方博客</a>\n</blockquote>\n\n<p>新版Claude可以帮你生成报告、做成幻灯片、自动调取数据库资料，全程在同一个对话里完成。一位法律经济学家的使用案例令人印象深刻：</p>\n\n<blockquote>\n\"我可以让Claude调取我的法律研究数据库，它会拉取所有案例，阅读它们，找出我可能还需要的其他案例，下载并存入文件夹供我个人审阅。\" —— Andrew Keller，高级经济学家\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>（Anthropic产品负责人）也在推特上做了一次生动的产品背书——他用自家的AI助手实现了人生第一次\"收件箱清零\"，并随即宣布团队的下一步方向：</p>\n\n<blockquote>\n\"反馈已经很清楚了，你们都希望事情变得更简单。我们在行动了。\" —— <a href=\"https://x.com/thsottiaux/status/2106610099720720811\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<hr>\n\n<h2>🏭 AI工厂的隐形基础：那个价值300亿美元的中间层</h2>\n\n<p>大多数人谈AI只聊模型和GPU，却忽视了中间那层让一切运转的软件基础设施。Watch/Listen: <a href=\"https://www.youtube.com/watch?v=awoR908Yu5Y\">Who Feeds the GPUs? Inside AI's Hidden $30B Layer | VAST Data CEO Renen Hallak</a></p>\n\n<p>VAST Data CEO Renen Hallak在MAD Podcast中分享了一个令人咋舌的数字：一个AI云客户原本预计三年内需要500PB存储，上周回来告诉他们——还要再加2EB（即2000PB）。</p>\n\n<blockquote>\n\"从我们的角度来看，你需要更多的数据，以及更快地访问这些数据的能力——因为我们处理的不再是数据库里的数字和列，而是图片、视频、声音和自然语言，这占用的空间要大得多。\" —— Renen Hallak\n</blockquote>\n\n<p>他用了一个生动的类比来解释企业未来的方向：</p>\n\n<blockquote>\n\"我喜欢拿人脑做类比——我们都带着一个基础模型出生，但随着时间推移，我们游历世界、学习新事物，白天推理，晚上微调，明天的我会比今天的我聪明一点点。企业的AI化路径也是如此，每个组织的知识产权最终会被蒸馏进他们拥有的模型权重中。\"\n</blockquote>\n\n<hr>\n\n<h2>📊 Agent采用率：双峰分布与100倍增长空间</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>（Box CEO）对AI Agent的现状做出了迄今最清醒的分析之一：</p>\n\n<blockquote>\n\"AI Agent的采用目前呈明显的双峰分布——编程和编程相关任务已经起飞，其他一切都还早。即便在编程领域内部，也存在极宽的采用差异。至于知识工作的其余部分，真正的Agent化还非常早期。这不是部署一个聊天系统来提高研究效率那么简单，而是需要重建工作流、重新接入数据、建立新的问责机制……因此，你完全可以预期，从现在起Agent的采用规模还有<strong>100倍</strong>的增长空间。\" —— <a href=\"https://x.com/levie/status/2106583814709633413\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 的观察形成呼应——他指出AI采用本质上是个产品问题：</p>\n\n<blockquote>\n\"即便在今天付费使用AI的2%用户中，使用深度也依然很浅。主要原因是：大多数AI产品看起来像有100个操纵杆的飞机驾驶舱——连接器、权限、模型选择、Token用量……这开始改变了。未来12个月将大不相同。\"\n</blockquote>\n\n<hr>\n\n<h2>🎨 当AI让一切都能被复制，原创性还剩什么？</h2>\n\n<p>本周最值得收藏的一篇长文来自 <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a>，近1800个赞、224次转发，标题是一个让人沉默的问题。</p>\n\n<blockquote>\n\"AI让这个循环变得无摩擦。它能从比我们一生所见更多的参考中汲取灵感。但接触所有视角，不等于拥有一个视角。它没有经历过某种特定的人生，让某个细节变得难以承受，让另一个细节变得美丽……于是我们得到的是：可信的、容易被批准的东西。然后我们发布它、衡量它、复制它，再把它喂回下一轮。一场平庸的海啸。\" —— <a href=\"https://x.com/ryolu_/status/2106337039201505453\" data-handle=\"ryolu_\">@ryolu_</a>\n</blockquote>\n\n<p>他的结论是：软件也可以成为一种艺术媒介——它表达着创作者对生活应该是什么感觉的信念。而AI加速时代，判断力比速度更珍贵。</p>\n\n<blockquote>\n\"如果我们几乎能做任何东西，决定什么值得存在就变得更重要，而不是更次要。速度给了我们更多行使判断力的机会，但它并没有免除我们的责任。\"\n</blockquote>\n\n<hr>\n\n<h2>⚠️ Altman的警告：别把AI当神</h2>\n\n<p>最后，今天传播最广的一条推文来自 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>，简短但分量极重：</p>\n\n<blockquote>\n\"我对人们试图赋予AI模型宗教般的权威、或将人类判断拱手相让这件事，感到非常不安。我认为这是一个真实的安全问题。\" —— <a href=\"https://x.com/sama/status/2106388373221118198\" data-handle=\"sama\">@sama</a>（24,293赞，1,650次转发）\n</blockquote>\n\n<p>这条推文的爆炸性传播，本身就说明了很多。在AI能力飞速提升的今天，如何保持人类主体性，已经从哲学议题变成了产品设计的核心命题。</p>"
+}
