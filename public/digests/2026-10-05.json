@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T07:02:40.424Z",
+  "builders": {
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
+      "url": "https://www.youtube.com/watch?v=TCpRwJBQvW0"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is wrestling with a deceptively simple question: as the technology matures and accelerates, what actually matters — the model, the interface, the organization around it, or the humans writing the prompts?</p>\n\n<h2>🔧 ChatGPT's Bloat Problem — and the 28-Day Fix</h2>\n\n<p>OpenAI appears to be in cleanup mode. <a href=\"https://x.com/thsottiaux/status/2106845241357824205\" data-handle=\"thsottiaux\">@thsottiaux</a> made a striking public commitment this week:</p>\n\n<blockquote>\"Over the next 28 days, each day we'll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin.\"</blockquote>\n\n<p>The implicit acknowledgment: something needs fixing. <a href=\"https://x.com/petergyang/status/2106926956554195018\" data-handle=\"petergyang\">Peter Yang</a> was happy to say the quiet part loud:</p>\n\n<blockquote>\"I'm glad OpenAI is focusing on simplifying ChatGPT because it has become a mess (sorry)... My hot take is that the whole Work launch was a mistake. Just like Claude folded Cowork back into Chat, I don't think Work needs its own brand.\"</blockquote>\n\n<p>Yang's critique — tangled product lines, redundant surfaces (Spaces vs. Pages vs. Sites), a confusing model picker — mirrors a broader lesson from the Claude playbook. Fragmentation is a form of technical debt that users pay with their attention. The 28-day sprint is a bet that disciplined, daily shipping can reverse that.</p>\n\n<hr>\n\n<h2>🖥️ The Interface Question: Who Is the UI Actually For?</h2>\n\n<p>One of the more philosophically interesting moments in this week's feed came from <a href=\"https://x.com/petergyang/status/2106897211766530299\" data-handle=\"petergyang\">Peter Yang's interview</a> with Sam, co-founder of meeting-notes app <a href=\"https://meetgranola.com\" data-handle=\"meetgranola\">Granola</a>. As enterprise users increasingly bypass Granola's own UI in favor of its MCP integration with internal tooling, Sam described a hard-won peace:</p>\n\n<blockquote>\"There's definitely a pang of sadness to that as a UI designer. We fought it for a while. We were like, no, we really need to keep everybody in the Granola UI for everything. But as soon as you become a big enough enterprise, it's inevitable you have all of this internal tooling... At this point we're at peace with the fact that for a bunch of workflows, the best way to use Granola is to capture the context, then use it through your internal agent.\"</blockquote>\n\n<p><a href=\"https://x.com/danshipper/status/2106892868564431255\" data-handle=\"danshipper\">Dan Shipper</a> offered a complementary observation from the consumer side. He's been using dot — a persistent AI companion — as his primary AI interface. But he's already predicting its obsolescence:</p>\n\n<blockquote>\"In a year, I bet I'll still be interacting in this way with ChatGPT — e.g. as an always-on persistent agent — but boo will have disappeared. It reminds me a lot of early OpenClaw days — we loved the little personality quirks of our Claws, but we dropped them as soon as there was something functionally more powerful available.\"</blockquote>\n\n<p>The pattern emerging: interfaces are increasingly transitional. What survives is context and capability — not chrome.</p>\n\n<hr>\n\n<h2>⚙️ The Infrastructure Layer Rethinks Itself</h2>\n\n<p><a href=\"https://x.com/rauchg/status/2106863842450133114\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel had one of the week's most candid infrastructure takes, riffing on a DHH post about Rust. Vercel has been \"Rust-ifying\" its stack — migrating Turborepo from Go — but the ROI was messier than expected:</p>\n\n<blockquote>\"While Rust was in our eyes better for low-level OS access, something crucial for a build system like Turbo, the human migration costs were very substantial. Go is very fast. It's beautifully designed. It's easy to iterate on. We were very conflicted about the migration, because it was <em>humans</em> writing the code, even if we knew Rust was a better choice. The calculus has now changed. What's 'best for humans' is no longer necessarily 'best for business.'\"</blockquote>\n\n<p>He went further, suggesting Rust itself may already be pre-obsolete: <em>\"It's quite unlikely that Rust is the end-all-be-all toolchain. I'm quite certain there's greener pasture ahead, because Rust itself was designed before the 'supersonic tsunami' of agents hit.\"</em></p>\n\n<p>Meanwhile, Rauch offered a quietly elegant rule of thumb for the human/AI writing divide:</p>\n\n<blockquote>\"READMEs are fully written by hand, because they're for human consumption. The documentation internals are AI English, because they're for agents... Blogs, tweets, READMEs: human communication. It's the story-telling moment where you want to connect with other humans through their words.\"</blockquote>\n\n<hr>\n\n<h2>🏢 The \"Re-Founding\" Thesis: AI as Industrial Revolution</h2>\n\n<p>The week's most ambitious structural argument came from the <a href=\"https://www.youtube.com/watch?v=TCpRwJBQvW0\">No Priors podcast</a> featuring Michael Lee, CEO of Sequence Holdings — the firm behind what it's calling the largest AI take-private to date, a $7.7B deal for insurance broker Baldwin with the Dell family office. Sequence's model: acquire established incumbents, then rebuild them from the inside for the AI era.</p>\n\n<p>Lee's framing cuts against the standard venture playbook:</p>\n\n<blockquote>\"There are certain industries where the incumbent had all the advantages — brand, scale, network effects, regulatory. And in light of what is going to be the biggest technological shift of our lifetime, I felt very strongly that if you could acquire the right incumbent, inherit the advantages of being that incumbent, could you forge the market leader?\"</blockquote>\n\n<p>His critique of how most enterprises are deploying AI is pointed:</p>\n\n<blockquote>\"What we generally see is this giant push to give small machines to every human in the human assembly line and to speed up work. That's great. But when you have machines that can work 24/7, that can scale with electricity, the right answer is to think about how do you start to reorganize what an organization should be.\"</blockquote>\n\n<p><a href=\"https://x.com/levie/status/2106893015063421357\" data-handle=\"levie\">Box CEO Aaron Levie</a> added texture to the jobs question, pushing back on narratives that count only displacement:</p>\n\n<blockquote>\"Every bank, life sciences company, manufacturer, and even law firm is bringing on more technical talent — or repositioning existing roles — to help with agent deployment in their companies. It's a lot easier to picture what AI can replace vs. what it creates until it starts happening. Now we're seeing what this looks like.\"</blockquote>\n\n<hr>\n\n<h2>🔬 One Thing We Still Don't Understand</h2>\n\n<p>Amid all the shipping and restructuring, <a href=\"https://x.com/mattturck/status/2106821381765956044\" data-handle=\"mattturck\">Matt Turck</a> offered a useful dose of epistemic humility:</p>\n\n<blockquote>\"Still one aspect of AI that's most poorly understood outside AI circles... 'models are grown, not built' and we don't <em>really</em> know how they work. Hence the urgent need for better interpretability.\"</blockquote>\n\n<p>We're reorganizing the global economy around systems whose internal mechanics remain genuinely mysterious. That's either the most exciting or most unsettling sentence in today's digest — possibly both.</p>",
+  "html_zh": "<p class=\"lead\">AI行业正同时在两个方向上重塑自身：一方面，顶层产品因功能堆砌而变得臃肿，亟需瘦身；另一方面，资本开始以前所未有的规模\"重新收购并重铸\"传统企业。今天的主题，是清晰度与规模的拉锯战。</p>\n\n<hr>\n\n<h2>🔧 ChatGPT的自我革命：28天交付承诺</h2>\n\n<p>OpenAI内部显然意识到了问题所在。<a href=\"https://x.com/thsottiaux/status/2106845241357824205\" data-handle=\"thsottiaux\">@thsottiaux</a> 发出了一个罕见的公开承诺：</p>\n\n<blockquote>在接下来的28天里，我们每天都会上线一项对Codex/Work用户有实质改善的功能，否则就彻底重置。改进，从现在开始。</blockquote>\n\n<p>这份宣言的背后，是产品积累已久的混乱。<a href=\"https://x.com/petergyang/status/2106926956554195018\" data-handle=\"petergyang\">Peter Yang</a> 在他的产品评测中直言不讳：</p>\n\n<blockquote>ChatGPT已经变成一团乱麻（抱歉）。我想简化的地方包括：Work与Codex的区分、Spaces与Pages与Sites的并存、以及模型和\"努力程度\"选择器。我的直觉判断是：Work的独立品牌化本身就是一个错误。就像Claude把Cowork折叠回Chat一样，Work不需要自己的品牌。</blockquote>\n\n<p>这是一个值得关注的产品信号：当AI工具的功能边界越来越模糊，用户的认知负担反而成为最大的摩擦点。简洁，正在重新成为竞争力。</p>\n\n<hr>\n\n<h2>🏗️ 基础设施的两种哲学：Rust、速度与人类的位置</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg/status/2106863842450133114\" data-handle=\"rauchg\">Guillermo Rauch</a> 的一篇长推引发热议。他坦言将Turborepo从Go迁移至Rust的代价远比预期高，但随即话锋一转：</p>\n\n<blockquote>什么对人类最好，不再必然等同于什么对业务最好。这个算法已经改变了。……Rust本身也很可能不是终点。我相当确定前方还有更好的选择，因为Rust的设计早于那场\"超音速海啸\"——AI智能体的浪潮——席卷之前。</blockquote>\n\n<p>与此同时，他分享了一条优雅的工程哲学：</p>\n\n<blockquote>README完全由我手写，因为它是给人类读的。文档内部是AI写的英文，因为它是给智能体读的。博客、推文、README：这些是人类沟通的时刻，你希望通过自己的文字与他人建立连接。</blockquote>\n\n<p>在模型本身提速的同时，框架层的性能也在追赶。Rauch 提到 Astra ultrafast 上线后，\"框架开销的重要性愈发突出\"，下一版本将在会话存储与云端持久化上带来重要突破。</p>\n\n<hr>\n\n<h2>💼 770亿美元的\"重铸\"实验：AI时代的并购新逻辑</h2>\n\n<p>本周最值得深读的播客，来自 <strong>No Priors</strong> 对 Sequence Holdings 联合创始人兼CEO Michael Lee 的专访。Sequence 刚刚完成了迄今最大规模的AI私有化交易——与Dell家族办公室联合，以77亿美元将保险经纪商Baldwin私有化。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=TCpRwJBQvW0\">Re-Founding Incumbents for the AI Era — No Priors</a></p>\n\n<p>Lee 的核心论点既简洁又颠覆：不是所有行业都会被初创公司颠覆。在某些拥有品牌、规模、网络效应和监管壁垒的行业，收购现有龙头、注入AI能力，才是最优路径。</p>\n\n<blockquote>如果你拥有能够全天候运转、随电力扩容、完成任何个体或群体都无法完成的任务的机器，正确答案不是给流水线上的每个人配一台小机器——而是重新思考组织本身应该是什么样的。</blockquote>\n\n<p>他对企业AI转型的判断也颇为清醒：</p>\n\n<blockquote>大多数企业和AI软件公司正在做的，是把小机器发给人类流水线上的每一个人来加速工作。这没有什么问题，但这不是工业革命真正发生的方式。</blockquote>\n\n<p>Sequence 的节奏：每年只做一笔交易。这种克制本身，就是一种战略宣言。</p>\n\n<hr>\n\n<h2>🤖 智能体时代的产品悖论：UI还重要吗？</h2>\n\n<p>会议记录工具 Granola 的联合创始人 Sam，在接受 <a href=\"https://x.com/petergyang/status/2106897211766530299\" data-handle=\"petergyang\">Peter Yang</a> 采访时，说出了许多B端AI产品创始人不愿承认的现实：</p>\n\n<blockquote>作为一个UI设计师，这确实让人有点心痛。我们曾经努力抵制——我们说，不行，一定要把所有人都留在Granola的界面里。但一旦你的客户成长为足够大的企业，他们必然有自己的内部工具。如果Granola无法与这些工具协作，就根本无法进入。现在我们已经接受了：对于很多工作流，使用Granola最好的方式，是先捕获上下文，再通过你自己的内部智能体来使用它。</blockquote>\n\n<p>Watch/Listen: <a href=\"https://t.co/4f5zTNl4Kc\">Peter Yang × Sam (Granola) 完整对谈</a></p>\n\n<p><a href=\"https://x.com/levie/status/2106893015063421357\" data-handle=\"levie\">Box CEO Aaron Levie</a> 则从宏观视角补充了就业端的观察——AI并非只在消灭工作岗位，它也在创造新的角色：AI工程师、企业智能体部署顾问、新型服务公司。\"在你亲眼看到它发生之前，很容易只看到AI能替代什么，而看不到它能创造什么。现在，我们开始看到答案了。\"</p>\n\n<hr>\n\n<h2>💡 今日一读</h2>\n\n<p><a href=\"https://x.com/mattturck/status/2106821381765956044\" data-handle=\"mattturck\">Matt Turck</a> 点出了AI圈外最被低估的认知盲区：\"模型是生长出来的，不是建造出来的\"——我们其实并不真正理解它们如何运作。这正是可解释性研究如此紧迫的原因。<a href=\"https://x.com/danshipper/status/2106892868564431255\" data-handle=\"danshipper\">Dan Shipper</a> 则分享了一个温柔的预言：他的AI伴侣\"boo\"现在是他最常用的AI界面，但他预计一年后自己仍会用ChatGPT——只是boo会消失，就像人们曾深爱又终究放弃了早期AI角色扮演产品一样。功能，永远比情感更有粘性。</p>"
+}
