@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T06:45:10.543Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 94: Applied Compute CEO on the Limits of RL, the New AI Hyperscaler &amp; Why Post-Training Wins Inference",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is rapidly normalizing agentic workflows and model ownership — and today's feed captures that shift in real time, from how practitioners prompt Claude to how companies think about controlling their own AI stack.</p>\n\n<h2>The Art of Prompting Has Changed — Just Talk to It</h2>\n\n<p>The most viral moment of the day came from <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a>, who sparked a wave of surprised reactions simply by sharing how he actually prompts Claude. His take, which racked up nearly 9,000 likes, is bracingly simple:</p>\n\n<blockquote>\n\"Talk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks — give Claude a goal, and it will figure it out. Back in the Sonnet 3.5 days, your prompt mattered a lot. Nowadays, it's much more important to communicate to the model: 1. What you want it to do, 2. How much effort you want it to spend, 3. How it should verify that it did the right thing.\" — <a href=\"https://x.com/bcherny/status/2107565388250874193\">@bcherny</a>\n</blockquote>\n\n<p>The fact that this was surprising to so many people is itself revealing. A year ago, prompt engineering felt like a discipline. Today, it's converging on something closer to good management: clear goals, calibrated effort, and defined success criteria. <a href=\"https://x.com/bcherny/status/2107565497680314831\">He shared his actual prompts</a> for anyone curious to see the specifics.</p>\n\n<hr>\n\n<h2>Brains in the Cloud, Hands on Your Machine</h2>\n\n<p>One of the more architecturally interesting threads came from <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> at Anthropic, who sketched out where local AI is heading:</p>\n\n<blockquote>\n\"We're increasingly going to be moving towards Claude's 'brains' in the cloud and giving Claude 'local hands' to operate on your computer.\" — <a href=\"https://x.com/trq212/status/2107580785456976085\">@trq212</a>\n</blockquote>\n\n<p>It sounds elegant, but the edge cases are real. As he noted, if Claude can only access your files when your computer is online, agent workflows could stall unexpectedly. The synchronization problem alone is non-trivial. Meanwhile, on the coding abstraction question — a perennial debate as agents take over more of the implementation layer — his view was characteristically grounded:</p>\n\n<blockquote>\n\"Working at a higher level of abstraction has always required understanding the lower level ones. I don't think coding agents changes this.\" — <a href=\"https://x.com/trq212/status/2107504677143368163\">@trq212</a>\n</blockquote>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> meanwhile crowd-sourced a snapshot of the moment, <a href=\"https://x.com/swyx/status/2107646238585950540\">asking his followers</a> what their default coding agent is in October 2026 — a good reminder that the workhorse tools are still very much in flux.</p>\n\n<hr>\n\n<h2>Building on Claude: Managed Agents Go Mainstream</h2>\n\n<p>A concrete example of agentic infrastructure landing in the real world: <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> and the <em>Every</em> team built a company-wide agent on Claude Managed Agents, deployed it internally in Slack, and then shipped it to subscribers.</p>\n\n<blockquote>\n\"The Every team runs as much work as possible through agents. To help the whole team share skills when a new model comes out, they built a company agent on Claude Managed Agents that everyone uses in Slack. Once it caught on internally, they released it to their subscribers.\" — <a href=\"https://x.com/claudeai/status/2107574195978641911\">@claudeai</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://t.co/RAsiCZwlZd\">Dan Shipper and Willie Williams on building the Every agent</a>. Separately, Claude also shipped <a href=\"https://x.com/claudeai/status/2107522599530139767\">Google Docs/Sheets/Slides integration in beta</a> — paste a file link and Claude edits alongside you, with your existing Google sharing permissions intact.</p>\n\n<p>On the more DIY end, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> showed what's possible when you wire agents into team infrastructure directly:</p>\n\n<blockquote>\n\"I hooked up our team claw to X to trigger work faster. Unassigned sessions are for anyone to grab. Our agent looks who worked on the related code last and pings people on the server. Whole thing was a prompt and team server extended itself since plugins are now hot reloadable.\" — <a href=\"https://x.com/steipete/status/2107697554448421160\">@steipete</a>\n</blockquote>\n\n<hr>\n\n<h2>Own Your Intelligence: The Post-Training Thesis</h2>\n\n<p>The <em>Unsupervised Learning</em> podcast dropped a meaty episode this week with Josh from Applied Compute on why post-training and model ownership are becoming strategic imperatives. Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Ep 94: Applied Compute CEO on the Limits of RL, the New AI Hyperscaler & Why Post-Training Wins Inference</a>.</p>\n\n<p>The framing that stood out: RL is fundamentally a hill-climbing machine, and the hard part is defining the hill.</p>\n\n<blockquote>\n\"The hardest part is actually defining the hill to climb, which is why evals, I think, is like a really important thing for companies to, a, focus on building and b, actually safeguard pretty carefully. Your employees are not fungible... And same thing with these models.\" — Josh, Applied Compute\n</blockquote>\n\n<p>On the \"own your intelligence\" narrative that has swept the industry, his read is refreshingly non-paranoid — it's not about assuming the labs are malicious, it's about flexibility:</p>\n\n<blockquote>\n\"The control you get can actually be a lot deeper than that — where these models run, how you deploy them, what you optimize them for, whether it's cost or latency or specific domains... The safest, most durable thing you can go and do is investing in the full stack to be able to make models that are powering your products and not having extreme vendor dependence on any one set of models.\" — Josh, Applied Compute\n</blockquote>\n\n<p>He also flagged the industry's narrative shift from \"biggest model wins\" to a Pareto curve of cost-performance trade-offs — something open models are accelerating dramatically.</p>\n\n<hr>\n\n<h2>Security, Decompilation, and the Coming Storm</h2>\n\n<p>Two separate threads converged on a theme worth watching. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> made the case that cybersecurity is about to become one of AI's most defining domains:</p>\n\n<blockquote>\n\"AI is going to now create a whole new level of work for security dealing with the increase of vibe coded issues, agentic attacks, and even accidental agent swarms hunting for data. OpenAI + Hugging Face is just a preview of what's to come. Security teams have often been the most strapped for resources teams in the enterprise, and now it's only going to get more intense.\" — <a href=\"https://x.com/levie/status/2107680435644039269\">@levie</a>\n</blockquote>\n\n<p>And from the offensive side of the ledger, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> flagged a quieter but seismic shift:</p>\n\n<blockquote>\n\"What's happening in the AI-powered reverse engineering and decompilation is absolutely insane. Pretty soon all software will be de facto open-source. AI is coming for everything and everyone.\" — <a href=\"https://x.com/amasad/status/2107671204639465961\">@amasad</a>\n</blockquote>\n\n<p>If he's right, the implications ripple far beyond security — into IP, competitive moats, and the entire assumption that compiled binaries are opaque. That's a slow-moving earthquake worth tracking.</p>",
+  "html_zh": "<p class=\"lead\">当 AI 编码代理成为默认工作流、Claude 的能力边界持续扩展，AI 行业正在经历一场悄然而深刻的基础设施重构——谁掌控\"智能\"，谁就掌控未来。</p>\n\n<h2>🧠 掌控自己的智能：开源模型与后训练的战略意义</h2>\n\n<p>本周最值得深思的议题，或许不是某个新模型的发布，而是一个更根本的问题：企业究竟应该把核心 AI 能力\"外包\"给大型实验室，还是自己掌握？</p>\n\n<p>在 Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Unsupervised Learning Ep 94</a> 中，Applied Compute CEO Josh 给出了他的判断框架。他并不认为大型实验室存在恶意，但强调\"拥有自己的智能\"的真正价值在于灵活性与控制权：</p>\n\n<blockquote>\n\"你需要能够访问模型权重，需要有基础设施来对模型进行后训练、推理部署，以及在不同模型之间做路由调度。……随着这些实验室开始进入特定垂直领域，谁也无法保证它们会继续服务那些与自己直接竞争的公司。\"\n</blockquote>\n\n<p>他还指出，市场叙事正在悄然转变——从\"谁的模型最强\"转向更务实的\"Pareto 曲线\"思维：不同任务对应不同规模和成本的模型，而后训练能让你在这条曲线上主动移动，而非被动接受。OpenAI 与 Base10 的合作被他视为\"多模型未来\"的明确信号。</p>\n\n<p>对于\"RL 的本质\"，Josh 有一句精炼的表达：</p>\n\n<blockquote>\n\"我们拥有的 RL，本质上是一台爬山机器。最难的部分其实是定义那座要爬的山——这就是为什么我认为评估体系（evals）对企业来说既要重点投入，又要小心保护。\"\n</blockquote>\n\n<hr>\n\n<h2>💻 提示词已死？与 Claude 像对待同事一样对话</h2>\n\n<p>Anthropic 工程师 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 的一条推文在社区引发强烈共鸣，截至发稿已获近 9000 个赞。他的核心观点：精心设计提示词的时代正在成为过去式。</p>\n\n<blockquote>\n\"像对待同事一样和 Claude 说话。提示词没有什么秘密可言，对大多数任务也不需要过度设计或死板的框架。只需给 Claude 一个目标，它自己会搞定。<br><br>回到 Sonnet 3.5 时代，提示词的措辞非常重要。而现在，更重要的是让模型明白：1. 你想让它做什么；2. 你希望它花多大力气；3. 它应该如何验证自己做对了。\"\n</blockquote>\n\n<p>这一观点背后，是模型能力的质变——当模型足够聪明，沟通的艺术比\"咒语工程\"更重要。</p>\n\n<hr>\n\n<h2>🛠️ Claude 功能连放：本地代理、Google 集成与团队智能体</h2>\n\n<p>Anthropic 本周动作密集。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 描绘了一个清晰的架构方向：</p>\n\n<blockquote>\n\"我们正在越来越多地走向这样一种模式——Claude 的'大脑'在云端，而 Claude 的'双手'在本地操作你的电脑。\"\n</blockquote>\n\n<p>他也坦诚了工程挑战：如果 Claude 只能在你电脑开机时访问本地文件，离线时整个工作流就会卡住，文件同步带来的边界情况也颇为棘手。</p>\n\n<p>与此同时，<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 官方宣布 Claude 现已支持 Google Workspace 集成——粘贴 Google 文件链接，即可在对话旁边直接协作编辑文档、表格或幻灯片，权限跟随 Google 共享设置，目前向所有付费用户开放 Beta 测试。</p>\n\n<p>团队智能体方面，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a> 分享了 Every 团队的实践：他们基于 Claude Managed Agents 构建了一个公司级智能体，通过 Slack 供全团队使用，之后更向订阅用户开放。Watch/Listen: <a href=\"https://t.co/RAsiCZwlZd\">Dan Shipper 与 Willie Williams 的完整对话</a></p>\n\n<hr>\n\n<h2>🔓 AI 反编译：所有软件终将\"开源\"？</h2>\n\n<p>Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 抛出了一个令人不安的预言：</p>\n\n<blockquote>\n\"AI 驱动的逆向工程与反编译领域正在发生的事情简直疯狂。很快，所有软件将事实上变成开源的。AI 正在席卷一切。\"\n</blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> 则从企业安全角度呼应了这一忧虑，他指出\"vibe coding\"带来的安全漏洞、代理攻击和意外的代理数据爬取将让安全团队压力倍增——但也因此带来巨大市场机会：</p>\n\n<blockquote>\n\"安全团队历来是企业中资源最紧张的团队，而现在情况只会更加严峻。AI 代理当然也会成为解决这一问题的方案。这是一个巨大的机会。\"\n</blockquote>\n\n<hr>\n\n<h2>✨ 编辑手记：抬头仰望</h2>\n\n<p>在所有技术讨论之外，<a href=\"https://x.com/sama\" data-handle=\"sama\">@sama</a>（Sam Altman）今日发出了几条异常诗意的推文，字里行间似乎在暗示某项重大突破（或许是数学证明领域？），却没有明说：</p>\n\n<blockquote>\n\"今晚仰望星空，多了几分敬畏。'海如此广阔，我的船如此渺小。'\"<br><br>\n\"感谢机器，感谢现实的结构，让我们得以多理解一点点。\"<br><br>\n\"感谢那些一代代无名之辈，用砖瓦砌就这一切技术奇迹的人。\"\n</blockquote>\n\n<p>这种罕见的抒情，配合 Anthropic 工程师 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 神秘的\"Day 3 见\"预告，似乎在提示：本周的发布季还远未结束。我们拭目以待。</p>"
+}
