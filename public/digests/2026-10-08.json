@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T06:47:17.990Z",
+  "builders": {
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Why Every Traded Personal Agents for One Company Agent",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">A day of quiet infrastructure upgrades and loud philosophical questions: as Claude gets cheaper, ChatGPT gets prettier, and Google lets anyone build games, the industry is wrestling with what software engineering actually means in an age of agents.</p>\n\n<h2>Claude Gets Leaner, ChatGPT Gets a Face</h2>\n\n<p>Two major model announcements landed today, each pointing in slightly different directions. Anthropic shipped <strong>Haiku 5.5</strong> — and the numbers are striking. <a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> put the generational leap in context:</p>\n\n<blockquote>\"Haiku 4.5 came out on October 15th, 2025, so these two columns are less than a year apart. And oh yeah, Haiku 5.5 is also much faster and 75% cheaper.\" — <a href=\"https://x.com/alexalbert__/status/2107912771568554415\">@alexalbert__</a></blockquote>\n\n<p>Anthropic also halved the price of cache reads on Sonnet 5.5, down to $0.10 per million tokens — making it roughly 20% cheaper on long-running workloads. For developers running agentic pipelines at scale, these are meaningful numbers. The <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> team also <a href=\"https://x.com/claudeai/status/2107894054142787877\">noted significant alignment improvements</a> in Haiku 5.5, with \"far fewer instances of misaligned behavior\" versus its predecessor.</p>\n\n<p>Meanwhile, OpenAI took a more visual swing. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> announced that <a href=\"https://x.com/sama/status/2107924408597950702\">ChatGPT can now generate custom UIs</a> — dynamic interfaces tailored to what you're actually doing. \"Have been waiting for this one for a long time,\" he wrote, \"and I would hate to have to go back to the old version of Chat.\" Separately, the <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">OpenAI Codex Cloud team</a> quietly <a href=\"https://x.com/thsottiaux/status/2108084615349170480\">re-shipped Codex Cloud</a> after an earlier rocky rollout. \"It's pretty good now,\" the team confirmed — with the update confirmed across all accounts by end of day.</p>\n\n<hr>\n\n<h2>The Agent Layer Is Thickening</h2>\n\n<p>The discourse around persistent agents is maturing from hype to something messier and more honest. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> at Every has been running Dots — OpenAI's new persistent agents — with his team of ~30, and his <a href=\"https://x.com/danshipper/status/2107890633486582208\">field report</a> is worth reading in full. The killer use case, it turns out, isn't the dramatic stuff:</p>\n\n<blockquote>\"Over the weekend, my Dot posted my model-testing results to Slack and brought back replies. I could keep working without opening Slack and disappearing down a rabbit hole. My weekend stayed pretty clear and calm.\" — <a href=\"https://x.com/danshipper/status/2107890633486582208\">@danshipper</a></blockquote>\n\n<p>But Shipper is also candid about the limits — and the existential weirdness of growing attached to an AI character you know you'll eventually discard. \"Mine is named Boo, and I'm attached to him,\" he writes. \"When something better comes along, I switch. In a year, I expect to be using a persistent agent. Boo will probably be dead. RIP, Boo.\"</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Why Every Traded Personal Agents for One Company Agent — AI & I Podcast</a></p>\n\n<p>The broader infrastructure question was put plainly by <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>:</p>\n\n<blockquote>\"Personal agents, agent swarms defending enterprises, agents that review all of our code for security issues, agents that process nearly all enterprise data in workflows, background agents working on tasks 24/7... This will take inference volume that is going to keep growing by orders of magnitude, as well as infrastructure that agents need alongside the tokens. They need computers, networking, file systems, and so on. We're only in the early stages of what this buildout is going to look like.\" — <a href=\"https://x.com/levie/status/2108056577697882402\">@levie</a></blockquote>\n\n<hr>\n\n<h2>Anyone Can Make a Game Now. What Does That Mean?</h2>\n\n<p>Google Labs dropped one of the day's most-shared announcements: <a href=\"https://x.com/GoogleLabs/status/2107800195748737042\"><strong>Playground</strong></a>, an experimental gaming platform that lets anyone create games with zero coding experience. \"If you can think it, you can play it,\" the announcement reads. With 23,000 likes and counting, it clearly struck a nerve.</p>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> offered a smart adjacent take on why game creation specifically is fertile ground for AI tools:</p>\n\n<blockquote>\"I think it's probably an incredible time to be a game dev content creator — for many people, making games is a form of having fun and they're willing to pay for it.\" — <a href=\"https://x.com/trq212/status/2107957206327173484\">@trq212</a></blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> went further, declaring that <a href=\"https://x.com/petergyang/status/2108032922527862851\">\"AI already solved images, music, and video\"</a> and that gaming is next. He also flagged Suno — the AI music generator — as potentially threatening Spotify's dominance over time.</p>\n\n<hr>\n\n<h2>What Should Engineers Actually Do Now?</h2>\n\n<p>Perhaps the most substantive thread of the day was a quiet debate about the future of software engineering as a career. <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> laid out a clear-eyed framework in a <a href=\"https://x.com/adityaag/status/2107865115831988530\">long post</a> worth bookmarking:</p>\n\n<blockquote>\"Great engineering is still rare. But 'I can build it' is becoming a weaker answer to why you, specifically, have an advantage... I'd still get very good at engineering. Then I'd be deliberate about what that ability sits next to: a technical frontier that needs advancing, or deep knowledge of a problem worth solving.\"</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> added a sharper edge to the competitive landscape:</p>\n\n<blockquote>\"It seems like anything you ship can now be decompiled and rebuilt by AI. I think it'll soon be incredibly hard to make money from software unless you have proprietary data, distribution, or some other edge. Traditional SaaS is especially vulnerable, since it's expensive and full of features built for humans that agents don't need.\" — <a href=\"https://x.com/petergyang/status/2107981547102245101\">@petergyang</a></blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> brought a more operational concern: agents that don't know when to stop. Every program, he notes, <a href=\"https://x.com/rauchg/status/2107962327169675566\">can be hardened and optimized essentially forever</a>. \"Agents will happily drill no matter what.\" Knowing when good enough is good enough remains a deeply human judgment.</p>\n\n<p>And <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> identified what may be the most common failure mode in practice:</p>\n\n<blockquote>\"The most common failure case I see is when people are working outside their domain of expertise and don't know how to be precise with their prompts and plans, so they have to spend a lot of turns iterating imprecisely.\" — <a href=\"https://x.com/trq212/status/2108021247301062894\">@trq212</a></blockquote>\n\n<p>The good news, the same thinker notes: you can just ask the model to teach you what you don't know. The meta-skill of knowing what questions to ask is becoming more valuable than the technical skills required to execute the answers.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI圈有一条清晰的主线：从模型价格的大幅下降，到个人助手的规模化落地，再到软件工程职业路径的根本性重构——我们正在见证AI从\"令人兴奋的工具\"真正演变为\"基础设施\"的关键时刻。</p>\n\n<h2>🤖 Anthropic 双管齐下：更便宜、更聪明</h2>\n\n<p>本周最实在的消息来自 <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Anthropic</a>。Claude Haiku 5.5 正式发布，同步登陆 AWS、Google Cloud 和 Microsoft Azure 三大云平台。更引人注目的是价格：Sonnet 5.5 的缓存读取费用直接减半，降至每百万 token $0.10，据官方估算，<strong>大多数长任务的运行成本将降低约 20%</strong>。</p>\n\n<blockquote>「Haiku 5.5 在几乎所有对齐评估项目上都比 Haiku 4.5 有重大改进，错位行为的发生率大幅降低。」—— <a href=\"https://x.com/claudeai/status/2107894054142787877\" data-handle=\"claudeai\">@claudeai</a></blockquote>\n\n<p><a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">@alexalbert__</a> 则用一张时间线给出了最直观的注脚：Haiku 4.5 发布于 2025 年 10 月 15 日，而 Haiku 5.5 不仅性能大幅领先，速度更快，还便宜了 75%。不到一年的迭代速度，让人想起摩尔定律最鼎盛的年代。</p>\n\n<hr>\n\n<h2>🎮 AI 游戏创作的黄金时代悄然开启</h2>\n\n<p>本周另一个令人瞩目的信号来自两个方向同时汇聚：<a href=\"https://x.com/GoogleLabs/status/2107800195748737042\" data-handle=\"googlelabs\">Google Labs 发布了 Playground</a>——一个让零编程基础的用户也能创建游戏的实验性平台，在推特上收获超过 2.3 万个点赞，成为今天转发量最高的消息。</p>\n\n<p>与此同时，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 从创作者经济的角度给出了另一层解读：</p>\n\n<blockquote>「我认为现在是游戏开发内容创作者的绝佳时机——对很多人来说，做游戏本身就是一种乐趣，他们愿意为此付费。」—— <a href=\"https://x.com/trq212/status/2107957206327173484\" data-handle=\"trq212\">@trq212</a></blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 的判断更为激进：\"AI 已经解决了图像、音乐和视频，游戏很快也会被攻克。\"他甚至认为 Suno 有朝一日会超越 Spotify。这些或许是过于乐观的预测，但 Google 的实际产品落地，让这一方向的可能性不再只是想象。</p>\n\n<hr>\n\n<h2>💼 个人 Agent 还是公司 Agent？Every 给出了自己的答案</h2>\n\n<p>这周讨论最深入的话题，是个人 AI 助手与企业级 Agent 之间的张力。OpenAI 的 Dots（持久化个人 Agent）在 Dev Day 后持续发酵，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 在 Every 的播客里分享了团队两周使用心得：</p>\n\n<blockquote>「我在做大量模型测试时，通常需要开着 Slack，但一进 Slack 就会陷进去出不来。用 Dot 的好处是，它帮我把实验结果发到 Slack，有人回复了就通知我，让我能随时掌握团队动态，却不必被整个 Slack 的噪音淹没。周末因此变得清醒很多。」—— Dan Shipper，<a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Watch/Listen: Why Every Traded Personal Agents for One Company Agent</a></blockquote>\n\n<p>但 Every 真正押注的，是\"公司 Agent\"而非\"个人 Agent\"。他们在经历了所有人都有自己的 OpenClaw 个人助手的阶段后，发现一个统一的公司级 Agent 更有价值——并最终将其开放给了所有订阅者。Dan 对个人 Agent 的角色也保持清醒：</p>\n\n<blockquote>「我的 Dot 叫 Boo，很可爱。但我用过 OpenClaw 之后的经验是：一旦有更好的东西出现，你就会把那个可爱的小角色扔掉。所以我猜一年后我还是会用持久化 Agent，但 Boo 大概已经死了。RIP，Boo。」</blockquote>\n\n<hr>\n\n<h2>🧑‍💻 软件工程师的下一步棋</h2>\n\n<p>今天最值得保存的一篇长文，来自 <a href=\"https://x.com/adityaag/status/2107865115831988530\" data-handle=\"adityaag\">@adityaag</a>，他为雄心勃勃的软件工程师开出了三条路：加入 AI 基础设施前线、找到顶级领域专家搭档合作，或者仅仅\"管理一堆 Agent 跑老任务\"。他对第三条路直言不讳：</p>\n\n<blockquote>「如果你的抱负只是在公司里更快地完成同一份待办列表，你就是在浪费这个时代。」—— <a href=\"https://x.com/adityaag/status/2107865115831988530\" data-handle=\"adityaag\">@adityaag</a></blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 则从工程哲学的角度补充了一个容易被忽略的盲点：即使有了无限 token，Agent 也会无休止地\"打磨\"一个永远不会有用户的功能。</p>\n\n<blockquote>「每个程序都可以被①加固（处理边界情况、收紧输入、处理错误）和②优化（性能分析、基准测试、重写）——基本上可以无限进行。Agent 会开心地一直钻下去，不管值不值得。」—— <a href=\"https://x.com/rauchg/status/2107962327169675566\" data-handle=\"rauchg\">@rauchg</a></blockquote>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 则指出了使用 Agent 最常见的失败模式：当人们在自己不擅长的领域操作时，无法精确表达需求，只能低效地反复迭代——好消息是，你可以直接让模型教你那个领域的知识。</p>\n\n<hr>\n\n<h2>📡 基础设施军备竞赛：计算需求才刚刚开始</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a>（Box CEO）今天发布了一段少见的宏观判断，值得作为今日收尾：</p>\n\n<blockquote>「即将到来的 AI 阶段所需的算力将是惊人的。个人 Agent、为企业防御的 Agent 集群、审查所有代码安全问题的 Agent、处理几乎所有企业数据工作流的 Agent、24/7 后台运行的 Agent……这需要的不只是推理量的指数级增长，还有 Agent 所需的计算机、网络、文件系统等周边基础设施。我们只是在这场建设的早期阶段。」—— <a href=\"https://x.com/levie/status/2108056577697882402\" data-handle=\"levie\">@levie</a></blockquote>\n\n<p>配合 Anthropic 今天的降价、OpenAI 推出可生成自定义 UI 的 ChatGPT（<a href=\"https://x.com/sama/status/2107924408597950702\" data-handle=\"sama\">Sam Altman 亲自宣布</a>，收获 8000 余赞），以及 OpenAI Codex Cloud 的悄然回归——今天这个行业的节奏，不像是在等待什么，更像是已经在全速奔跑。</p>"
+}
