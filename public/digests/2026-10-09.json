@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T06:47:11.550Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">A day of infrastructure reckoning: as Anthropic scrambles to manage overwhelming startup demand and ChatGPT's successor arrives, the deeper story is about what it actually takes to build the stack that makes any of this possible — from the data center floor to the founder's spreadsheet.</p>\n\n<h2>🏗️ The Physics of the AI Buildout</h2>\n\n<p>If you want to understand where the real action is in AI, sometimes you need to go below the model layer — all the way down to concrete, fiber optic cabling, and power distribution. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a>'s latest podcast episode features <strong>Amin Vahdat</strong>, Google's head of AI infrastructure, offering one of the most grounded accounts of what this historic capital deployment actually looks like in practice.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Google's AI Infrastructure Chief, Amin Vahdat, on the Physics & Economics of Frontier AI — Training Data podcast</a></p>\n\n<blockquote>\"I don't think we've ever seen anything like this, honestly. Certainly not Google, but as you said, I think in the history of humanity in terms of the build outs and the pace of transformation, really unbelievable.\" — Amin Vahdat</blockquote>\n\n<p>Vahdat draws a crisp distinction between traditional and AI data centers: the former are built for 25-30 year flexibility; the latter are co-designed around specific hardware, with power densities that make storage racks look quaint.</p>\n\n<blockquote>\"A storage rack might have 10, 20, 30, 40 kilowatts of power. You put that next to a TP rack or a GP rack that easily is hitting hundreds of kilowatts today, might hit megawatts people are talking about in the next few years.\"</blockquote>\n\n<p>He also pushes back on FLOPS as the headline metric, preferring what he calls <em>\"goodput\"</em> — the actual fraction of theoretical compute capacity that a real workload can utilize, factoring in network bottlenecks, chip failures, and synchronization overhead. In a world where training runs span 100,000 chips working in lockstep, a single failed component can drag down the whole ensemble. Accountability, it turns out, is a systems problem.</p>\n\n<hr>\n\n<h2>🤖 ChatGPT's Successor and the Week That Was</h2>\n\n<p>The most-liked tweet in today's feed belongs to <a href=\"https://x.com/thsottiaux/status/2108349826727588000\" data-handle=\"thsottiaux\">@thsottiaux</a>, who <a href=\"https://x.com/thsottiaux/status/2108349826727588000\">announced</a> what appears to be a next-generation ChatGPT product — racking up nearly 20,000 likes. A follow-up on Day 4 of what looks like a staged rollout noted meaningful steering improvements:</p>\n\n<blockquote>\"We have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to course-correct direction in realtime and not have the model waste effort. Also releasing GPT-6.1 Sol ultrafast.\" — <a href=\"https://x.com/thsottiaux/status/2108275041276420573\">@thsottiaux</a></blockquote>\n\n<p>Meanwhile, Anthropic had its own product moment: <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a> announced that <strong>Claude Docs, Slides, and Design are now out of beta and available on every plan including Free</strong>, with real-time collaborative editing. The platform is also expanding integrations so users can send Claude's output directly to external tools — analytics platforms, video editors, and more.</p>\n\n<hr>\n\n<h2>😬 Anthropic's Startup Program Hits a Wall</h2>\n\n<p>Less triumphant was Anthropic's admission that its Claude Startups program — offering $1,000 in API credits to early-stage companies — was simply overwhelmed by demand. The company is pausing new offers and, in an awkward reversal, rescinding approvals already granted to some applicants.</p>\n\n<blockquote>\"With hundreds of thousands of applicants, we're re-reviewing applications so the program can serve as many startups as possible... unfortunately, this means that some accounts who had already been approved will not get access to the offer. We know this is disappointing and we're very sorry.\" — <a href=\"https://x.com/claudeai/status/2108404561413349695\">@claudeai</a></blockquote>\n\n<p>It's a genuine stumble — revoking already-approved offers is a trust issue, not just a capacity one — but it also signals something bullish: the demand from the builder community is apparently staggering.</p>\n\n<hr>\n\n<h2>🧱 The Agent Stack Needs Rebuilding From Scratch</h2>\n\n<p>Two threads today converged on the same insight from very different angles. <a href=\"https://x.com/realmadhuguru/status/2108236391641706813\" data-handle=\"realmadhuguru\">@realmadhuguru</a> laid out the thesis cleanly:</p>\n\n<blockquote>\"Every layer of the computing stack will need to be rebuilt for agents... Desktop and mobile OSes where agents are first-class users. Cloud infra built for agents to operate directly. Identity, permissions and security designed for thousands of agents acting on our behalf. If you're looking for startup ideas, go through each layer of the computing stack and ask: what has to change when the primary user is an agent?\"</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> is already executing on this at Box, <a href=\"https://x.com/levie/status/2108279490510193078\">announcing Box Mount</a> — which lets developers mount Box as a filesystem directly inside agent sandboxes. \"As agents do more complex work, they need to be able to work with files and data just like a person would,\" he wrote. \"The future is headless.\"</p>\n\n<p>On the database side, Matt Turck's conversation with <strong>Andy Pavlo</strong> is essential listening for anyone building data infrastructure. The headline stat: <strong>agents now create 80% of new databases</strong>, per data from Neon — and they keep accidentally deleting production ones. Pavlo's proposed fix: \"Trust an agent the way you'd trust a junior developer.\" The episode also covers text-to-SQL accuracy going from 60% to 99.5%, and whether anyone should still bother studying databases. (Spoiler: yes.)</p>\n\n<hr>\n\n<h2>💸 The Seed-to-Series-A Chasm Is Getting Wider</h2>\n\n<p>For founders navigating all of this, <a href=\"https://x.com/nikunj/status/2108410378233549106\" data-handle=\"nikunj\">@nikunj</a> offered some unusually candid advice on the state of the funding market. He described a conversation he has \"at least 2x a week\" with seed-stage founders approaching $1M in revenue but burning runway:</p>\n\n<blockquote>\"The bar continues to get harder every month on how to cross the chasm from seed → Series A. The old school metrics are just not relevant anymore and in this consensus market there's only a few categories where there's tremendous pull on the VC front.\"</blockquote>\n\n<p>His framework: get to default profitable and wait for the market (option 1), pivot hard into a faster-growing adjacent area (option 2), or sell and live to fight another day (option 3). Blunt, but probably more useful than most of what's in your investor update template.</p>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> added a complementary note on org structure: individual contributors with agents will, in his view, become more productive than equivalent people managers from prior eras — a quiet but significant prediction about how teams will be measured going forward.</p>",
+  "html_zh": "<p class=\"lead\">当AI基础设施的军备竞赛进入人类历史上最大规模的资本支出周期，整个计算栈正面临一场从芯片到操作系统的全面重构——而这场重构的主角，不再是人类用户，而是智能体。</p>\n\n<h2>🏗️ 数据中心的物理学：Google如何构建AI时代的神经系统</h2>\n\n<p>本周最值得细读的一段对话，来自播客 <em>Training Data</em>。Google AI基础设施负责人 <a href=\"https://x.com/google\" data-handle=\"google\">Amin Vahdat</a> 坐下来，罕见地拆解了这场史无前例的资本狂潮背后的工程逻辑。主持人开场便直接点题：Google今年预计将在资本支出上花费超过2000亿美元，其中大部分流向数据中心建设。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Google's AI Infrastructure Chief, Amin Vahdat, on the Physics & Economics of Frontier AI</a></p>\n\n<blockquote>\n\"AI数据中心往往是专为特定用途而建的——我们经常将建筑与即将放入其中的硬件协同设计。一个存储机架可能只有10到40千瓦的功耗，而一个TPU或GPU机架今天轻松达到数百千瓦，未来几年人们甚至在谈论兆瓦级别。同一排放30个存储机架，还是放一两个AI机架，建筑设计完全不同。\"<br>— Amin Vahdat\n</blockquote>\n\n<p>更耐人寻味的是他对\"FLOPS\"这一行业惯用指标的态度——他认为这是个虚荣指标。他更关注的是\"goodput\"（有效吞吐量）：在真实工作负载下，系统实际交付了多少有效计算性能。当训练任务需要同步协调10万块芯片时，任何一块芯片的故障都会拖慢整体，这才是真正的瓶颈所在。</p>\n\n<hr>\n\n<h2>🤖 智能体浪潮正在重写整个计算栈</h2>\n\n<p>如果说Vahdat描述的是AI基础设施的物理层，那么投资人 <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 则点出了它的商业逻辑：每一层计算栈都需要为智能体重新设计。</p>\n\n<blockquote>\n\"计算栈的每一层都将需要为智能体重建。过去几年，大家的注意力集中在让企业软件适配智能体：API、连接器、MCP。现在，个人智能体正在对消费级产品提出同样的要求。如果你在找创业方向，去梳理计算栈的每一层，问自己：当主要用户是智能体时，什么必须改变？\"<br>— <a href=\"https://x.com/realmadhuguru/status/2108236391641706813\" data-handle=\"realmadhuguru\">@realmadhuguru</a>\n</blockquote>\n\n<p>数据库层的变革已有具体数字为证。<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 与数据库研究者 <a href=\"https://x.com/andy_pavlo\" data-handle=\"andy_pavlo\">Andy Pavlo</a> 的对话中提到：Neon的数据显示，智能体创建了80%的数据库；60%的开源数据库现在已有AI提交的代码；而text-to-SQL的准确率，已从60%跃升至99.5%。Watch/Listen: <a href=\"https://x.com/mattturck/status/2108223135673696504\">What happens to databases when billions of AI agents hit them</a>。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 则用产品行动回应了这一判断——Box推出了Box Mount，让开发者可以将Box直接挂载为任何智能体沙箱中的文件系统：</p>\n\n<blockquote>\n\"随着智能体承担越来越复杂的工作，它们需要像人一样处理文件和数据。未来是无界面的（headless）。\"<br>— <a href=\"https://x.com/levie/status/2108279490510193078\" data-handle=\"levie\">Aaron Levie</a>\n</blockquote>\n\n<hr>\n\n<h2>🚀 产品动态：Claude全面开放，创业计划遭遇挤兑</h2>\n\n<p>Anthropic本周动作密集。<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 宣布 Claude Docs、Slides 和 Design 正式从测试版毕业，向所有计划（包括免费版）开放，支持人与Claude共同编辑同一份文档、幻灯片或设计稿。</p>\n\n<p>然而随之而来的是一场小型危机：Claude Startups 创业计划因申请者数十万人蜂拥而至，远超预期，被迫暂停原有的 Claude Team 订阅和1000美元API额度优惠，并对已批准但未领取优惠的账户进行重新审核。</p>\n\n<blockquote>\n\"我们低估了该计划的需求量。数十万申请者涌入，我们正在重新审核申请，以便该计划能服务尽可能多的创业公司。我们知道这令人失望，对此深感抱歉。\"<br>— <a href=\"https://x.com/claudeai/status/2108404561413349695\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>与此同时，社区里还出现了一个令人会心一笑的时刻：<a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 宣布成功注册到 <strong>.claw</strong> 域名后缀，配文只有四个字：\"我们拿到了！\"——AI圈的品牌战争，已经延伸到域名层。</p>\n\n<hr>\n\n<h2>💸 种子轮创始人的三条出路</h2>\n\n<p>最后一个值得停下来细读的，是投资人 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 写给困境中创始人的一封公开信。他描述了自己每周至少两次的对话场景：有稳定客户、接近百万美金营收，但现金快烧完了，模型能力还没到位，市场又看不清方向。</p>\n\n<blockquote>\n\"在这个时刻，你本质上只有三条路：一、如果你对公司有极强的信念，就做蟑螂，活到默认盈利；二、找到一个更相关、增速更快的方向，借助现有能力快速卡位；三、出售或被收购，加入一家更有野心的公司，一两年后带着新想法重新出发。从种子轮到A轮的门槛每个月都在提高，旧的指标已经不再适用。\"<br>— <a href=\"https://x.com/nikunj/status/2108410378233549106\" data-handle=\"nikunj\">@nikunj</a>\n</blockquote>\n\n<p>这段话说出了许多VC私下会讲、但很少公开表达的现实。在一个共识驱动、只有少数赛道能获得强劲资金支持的市场里，模糊地活着，不如清醒地选择。</p>"
+}
