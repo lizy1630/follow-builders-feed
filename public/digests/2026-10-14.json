@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T06:42:17.865Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">Gemini 4 Argon arrived this week with fanfare — and a few asterisks — while a quieter revolution was unfolding inside Anthropic's engineering org, where AI is now writing so much code that Git itself has become the bottleneck.</p>\n\n<h2>🔥 Gemini 4 Argon: Google Is Back (Mostly)</h2>\n\n<p>Google's latest model landed to considerable excitement from the builder community, with enterprise benchmarks showing dramatic gains over its predecessor. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box published perhaps the most detailed real-world evaluation anyone shared publicly:</p>\n\n<blockquote>\n\"In our evaluation, we give the Box Agent (using Gemini 4 Argon) a variety of complex enterprise tasks involving enterprise documents in a range of industries... Gemini 4 is far more capable on math, logic, analytics, and deep knowledge of a variety of business domains. It also works far harder to complete tasks fully without stopping short of the desired result.\"\n— <a href=\"https://x.com/levie/status/2110046686198550539\">@levie</a>\n</blockquote>\n\n<p>The numbers were striking: a +25-point jump in healthcare tasks, +37 in technology, +33 in consumer products. Levie's healthcare example captured the qualitative leap vividly — both models spotted a dangerous drug interaction, but only Gemini 4 Argon actually removed the offending drugs from the treatment plan. Knowing something and <em>acting</em> on it are different things, and apparently the gap is closing.</p>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> took the moment to remind builders of a broader lesson:</p>\n\n<blockquote>\n\"Never bet against Google, the company that brought us Transformers and has overwhelming data, engineering talent, and compute. Everyone has, rightfully, pivoted back to coding. Coding agents are the killer app of AI. We're firmly at an elysium for developers and builders. Incidentally, getting Muse Wonder and Gemini Argon back-to-back is a reminder why you as an individual, and your company, should stay model agnostic and gateway-maxxx.\"\n— <a href=\"https://x.com/rauchg/status/2110044152482365747\">@rauchg</a>\n</blockquote>\n\n<p>But the enthusiasm was not universal. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> poured cold water with his own benchmark data:</p>\n\n<blockquote>\n\"Gemini 4 Argon really struggles on our senior engineer benchmark task — comes in at 21%, far below Sol 6 and even Muse.\"\n— <a href=\"https://x.com/danshipper/status/2110056016872427944\">@danshipper</a>\n</blockquote>\n\n<p>The lesson, as always: no single benchmark tells the whole story. Gemini 4 Argon appears to be a serious frontier model for enterprise document work and creative tasks — <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> <a href=\"https://x.com/joshwoodward/status/2110179883045560674\">demonstrated it</a> building a custom synthesizer from a 24-word prompt — but buyers should test against their own workloads.</p>\n\n<hr>\n\n<h2>🏗️ When AI Writes Too Much Code: Anthropic Outgrows Git</h2>\n\n<p>The most quietly extraordinary piece of technical writing this week came from Anthropic's engineering blog: <a href=\"https://www.anthropic.com/engineering/redesigning-source-control\"><em>Redesigning source control at Anthropic</em></a>. The headline statistic alone stops you cold.</p>\n\n<blockquote>\n\"In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. We don't expect this rate of growth to slow down anytime soon; the latent demand for merging code is practically infinite.\"\n</blockquote>\n\n<p>Git — the version control system that powers virtually all of software development — broke under the load. Anthropic's monorepo history alone hit nearly 100 GB. They were performing 25 million code checkouts per day for CI, which would have translated to over 600 petabytes of daily git traffic if fetched naively. So they built their own version control system, called <strong>Scion</strong>, in five months — using Claude to write much of it.</p>\n\n<p>The philosophical inversion is delicious: Claude's ability to write code created the problem, and Claude's ability to write code solved it. The post's core insight is that git was designed for a world of distributed, offline human developers — a world that no longer describes Anthropic's reality, where nearly all \"developers\" are agents that are always online. Scion bakes that assumption in from the ground up, with a client-server architecture where history, blame, merges, and rebases live server-side.</p>\n\n<p>This is a preview of infrastructure problems that will arrive at every serious AI-native company within a few years. Anthropic is just first.</p>\n\n<hr>\n\n<h2>🎯 Can You Clone a $43K SaaS in a Weekend?</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> and the <a href=\"https://www.latent.space/\" data-handle=\"latentspacepod\">Latent Space</a> crew published results from their \"Kill My SaaS\" hackathon — a live experiment in one of the field's most debated questions. They took a real $43,000/year SaaS product, ran a global hackathon to clone it in a weekend, processed ~100 billion tokens of submissions, and shared what they found.</p>\n\n<blockquote>\n\"72 submissions, a lot of manual evals and ~100B tokens later, here are the results. In this special @latentspacepod edition we share the data collected, what's still hard about killing nontrivial, midtier SaaS, and reveal the winners of the $10,000 Kill My SaaS contest with qualitative interviews!\"\n— <a href=\"https://x.com/swyx/status/2110065576764686421\">@swyx</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://t.co/A0F60h1DcQ\">How to Kill Your SaaS — Latent Space Pod</a></p>\n\n<p>The framing matters. This isn't theoretical musing about \"AI will eat SaaS.\" It's empirical. The fact that they're highlighting what's <em>still hard</em> suggests the answer is more nuanced than either the doomsayers or the incumbents would like — mid-tier SaaS has more defensibility than the discourse implies, even if the margins are clearly under pressure.</p>\n\n<hr>\n\n<h2>🤖 A Different Path to Superintelligence</h2>\n\n<p>AlphaGo creator <a href=\"https://x.com/david_silver_rl\" data-handle=\"davidsilverai\">David Silver</a> and his Ineffable Intelligence co-founder Lasse Espeholt sat down on the <em>Training Data</em> podcast to lay out why they left DeepMind to pursue a radically different approach to AGI — one that explicitly does <em>not</em> go through LLMs.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">David Silver and Lasse Espeholt — Training Data Podcast</a></p>\n\n<blockquote>\n\"The world already has tens of thousands, if not hundreds of thousands, of really talented researchers all pursuing exactly the same approach, really just doubling down on LLMs with pre-training, post training, coding... am I going to be the 100,001 person that's pursuing that approach? Is that the most effective use of my time and my energy? And in the end, I realized that there's this other lamppost that right now no one is looking under.\"\n— David Silver, <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Training Data podcast</a>\n</blockquote>\n\n<p>Silver's thesis is that the path to superintelligence runs through systems that learn entirely from experience — not human-generated text — and can keep discovering new knowledge indefinitely. His conviction goes back to his PhD on Go:</p>\n\n<blockquote>\n\"I always had this conviction... that the right approach to solve AI was through learning from experience, through systems that discovered things for themselves, that were learning through reinforcement learning to get better and better and better, and that that would be the thing which would lead to the emergence of intelligence and ultimately superintelligence.\"\n</blockquote>\n\n<p>The lab's name captures the ambition: knowledge so profound it may be beyond human expression. Silver admitted there's also a second, earthier reason — doubling down on learning from experience \"just has to work,\" making it, as he put it, \"ineffable\" in a different sense of the word.</p>\n\n<hr>\n\n<h2>⚡ Quick Hits</h2>\n\n<ul>\n  <li><strong>ChatGPT disk hog fixed:</strong> <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> <a href=\"https://x.com/thsottiaux/status/2110151780478927344\">shipped a 60% reduction</a> in on-disk state for the ChatGPT and Codex desktop apps — a small ship, but one that 10,000+ users apparently cared about.</li>\n  <li><strong>AI diffusion is the real bottleneck:</strong> <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> made a point worth sitting with: <a href=\"https://x.com/amasad/status/2110128937049452575\">\"You can pause frontier research today, and it would take AI another 10 years to diffuse into the economy.\"</a> The constraint isn't capability — it's adoption.</li>\n  <li><strong>Cyber as the next agent frontier:</strong> <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> sketched out why <a href=\"https://x.com/levie/status/2110227571090788526\">cybersecurity may be one of AI agents' highest-leverage domains</a> — both for attack surface expansion and for defense. \"You can never hire enough people or work through the backlog of all known risks. Agents actually give you a chance finally to have far better coverage.\"</li>\n  <li><strong>Browser access as an unlock:</strong> <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> <a href=\"https://x.com/garrytan/status/2110053836945756234\">recommended giving AI harnesses real browser access with real credentials</a> via <a href=\"https://x.com/AsideAI\" data-handle=\"asideai\">@AsideAI</a> — a quiet but practical tip for anyone building agents that interact with the web.</li>\n</ul>",
+  "html_zh": "<p class=\"lead\">Gemini 4 Argon的登场让科技圈炸开了锅——但真正改变游戏规则的，或许是那些悄悄重写AI时代基础设施的幕后故事。</p>\n\n<h2>🔥 Gemini 4 Argon：众说纷纭的\"归来\"时刻</h2>\n\n<p>本周最大的新闻无疑是Google发布Gemini 4 Argon。各方反应却呈现出有趣的分裂：企业用户欣喜若狂，开发者基准测试则泼来一盆冷水。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>（Box CEO）在<a href=\"https://x.com/levie/status/2110046686198550539\">详细的评测帖</a>中给出了迄今最具说服力的企业级数据。Box在自家\"Complex Work\"评估集上测试后发现，Gemini 4 Argon比前代Gemini 3.1 Pro整体提升14个百分点。具体亮点触目惊心：</p>\n\n<blockquote>医疗场景提升25分：两个模型都识别出了危险的钾离子水平和药物相互作用。但只有Gemini 4 Argon回头将问题药物从最终治疗方案中删除，使其诊断与治疗真正一致。——<a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a></blockquote>\n\n<p>科技类任务更是飙升37分。Levie总结道，新模型\"在数学、逻辑、分析以及各类商业领域的深度认知上远超以往，且更能坚持将任务完整执行，不会半途而废\"。</p>\n\n<p>然而，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>的测试结果却截然不同：</p>\n\n<blockquote>Gemini 4 Argon在我们的\"高级工程师基准任务\"上表现欠佳，仅得21%，远低于Sol 6，甚至不及Muse。——<a href=\"https://x.com/danshipper/status/2110056016872427944\">@danshipper</a></blockquote>\n\n<p>这恰恰印证了<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>的判断：</p>\n\n<blockquote>无论如何，恭喜Gemini团队。永远不要押注Google会输——这家公司发明了Transformer，坐拥海量数据、顶尖工程人才和算力。顺带一提，保持模型无关性、拥抱网关最大化，这一原则再次得到印证。——<a href=\"https://x.com/rauchg/status/2110044152482365747\">@rauchg</a></blockquote>\n\n<p><a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a>则用一系列令人眼花缭乱的创意demo展示了Argon的生成能力——从<a href=\"https://x.com/joshwoodward/status/2110179883045560674\">用马蹄声和流水声制作音乐的合成器</a>，到<a href=\"https://x.com/joshwoodward/status/2110089824573272547\">精密定制家具腿的3D设计</a>，24个词的提示词足以撬动一个创意宇宙。</p>\n\n<hr>\n\n<h2>🏗️ Anthropic：当AI写代码快到Git撑不住</h2>\n\n<p>Anthropic工程团队发布了一篇令人瞠目的<a href=\"https://www.anthropic.com/engineering/redesigning-source-control\">博客文章</a>，记录了他们被自家AI\"逼\"着重建版本控制系统的故事。</p>\n\n<p>数字令人震惊：2026年5月，Anthropic每天平均合并2500次代码变更；到9月，这个数字超过了<strong>3万次</strong>。Git，这个为人类协作设计的工具，彻底撑不住了。</p>\n\n<blockquote>我们注意到，几乎所有客户端都是在线的Agent和任务，而Git优秀的离线分布式特性，反而成了规模化扩展的阻碍。于是我们问自己：如果从一开始就以\"Agent始终在线\"为前提设计源代码管理系统，它会是什么样子？</blockquote>\n\n<p>答案是他们自研的<strong>Scion</strong>——一套全新的版本控制系统，并在五个月内完成了从Git的完整迁移。关键设计哲学是\"客户端-服务器非对称\"：服务器负责历史查询、创建提交、执行合并，客户端只维护有限的本地缓存。这是专为Agent时代量身定制的基础设施。</p>\n\n<p>这篇文章值得每一位正在构建AI工程工作流的团队仔细阅读——它预示着大多数深度使用AI编程工具的组织迟早都会撞上同样的墙。</p>\n\n<hr>\n\n<h2>🤖 SaaS的葬礼，提前排练了一次</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a>和Latent Space团队发布了他们\"Kill My SaaS\"竞赛的完整复盘。他们找了一款年费$43,000的真实SaaS产品，发起全球黑客马拉松，收到72份提交，消耗约1000亿token，并结合AI和真人评审进行评估。</p>\n\n<blockquote>大量人工评审和约1000亿token之后，我们分享了所收集的数据、克隆一款非平凡的中端SaaS仍然难在哪里，并揭晓了$10,000奖金的获胜者。——<a href=\"https://x.com/swyx/status/2110065576764686421\">@swyx</a></blockquote>\n\n<p>Watch/Listen: <a href=\"https://x.com/swyx/status/2110065576764686421\">Latent Space Pod — How to Kill Your SaaS</a></p>\n\n<p>结论耐人寻味：AI确实能克隆SaaS，但\"杀死\"一款有一定复杂度的中端产品，远比理论上说的要难。细节魔鬼，依然住在那里。</p>\n\n<hr>\n\n<h2>🔮 从强化学习到\"超级学习者\"：Ineffable Intelligence的另一条路</h2>\n\n<p>当全世界都在讨论如何更好地微调LLM时，AlphaGo之父<strong>David Silver</strong>正在走一条完全不同的路。在Training Data播客中，他解释了为何离开DeepMind创办Ineffable Intelligence。</p>\n\n<blockquote>世界上已经有数万甚至数十万才华横溢的研究者都在追求同一条路——加倍押注LLM的预训练、后训练和编程。我是否要成为第100,001个追求这条路的人？我意识到还有另一盏路灯，目前没有人在那下面寻找，而如果我把精力放在那里，有更高的概率真正改变整个AI领域。——<a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">David Silver，Training Data播客</a></blockquote>\n\n<p>他所追求的路，是让AI系统像人类文明一样——从零开始，通过自主探索永无止境地学习和发现知识。公司名\"Ineffable\"（难以言说）暗含双关：一方面指超级智能将发现的知识深邃到无法用人类语言表达；另一方面，Silver打趣道，\"这条路就是'不可能搞砸'（can't possibly f**k up）\"。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Training Data — David Silver & Lasse Espeholt of Ineffable Intelligence</a></p>\n\n<hr>\n\n<h2>⚡ 快讯速览</h2>\n\n<p><strong>ChatGPT桌面应用瘦身</strong>：OpenAI工程师<a href=\"https://x.com/thsottiaux/status/2110151780478927344\">@thsottiaux</a>宣布，ChatGPT和Codex桌面应用完成磁盘存储优化，空间占用减少<strong>60%</strong>。对于那些被\"磁盘空间不足\"警告烦透了的重度用户，这是个迟来但实在的好消息。</p>\n\n<p><strong>网络安全的下一个主战场</strong>：<a href=\"https://x.com/levie/status/2110227571090788526\">Aaron Levie指出</a>，AI Agent将彻底重塑网络安全格局——既是最大的威胁（攻击面呈百倍扩张），也是最强的防御力量（Agent集群可审查每一行代码、测试每一种漏洞排列组合）。\"这将是一个巨大的机遇。\"</p>\n\n<p><strong>扩散与渗透</strong>：<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a>（Replit CEO）<a href=\"https://x.com/amasad/status/2110128937049452575\">提醒道</a>，即便今天暂停前沿研究，AI渗透进经济的过程也需要十年。真正的竞争，是加速落地，而非加速研究。</p>"
+}
