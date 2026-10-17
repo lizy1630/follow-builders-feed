@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T06:37:54.211Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amandaaskell": {
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "twitter": "https://x.com/AmandaAskell"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">AI is solving century-old mathematical theorems, rewriting how we build software, and — if you believe the most bullish voices in the room — beginning to train itself. The flywheel is starting to spin in ways that are hard to look away from.</p>\n\n<h2>🧮 The Math Moment Everyone Is Wearing on Their Backs</h2>\n\n<p>The week's biggest talking point wasn't a product launch — it was a proof. OpenAI's resolution of long-standing mathematical problems has produced a genuinely unusual cultural artifact: a commemorative shirt. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> shared that <a href=\"https://x.com/sama/status/2111139227761266699\">\"the back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution\"</a> — 9,000 likes, and counting. It's a strange and telling detail: the AI's reasoning, literally worn as a trophy.</p>\n\n<p>On the <strong>No Priors</strong> podcast, OpenAI president <a href=\"https://x.com/gdb\" data-handle=\"gdb\">Greg Brockman</a> offered the fullest articulation yet of why this moment matters — and why it's philosophically distinct from previous AI wins. Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">The Changing Physics of Cybersecurity and Drug Development with Greg Brockman</a></p>\n\n<blockquote>\"We published about almost 400 very important open problems that are now resolved, and the mathematical community is going through all of that to look for insights. If you read some of the things that people have posted, domain experts say there are almost sort of very surprising ways of applying ideas — 'wait, why did they use that result over here?' What's coming out is not incomprehensible proofs... I think we're into a different phase of machine discovery.\" — Greg Brockman</blockquote>\n\n<p>Brockman was careful to distinguish the current moment from the chest-thumping that often surrounds AI milestones. The point isn't just that a machine resolved a proof — it's that the insights within the work are <em>beautiful</em> and legible to domain experts. That's new.</p>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> noted the human side of this transition with characteristic bluntness, observing that we're watching <a href=\"https://x.com/amasad/status/2111206044416500159\">mathematicians go \"through all the stages of grief — Denial, Anger, Bargaining, Depression, and Acceptance — in such a compressed window of time. We're at the tail end of depression and entering acceptance.\"</a></p>\n\n<hr>\n\n<h2>🔁 The Recursive Self-Improvement Conversation Gets Louder</h2>\n\n<p>If the math results are the headline, the subtext is something more vertiginous. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> laid out the emerging logic in a thread that deserves careful reading:</p>\n\n<blockquote>\"Model capability finally exceeding most human engineers, advancements in the harness and infra for long running agents, a growing array of data, and the ability to parallelize the agents to work on vastly more tasks and tests and approaches than any person could have before, creates an incredible flywheel. This flywheel will almost certainly accelerate model progress far faster than we've seen before. If you aren't pricing in what RSI will lead to, that's probably a mistake.\" — <a href=\"https://x.com/levie/status/2111312141609586862\">@levie</a></blockquote>\n\n<p>Meanwhile, Brockman on the podcast gestured at the same horizon from OpenAI's vantage point: <blockquote>\"It's really what can a human equipped with these tools achieve that was unthinkable before... the leverage of humans to do whatever you want to do, it's going way, way up.\"</blockquote> The official framing is human amplification. The startup framing, increasingly, is something faster and less bounded.</p>\n\n<hr>\n\n<h2>📊 The Slides Wars Are Upon Us</h2>\n\n<p>In considerably more grounded news, the AI-generated slide deck has apparently arrived as a genuine product category — with multiple players shipping in the same 48-hour window. The most viral entry came from <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a>, who declared <a href=\"https://x.com/bcherny/status/2111158659971699136\">\"Don't sleep on Claude Slides. This is how I make slide decks now — no more googling 'iphone frame svg' like the old days.\"</a> (3,000+ likes suggests he's not alone in his PowerPoint exhaustion.)</p>\n\n<p>Claude's PM <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> confirmed <a href=\"https://x.com/thsottiaux/status/2111249810502353152\">slides support just landed for Pro, Business, and Enterprise users</a>, while <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> teased <a href=\"https://x.com/amasad/status/2111261373741383712\">\"Frontier Slides, super fast\"</a> from the Replit side. The format wars are, apparently, moving to presentations.</p>\n\n<p>Separately, Cherny has also been vocal about <a href=\"https://x.com/bcherny/status/2111158313463525518\">Claude Code Review running on all his PRs</a>, calling it \"a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar\" — a data point in the growing case that AI is changing the ceiling of what small engineering teams can ship.</p>\n\n<hr>\n\n<h2>🛠️ Builders in Motion</h2>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> offered a crisp observation on where AI capability needs to go next: <a href=\"https://x.com/danshipper/status/2111174407637139668\">\"Generation is now cheap and high quality. The big capabilities bump we need is now editing and oversight.\"</a> It's a useful frame — the hard problem is shifting from <em>create</em> to <em>curate</em>.</p>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> shared that starting a new project, his go-to stack now combines <a href=\"https://x.com/garrytan/status/2111235500568969451\">@capydotai and @AsideAI so \"agents can both code the first version and help me get all the DevOps set up in one fell swoop.\"</a> The vibe is very much: the scaffolding is now automated.</p>\n\n<p>And <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit's Masad</a> announced a new enterprise offering: <a href=\"https://x.com/amasad/status/2111267314012496121\">\"Your data belongs to you! We'll deploy Replit to your cloud and data never leaves home\"</a> — targeting governments, finance, and healthcare. Private cloud AI tooling is quietly becoming its own product genre.</p>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> also teased <a href=\"https://x.com/swyx/status/2111245359125266915\">a new show he's been building for almost a year</a>, with behind-the-scenes footage from the shoot — and separately flagged <a href=\"https://x.com/swyx/status/2111265627612787023\">an AI-generated explainer video approaching \"near-Kurzgesagt level clarity\"</a> that has him hunting for the prompts behind it.</p>\n\n<hr>\n\n<h2>🔐 The Security Argument Worth Taking Seriously</h2>\n\n<p>One underreported thread from the Brockman interview: a strong, specific claim about the future of cybersecurity spending.</p>\n\n<blockquote>\"Cyber spend, security spend should actually vastly outstrip software spend. I think that people have not yet really internalized how much the physics around cybersecurity are going to change.\" — Greg Brockman, <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors</a></blockquote>\n\n<p>His argument: as software becomes cheap to generate, the value shifts entirely to reliability and trust. The implication for enterprise buyers — and investors — is significant. If Brockman is right, the security category is structurally undervalued relative to where AI-generated software is headed. Worth sitting with.</p>",
+  "html_zh": "<p class=\"lead\">AI正在解决百年数学难题、重塑网络安全格局，同时在更日常的层面上，它已悄然改变了我们制作幻灯片的方式——今天的行业动态横跨从宇宙级突破到周末小项目的完整光谱。</p>\n\n<h2>🧮 数学的边界已被打破</h2>\n\n<p>本周最重磅的信号，来自 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 一件T恤的背面。为纪念Navier-Stokes方程突破而特制的纪念衫上，印着AI推理链的最后一行输出——这个细节本身，就是一种宣言。</p>\n\n<p>在 <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors播客</a> 中，OpenAI联合创始人 <a href=\"https://x.com/gdb\" data-handle=\"gdb\">Greg Brockman</a> 系统阐述了这一里程碑的深层意义：</p>\n\n<blockquote>\n\"这是一个真正的里程碑。过去一千年里，人类生活质量提升的根本驱动力是技术，是科学进步。我认为我们现在已经具备了大规模加速科学发现的能力。关于AI是否真的能产生新知识，这个问题曾经悬而未决——但现在，否认这一点已经不可能了。\"\n<br>— Greg Brockman，No Priors播客\n</blockquote>\n\n<p>Brockman特别强调，AI解题的价值不仅在于\"给出答案\"，更在于其中蕴含的洞见。他提到，数学界正在仔细审阅AI解决的近400个重要开放问题，并从中发现令人惊讶的思路：</p>\n\n<blockquote>\n\"领域专家们读到这些成果后说，其中有一些非常出人意料的想法应用方式——'等等，为什么它在这里用了那个定理？'……我认为我们正在进入机器发现的一个不同阶段。\"\n</blockquote>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 则从另一个角度观察到了这场变革在数学家群体中引发的震荡：</p>\n\n<blockquote>\n\"看到数学家们在如此短暂的时间窗口内经历所有悲伤阶段——否认、愤怒、讨价还价、沮丧和接受——真是令人着迷。我们正处于沮丧的尾声，进入接受阶段。\"\n<br>— <a href=\"https://x.com/amasad/status/2111206044416500159\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2>🔄 递归自我改进：从概念到现实</h2>\n\n<p>数学突破引发的更深层讨论，是关于AI进化速度的重新校准。Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 发出了今日最值得深思的判断：</p>\n\n<blockquote>\n\"我们已经到达了一个临界点：AI在训练模型方面实际上将优于人类，而且这来得如此之快。模型能力终于超越了大多数人类工程师，长期运行智能体的基础设施日趋成熟，数据规模不断扩大，并行化能力远超任何个人——这创造了一个惊人的飞轮。如果你还没有把递归自我改进（RSI）将导致什么纳入你的预判，那可能是个错误。\"\n<br>— <a href=\"https://x.com/levie/status/2111312141609586862\">@levie</a>\n</blockquote>\n\n<p>而在安全层面，Brockman提出了一个反直觉的论断：软件成本趋近于零，恰恰意味着安全投入应该大幅超越软件本身的投入——\"网络安全的物理规律正在改变\"，他如此表述。</p>\n\n<hr>\n\n<h2>📊 幻灯片大战：Claude、Replit、ChatGPT同台竞技</h2>\n\n<p>如果说数学突破是今天的宏大叙事，那幻灯片功能则是最热闹的\"日常战场\"。Anthropic工程师 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> 率先引爆了Claude Slides的讨论：</p>\n\n<blockquote>\n\"不要低估Claude Slides。这就是我现在制作幻灯片的方式——再也不用像过去那样满网络搜'iPhone边框SVG'了。\"\n<br>— <a href=\"https://x.com/bcherny/status/2111158659971699136\">@bcherny</a>（获3025个点赞）\n</blockquote>\n\n<p>Anthropic团队的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 随即<a href=\"https://x.com/thsottiaux/status/2111249810502353152\">确认</a>，幻灯片功能已于昨日上线，目前面向Pro、Business和Enterprise用户开放。与此同时，<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 也在Replit上<a href=\"https://x.com/amasad/status/2111261373741383712\">发布了\"Frontier Slides\"</a>，并配文\"超级快 ;)\"。这场幻灯片军备竞赛，正在以有趣的速度展开。</p>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则提出了一个更具方向感的观察：</p>\n\n<blockquote>\n\"生成现在既便宜又高质量。我们现在真正需要的能力跃升，是编辑和监督。\"\n<br>— <a href=\"https://x.com/danshipper/status/2111174407637139668\">@danshipper</a>\n</blockquote>\n\n<hr>\n\n<h2>🛠️ 构建者的日常：从代码审查到企业部署</h2>\n\n<p>在工具层面，<a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> 分享了另一个获得广泛共鸣的实践——Claude Code Review已成为他团队所有PR的标配：</p>\n\n<blockquote>\n\"我无法想象没有Claude Code Review的工作状态。它运行在我所有的PR上，几乎在每个bug进入代码库之前就发现了它。这是让团队在提升质量的同时保持高速移动的秘密武器之一。\"\n<br>— <a href=\"https://x.com/bcherny/status/2111158313463525518\">@bcherny</a>（获3399个点赞）\n</blockquote>\n\n<p>在企业级方向，Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 宣布推出私有化部署方案：</p>\n\n<blockquote>\n\"您的数据属于您！我们将把Replit部署到您的云端，数据永不离开本地。专为政府、金融、医疗等高风险环境设计。\"\n<br>— <a href=\"https://x.com/amasad/status/2111267314012496121\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 则展示了AI辅助开发的另一面——用 <a href=\"https://x.com/capydotai\" data-handle=\"capydotai\">Capy</a> 配合 <a href=\"https://x.com/asideai\" data-handle=\"asideai\">Aside AI</a>，让智能体同时完成代码编写和DevOps配置，\"一气呵成\"。\n\n<p>而 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 则<a href=\"https://x.com/swyx/status/2111245359125266915\">宣布</a>了他筹备近一年的新节目正式上线，并对一段AI科普视频的叙事清晰度<a href=\"https://x.com/swyx/status/2111265627612787023\">给出了\"接近Kurzgesagt水准\"的高度评价</a>——一个值得关注的内容质量基准。</p>\n\n<hr>\n\n<h2>✨ 今日余韵</h2>\n\n<p>Anthropic研究员 <a href=\"https://x.com/AmandaAskell\" data-handle=\"AmandaAskell\">Amanda Askell</a> 以六个字为新款Roadster写下了今日最简洁的评论：\"火箭车很酷，我想要一辆。\"而 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 也<a href=\"https://x.com/sama/status/2111131677351432197\">发推</a>称赞：\"新Roadster看起来相当惊艳。\"在这个AI每天都在改写数学史的时代，人类对速度与美的渴望，依然如故。</p>"
+}
