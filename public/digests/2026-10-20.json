@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T06:41:44.391Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Why Every Traded Personal Agents for One Company Agent",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">The great agent experiment is moving from the personal to the collective — and the builders who've lived through both phases are starting to draw some sharp lessons about what actually sticks.</p>\n\n<h2>The Personal Agent Honeymoon Is Over (Sort Of)</h2>\n\n<p>OpenAI's Dots — its persistent, proactive agents — are now two weeks old, and the early verdicts are in. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> of Every, who interviewed Sam Altman at Dev Day, has been using Dots since before launch and remains a cautious believer. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">AI & I — Why Every Traded Personal Agents for One Company Agent</a>.</p>\n\n<blockquote>\"If you don't have a dot, I highly recommend you get one, especially if you're in the ChatGPT ecosystem... I would expect in a year, this is the default way that you're interacting with all your AIs.\" — Dan Shipper</blockquote>\n\n<p>The real-world use cases emerging from Every's 30-person team are illuminating: scanning school emails, catching missed Slack access requests, running video production decisions hands-free by phone. But the candid admission is just as telling.</p>\n\n<blockquote>\"The whole permission structure of Dots is, like, completely a mystery to me and is extremely annoying. So for example, I often have to give multiple approvals to my Dot to do something basic, and even when I give it approval, it says it can't do it.\" — Dan Shipper</blockquote>\n\n<p>And there's a gently devastating prediction for anyone who's gotten attached to their AI companion's name and personality:</p>\n\n<blockquote>\"My experience using Open Claw and other named agents like this is that as soon as something better comes along, you throw away the cute little character you develop. So my guess is I'll be using a persistent agent in a year, but Boo will probably be dead.\" — Dan Shipper</blockquote>\n\n<hr>\n\n<h2>From Personal Agents to Company Agents — The Next Iteration</h2>\n\n<p>Every's more interesting story isn't Dots at all — it's what happened <em>after</em> their first personal-agent phase. The team cycled through a progression of internal bots (the \"Molt Bot,\" then \"Claudius,\" then Open Claw) before concluding that a shared company agent was more durable than individual ones. They've now released that agent publicly.</p>\n\n<p>This mirrors a broader tension <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> captured in the day's most-engaged tweet:</p>\n\n<blockquote>\"I think most people multi-tasking with agents could benefit from slowing down. Most of the stuff you're doing won't really matter — what's your P0? What would it look like if you gave it your full attention?\" — <a href=\"https://x.com/trq212/status/2112219173288120531\">@trq212</a> (5,400+ likes)</blockquote>\n\n<p>The drift from \"everyone gets a personal agent\" toward coordinated, shared systems is gaining momentum elsewhere too. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> flagged that <a href=\"https://x.com/garrytan/status/2112278352514162834\">\"multiplayer agents as group chat seems quite inevitable\"</a> — and that Wabi has already built it. <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a>, an early user, gave one of the more thoughtful product breakdowns of the week:</p>\n\n<blockquote>\"Wabi has this great paradigm of orchestrator (which is the main agent) and topic-specific episodic chats that are for a single purpose. You can share these individual chats with folks... And these are generated proactively AND don't need to stay forever (which is important). For example, for my recent NY trip, it was generated based on a flight it saw, provided help where needed, and then after the trip was done, it was archived.\" — <a href=\"https://x.com/nikunj/status/2112219327881761008\">@nikunj</a></blockquote>\n\n<hr>\n\n<h2>The Infrastructure Getting Quietly Better</h2>\n\n<p>While the product debates rage, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel was heads-down on plumbing. The team open-sourced a fast HTML artifact builder — the same low-level infrastructure powering v0 — designed to survive server crashes, flaky LLMs, and function limits.</p>\n\n<blockquote>\"Building the low-level plumbing for v0 to survive server crashes, flaky LLMs, function limits was a huge pain. Now it's easy, free, and OSS.\" — <a href=\"https://x.com/rauchg/status/2112247046082363821\">@rauchg</a></blockquote>\n\n<p>The kicker: it runs at <a href=\"https://x.com/rauchg/status/2112256718281551955\">1,000 tokens per second</a>. Fast infrastructure is the unsexy prerequisite for everything else on this list to work reliably.</p>\n\n<hr>\n\n<h2>The Specialization Thesis Gets a Reframe</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box offered the sharpest strategic take of the day — a counterintuitive argument about what happens to vertical AI players as foundation models keep improving:</p>\n\n<blockquote>\"When models were quite limited in what they could do, ironically all you could be literally was a 'wrapper'... But in a world of agents using tools, tasks that run on for hours or days, workflows that kick off agents, agent swarms that need to be coordinated against a goal, data sources that are domain specific... it's very very possible that specialization of these systems goes up more.\" — <a href=\"https://x.com/levie/status/2112404676436222170\">@levie</a></blockquote>\n\n<p>The conventional worry — that better models commoditize the application layer — may have things exactly backwards. More capable models enable longer, more complex, more domain-specific workflows, which in turn reward the builders who understand a particular vertical deeply. \"We'll see this in security, life sciences, healthcare, finance, manufacturing,\" Levie argues. The wrapper era is ending; the systems era is beginning.</p>\n\n<hr>\n\n<h2>The Eternal September of AI Twitter</h2>\n\n<p>Finally, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> offered the most literary observation of the day — a Gita-inflected meditation on why the AI discourse on X perpetually resets to the same conversations, the same proclamations, the same \"I'm leaving chat\" announcements:</p>\n\n<blockquote>\"They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.\" — <a href=\"https://x.com/swyx/status/2112182228977348963\">@swyx</a></blockquote>\n\n<p>Fifty-eight likes. Painfully accurate.</p>",
+  "html_zh": "<p class=\"lead\">持久化AI代理正在从概念变为现实——这一周，从OpenAI的Dots到初创公司Wabi，\"主动型代理\"的范式之争已经悄然打响。</p>\n\n<h2>🤖 个人代理 vs. 公司代理：Every的一场内部实验</h2>\n\n<p>在本周最值得细读的内容里，<a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 主持的播客 <em>AI & I</em> 记录了 Every 团队从\"人人有个人代理\"走向\"一个公司代理\"的完整心路历程。Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Why Every Traded Personal Agents for One Company Agent</a></p>\n\n<p>Dots——OpenAI新推出的持久化代理——正是这场讨论的导火索。Dan 坦言自己对它又爱又恨：</p>\n\n<blockquote>\n\"如果你没有 Dot，我强烈建议你去试试，尤其是如果你在用 ChatGPT 生态的话。但权限结构对我来说完全是个谜，非常烦人——我常常要给它多次授权才能做一件基本的事，而且给了授权它还说做不了。\" —— Dan Shipper\n</blockquote>\n\n<p>团队成员的使用场景令人眼前一亮：有人用 Dot 扫描孩子学校发来的邮件提炼要点，有人在周末用它过滤 Slack 消息而不用亲自陷入信息洪流，还有人边跑来跑去处理发布会视频边对着手机跟 Dot 语音沟通剪辑细节。但 Every 真正的结论是：比起给每个人配一个个人代理，一个<strong>共享的公司代理</strong>更有持续价值——他们甚至把这个产品开放给了订阅者。</p>\n\n<hr>\n\n<h2>🌐 多人协作代理：Wabi 2.0 的范式赌注</h2>\n\n<p>本周 AI 社区里呼声最高的新产品，是一个叫 <strong>Wabi</strong> 的多人代理应用。<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 一句话点明了它的方向：</p>\n\n<blockquote>\n\"多人代理以群聊形式出现，这几乎是必然的趋势，而 Wabi 已经做到了。\" —— <a href=\"https://x.com/garrytan/status/2112278352514162834\">@garrytan</a>\n</blockquote>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> 给出了迄今为止最详细的用户体验报告。他解释了 Wabi 的核心设计哲学：一个\"统筹者\"主代理，加上针对单一目的的情节式子对话——用完即归档，不会永久占据你的注意力。</p>\n\n<blockquote>\n\"比如我最近去纽约出差，它根据看到的航班自动生成了行程，在需要的时候提供帮助，旅行结束后就自动归档了。报税也是同样的逻辑。我唯一的批评是它目前太主动了，需要调整节奏。\" —— <a href=\"https://x.com/nikunj/status/2112219327881761008\">@nikunj</a>\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 也对 Wabi 表达了期待，称赞其界面\"超有视觉感，迫不及待想试试\"。</p>\n\n<hr>\n\n<h2>⚡ 开源工具：Vercel 让代理基础设施变得简单</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 本周宣布 Vercel 开源了一个\"极速 HTML 构件生成器\"，专为代理场景设计，底层由 <strong>libfx</strong> 驱动，可以让代理在服务器崩溃、LLM 抖动或函数调用超限的情况下依然保持运行。</p>\n\n<blockquote>\n\"为 v0 搭建能扛住服务器崩溃、不稳定 LLM、函数调用限制的底层管道，是件极其痛苦的事。现在它变得简单了、免费了、而且开源了。顺便一提：速度是每秒 1000 个 token。\" —— <a href=\"https://x.com/rauchg/status/2112247046082363821\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>💼 企业AI的分化逻辑：专业化反而在上升？</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 这周抛出了一个反直觉的论断，值得每一个做垂直 AI 应用的创业者收藏：</p>\n\n<blockquote>\n\"讽刺的是，随着模型能力的提升，在具体领域实现差异化的空间反而在扩大，而不是缩小。当模型能力还很有限的时候，你能做的不过是'套壳'——用自定义 prompt 或简单 RAG 把 token 返回给用户。但在一个代理使用工具、任务持续数小时乃至数天、工作流需要协调代理集群的世界里，系统的专业化程度很可能反而更高。\" —— <a href=\"https://x.com/levie/status/2112404676436222170\">@levie</a>\n</blockquote>\n\n<p>他点名了安全、生命科学、医疗、金融、制造等领域，认为这些都是以前因模型能力不足而无法落地、如今却完全可行的自主系统场景。</p>\n\n<hr>\n\n<h2>🧘 慢下来：多任务代理时代的注意力陷阱</h2>\n\n<p>在所有关于代理能力的兴奋之中，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 的这条推文意外获得了超过 5400 个点赞——或许因为它说出了很多人不愿承认的事：</p>\n\n<blockquote>\n\"我觉得大多数同时跑着多个代理的人，其实应该慢下来。你在做的大多数事情其实无关紧要——你的 P0 是什么？如果你把全部注意力都放在它上面，会是什么样子？\" —— <a href=\"https://x.com/trq212/status/2112219173288120531\">@trq212</a>\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 那段借《薄伽梵歌》风格写就的<a href=\"https://x.com/swyx/status/2112182228977348963\">讽喻推文</a>遥相呼应——人们高呼\"聊天框已死\"，却在 X 上越刷越多。代理时代的悖论或许正在于此：工具越强大，我们就越需要想清楚，自己究竟想用它做什么。</p>"
+}
