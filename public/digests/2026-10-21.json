@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T06:42:56.495Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is maturing in real time — and today's feed captures that awkward, thrilling middle moment when the infrastructure is almost ready, the models are genuinely impressive, and the rough edges are still very much sharp enough to cut.</p>\n\n<h2>🔧 The Platform Plumbing Gets Serious</h2>\n\n<p>The most technically consequential news of the day comes from OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>, who dropped a pair of updates that, taken together, suggest the company is focused hard on making Codex a serious developer platform rather than a flashy demo.</p>\n\n<blockquote>\n\"You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don't have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.\" — <a href=\"https://x.com/thsottiaux/status/2112712984644784534\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>That matters enormously for cost-sensitive builders. But the more candid post was the billing correction:</p>\n\n<blockquote>\n\"There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency... We are reaching out individually to all these users and have corrected the issue.\" — <a href=\"https://x.com/thsottiaux/status/2112592264686149749\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>Forty thousand affected accounts is not a rounding error — it's a real stumble. To OpenAI's credit, the acknowledgment was fast and specific. Credits are being issued. But it illustrates how much trust infrastructure still needs to be built alongside the model infrastructure.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> at Vercel is pushing the durability layer conversation forward, announcing open-source, runtime-agnostic tooling for persistent agent workflows:</p>\n\n<blockquote>\n\"We're extending the durability infra that powers @eve and Workflows to all harnesses, like Pi and OpenCode. Local, Vercel, or DIY. Fun fact: even Claude Code and Codex can be made durable (and observable!) this way.\" — <a href=\"https://x.com/rauchg/status/2112658577110520122\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>🧱 The Agentic Stack: Theory Meets Practice</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered one of the more lucid syntheses of where enterprise AI actually stands right now — worth reading in full for anyone building in this space:</p>\n\n<blockquote>\n\"This is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated work to the agent to tackle for you... where there isn't existing software, the agent just builds it itself. This is a huge unlock.\" — <a href=\"https://x.com/levie/status/2112769686798832013\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>His three-part framework — better tool/computer use, improving vertical domain capability, and maturing harness infrastructure — is a useful mental model. The honest qualifier embedded in it: \"in many of these spaces the models still have worse intuition than people, but that will only get better.\"</p>\n\n<p>On the ground, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> is already running multi-agent workflows in production and sharing what actually works:</p>\n\n<blockquote>\n\"I found that the workflow of prompting Astra to run codex cli in worktrees works FAR better than relying on subagents. A second agent oversaw the work to keep Astra on track. Kinda like /goal, but instead of the same agent reviewing a text file, a second agent that challenges.\" — <a href=\"https://x.com/steipete/status/2112605703219347503\" data-handle=\"steipete\">@steipete</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> put a nice historical frame around the whole moment:</p>\n\n<blockquote>\n\"The parallels between Inference time scaling → Subagents → Agent Swarms looks an awful lot like CPU Threads → Multi-core CPUs → Multi-Node Distributed Systems. History rhymes well.\" — <a href=\"https://x.com/adityaag/status/2112579526379401408\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<hr>\n\n<h2>😤 Content Filters and the Builder's Frustration</h2>\n\n<p>If the infrastructure narrative is optimistic, the developer experience narrative has a more irritated edge today. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>, building an AI media organization on top of these APIs, ran into Claude Opus's content moderation walls:</p>\n\n<blockquote>\n\"Opus is great for writing... when you don't happen to have any random no-no words in your prompt. jfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path.\" — <a href=\"https://x.com/swyx/status/2112772374823407870\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>It's a pointed complaint — and a recurring one from developers building content-adjacent products. The mismatch between what safety filters are optimized for (consumer harm prevention) and what professional builders need (predictable, tunable behavior) is a genuine product gap that none of the major labs have fully solved.</p>\n\n<hr>\n\n<h2>🚀 Google Doubles Down, OpenAI Shifts Safety Leadership</h2>\n\n<p><a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> at Google is recruiting hard off the back of Sundar Pichai's public commitment:</p>\n\n<blockquote>\n\"We are so committed to being at the frontier. It's in our DNA. We won't do it any other way.\" — Sundar Pichai, <a href=\"https://x.com/joshwoodward/status/2112679011839344651\" data-handle=\"joshwoodward\">via @joshwoodward</a>\n</blockquote>\n\n<p>The Gemini Trusted Tester community crossed a notable milestone yesterday — Woodward didn't name the number, but \"lots of people want to try early stuff on Web, Android, and iOS\" signals meaningful consumer momentum as Google pushes to close the gap with OpenAI on the product layer.</p>\n\n<p>On the OpenAI side, <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> announced a significant safety leadership hire, with Aleksander Mądry joining to lead safety and security efforts:</p>\n\n<blockquote>\n\"I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.\" — <a href=\"https://x.com/sama/status/2112652656602923366\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>The word \"superintelligence\" in a hiring announcement is no longer rhetorical flourish at OpenAI — it reads as an operational description of what the safety team is being asked to prepare for.</p>\n\n<hr>\n\n<h2>💰 Funding & Ecosystem Moves</h2>\n\n<p><a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> at FirstMark had what he called a \"fun day\" for his portfolio — a Series B at <a href=\"https://x.com/daytonaio\" data-handle=\"daytonaio\">Daytona</a>, a Series A at <a href=\"https://x.com/BabaHQ\" data-handle=\"babahq\">Baba</a>, and a significant open-source launch from <a href=\"https://x.com/GradiumAI\" data-handle=\"gradiumai\">Gradium AI</a>:</p>\n\n<blockquote>\n\"Big news in <em>open source</em> voice AI: a suite of tiny text-to-speech, on-device SOTA models 🔥🔥🔥\" — <a href=\"https://x.com/mattturck/status/2112623582098428015\" data-handle=\"mattturck\">@mattturck</a>\n</blockquote>\n\n<p>On-device, open-source, SOTA voice models deserve more attention than they typically get in a news cycle dominated by frontier lab announcements. The edge inference story is quietly becoming a serious competitive front.</p>\n\n<p>And <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> closed with a note that felt less like a product announcement and more like a personal conviction:</p>\n\n<blockquote>\n\"AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery. If you so desire, you'll reach the maximum of your capability and intelligence. The ultimate education. For free.\" — <a href=\"https://x.com/rauchg/status/2112638107749355867\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>Bold, perhaps utopian — but increasingly the kind of claim that feels less like hype and more like a roadmap someone is actually building toward.</p>",
+  "html_zh": "<p class=\"lead\">当AI系统的能力边界不断拓展，基础设施的可靠性与开放性正在成为新的战场——今天，从OpenAI的计费风波到Google的生态扩张，行业在兴奋与摩擦之间寻找平衡。</p>\n\n<h2>🔧 基础设施的可靠性危机：OpenAI Codex的成长阵痛</h2>\n\n<p>过去几天，OpenAI的Codex产品经历了一场不小的风波。大量用户反映使用量消耗速度远超预期，官方随后承认了问题所在。</p>\n\n<blockquote>\n\"我们发现约有40,000个账户存在使用限制不一致的情况——实际扣除的用量与用户所选套餐不符。我们正在逐一联系受影响用户，并已纠正该问题。如果您受到影响，我们将向您的账户补充积分。对此我们深感抱歉。\"<br>— <a href=\"https://x.com/thsottiaux/status/2112592264686149749\" data-handle=\"thsottiaux\">@thsottiaux</a>（OpenAI）\n</blockquote>\n\n<p>作为补救措施，OpenAI同步改进了缓存机制：</p>\n\n<blockquote>\n\"API端现可缓存12小时；对于已登录的Codex和Work用户，缓存将永久保留。回到旧对话或几小时后继续都不会有任何惩罚，并保证命中缓存。\"<br>— <a href=\"https://x.com/thsottiaux/status/2112712984644784534\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>但对于重度用户而言，摩擦远不止于此。<a href=\"https://x.com/swyx/status/2112772374823407870\" data-handle=\"swyx\">@swyx</a> 直言不讳地表达了他的沮丧——Claude Opus因提示词中出现某些\"敏感词\"而拒绝工作：</p>\n\n<blockquote>\n\"Opus写作很棒……前提是你的提示里没有任何随机的禁忌词。老天，给我一个能上生产的版本吧，不是什么供奉的神明。我没法用这玩意儿在关键路径上搭建一个AI媒体机构。\"<br>— <a href=\"https://x.com/swyx/status/2112772374823407870\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>这些来自一线开发者的抱怨，折射出当前AI产品在可靠性与内容安全之间仍存在的深层矛盾。</p>\n\n<hr>\n\n<h2>🌐 开放基础设施：Vercel的持久性野心</h2>\n\n<p>当OpenAI还在修补漏洞时，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 带领Vercel向更宏大的方向迈进。他们正在将驱动内部产品的\"持久性基础设施\"对外开放，覆盖Claude Code、Codex等第三方AI代理工具：</p>\n\n<blockquote>\n\"就像我们对 @aisdk 所做的那样，我们正在为驾驭持久性带来一个真正开源、运行时无关的解决方案……有趣的是：即使是Claude Code和Codex也可以通过这种方式实现持久化（并具备可观测性）。当然也有代价：它们目前并非为嵌入式设计，这使得它们效率较低、可移植性较差。\"<br>— <a href=\"https://x.com/rauchg/status/2112658577110520122\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>Rauch还留下了一段颇具诗意的愿景宣言：</p>\n\n<blockquote>\n\"AI将能够精确计算出你理解和不理解的差距，帮助你逐步学习任何知识、解开任何谜团。如果你愿意，你将触达自己能力与智识的上限。终极教育。免费。\"<br>— <a href=\"https://x.com/rauchg/status/2112638107749355867\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>🤖 智能体时代的范式跃迁</h2>\n\n<p>今天最值得细读的一段思考，来自Box创始人 <a href=\"https://x.com/levie/status/2112769686798832013\" data-handle=\"levie\">Aaron Levie</a>。他系统梳理了为何当下的AI智能体已经远不是\"LLM套壳\"的时代：</p>\n\n<blockquote>\n\"工具与计算机使用能力的提升意味着你可以为智能体提供对外部数据系统和软件更为精细的访问权限——智能体开始像真人一样执行工作流。在没有现成软件的地方，它就自己构建。这是一个巨大的解锁。\"<br>— <a href=\"https://x.com/levie/status/2112769686798832013\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/adityaag/status/2112579526379401408\" data-handle=\"adityaag\">@adityaag</a> 用一个更具历史感的类比点破了智能体扩展的本质：</p>\n\n<blockquote>\n\"推理时扩展 → 子智能体 → 智能体集群，看起来和 CPU线程 → 多核CPU → 多节点分布式系统 极为相似。历史总在押韵。\"<br>— <a href=\"https://x.com/adityaag/status/2112579526379401408\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p>在实践层面，<a href=\"https://x.com/steipete/status/2112605703219347503\" data-handle=\"steipete\">@steipete</a> 分享了他的多智能体协作经验——用一个智能体规划、一个编码、再加一个\"挑战者\"智能体进行监督，效果远超依赖子智能体的单一方式。</p>\n\n<hr>\n\n<h2>🚀 Google的攻势：Gemini生态提速</h2>\n\n<p>在OpenAI处理风波之际，Google正在大步向前。<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a>（Google Labs VP）宣布Gemini App的\"可信测试者\"社区已突破重要里程碑，并发出公开招募信号：</p>\n\n<blockquote>\n\"大量用户希望提前体验Web、Android和iOS上的新功能！如果你之前已注册，你已完全加入。想要报名的话……\"<br>— <a href=\"https://x.com/joshwoodward/status/2112676777290248675\" data-handle=\"joshwoodward\">@joshwoodward</a>，<a href=\"https://t.co/HF3sXiqKUU\">点击报名</a>\n</blockquote>\n\n<p>与此同时，Sundar Pichai的表态也在社交媒体上广泛传播：</p>\n\n<blockquote>\n\"我们对处于前沿有着坚定的承诺。这在我们的DNA里。我们不会用任何其他方式去做。\"<br>— Sundar Pichai，转引自 <a href=\"https://x.com/joshwoodward/status/2112679011839344651\" data-handle=\"joshwoodward\">@joshwoodward</a>\n</blockquote>\n\n<p>此外，OpenAI的安全布局也迎来新动向——<a href=\"https://x.com/sama/status/2112652656602923366\" data-handle=\"sama\">Sam Altman</a> 宣布 Aleksander Mądry 已加入，专注应对超级智能时代的安全挑战：\"他拥有一套出色的技能来应对这些问题。\"</p>\n\n<hr>\n\n<h2>💡 编辑后记：可靠性是新的护城河</h2>\n\n<p>今天的信息流里，最耐人寻味的主题是<strong>可靠性</strong>。无论是OpenAI向40,000用户道歉并修复缓存，还是Vercel将持久性基础设施开源，抑或是开发者们探索更稳健的多智能体工作流——这一切都在说明：在AI能力已被证明的今天，谁能让开发者<em>放心地把它放在关键路径上</em>，谁才能真正赢得未来。@swyx 那句\"给我prod，不是god\"，或许是今天最精炼的行业注脚。</p>"
+}
