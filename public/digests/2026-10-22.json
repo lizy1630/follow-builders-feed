@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T06:42:53.340Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https://t.co/KCuEajezlL \nYouTube: https://t.co/8xzbGWtf6w",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: How a Frontier Team Can Help Your Company Keep Up With AI",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Two stories dominated AI builder feeds today: Anthropic's quiet launch of its most ambitious personal agent yet, and a PHP vulnerability discovered by AI that sent the infrastructure world scrambling. The age of AI-powered offense and defense has arrived simultaneously.</p>\n\n<h2>Claude Gets a Sidekick — And It's More Than a Chatbot</h2>\n\n<p>Anthropic launched <strong>Claude Duet</strong> today, an always-on personal agent that lives in its own dedicated app — separate from Claude — and is designed to proactively handle work before you ask. It's available via waitlist on Pro and Max plans in the US.</p>\n\n<blockquote>\n\"We heard your feedback that you want Claude to proactively take more off your plate! Claude Duet is a large step in this direction — it'll notice work that needs to be done, and then do it before you ask.\" — <a href=\"https://x.com/_catwu/status/2112988751576330487\" data-handle=\"_catwu\">@_catwu</a>\n</blockquote>\n\n<p>The design choices are deliberate: channels for specific life and work areas, a persistent todo list, document editing, and memory carried over from your existing Claude account. Anthropic is leaning on Claude Opus 5.5 under the hood to give Duet genuine judgment about what requires your attention and what doesn't.</p>\n\n<blockquote>\n\"We designed Claude Duet around Claude Opus 5.5, which gives it the judgment to decide what needs you, what can wait, and when to check with you first.\" — <a href=\"https://x.com/claudeai/status/2112984666437546104\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>On pricing, <a href=\"https://x.com/thsottiaux/status/2113029854417600834\" data-handle=\"thsottiaux\">@thsottiaux</a> confirmed it's <a href=\"https://x.com/thsottiaux/status/2113029854417600834\">\"fully included in the Pro plan, doesn't draw on your weekly usage\"</a> — a meaningful detail that signals Anthropic is prioritizing adoption over monetization in the early innings. The \"Dot, Dotter, Dottest\" <a href=\"https://x.com/thsottiaux/status/2113029655095836957\">quip</a> from the same account (nearly 4,000 likes) suggests Duet is being positioned in the market against a very specific competitor.</p>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> of Every, who had two weeks of early access, gave arguably the most nuanced take:</p>\n\n<blockquote>\n\"I've gone from mostly using ChatGPT to roughly 50/50 between ChatGPT and Claude — the most time I've spent with Anthropic in close to a year... It's not a chief of staff yet. It can see the Claude sessions on my computers but can't direct them. Its email drafts are worse than Dot's, and voice is transcription only — you can't have a spoken conversation with it. My verdict: the vibes are good, and I'm opening Duet every day.\" — <a href=\"https://x.com/danshipper/status/2112997559463506059\">@danshipper</a>\n</blockquote>\n\n<p>Anthropic was also careful to lead with safety framing: <a href=\"https://x.com/claudeai/status/2112984667758510197\">\"It never directly sees your passwords, a new classifier guards against sharing sensitive information, and the important decisions stay with you.\"</a> For an always-on agent with access to your life, that framing matters.</p>\n\n<hr>\n\n<h2>AI Found the Vulnerability. AI Will Fix It. AI Will Exploit It.</h2>\n\n<p>The other story rattling through feeds today: a significant PHP remote code execution vulnerability, discovered — remarkably — by an AI model.</p>\n\n<blockquote>\n\"That PHP vulnerability that's gonna cause havoc this week was found with… GPT‑5.6 Sol.\" — <a href=\"https://x.com/steipete/status/2112913060709228764\" data-handle=\"steipete\">@steipete</a>\n</blockquote>\n\n<p>The tweet landed nearly 11,000 likes and 574 retweets — a signal of just how wide the blast radius of this story felt across the developer community. <a href=\"https://x.com/adityaag/status/2112977865432240524\" data-handle=\"adityaag\">@adityaag</a>'s response was surgical: <a href=\"https://x.com/adityaag/status/2112977865432240524\">\"Fucking PHP. It's always fucking PHP.\"</a></p>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel moved fast, rolling out firewall-level mitigations before the official patch even dropped:</p>\n\n<blockquote>\n\"Vercel has proactively rolled out Firewall-level mitigations for today's Node.js RCE vulnerability, in advance of the official patch release. All traffic for all deployments is automatically protected.\" — <a href=\"https://x.com/rauchg/status/2113050053724221732\">@rauchg</a>\n</blockquote>\n\n<p>He added a broader note of encouragement — and warning — from the industry's behind-the-scenes coordination: <a href=\"https://x.com/rauchg/status/2112989629536440400\">\"It was inspiring to watch the behind-the-scenes of the industry coming together, weeks in advance, to protect the world's infrastructure... Assume more vulnerabilities are on the way. Flex the patch → redeploy muscle.\"</a></p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> zoomed out to the structural implication with characteristic sweep:</p>\n\n<blockquote>\n\"We now have a tireless workforce that can hunt down, discover, patch, or attack any system and software ever created... We're entering a new cyber regime, and we'll probably use 100X more tokens on this loop than we're imagining right now, because we can scan every log, look at every line of code, look through traffic, and process data at a scale that wasn't comprehensible before.\" — <a href=\"https://x.com/levie/status/2112964214818283917\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>Building for the AI Era: Frontier Teams and \"Prompt → Corporation\"</h2>\n\n<p>How do you actually run a company when the models keep changing? <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> and the Every team have an answer, explored in depth on their podcast today. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">How a Frontier Team Can Help Your Company Keep Up With AI — AI & I by Every</a></p>\n\n<p>The core idea: appoint a dedicated \"frontier team\" so the rest of the company doesn't have to choose between getting work done and keeping up with AI. The podcast surfaces a useful personnel taxonomy: <em>pirates</em> (fast, messy, experimental) and <em>architects</em> (who turn the mess into something maintainable). Both are necessary.</p>\n\n<blockquote>\n\"The frontier team was an attempt to say, okay, what if we take all the people who love all the new stuff and we just unleash them to run experiments? At the low end, the experiments are just really good content. At the high end, they get pushed up from the frontier into the products that we build — without the rest of the company feeling like they always had to be paying attention to every single model that drops.\" — Dan Shipper, AI & I podcast\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit made a pithier case for what's now possible: <a href=\"https://x.com/amasad/status/2112975002027147545\">\"prompt → corporation.\"</a> The democratization of building — not just using — AI tools was echoed by <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a>, who watched his son spend 20 hours building Star Wars games after watching the film for 3: <a href=\"https://x.com/adityaag/status/2112923959176106056\">\"maybe everyone will now get to experience that [joy of programming]?\"</a></p>\n\n<hr>\n\n<h2>Capital Keeps Flowing</h2>\n\n<p>On the funding front, <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> of FirstMark Capital called it \"a fun week\" — and earned it. Portfolio company <a href=\"https://x.com/gopigment\">Pigment</a> closed a $250M Series E, and <a href=\"https://x.com/WeAreLegora\">Legora</a> announced a $550M Series E in the same breath. The deals underscore a continued investor appetite for AI-native enterprise software, particularly in financial planning and legal tech. <a href=\"https://x.com/mattturck/status/2113026098669777365\">Two $500M+ rounds in one week</a> from a single fund's portfolio is not nothing.</p>\n\n<p>Elsewhere, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> flagged that <strong>DeepSeek v4.1 Flash</strong> is now included in Vercel's Token Pass — describing it as <a href=\"https://x.com/rauchg/status/2113010010766913815\">\"a phenomenal model to run subagents that execute plans conceived by larger and more expensive models.\"</a> The framing is telling: cheap, fast models as execution layers orchestrated by expensive reasoners is quickly becoming the default architecture for serious agentic applications.</p>",
+  "html_zh": "<p class=\"lead\">今天的科技圈有两条主线同时上演：Anthropic 推出了迄今最具野心的个人 AI 助理产品，而一个由 AI 发现的 PHP 漏洞则让整个互联网基础设施陷入紧张——两件事共同勾勒出一个 AI 既是建设者、也是威胁者的新时代。</p>\n\n<h2>🤖 Claude Duet 登场：AI 助理进入\"主动出击\"时代</h2>\n\n<p>Anthropic 本周最重磅的动作，不是新模型，而是一款全新的独立应用——<strong>Claude Duet</strong>。它不等你开口，而是主动发现需要做的事，并替你去做。这是 AI 助理从\"响应式工具\"向\"主动伙伴\"演进的一个关键节点。</p>\n\n<blockquote>\n\"我们听到了大家的反馈——你们希望 Claude 能主动承担更多工作！Claude Duet 正是朝这个方向迈出的重要一步：它会注意到哪些事情需要处理，然后在你开口之前就去做。\"\n— <a href=\"https://x.com/_catwu/status/2112988751576330487\" data-handle=\"_catwu\">@_catwu</a>，Anthropic 产品负责人\n</blockquote>\n\n<p>官方账号 <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 进一步披露了产品细节：Duet 基于 Claude Opus 5.5 构建，能够判断\"哪些事需要你介入、哪些可以等、哪些要先征得你同意\"。它继承了你 Claude 账户中的记忆、技能与已连接应用，几乎无需额外配置。目前以早期预览形式向美国 Pro 和 Max 用户开放候补名单。</p>\n\n<p>在安全设计上，Anthropic 特别强调：</p>\n\n<blockquote>\n\"Duet 永远不会直接接触你的密码，新的分类器防止敏感信息外泄，重要决策始终由你来做。\"\n— <a href=\"https://x.com/claudeai/status/2112984667758510197\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>早期测试者 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>（Every 创始人）给出了务实的第一手评价：</p>\n\n<blockquote>\n\"它有自己的独立应用，有针对不同工作和生活场景的专属频道，有待办列表，还支持文档和幻灯片编辑。我已经从主要用 ChatGPT 变成了 ChatGPT 和 Claude 各占一半——这是我近一年来在 Anthropic 产品上花时间最多的阶段。<br><br>但它还不是真正的'首席助理'。它能看到我电脑上的 Claude 会话，但还不能主动指挥它们。邮件草稿比 Dot 差，语音也只是转录，不能对话。<br><br>我的结论：氛围不错，我每天都会打开 Duet，值得一试。\"\n— <a href=\"https://x.com/danshipper/status/2112997559463506059\" data-handle=\"danshipper\">Dan Shipper</a>\n</blockquote>\n\n<p>一个有趣的产品细节来自 <a href=\"https://x.com/thsottiaux/status/2113029854417600834\" data-handle=\"thsottiaux\">@thsottiaux</a>：Duet 完全包含在 Pro 计划中，<strong>不消耗每周使用额度</strong>——这对重度用户来说是个不小的惊喜。</p>\n\n<hr>\n\n<h2>🔐 AI 发现漏洞、AI 修补漏洞：网络安全进入新纪元</h2>\n\n<p>就在 Anthropic 发布新产品的同一天，一个由 AI 发现的安全漏洞让互联网陷入紧张。</p>\n\n<blockquote>\n\"那个本周将引发大混乱的 PHP 漏洞，是用 GPT‑5.6 Sol 发现的。\"\n— <a href=\"https://x.com/steipete/status/2112913060709228764\" data-handle=\"steipete\">@steipete</a>（此推文获得超过 11,000 点赞）\n</blockquote>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 迅速响应，宣布 Vercel 已在官方补丁发布之前，主动在防火墙层面部署了针对此 Node.js RCE 漏洞的缓解措施，所有部署均自动受到保护。他还分享了一个细节：</p>\n\n<blockquote>\n\"看到整个行业提前数周在幕后协作，保护世界基础设施、缓解 php2shell 威胁，令人振奋。我们部署的 Vercel WAF 缓解措施已成功拦截了针对 PHP 源的攻击尝试。请随时做好'打补丁→重新部署'的准备。\"\n— <a href=\"https://x.com/rauchg/status/2112989629536440400\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 则从更宏观的视角做出了判断：网络安全将是 AI 时代最重要的企业投资领域之一，而且这个战场是双向的——</p>\n\n<blockquote>\n\"我们现在拥有了一支永不疲倦的力量，可以追踪、发现、修补或攻击有史以来创建的任何系统和软件。攻击者会用 AI 加速发现环境漏洞，我们同样会用 AI 防御攻击……我们将在这个循环上消耗的 token 数量，可能是我们现在想象的 100 倍。\"\n— <a href=\"https://x.com/levie/status/2112964214818283917\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>🏴‍☠️ \"前沿团队\"：每家公司都需要的新型组织单元</h2>\n\n<p>如何在\"紧跟 AI 前沿\"与\"踏实做产品\"之间找到平衡？Every 的 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 在最新一期播客中分享了他们的答案：建立一支专职的\"前沿团队\"。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">How a Frontier Team Can Help Your Company Keep Up With AI — AI & I by Every</a></p>\n\n<blockquote>\n\"公司里每个人都面临同一个两难：我是去完成手头的工作，还是花时间跟上 AI、搞清楚这些新工具和新工作流对我意味着什么？这太难了。每家公司现在都在为此挣扎。\"\n— Dan Shipper\n</blockquote>\n\n<p>他们的解法是\"关注点分离\"：让热爱探索新事物的人组成前沿团队，专门跑实验、写评测、建个人基准——其余人专注执行，等前沿团队筛选出真正有用的东西再推进来。</p>\n\n<p>前沿团队需要两种人格的组合：</p>\n\n<blockquote>\n\"<strong>海盗</strong>是那种只想狂奔、可以有点乱、但几天内就能试遍一百种方法的人。<strong>架构师</strong>则善于把一团乱麻压缩成可以实际运转、可以维护的系统——而不只是一个一次性的'氛围编码'项目。\"\n— Dan Shipper，Every 播客\n</blockquote>\n\n<p>团队的\"评测负责人\" Mike Taylor 还分享了一个令人印象深刻的案例：他让 Claude Opus 回溯所有 Slack 消息和会议记录，自动剪辑出一段产品解说视频——\"完整地剪好了，还带引用来源。\"</p>\n\n<hr>\n\n<h2>💰 资本与创意的双重涌动</h2>\n\n<p>融资消息方面，投资人 <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 宣布了本周的双喜临门：财务规划平台 <a href=\"https://x.com/gopigment\" data-handle=\"gopigment\">Pigment</a> 完成 2.5 亿美元 E 轮融资，医疗 AI 公司 <a href=\"https://x.com/WeAreLegora\" data-handle=\"wearelegora\">Legora</a> 完成 5.5 亿美元 E 轮融资。Turck 特别提到，AI 时代正在推动企业从静态财务规划转向持续动态规划。</p>\n\n<p>创意工具方面，<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 展示了用单条提示词将照片转化为 3D 弹出卡片的效果（<a href=\"https://x.com/zarazhangrui/status/2113055591954526444\">查看效果</a>），获得近 300 点赞。Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 则分享了\"一句提示词生成一家公司\"的演示，简洁得令人印象深刻。</p>\n\n<p>最后，一个温暖的观察来自 <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a>，他描述了儿子看完《星球大战》后花了 20 小时用 AI 做游戏、却只玩了一会儿的故事：</p>\n\n<blockquote>\n\"也许每个人现在都能体验到编程的那种乐趣了。\"\n— <a href=\"https://x.com/adityaag/status/2112923959176106056\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p>这或许是今天所有消息里，最让人感到希望的一句话。</p>"
+}
