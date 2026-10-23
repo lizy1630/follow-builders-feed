@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T06:42:39.698Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    }
+  },
+  "html_en": "<p class=\"lead\">A big day for Anthropic, a provocative new AI lab betting against LLMs entirely, and a cybersecurity reckoning that has the industry calling for a fundamental reset — today's digest finds the industry simultaneously shipping faster than ever and confronting the fragile foundations underneath.</p>\n\n<h2>🚀 Anthropic Ships Hard: Auto Mode, Google Cloud, and the Agentic Pivot</h2>\n\n<p>Anthropic had a quietly massive shipping day. The biggest news for everyday users: Claude is moving toward autonomous by default. Starting next week, sessions on Pro, Max, and Team plans will run in <strong>auto mode</strong>, where an automated check blocks risky actions rather than asking users to approve each step.</p>\n\n<blockquote><a href=\"https://x.com/claudeai/status/2113360845409583307\" data-handle=\"claudeai\">@claudeai</a>: \"Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actions. Switch back to manual anytime.\"</blockquote>\n\n<p>Alongside that, Claude Models on Google Cloud went generally available — full Claude Platform features with Google Cloud IAM credentials and billing. And the Skills API, originally an internal Claude Code experiment, has been donated to the <a href=\"https://x.com/bcherny/status/2113333859907747871\">Agentic AI Foundation</a> alongside MCP, signaling Anthropic's intent to build open standards around agentic infrastructure rather than lock it up.</p>\n\n<p><a href=\"https://x.com/swyx/status/2113283272130412684\" data-handle=\"swyx\">@swyx</a> offered a vivid endorsement of Opus 5.5's work estimation capabilities:</p>\n\n<blockquote>\"Opus 5.5 is the best work estimator model I've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to take 2-3 working days (what a human would do) when for you, an enthusiastic, indefatigable, and embarrassingly parallelizable AGI, can get it done in 2-3 hours.\"</blockquote>\n\n<p><a href=\"https://x.com/alexalbert__/status/2113386454907007444\" data-handle=\"alexalbert__\">Alex Albert</a> at Anthropic is thinking bigger still — speculating that products like a hypothetical \"Claude Duet\" could matter more for small businesses than Square or Google Maps ever did, and <a href=\"https://x.com/alexalbert__/status/2113386456098197941\">asking founders</a> to share how they're already using Claude to run their operations.</p>\n\n<hr>\n\n<h2>🧠 The Lab Betting Against LLMs: Ineffable Intelligence</h2>\n\n<p>The most intellectually interesting content today comes from the <em>Training Data</em> podcast, which finally landed an episode with <strong>David Silver</strong> — the DeepMind legend behind AlphaGo — and co-founder Lasse Espeholt of their new lab, <strong>Ineffable Intelligence</strong>. Silver's thesis is a direct challenge to the entire current AI paradigm.</p>\n\n<blockquote>\"The world already has tens of thousands, if not hundreds of thousands, of really talented researchers all pursuing exactly the same approach, really just doubling down on LLMs with pre-training, post-training, coding... Am I going to be the 100,001st person pursuing that approach? Is that the most effective use of my time?\" — David Silver</blockquote>\n\n<p>Ineffable's bet is that superintelligence won't emerge from human data at all — but from systems that learn purely from experience, discovering knowledge through reinforcement learning rather than imitating what humans have written. Silver's conviction hasn't wavered since his 2009 PhD:</p>\n\n<blockquote>\"Everything we learned, we discovered it for ourselves. And that's an incredible thing that no one has cracked yet in AI. To me, that is the essence of what it will take to get to superintelligence — a system that can just keep learning and discovering knowledge forever.\"</blockquote>\n\n<p>The name is deliberate: knowledge so profound it may transcend human language — and, Silver admits with a grin, an approach that \"can't possibly F up.\" Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">David Silver and Lasse Espeholt of Ineffable Intelligence — Training Data</a></p>\n\n<hr>\n\n<h2>🔐 The Security Reckoning: Static Credentials Must Die</h2>\n\n<p>A thread of security anxiety runs through today's feed that deserves its own section. <a href=\"https://x.com/rauchg/status/2113462657059639505\" data-handle=\"rauchg\">Guillermo Rauch</a> put the week's breaches into stark relief:</p>\n\n<blockquote>\"Your aunt's password: 'P4ssword!' (on a Post-it note in the kitchen). The stewards and guardians of the internet's encryption's password: '4'. Yes, just 4. This key could be used to target and decrypt ~everything, and we're still cleaning up residual risk.\"</blockquote>\n\n<p>His prescription: kill static credentials entirely, the same way the industry once rallied to put a TLS green lock on every website. <a href=\"https://x.com/rauchg/status/2113399539227136084\">\"Let's do it for OIDC.\"</a> <a href=\"https://x.com/levie/status/2113499900399034689\" data-handle=\"levie\">Box CEO Aaron Levie</a> framed the stakes in agentic terms:</p>\n\n<blockquote>\"Any form of security through obscurity is fully over. This barely worked as a method with humans, but just simply is over in a world of autonomous systems that will look through every crevice and try every permutation of attack possible.\"</blockquote>\n\n<p>Levie notes that agents will help on the defensive side — but warns that the sheer scope of legacy infrastructure modernization needed means AI diffusion timelines \"will take longer than some realize.\" Meanwhile, <a href=\"https://x.com/amasad/status/2113474587166171560\" data-handle=\"amasad\">Amjad Masad of Replit</a> shared <a href=\"https://t.co/O59IDBHRll\">how they're protecting apps</a> in light of recent vulnerabilities.</p>\n\n<hr>\n\n<h2>📡 Signals: Robotics, Open Models, and the VC Squeeze</h2>\n\n<p><strong>Robotics is having its \"prompting moment.\"</strong> <a href=\"https://x.com/adityaag/status/2113385971844518124\" data-handle=\"adityaag\">Aditya AG</a> flagged a sharp observation from Physical Intelligence co-founder Sergey Levine: robotics is going through the same shift LLMs did — from fine-tuning, to prompting, to simply telling the model what you want. π0.7 now learns new skills from plain-language coaching. Watch: <a href=\"https://t.co/r7mFzXspBC\">Full conversation with Sergey Levine at SPC</a>.</p>\n\n<p><strong>Mistral is back with a monster.</strong> <a href=\"https://x.com/mattturck/status/2113311361639829673\" data-handle=\"mattturck\">Matt Turck</a> published a deep conversation with Mistral's research head Pierre Stock on \"Le Chonk\" — trained on 3,800 GPUs in Mistral's own datacenters, borrowing lessons from DeepSeek, with 10-trillion-parameter models on the horizon. Watch/Listen: <a href=\"https://t.co/Y0k9AbX7Xs\">Mistral is SO Back — Training Data</a></p>\n\n<p><strong>The seed-to-Series-A squeeze is brutal.</strong> Investor <a href=\"https://x.com/nikunj/status/2113405034826477910\" data-handle=\"nikunj\">Nikunj</a> is tracking a grim pattern — nearly 10% of seed companies he meets get acquired within months, before they can scale. His forthcoming essay frames it cleanly: <em>\"Never been easier to dream, never been harder to scale.\"</em></p>\n\n<p><strong>Healthcare's fax machine problem.</strong> In a quieter but resonant note, <a href=\"https://x.com/petergyang/status/2113420357726257335\" data-handle=\"petergyang\">Peter Yang</a>, supporting his mother's cancer treatment, offered the most grounding observation of the day: \"I read about all this great tech and breakthroughs on here meanwhile we are still faxing documents and physically delivering imaging in CD ROMs.\" The gap between what's possible and what's deployed has never felt wider.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI行业呈现出一幅令人目眩的全景图：从超级智能的哲学追问，到静悄悄改变开发者日常的产品发布，再到贯穿一切的安全焦虑——这个行业正在同时以多个速度奔跑。</p>\n\n<h2>🧠 不走寻常路：Ineffable Intelligence 与\"经验学习\"的豪赌</h2>\n\n<p>当整个AI行业都在疯狂堆叠预训练和后训练时，AlphaGo之父 <a href=\"https://x.com/search?q=David%20Silver\" data-handle=\"davidsilver\">David Silver</a> 选择了一条几乎无人问津的路。在 <a href=\"https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8\">Training Data 播客</a>中，他解释了为何离开DeepMind创立 Ineffable Intelligence：</p>\n\n<blockquote>\n\"世界上已经有成千上万、甚至数十万优秀研究者在追求同一条路——预训练、后训练、代码、LLM……我难道要成为第100001个走这条路的人吗？我意识到还有另一盏路灯，现在没有人在它下面找东西，如果我把精力放在那里，对整个领域产生巨大影响的可能性要大得多。\"\n</blockquote>\n\n<p>他所说的\"那盏路灯\"，是纯粹的强化学习与经验驱动的自主发现——完全绕开人类语言数据。Silver对超级智能的定义颇具诗意：</p>\n\n<blockquote>\n\"人类从一团灰色的脑浆开始，从什么都不知道，最终发现了人类今天所知道的一切——语言、技术、科学、数学。我们自己发现了这一切。这是一件了不起的事，在AI领域还没有人破解。对我来说，这就是通往超级智能所需要的本质：一个能够永远不断学习和发现知识的系统。\"\n</blockquote>\n\n<p>顺带一提，公司名字\"Ineffable\"（难以言说）还有个隐藏含义，Silver笑着透露：\"这个方法绝对不可能搞砸（can't possibly F up），所以它是ineffable（谐音梗：ineffable/infallible）。\"</p>\n\n<hr>\n\n<h2>🚀 Claude 平台：悄然进入\"自动驾驶\"时代</h2>\n\n<p>Anthropic今天的产品动作密集而意味深长。最引人注目的是 <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 宣布，下周起 Claude 的 Pro、Max 和 Team 用户将默认进入\"自动模式\"：</p>\n\n<blockquote>\n\"自动检查将拦截高风险操作，而不是让你逐步批准每一个步骤。随时可以切换回手动模式。\"\n</blockquote>\n\n<p>这是一个不小的信号——AI助手正式从\"等待指令\"转向\"主动执行\"。与此同时，Claude 登陆 Google Cloud 并正式 GA，提供完整的 IAM 凭证和账单整合。</p>\n\n<p><a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 则宣布，起源于 Claude Code 的 <strong>Agent Skills</strong> 已捐赠给 <a href=\"https://x.com/AgenticAIFdn\" data-handle=\"agenticaifdn\">Agentic AI Foundation</a>，与 MCP 并列——这是将核心基础设施\"公地化\"的又一步棋。</p>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 对 Opus 5.5 的工作量估算能力大加赞赏：</p>\n\n<blockquote>\n\"这是我用过的最好的工作估算模型。不要告诉我需要2-3个工作日（人类会这么说），对你这个热情、不知疲倦、可以大规模并行的AGI来说，2-3小时就能搞定。\"\n</blockquote>\n\n<hr>\n\n<h2>🔐 静态密码已死：安全危机催生行业共识</h2>\n\n<p>本周的安全事件让整个科技界都在反思。Vercel 创始人 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 用一句话点出了荒诞之处：</p>\n\n<blockquote>\n\"互联网加密守护者的密码是……'4'。就是4。这个密钥本可以用来定向解密几乎所有内容，我们还在清理残余风险。\"\n</blockquote>\n\n<p>他随后呼吁行业行动：</p>\n\n<blockquote>\n\"是时候消灭'静态凭证'了。攻击和泄露难以避免，但想象一下，如果窃贼只能偷到'自毁密钥'……整个行业曾经携手为每个网站实现了TLS加密，我们可以为OIDC做同样的事！\"\n</blockquote>\n\n<p>Box 创始人 <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> 则将这场危机与AI agent 的崛起直接挂钩：</p>\n\n<blockquote>\n\"任何形式的'隐蔽式安全'都彻底玩完了。在自主系统能够审视每个角落、尝试每种攻击排列组合的世界里，这根本行不通。多年积累的企业遗留基础设施需要升级，安全实践需要现代化，数据管道需要清理，访问控制需要加强。\"\n</blockquote>\n\n<hr>\n\n<h2>📦 机器人学、开源大模型与创业压力</h2>\n\n<p><strong>机器人学迎来\"提示词时代\"：</strong> <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> 分享了 Physical Intelligence 联合创始人 Sergey Levine 的观点：机器人正在经历与LLM相同的范式转变——从微调，到提示，到直接告诉模型你想要什么。π0.7 现在可以从自然语言指导中学习新技能。Watch/Listen: <a href=\"https://t.co/r7mFzXspBC\">完整对话</a></p>\n\n<p><strong>Mistral 强势回归：</strong> <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">@mattturck</a> 与 Mistral AI 研究负责人 Pierre Stock 深度对话，聊到了绰号\"Le Chonk\"的西方最大开源模型、从 DeepSeek 借鉴的训练技巧，以及正在进行中的万亿参数竞赛。Watch/Listen: <a href=\"https://x.com/mattturck/status/2113311361639829673\">YouTube 完整版</a></p>\n\n<p><strong>种子轮的残酷现实：</strong> <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 道出了当下创业生态的悖论：</p>\n\n<blockquote>\n\"从未如此容易去梦想，从未如此难以规模化。种子轮到 A 轮的挤压处于历史最高点，而且不会很快缓解。\"\n</blockquote>\n\n<p>与此同时，OpenAI 的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 神秘预告明日10点前将有重磅发布，配文\"重置\"——在 Decisions API GA、Uber 全面押注 Codex 的背景下，业界猜测纷纷。</p>"
+}
