@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T06:39:06.255Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">A former Claude Code builder departs, OpenAI's CLI doubles down on developer tooling, and the security community reckons with a world where AI is both the arsonist and the fire brigade — today's feed captures an industry mid-transformation, watching the stakes rise in real time.</p>\n\n<h2>A Fond Farewell from the Trenches of Claude Code</h2>\n\n<p>The post that generated the most heat today came from <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>, who announced their departure from Anthropic after more than a year building Claude Code from the ground up:</p>\n\n<blockquote>\n\"I've left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. My colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\"\n<br>— <a href=\"https://x.com/trq212/status/2113844051938054167\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>The farewell racked up over 10,000 likes — a measure of genuine affection from the developer community that grew up alongside the product. For those looking for continued Claude Code coverage, @trq212 pointed readers toward <a href=\"https://x.com/addyosmani\" data-handle=\"addyosmani\">@addyosmani</a>, <a href=\"https://x.com/lydiahallie\" data-handle=\"lydiahallie\">@lydiahallie</a>, and <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a>, who started it all. A Friday-night note about Gmail's deactivated-address lookup vulnerability — \"I was hoping for a relaxing Friday night\" — suggested the transition isn't entirely without friction.</p>\n\n<hr>\n\n<h2>OpenAI's CLI Is Quietly Becoming Infrastructure</h2>\n\n<p><a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> dropped a flurry of shipping updates today, with the headline being that Codex CLI has <strong>doubled in usage since DevDay</strong> — a signal that developer-facing tooling is finding genuine traction beyond demo-day enthusiasm.</p>\n\n<blockquote>\n\"We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication. Surprisingly the CLI has grown 2X in usage since devday.\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2113770862860222611\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> <a href=\"https://x.com/claudeai/status/2113736176737845353\">shared a deeper technical look</a> at how Claude Duet handles safety, privacy, and security — the product that <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> cheekily noted Anthropic hit 10x revenue growth without even needing to launch. Day 19 of what appears to be a rolling shipping streak from the OpenAI side also brought faster call connections for Dots and smarter cache behavior when changing reasoning mid-conversation. The cadence is relentless.</p>\n\n<hr>\n\n<h2>The Security Apocalypse Is Already Here — And AI Built It</h2>\n\n<p>The most substantive conversation of the day came from the <strong>No Priors podcast</strong>, featuring Cloudflare CTO Dane Knecht. The episode is essential listening for anyone thinking about what agentic AI means for the internet's underlying trust infrastructure.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Democratizing Security for the Agentic Web — No Priors</a></p>\n\n<blockquote>\n\"These things are now happening weekly. Not all of them are publicly reported on, but there are things that are as serious as the Log4j type things, but just something at a greater frequency. I expect that over the next eighteen months, the majority of teams' time is going to be spent on security.\"\n<br>— Dane Knecht, Cloudflare CTO\n</blockquote>\n\n<p>Knecht's most striking observation: the most dangerous new attackers aren't nation states. They're high schoolers. <em>\"They're pointing their agents at an area and doing that — like they used to do capture the flag security contests.\"</em> Bug bounties provide the financial incentive; frontier models provide the capability that used to require an army of state-sponsored engineers.</p>\n\n<p>He also flagged a live example: a TLS key protecting internet connections was seeded with the number four. Literally. <em>\"AI can just do all these things that doesn't sleep. It's not like the one engineer you had that was red teaming things.\"</em> OpenAI, he noted, recently found the seeds for NIST curves going back to 2000.</p>\n\n<p>On the ecosystem level, <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> echoed the opportunity framing:</p>\n\n<blockquote>\n\"Security is one of the best use-cases for swarms because it's an obvious area where more compute in equals more value out. There's a wide range of testing that people can never get around to — or at least quickly enough — that agents have no problem going after.\"\n<br>— <a href=\"https://x.com/levie/status/2113738768645808277\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel's Guillermo Rauch</a> weighed in on a specific threat vector — timing attacks across shared-host VMs — noting that <a href=\"https://x.com/rauchg/status/2113759533801877920\">\"the only complete solution would be for each agent to run on its own dedicated hardware, which obviously has significant economic consequences.\"</a> Vercel's answer: every practical mitigation plus always-on monitoring.</p>\n\n<hr>\n\n<h2>Replit Goes Vertical — and Federal</h2>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit's Amjad Masad</a> had a busy day on the announcements front. First, the acquisition of <strong>Chroma</strong> — the vector database pioneer — and its founder Jeff, framed squarely around the memory and context problems that limit today's agents:</p>\n\n<blockquote>\n\"They're pioneers in AI. They were building RAG before it was even a thing! At Replit, they'll help solve one of the hardest problems in AI: giving agents the context and memory they need to do real work. Massive step toward the self-driving company.\"\n<br>— <a href=\"https://x.com/amasad/status/2113736007111827606\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>Second: <strong>Replit for Government</strong>, with former AWS public sector lead Michael Greenwald joining to help bring agentic software development to federal and municipal buyers. The \"self-driving company\" framing is becoming Replit's north star — and the government vertical suggests they're betting that bureaucracies, not just startups, are the next wave of AI-native builders.</p>\n\n<hr>\n\n<h2>Ambient Wisdom: On Tools, Time, and Team Design</h2>\n\n<p>A few quieter threads worth flagging. The most-shared standalone observation of the day came from <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>:</p>\n\n<blockquote>\n\"The difference between having a tool and being a tool is subtle these days and it's easy to accidentally build yourself into being a tool. Don't be a tool.\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2113838156193894447\">@thsottiaux</a>\n</blockquote>\n\n<p>4,375 likes suggests it landed. Meanwhile, <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> offered a <a href=\"https://x.com/danshipper/status/2113693510629281895\">compact theory of AI team design</a> — \"only two people: pirates and architects\" — and <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> reflected on the moment many senior tech people eventually reach: <em>\"at some point, their time > their money.\"</em> In a week of big product launches and security alarms, it's the kind of signal worth not scrolling past.</p>",
+  "html_zh": "<p class=\"lead\">AI安全正从事后补救变成核心战场——与此同时，两位重量级开发者的离职与加盟，悄悄重塑着这个行业的人才版图。</p>\n\n<h2>🔐 AI时代的安全噩梦：攻守双方都在提速</h2>\n\n<p>本周最值得深思的对话，来自 <em>No Priors</em> 播客对 Cloudflare CTO Dane Knecht 的专访。他描述的安全现状令人警醒：过去那种\"一年一次 Log4j 级别的漏洞\"的节奏已经成为历史。</p>\n\n<blockquote>\n\"这类事件现在每周都在发生。并非所有都被公开报道，但其中一些的严重程度堪比 Log4j，只是频率更高。我预计在未来十八个月内，团队的大部分时间将花在安全上。\"<br>— Dane Knecht，Cloudflare CTO，<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors 播客</a>\n</blockquote>\n\n<p>更出人意料的是攻击者的构成。Knecht 指出，发现近期重大漏洞的并非全是国家级黑客——</p>\n\n<blockquote>\n\"有些甚至是高中生，他们就像以前参加夺旗安全竞赛一样，把自己的 agent 指向某个目标，然后等着看结果。\"\n</blockquote>\n\n<p>AI 把曾经只有国家队才有的能力，交给了所有人。Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 也在同一天<a href=\"https://x.com/levie/status/2113738768645808277\">呼应了这一判断</a>：</p>\n\n<blockquote>\n\"Agent 集群用于网络防御，即将成为 AI 最大的应用类别之一。安全是 swarm 计算的最佳用例之一，因为这是一个'投入更多算力，产出更多价值'的明显领域。\"\n</blockquote>\n\n<p>而 Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 则<a href=\"https://x.com/rauchg/status/2113759533801877920\">披露</a>了一类更底层的威胁——agent 之间的\"侧信道攻击\"：两个 agent 若运行在同一台物理机上，其中一个可以通过 CPU 缓存的噪声\"感知\"另一个的存在。完全的解决方案？让每个 agent 跑在专属硬件上——但这在经济上代价高昂。</p>\n\nWatch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht</a>\n\n<hr>\n\n<h2>👋 人才流动：Claude Code 元老离场，Chroma 加盟 Replit</h2>\n\n<p>本周最受关注的人事动态，是 Claude Code 早期核心成员 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 宣布离开 Anthropic。他在<a href=\"https://x.com/trq212/status/2113844051938054167\">告别推文</a>中写道：</p>\n\n<blockquote>\n\"我在 Anthropic 工作了一年多，见证了 Claude Code 的规模增长远超我的想象。Anthropic 的同事是我见过的最有才华、最有思想、最有能力、也最真诚的人。我很高兴他们掌舵，也深深地信任他们。\"\n</blockquote>\n\n<p>他随后补充，希望找一个能扫描停用邮箱地址的漏洞被修复，\"希望能有个轻松的周五夜晚\"——这份幽默，是离职声明里难得的温度。</p>\n\n<p>另一边，<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 宣布向量数据库公司 Chroma 整队加入 Replit，目标直指 agent 的记忆与上下文管理难题——他称之为\"迈向自动驾驶公司的重大一步\"。Replit 同日还宣布推出政府版产品，聘请了前 AWS 公共部门业务负责人 Michael Greenwald。</p>\n\n<hr>\n\n<h2>⚙️ 工具在进化：Codex CLI 与 Claude Duet 的悄然升级</h2>\n\n<p>OpenAI 的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 连续发布产品更新——Codex CLI 新增了可复用的提示预设、内联模型与权限设置，以及企业级 MCP 登录，并修复了长会话恢复时的缓存失效问题。数据令人印象深刻：</p>\n\n<blockquote>\n\"令人惊喜的是，自 DevDay 以来，CLI 的使用量翻了一倍。\"<br>— <a href=\"https://x.com/thsottiaux/status/2113770862860222611\">@thsottiaux</a>\n</blockquote>\n\n<p>Anthropic 官方账号 <a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">@claudeai</a> 则发布了 <a href=\"https://x.com/claudeai/status/2113736176737845353\">Claude Duet 的安全与隐私说明文档</a>，这款产品在没有正式大规模推广的情况下，已帮助 Anthropic 实现了近十倍的收入增长——正如 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 所<a href=\"https://x.com/nikunj/status/2113785018497831076\">调侃</a>的那样。</p>\n\n<hr>\n\n<h2>💭 今日一语：做工具的人，还是被工具的人？</h2>\n\n<p>今天传播最广的一条推文，来自 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>，与产品无关，却意味深长：</p>\n\n<blockquote>\n\"拥有工具和成为工具之间的区别，如今已经微妙得难以察觉。很容易在不知不觉间把自己建构成一个工具。<strong>不要成为工具。</strong>\"\n</blockquote>\n\n<p>这句话在 AI 大规模重塑工作方式的当下，获得了 4000 多个点赞。与此同时，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 用一贯的调侃方式表达了相似的自主性追求——拒绝 VC 的 DM，选择\"完全掌控自己命运\"的 bootstrapped 创始人路线。而 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则给出了他心目中 AI 团队的最优配置：<a href=\"https://x.com/danshipper/status/2113693510629281895\">只需两种人——海盗与建筑师</a>。</p>\n\n<p>在这个 agent 满天飞的时代，谁在驾驭工具、谁在被工具驾驭，或许是整个行业最值得持续追问的问题。</p>"
+}
