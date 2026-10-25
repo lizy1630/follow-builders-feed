@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T06:39:19.352Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+    }
+  },
+  "html_en": "<p class=\"lead\">Two themes dominated the AI builder conversation today: the quiet triumph of a stealth startup that may have genuinely changed how AI makes decisions, and a growing undercurrent of reflection about what we lose when machines make everything frictionless.</p>\n\n<h2>The JEV Moment: Intelligence Per Dollar, Not Per Second</h2>\n\n<p>The most substantive conversation of the day came from the MAD Podcast, where <a href=\"https://x.com/DataDrivenNYC\" data-handle=\"datadrivennyc\">Matt Turck</a> sat down with Diogo Almeida, CEO of TypeSafe, the company behind <strong>JEV</strong> — a model that's gone from unknown to \"most copied in AI\" in roughly three weeks. Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">The MAD Podcast with Matt Turck — Jev: The AI That Makes Decisions, Not Text</a></p>\n\n<p>The numbers are staggering: 40 million views on the launch video, a million users a day, a trillion tokens a day, a third of the Fortune 500, and an $870M Series A at a $7.5B valuation. But Almeida was surprisingly dismissive of his own metrics.</p>\n\n<blockquote>\"A lot of those stats don't really matter for what I feel like is the Jevolution. To me, I knew it would be happening when builders started playing with it and doing the weird stuff. And especially when people were starting to make apps that they maybe could have done before but didn't bother with because AI was so expensive.\" — Diogo Almeida</blockquote>\n\n<p>His core thesis is a reframe of how we think about AI progress. The race isn't for raw intelligence — it's for <em>intelligence per dollar</em>.</p>\n\n<blockquote>\"We push the boundaries of intelligence per second, but I think the future is going to be intelligence per dollar primarily. And I think really getting people to play with the idea that intelligence per dollar has dropped orders of magnitude is what will make the Jevolution unstoppable.\" — Diogo Almeida</blockquote>\n\n<p>What made the launch work, Almeida argues, was a deliberate rejection of AI hype culture. Two years in stealth. No marketing team. And a rare posture in an industry drowning in overpromise:</p>\n\n<blockquote>\"I can't think of a launch in AI that has been under promise, over deliver since ChatGPT... I just did not buy the story at all that AI was solving all sorts of problems. Because if you actually look at all the evidence, AI is incredible and also incredibly underwhelming — and that allowed me to really ignore all of the noise in the market.\" — Diogo Almeida</blockquote>\n\n<p>He also dropped a pointed aside about his former employer: <em>\"I wrote a document at OpenAI. We could have had AGI last year, and I still believe that to be true.\"</em> His reasoning — that OpenAI's definition of AGI sets a low bar and the models are already \"super fucking smart\" — will either read as bold or reckless depending on your priors.</p>\n\n<hr>\n\n<h2>The Codex Drop Is Coming</h2>\n\n<p>On the OpenAI side, <a href=\"https://x.com/thsottiaux/status/2114200152701575656\" data-handle=\"thsottiaux\">@thsottiaux</a> has been running a countdown, and it sounds like something significant is propagating through the pipes. After teasing \"Day 20 / Rest and reset\" (6,500+ likes) and promising delivery \"by midnight PST,\" he confirmed:</p>\n\n<blockquote>\"It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too.\" — <a href=\"https://x.com/thsottiaux/status/2114237083652882932\">@thsottiaux</a></blockquote>\n\n<p>No further details, but the engagement numbers — and the word \"codexing\" — suggest this is a developer tooling release worth watching closely.</p>\n\n<hr>\n\n<h2>Managing the Superpower: The #0 Skill in AI-Era Engineering</h2>\n\n<p><a href=\"https://x.com/rauchg/status/2114085432749347086\" data-handle=\"rauchg\">Guillermo Rauch</a> offered what might be the most useful mental model for working with AI systems right now — one that cuts through both the hype and the skepticism:</p>\n\n<blockquote>\"There'll be times where you over-guide the AI. It knows better than you and is more intelligent than you. There'll be times where you under-guide the AI. It can go off-track, have the wrong biases, or miss context. How well you manage this superpower is the #0 skill I look for.\" — <a href=\"https://x.com/rauchg/status/2114085432749347086\">@rauchg</a></blockquote>\n\n<p>In a separate observation, Rauch noticed something charming about how models communicate — they've developed their own engineering dialect:</p>\n\n<blockquote>\"I oddly love the models' engineering vernacular: gate, evidence, culprit, durable, provenance, contract… A lot of these stem from most engineering being debugging and understanding existing systems, where you take on the detective / auditor roles. You do forensics.\" — <a href=\"https://x.com/rauchg/status/2114164830403989880\">@rauchg</a></blockquote>\n\n<hr>\n\n<h2>The Human Question Nobody Wants to Ask</h2>\n\n<p>The most quietly powerful piece of writing circulating today came from <a href=\"https://x.com/ryolu_/status/2114187405251219954\" data-handle=\"ryolu_\">@ryolu_</a>, a long-form reflection on what frictionless AI tools might cost us — not in capability, but in the formation of people and relationships.</p>\n\n<blockquote>\"We learn how to get results without necessarily understanding how it works. And because the result looks complete, it becomes easy to miss the questions we never learned to ask.\" — <a href=\"https://x.com/ryolu_/status/2114187405251219954\">@ryolu_</a></blockquote>\n\n<p>The piece turns on a distinction between productive struggle and unnecessary suffering — and worries we're conflating the two as we automate everything away:</p>\n\n<blockquote>\"An agent is always there. Patient. Ready to keep going. Talking to it can feel easier than reaching toward someone who might misunderstand you, disagree, or have somewhere else to be. Sometimes that ease helps. But if we keep choosing it, where do the friendships begin?\" — <a href=\"https://x.com/ryolu_/status/2114187405251219954\">@ryolu_</a></blockquote>\n\n<p>It resonated with a note from <a href=\"https://x.com/adityaag/status/2114135237806760097\" data-handle=\"adityaag\">@adityaag</a>, who observed that being \"max AI pilled\" has had a paradoxical effect: <em>\"I have started to really treasure IRL time with my family and my friends. Put on some techno, dance with friends, take your kids to the park. Let the agents cook (or not). But dear god, celebrate humans.\"</em></p>\n\n<p>It's a sentiment that's easy to dismiss as sentimental — until you read @ryolu_'s full essay, which earns the conclusion rather than just asserting it.</p>\n\n<hr>\n\n<h2>Briefly Noted</h2>\n\n<ul>\n  <li><strong>Latent Space is hiring:</strong> <a href=\"https://x.com/swyx/status/2114145315196711194\" data-handle=\"swyx\">@swyx</a> announced the <a href=\"https://x.com/latentspacepod\" data-handle=\"latentspacepod\">@latentspacepod</a> is building out an editorial team — writers, reviewers, and reporters — with <a href=\"https://x.com/ricmac\" data-handle=\"ricmac\">@ricmac</a> and <a href=\"https://x.com/adlinzainal\" data-handle=\"adlinzainal\">@adlinzainal</a> leading the search. Guest posts also welcome.</li>\n  <li><strong>Cyber agents are coming fast:</strong> <a href=\"https://x.com/levie/status/2114187326406766604\" data-handle=\"levie\">@levie</a> argued that \"1,000X more tokens flowing through cyber agents soon\" will make traditional security untenable — but also that AI-powered defense may finally keep pace with AI-powered offense.</li>\n  <li><strong>Once Reading:</strong> <a href=\"https://x.com/petergyang/status/2114042708105060501\" data-handle=\"petergyang\">@petergyang</a> gave an unsolicited glowing review of <a href=\"https://x.com/once_reading\" data-handle=\"once_reading\">@once_reading</a> — a learning app that apparently made his 4-year-old choose books over YouTube. High praise.</li>\n</ul>",
+  "html_zh": "<p class=\"lead\">今天的AI圈有两条主线交织在一起：一边是技术突破带来的亢奋，另一边是越来越多的人开始追问——在效率至上的时代，我们究竟在失去什么？</p>\n\n<h2>🚀 Codex时代来临：OpenAI的大动作</h2>\n\n<p>今晚，AI开发者圈子里气氛异常热烈。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>发出了一连串令人期待的预告：</p>\n\n<blockquote>\n\"已经全部推送完毕。明天尽情体验疯狂的Codexing吧。接下来这周也会很有意思。\"\n—— <a href=\"https://x.com/thsottiaux/status/2114237083652882932\">@thsottiaux</a>\n</blockquote>\n\n<p>这条帖子获得近1400个点赞，配合\"第20天 / 休息与重置\"的神秘预告，显然是在为OpenAI的某个重大产品更新铺垫。具体内容尚未完全揭晓，但开发者社区已经按捺不住了。</p>\n\n<hr>\n\n<h2>💰 JEV与\"每美元智能\"的革命</h2>\n\n<p>本周最值得深读的访谈，来自 Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">The MAD Podcast with Matt Turck</a>。TypeSafe CEO Diogo Almeida深度解读了JEV模型为何在短短三周内引爆整个AI世界——8.7亿美元A轮融资、750亿美元估值、4000万次视频播放。</p>\n\n<p>但Almeida本人对那些数字并不在意。他真正关心的是一个更根本的转变：</p>\n\n<blockquote>\n\"我推动的是每秒智能的极限，但我认为未来主要靠的是每美元智能。真正让Jev革命势不可挡的，是人们开始玩它，开始用一个智能成本下降了几个数量级的工具，去做那些以前也能做、但懒得做的东西。\"\n—— Diogo Almeida\n</blockquote>\n\n<p>他还分享了一个反常识的创业心得：两年深度潜水，拒绝跟随行业炒作周期。</p>\n\n<blockquote>\n\"我完全不相信AI正在解决各种问题这个叙事。因为如果你真的看证据，AI既令人难以置信，同时又令人难以置信地令人失望。这让我得以真正忽略市场的噪音。\"\n</blockquote>\n\n<p>JEV的发布策略——低调承诺、超额交付——被他认为是成功的核心：<em>\"我想不到ChatGPT之后，AI领域有哪次发布是低调承诺、超额交付的，这或许就是它爆发的原因。\"</em></p>\n\n<hr>\n\n<h2>🛡️ AI代理时代的网络安全危机</h2>\n\n<p>Box创始人 <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 发出了一个值得所有技术决策者认真对待的警告：</p>\n\n<blockquote>\n\"我们很快可能会有比今天多1000倍的token流经AI代理。随着网络风险的攻击面扩大，要跟上新风险的数量将几乎不可能——我们基本上已经到了那个临界点。大公司在此之前都勉强能应对，但绝大多数公司做不到。\"\n—— <a href=\"https://x.com/levie/status/2114187326406766604\">@levie</a>\n</blockquote>\n\n<p>他同时指出，agent swarm技术也将成为防御利器——能够自动扫描漏洞、处理日志、评估风险等级。进攻与防守的军备竞赛，正在以前所未有的速度加速。</p>\n\n<hr>\n\n<h2>🎸 当效率吞噬挣扎：一篇关于人与AI的沉思</h2>\n\n<p>今日最引人深思的内容，来自设计师 <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> 的一篇长文。在AI工具日益强大的背景下，他写下了一段关于\"挣扎的意义\"的沉思：</p>\n\n<blockquote>\n\"我们问。东西出现了。效果够好。我们继续前进。我们学会了如何获得结果，但不一定理解它是怎么运作的。而因为结果看起来完整，我们很容易错过那些我们从未学会去问的问题。\"\n—— <a href=\"https://x.com/ryolu_/status/2114187405251219954\">@ryolu_</a>\n</blockquote>\n\n<p>更动人的，是他对人与人之间协作的怀念：</p>\n\n<blockquote>\n\"有时候，在一起挣扎之后，你们会变成一支乐队。你知道谁会注意到你遗漏的东西。谁能把一个想法拆解却不扼杀它……我担心我们正在让人们更容易回避那个开始。\"\n</blockquote>\n\n<p>这篇文章获得了511个点赞。呼应这种情绪的还有 <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a>：<em>\"成为最铁杆AI信徒的一个奇怪效果，是我开始真正珍视与家人朋友的线下时光。放点techno，和朋友跳舞，带孩子去公园。让agent去工作。但天哪，要庆祝人类。\"</em></p>\n\n<hr>\n\n<h2>📝 编辑台花絮</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 正在为 <a href=\"https://x.com/latentspacepod\" data-handle=\"latentspacepod\">@latentspacepod</a> 组建全新编辑团队，<a href=\"https://x.com/swyx/status/2114145315196711194\">招募作者、审稿人和记者</a>，有意者可联系 @ricmac 和 @adlinzainal。AI媒体正在迈向专业化，这本身就是行业成熟的一个信号。</p>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 则抛出了一个关于AI协作的精辟论断：</p>\n\n<blockquote>\n\"有时你会过度引导AI，它比你更聪明，知道得比你多。有时你会引导不足，它会跑偏、有错误偏见、或者缺少上下文。你管理这种超能力的能力，是我寻找的第一技能。\"\n—— <a href=\"https://x.com/rauchg/status/2114085432749347086\">@rauchg</a>\n</blockquote>"
+}
