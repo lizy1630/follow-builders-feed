@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T06:55:24.342Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">OpenAI's Greg Brockman made a striking claim this week: security spending should \"vastly outstrip\" software spending in the AI era — and a broader conversation about what AI can now genuinely <em>discover</em>, not just retrieve, is starting to take shape.</p>\n\n<h2>🔐 The New Physics of Security</h2>\n\n<p>In a wide-ranging appearance on <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors</a>, <a href=\"https://x.com/gdb\" data-handle=\"gdb\">Greg Brockman</a> made one of the bolder claims you'll hear from a frontier lab president this year:</p>\n\n<blockquote>\"Cyber spend, security spend should actually vastly outstrip software spend. I think that people have not yet really internalized how much the physics around cybersecurity are going to change.\"</blockquote>\n\n<p>His reasoning: as software becomes near-free to produce, the bottleneck shifts to <em>trustworthiness</em>. You don't just want software — you want software that is reliable, secure, and believable. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> echoed this from the enterprise trenches, noting that agent swarms capable of testing attack permutations, reading logs, and assessing data risk \"only emerged in the past few months.\"</p>\n\n<blockquote>\"Once you can get your data and infra into a better spot, at least you have a chance for agents to help you secure the environment... But everyone does need to do the hard work of getting the basics right at the start.\" — <a href=\"https://x.com/levie/status/2114391265655816315\">@levie</a></blockquote>\n\n<p>The optimistic read: agentic defenders can scale faster than human attackers. The pessimistic read: most enterprises can barely keep up with patching today.</p>\n\n<hr>\n\n<h2>🧮 AI That Actually Discovers</h2>\n\n<p>The math results Brockman references — roughly 400 significant open problems resolved — are worth pausing on. The question of whether AI can generate <em>genuinely new knowledge</em>, rather than recombine existing knowledge, has been the philosophical crux of many a dinner argument. Brockman thinks it's now settled:</p>\n\n<blockquote>\"At this point, it's just impossible to deny, right? It is definitively, yes, possible... We are able to resolve these 100-year-old math problems.\"</blockquote>\n\n<p>But what's more interesting than the headline is what domain experts are finding when they dig into the proofs. Brockman describes mathematicians posting surprised reactions — \"wait, why did they use <em>that</em> result over here?\" — suggesting the AI isn't just brute-forcing solutions but finding unexpectedly elegant connections. He contrasts this favorably with the famously unsatisfying four-color theorem proof, which was essentially a machine-checked exhaustion of cases with no human insight to extract.</p>\n\n<blockquote>\"The thing that I think we will see... is that there are beautiful insights within the work that these AIs have done.\" — Greg Brockman, <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors</a></blockquote>\n\n<p>The implication for fields beyond math — biology, materials science, drug discovery — is that AI may not just accelerate research but actively <em>contribute</em> to it in ways that surprise even the experts reviewing the output.</p>\n\n<hr>\n\n<h2>🎨 AI Has Taste (And a Soothing Color Palette)</h2>\n\n<p>On a lighter note, the week's most viral AI moment may have been <a href=\"https://x.com/thsottiaux/status/2114595002210783279\" data-handle=\"thsottiaux\">@thsottiaux</a>'s reminder that you can customize ChatGPT's web interface to make it, as they put it, \"soothing.\" Over a thousand likes suggests there's a real appetite for AI tools that feel calm rather than clinical. Meanwhile, <a href=\"https://x.com/petergyang/status/2114560930646487116\" data-handle=\"petergyang\">@petergyang</a> shared an AI-generated piece with the simple caption: <a href=\"https://x.com/petergyang/status/2114560930646487116\">\"This is beautiful. Who said AI doesn't have taste?\"</a></p>\n\n<p>On the more practical creative side, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> highlighted how <a href=\"https://x.com/petergyang/status/2114507378532229214\">HyperFrames is using Claude</a> to replicate short-form video styles — upload a reference clip, describe what you want to change, and the model handles the structural translation. <a href=\"https://x.com/jake11moran\" data-handle=\"jake11moran\">@jake11moran</a> describes it simply: <blockquote>\"You can see where we're drawing inspiration from and apply a different font or different colors. It's still structurally the same idea.\"</blockquote> Watch/Listen: <a href=\"https://t.co/1seCb77tGJ\">Full AI video editing tutorial</a></p>\n\n<hr>\n\n<h2>📣 Consistency Beats the Launch</h2>\n\n<p><a href=\"https://x.com/zarazhangrui/status/2114255477907570865\" data-handle=\"zarazhangrui\">@zarazhangrui</a> offered the week's most quietly useful piece of builder wisdom, in the context of AI content creation:</p>\n\n<blockquote>\"Most people overestimate the importance of one huge launch and underestimate the power of just showing up every day on the timeline. Develop a system where you make a video every day > spending tens of thousands of dollars on a single launch video.\"</blockquote>\n\n<p>In a world where AI makes daily content production genuinely tractable for solo creators, this asymmetry matters more than ever. The moat isn't the viral moment — it's the habit.</p>",
+  "html_zh": "<p class=\"lead\">AI正在重新书写人类知识的边界——从百年数学难题到企业网络安全，Greg Brockman的一席话提醒我们：这场变革的物理规律，大多数人还没真正理解。</p>\n\n<h2>🧮 数学只是开始：AI正在生产真正的新知识</h2>\n\n<p>本周最值得细读的一段对话，来自 <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors 播客</a> 对 <a href=\"https://x.com/gdb\" data-handle=\"gdb\">Greg Brockman</a> 的专访。OpenAI联合创始人兼总裁谈到了这一周令他最兴奋的事：AI解决了大量超过百年历史的数学难题。这不是小事。</p>\n\n<blockquote>\n\"我们现在已经有能力大幅加速科学发现。关于AI究竟能否产生新知识，一直存在争议——但现在，这已经无可否认，答案是明确的：可以。\"<br>\n——Greg Brockman，<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors Podcast</a>\n</blockquote>\n\n<p>他进一步说，这不是机器\"吐出一个答案\"那么简单，而是关于人与工具结合之后能达到什么高度：</p>\n\n<blockquote>\n\"真正令人兴奋的是：一个装备了这些工具的人，能够实现之前完全无法想象的事情……几乎就像人类的杠杆率在急速攀升。\"<br>\n——Greg Brockman\n</blockquote>\n\n<p>他还特别强调，AI产出的数学证明并非\"无人能懂的机器输出\"，而是包含了真正令领域专家惊讶的洞见——出人意料的推理路径，令人拍案的结果应用方式。这与四色定理那种\"机器暴力枚举、毫无美感\"的验证截然不同。</p>\n\n<hr>\n\n<h2>🔐 网络安全支出，终将超过软件本身</h2>\n\n<p>Brockman在同一期播客中抛出了一个更具争议性的预言：网络安全的支出，最终应该、也将会大幅超越软件本身的支出。这个论断呼应了 <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 在推文中对企业安全现状的犀利描述。</p>\n\n<blockquote>\n\"软件在某种意义上正变得越来越廉价。你不只是需要软件，你需要的是可靠的、安全的、你能信任的软件。我认为人们还没有真正内化：网络安全的物理规律即将发生多么剧烈的变化。\"<br>\n——Greg Brockman，<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors Podcast</a>\n</blockquote>\n\n<p>Levie则从企业实战角度补充了这幅图景，描述了大多数大型企业当下面临的混乱现实：</p>\n\n<blockquote>\n\"数据在大多数组织中高度碎片化，这意味着你根本不知道自己在任何时间点面临多大风险。某些系统权限开放过于宽泛，另一些则依赖'通过隐蔽实现安全'这种方式运营。\"<br>\n——<a href=\"https://x.com/levie/status/2114391265655816315\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>他也带来了一丝乐观：当基础数据和基础设施整理到位后，AI智能体可以真正发挥作用——扇形展开、调用安全工具、模拟攻击路径、分析日志。\"这种能力在过去几个月才刚刚出现，在长时运行智能体和计算机控制成熟之前，完全不可能实现。\"</p>\n\n<hr>\n\n<h2>🎬 AI视频创作：风格复制只需几分钟</h2>\n\n<p>在更贴近日常创作者的领域，<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 分享了一个用 Claude 快速复制短视频风格的工作流，引发了不少关注。来自 <a href=\"https://x.com/jake11moran\" data-handle=\"jake11moran\">@jake11moran</a> 的原话是：</p>\n\n<blockquote>\n\"我们把这个功能原生集成进了 <a href=\"https://x.com/HyperFrames_\" data-handle=\"hyperframes_\">@HyperFrames_</a> Studio。你只需上传或选取一个参考片段，然后用提示词描述你想改变什么。你可以看到我们从哪里汲取灵感，然后换一种字体或不同的配色——结构上还是同一个想法。\"<br>\n——<a href=\"https://x.com/petergyang/status/2114507378532229214\">via @petergyang</a>\n</blockquote>\n\n<p>配合 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 的一条观察，这个话题有了更深的维度：</p>\n\n<blockquote>\n\"大多数人高估了一次大型发布的重要性，却低估了每天坚持出现在时间线上的力量。建立一个每天做一个视频的系统，远胜于花几万美元做一个发布视频。\"<br>\n——<a href=\"https://x.com/zarazhangrui/status/2114255477907570865\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<hr>\n\n<h2>✨ 界面美学：被忽视的AI产品战场</h2>\n\n<p>最后一个值得关注的小趋势，来自 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 的一条意外爆款推文——提醒用户ChatGPT网页版其实可以<a href=\"https://x.com/thsottiaux/status/2114595002210783279\">自定义外观、让界面更令人放松</a>。这条推文收获超过1100个点赞，说明用户对AI工具的\"感受层\"有着被长期忽视的需求。</p>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 则从产品预警角度指出了一个更深的问题：</p>\n\n<blockquote>\n\"等到它出现在数据或用户研究访谈里，已经太晚了。伤害已经造成，声誉已经受损。\"<br>\n——<a href=\"https://x.com/thenanyu/status/2114427877240488442\" data-handle=\"thenanyu\">@thenanyu</a>\n</blockquote>\n\n<p>界面细节、情感体验、早期信号的捕捉——这些\"软\"问题，正在成为AI产品竞争中越来越硬的壁垒。</p>"
+}
