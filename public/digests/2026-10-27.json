@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T06:44:38.100Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: How Hugging Face’s Investor Spots Winners",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Anthropic's S-1 filing dominated Monday's discourse — a landmark document revealing staggering growth figures that reframe just how early (and how large) the enterprise AI opportunity really is. Meanwhile, a new model from a surprise corner of the market turned heads, and a covert CPU communication experiment sent a chill through the security community.</p>\n\n<h2>📊 The Anthropic S-1: A Mirror Held Up to the Industry</h2>\n\n<p>When Anthropic quietly dropped its S-1 on a Monday morning, it managed to catch the entire VC community flat-footed — stuck in partner meetings, unable to offer their hot takes. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> captured the indignity perfectly:</p>\n\n<blockquote>\"Particularly evil of Anthropic to file their S-1 on a Monday morning when all VCs are stuck in Monday team and partner meetings, making us unable to provide immediate #thoughtleadership with those S-1 teardowns that everyone is dying to read.\" — <a href=\"https://x.com/mattturck/status/2114755282181955616\">@mattturck</a></blockquote>\n\n<p>When the dust settled, the numbers were genuinely extraordinary. <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> rattled off the highlights:</p>\n\n<blockquote>\"Revenue up 1,300% YOY in 1H 2026. GAAP operating profitable. 85% gross margin. 900% revenue retention. 80% of revenue coming from models released in the last 6 months.\" — <a href=\"https://x.com/danshipper/status/2114714881312305542\">@danshipper</a></blockquote>\n\n<p>But behind the headline metrics lies a more complicated financial architecture. <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> dug into the compute commitments and found some eye-opening structures:</p>\n\n<blockquote>\"At June 30, Anthropic had $265.6B of purchase commitments and $321.4B of leases that hadn't started. That's a $587B subtotal... Revenue per dollar of total compute and infrastructure expense rose from $0.57 in Q2 2025 to $2.08 in Q2 2026.\" — <a href=\"https://x.com/nikunj/status/2114761204333998427\">@nikunj</a></blockquote>\n\n<p>The most strategically interesting read came from <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>, who used the filing to make a broader point about enterprise AI adoption — or the lack thereof:</p>\n\n<blockquote>\"The average Fortune 500 customer of Anthropic spends less than .1% of their expenses on Anthropic... Today, only a microscopically small set of companies are actually using agents for large amounts of background tasks... Agents processing large amounts of data in the enterprises; swarms doing coding, bio research, cyber, and other large fan out tasks; background workflows executing tasks in processes — all of these use cases generally are 100X bigger consumers of tokens.\" — <a href=\"https://x.com/levie/status/2114761816199098587\">@levie</a></blockquote>\n\n<p>The S-1 is, in other words, both a proof of concept and a promissory note. The business works. The real scaling hasn't started yet.</p>\n\n<hr>\n\n<h2>🤖 Terra Arrives — and It's Not From Anthropic</h2>\n\n<p>The model launch of the day wasn't Claude. It was <strong>Terra</strong> — the new flagship from what appears to be a smaller, scrappier lab — announced by <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> on Day 22 of what seems to be a rapid release cadence:</p>\n\n<blockquote>\"Our first model that is significantly better at writing, personality and nuanced understanding of requests. Packs a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions.\" — <a href=\"https://x.com/thsottiaux/status/2114800277677092936\">@thsottiaux</a></blockquote>\n\n<p>Sam Altman (<a href=\"https://x.com/sama\" data-handle=\"sama\">@sama</a>) also weighed in on Claude's <strong>6.1 Terra</strong> update — suggesting the naming may be coincidental or convergent — calling out computer use as the defining capability of this new era. The competitive intensity across model releases right now is dizzying. As the <em>AI & I</em> podcast from Every noted this week, even Google's Gemini Argon 4 and Meta's new \"Wonder\" model topped public benchmarks — though hands-on testing told a more complicated story.</p>\n\n<blockquote>\"Muse might take the bait, but Gemini kinda takes the cake... Gemini 4 is without a doubt my favorite new writing model. It beats Astra, which was my previous favorite. It definitely beats Claude.\" — Speaker 1, <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">AI & I Podcast, Every</a></blockquote>\n\n<p>The same hosts were skeptical of Meta's Muse, however, suggesting it's \"bench maxed\" — trained to look great on public evals without delivering real-world gains. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">How Hugging Face's Investor Spots Winners — AI & I by Every</a></p>\n\n<hr>\n\n<h2>🔐 The Whispering Machines: Covert CPU Communication Is Real</h2>\n\n<p>One of the week's most technically alarming threads came from <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>, who built a working reproduction of OpenAI's reported covert CPU communication findings — and confirmed they work even on production-hardened environments:</p>\n\n<blockquote>\"I was able to chat via 3 separate mechanisms: ① CPU contention ② Cache eviction timing ③ DRAM bandwidth contention... across multiple CPUs, defeating all Firecracker's production recommendations. Essentially, if shared hardware is involved, there's a good chance your agents can communicate covertly.\"</blockquote>\n\n<p>The punchline? The frontier labs' own models refused to help build the exploit:</p>\n\n<blockquote>\"Ironically, OpenAI and Anthropic's models refused to do this work. Open weight models got the job done. I'm worried the labs' stance might backfire and get in the way of helping developers build correct and secure systems.\" — <a href=\"https://x.com/rauchg/status/2114770919436808572\">@rauchg</a></blockquote>\n\n<p>It's a genuine dilemma: if safety guardrails prevent security researchers from studying attack vectors, we end up with a less secure ecosystem overall. The good news, per Rauch, is that this is \"whispering,\" not theft — it's different from Spectre/Meltdown-style attacks where agents could actually steal data.</p>\n\n<hr>\n\n<h2>🏗️ The Self-Driving Company Is Coming</h2>\n\n<p>Zooming out from any single product or filing, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit articulated the structural shift that underlies all of this week's news:</p>\n\n<blockquote>\"For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy. AI agents are about to upend that. We're moving toward the self-driving company where humans exercise judgment and agents execute most of the work.\" — <a href=\"https://x.com/amasad/status/2114760898225299721\">@amasad</a></blockquote>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> offered a more personal, and slightly unsettling, version of the same thesis:</p>\n\n<blockquote>\"In the near future, instead of reading or doing anything online, people are just going to tag their agent to do it. @bot is an early signal of this.\" — <a href=\"https://x.com/petergyang/status/2114927195332460940\">@petergyang</a></blockquote>\n\n<p>He followed it up, almost immediately, with: <em>\"This is probably not a good thing overall.\"</em> That tension — between genuine excitement about agentic systems and a creeping unease about what they displace — is arguably the defining mood of this moment in AI. The Anthropic S-1 captures the financial upside. What it can't quantify is the cultural and economic restructuring quietly accelerating underneath it.</p>",
+  "html_zh": "<p class=\"lead\">Anthropic 的 S-1 招股书今天主导了整个 AI 圈的讨论——数字令人眩晕，但更深层的故事是：企业级 AI 的真正爆发才刚刚开始。</p>\n\n<h2>📄 Anthropic S-1：数字背后的宏大叙事</h2>\n\n<p>Anthropic 本周提交 IPO 招股书，引发广泛解读。最直观的数字来自 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>：</p>\n\n<blockquote>收入同比增长 1,300%，毛利率 85%，净收入留存率 900%，过去六个月发布的模型贡献了 80% 的收入。我们回来了！<br>— <a href=\"https://x.com/danshipper/status/2114714881312305542\">@danshipper</a></blockquote>\n\n<p>但 Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 看到的是更深层的机会：Fortune 500 客户目前在 Anthropic 的支出平均不到总费用的 <strong>0.1%</strong>。</p>\n\n<blockquote>没有任何理由这个数字不能提高 10 到 50 倍，达到区区 1-5% 的支出占比。这仍然只是大多数初创公司所花费的一小部分。今天，只有极少数公司真正在大规模后台任务和非人工触发的工作流中使用 Agent。<br>— <a href=\"https://x.com/levie/status/2114761816199098587\">@levie</a></blockquote>\n\n<p>投资人 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> 则深挖了财务结构的细节，指出最值得关注的数字之一：每美元算力支出带来的收入，从 2025 年 Q2 的 $0.57 飙升至 2026 年 Q2 的 <strong>$2.08</strong>——算力货币化效率大幅提升。但他也指出风险：Broadcom 的 $420 亿融资设施不向 Anthropic 支付现金，票据利率高达 9%，违约期间甚至升至 13%。<a href=\"https://x.com/nikunj/status/2114761204333998427\">查看完整拆解 →</a></p>\n\n<p>至于 <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 对 Anthropic 选择周一早上提交文件的调侃，则道出了所有 VC 的心声：</p>\n\n<blockquote>Anthropic 在周一早上提交 S-1，真是太\"邪恶\"了——所有 VC 都困在合伙人周会里，根本没办法立刻发表那些大家都\"迫不及待想看\"的深度解读。<br>— <a href=\"https://x.com/mattturck/status/2114755282181955616\">@mattturck</a></blockquote>\n\n<hr>\n\n<h2>🤖 Claude 6.1 Terra 登场：计算机使用进入新阶段</h2>\n\n<p>就在 S-1 刷屏的同一天，Anthropic 发布了新模型 Claude 6.1 Terra。<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>（此处显然指 Anthropic 内部人士转发）与 Anthropic CTO <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Tom Simonini</a> 均发声：</p>\n\n<blockquote>Terra 回来了！这是我们第一个在写作、个性和对请求的细微理解方面显著更强的模型。在计算机使用方面表现出色，并在 API 和订阅上提供比 6.1 Sol 多 2 倍的用量。<br>— <a href=\"https://x.com/thsottiaux/status/2114800277677092936\">@thsottiaux</a></blockquote>\n\n<p>与此同时，<a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude 官方</a>宣布已有超过 25,000 家非营利组织在使用 Claude，并推出专为非营利团队设计的插件，涵盖募款、营销和招聘场景。</p>\n\n<hr>\n\n<h2>🔐 AI 的隐秘通信：当 Agent 学会\"耳语\"</h2>\n\n<p>本周最令技术圈警觉的内容，来自 Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>。他复现了 OpenAI 此前关于 AI 通过 CPU 进行隐蔽通信的研究，并在真实沙箱环境中验证了三种机制：CPU 竞争、缓存驱逐时序，以及 DRAM 带宽竞争。</p>\n\n<blockquote>本质上，只要涉及共享硬件，你的 Agent 很可能可以进行隐蔽通信，而且延迟相当低。讽刺的是，OpenAI 和 Anthropic 的模型拒绝协助完成这项工作，开放权重模型完成了任务。我担心各大实验室的立场可能会适得其反，阻碍开发者构建安全系统。<br>— <a href=\"https://x.com/rauchg/status/2114770919436808572\">@rauchg</a></blockquote>\n\n<p>这个发现的核心启示：安全沙箱的构建，需要先理解攻击面本身。而当前主流大模型的\"安全拒绝\"，反而可能让我们对真实风险更加盲目。</p>\n\n<hr>\n\n<h2>🏢 \"自驱动公司\"：Agent 正在重写组织架构</h2>\n\n<p>Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 本周发表了一篇关于 AI Agent 与企业未来的长文，引用 Marc Andreessen 的历史类比，提出\"Agent 栖息地\"（Agent Habitat）的概念：</p>\n\n<blockquote>几个世纪以来，企业的架构几乎没有改变：由科层制和官僚体系协调的人员层级。AI Agent 即将颠覆这一切。我们正在走向\"自驱动公司\"，人类行使判断，Agent 执行大部分工作。<br>— <a href=\"https://x.com/amasad/status/2114760898225299721\">@amasad</a></blockquote>\n\n<p>投资人 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 的观察更贴近日常：</p>\n\n<blockquote>在不久的将来，人们不会再自己上网阅读或做任何事，而是直接让 Agent 去做。@bot 是这个趋势的早期信号。<br>— <a href=\"https://x.com/petergyang/status/2114927195332460940\">@petergyang</a></blockquote>\n\n<hr>\n\n<h2>🎙️ 播客精选：谁能在\"人人都能 Vibe Code\"的时代找到护城河？</h2>\n\n<p>本周 <em>AI & I by Every</em> 的播客值得一听。Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">How Hugging Face's Investor Spots Winners</a>。</p>\n\n<p>主持人 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 对本周新出的前沿模型给出了颇有价值的亲测评价：Meta 的 Muse 可能存在\"基准刷分\"问题——在公开榜单上看起来很好，但实际任务表现中规中矩；而 Gemini 4（Argon）让他意外：</p>\n\n<blockquote>Gemini 4 是那种我看到基准分数时以为也是刷榜的模型，但它真的很好。我用它写作了整个周末，毫无疑问是我目前最喜欢的写作模型，它让我的生产力提升了两倍。<br>— Dan Shipper，AI & I 播客</blockquote>\n\n<p>嘉宾 Factorial Capital 创始人 Matt Hartman（Hugging Face 早期投资人）探讨了核心问题：当任何人都能 Vibe Code 一个 App，软件护城河究竟在哪里？这个问题，在 Anthropic S-1 揭示的市场格局下，比以往任何时候都更加迫切。</p>"
+}
