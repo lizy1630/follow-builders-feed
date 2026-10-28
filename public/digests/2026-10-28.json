@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T06:32:16.853Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    }
+  },
+  "html_en": "<p class=\"lead\">A major Claude release landed overnight, agentic workflows are moving from hype to infrastructure, and one builder is publicly mourning a half-billion-dollar miss — today's feed crackles with the energy of an industry in rapid, sometimes painful, transition.</p>\n\n<h2>🚀 Claude Ships Something Big</h2>\n\n<p>The most-watched story of the day is whatever Anthropic just dropped. <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> spent the day teasing a midnight launch in a slow drumroll that the AI community eagerly tracked:</p>\n\n<blockquote>\n  \"Lands by midnight PST.\" — <a href=\"https://x.com/thsottiaux/status/2115273253711409208\">@thsottiaux</a>\n</blockquote>\n\n<blockquote>\n  \"<a href=\"https://t.co/Fgy0dBAHsJ\">https://t.co/Fgy0dBAHsJ</a> has landed\" — <a href=\"https://x.com/thsottiaux/status/2115297093879472332\">@thsottiaux</a> (5,200+ likes)\n</blockquote>\n\n<blockquote>\n  \"And it's done. See you tomorrow for some good news.\" — <a href=\"https://x.com/thsottiaux/status/2115330127886463244\">@thsottiaux</a>\n</blockquote>\n\n<p>The cryptic \"good news\" tease suggests this may be only the first act. Whatever shipped clearly resonated — 5,000+ likes on the landing announcement puts it among the most-engaged AI releases of recent weeks.</p>\n\n<hr>\n\n<h2>💸 The $500M Bag Fumble Heard Round the Timeline</h2>\n\n<p>In the tradition of SpaceX IPO regret-posting, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> went viral today with a remarkably candid confession about missing what he estimates was a half-billion-dollar opportunity:</p>\n\n<blockquote>\n  \"At SpaceX IPO everyone was posting their cursor bag fumble. Kid stuff. My turn. I estimate this was a $500m bag fumble lol. And very probably wouldve been on Claude Code early (bc I've been a typescript cli maintainer). fml.\" — <a href=\"https://x.com/swyx/status/2115089887959359988\">@swyx</a> (1,400+ likes)\n</blockquote>\n\n<blockquote>\n  \"Yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code in 2019 and then.... not do it for 7 years\" — <a href=\"https://x.com/swyx/status/2115135448876269782\">@swyx</a>\n</blockquote>\n\n<p>The self-deprecating humor lands, but there's a real point buried in the meme: the gap between <em>seeing</em> an opportunity and <em>executing</em> on it is where fortunes are made and lost. swyx apparently had the vision for an AI-native coding CLI years before the market was ready — and before Anthropic was ready to build it.</p>\n\n<hr>\n\n<h2>🤖 Agents Are Finally Getting Real — Just Not the Way You Think</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> (Box CEO Aaron Levie) offered one of the more grounded takes on enterprise AI adoption circulating today — less hype, more structural analysis:</p>\n\n<blockquote>\n  \"The vast majority of enterprise workflows have not actually had agents applied to them in any meaningful way. The economy probably has this deployed &lt;1% right now... At best you have a few automated systems in a company that do a single pass of an LLM to make a decision or provide feedback, but very little real 'automation.'\" — <a href=\"https://x.com/levie/status/2115305369799110905\">@levie</a>\n</blockquote>\n\n<blockquote>\n  \"We will see self-improving systems that can take any particular workflow goal and improve the execution rates over a volume of instances. And with the emerging form factor of agent swarms, you can just choose to deploy any amount of compute at a problem.\" — <a href=\"https://x.com/levie/status/2115305369799110905\">@levie</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> is building the kind of ambient, OS-level agent infrastructure that Levie is describing — from the bottom up:</p>\n\n<blockquote>\n  \"Experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused. My agent is able to customize mode behavior and add new modes, it uses jev to classify my activity + notifications in real time &amp; act on them.\" — <a href=\"https://x.com/trq212/status/2115135857669881939\">@trq212</a> (8,200+ likes)\n</blockquote>\n\n<p>He's also thinking about what agent-native software distribution might look like:</p>\n\n<blockquote>\n  \"Feels like there needs to be a new way to distribute open source software such that people can modify via agents but also get upstream automatically merged in.\" — <a href=\"https://x.com/trq212/status/2115188992861970693\">@trq212</a> (2,400+ likes)\n</blockquote>\n\n<p>And <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit offers a useful investing lens on where the value actually accrues:</p>\n\n<blockquote>\n  \"If I'm investing in frontier AI I would underwrite it mostly on new discovery and its applications like medicine because coding and most of knowledge work is quickly being saturated by sub-frontier models.\" — <a href=\"https://x.com/amasad/status/2115207856496480261\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2>🏗️ The Myth of the \"Right\" Way to Build</h2>\n\n<p>A minor but enjoyable debate flickered through the feed today about co-founder count. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">@mattturck</a> punctured the conventional wisdom neatly:</p>\n\n<blockquote>\n  \"Usual startup advice: too many co-founders is bad!!! Too much dilution! Founder friction risk! Analysis paralysis! Also: Anthropic: 7 co-founders. OpenAI: 11 co-founders. Databricks: 7 co-founders.\" — <a href=\"https://x.com/mattturck/status/2115132327131328806\">@mattturck</a>\n</blockquote>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> echoed the theme with a broader point about the limits of startup pattern-matching:</p>\n\n<blockquote>\n  \"All the definitions of the 'right' way of identifying or building startups are wrong. There's no 'right' way, there's only the way that works for you!\" — <a href=\"https://x.com/nikunj/status/2115157188704612735\">@nikunj</a>\n</blockquote>\n\n<p>It's a small observation, but worth holding onto as the industry generates increasingly confident frameworks for what \"good\" AI companies look like. The outliers — as always — define the category.</p>\n\n<hr>\n\n<h2>📺 Odds & Ends Worth Watching</h2>\n\n<ul>\n  <li><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a> with a quietly bold prediction: <strong>\"Video creation and game making are going to become widely distributed foundations of knowledge work in the same way doc and deck creation are today.\"</strong> The implications for creative tools — and creative labor — are significant.</li>\n  <li><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">@garrytan</a> is running 10-20 subagents simultaneously through his <a href=\"https://x.com/capydotai\" data-handle=\"capydotai\">@capydotai</a> software factory and watching his GitHub contribution graph turn incandescent. He's now optimizing for token efficiency and latency — a sign that \"more agents\" is giving way to \"smarter agent orchestration.\"</li>\n  <li><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> teases an unreleased Grok feature he calls one of his \"favorite and funniest moments with AI in recent memory.\" No details yet — subscribe to his channel if you want to be first.</li>\n</ul>",
+  "html_zh": "<p class=\"lead\">今日AI圈最引人注目的主题有两条并行线索：一是智能体（Agent）从概念走向真正落地的临界点，二是一批创业者在反思那些\"本可抓住却错过\"的历史机遇。</p>\n\n<h2><strong>错过的五亿美元：当\"早就想到了\"遇上\"就是没做\"</strong></h2>\n\n<p>今天推特上最具戏剧性的一幕，来自 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>。他在 SpaceX IPO 引发的\"错失财富\"讨论浪潮中，贡献了一记更沉重的感叹：</p>\n\n<blockquote>\n\"我估计这是一个五亿美元的机会失误……而且我极有可能会成为 Claude Code 的早期用户（因为我一直是 TypeScript CLI 的维护者）。我的天。\" —— <a href=\"https://x.com/swyx/status/2115089887959359988\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>更妙的是他的补充：</p>\n\n<blockquote>\n\"你在 2024 年无视了一封 @mntruell 的邮件，但你在 2019 年提出过类似 Claude Code 的想法……然后整整七年什么都没做。\" —— <a href=\"https://x.com/swyx/status/2115135448876269782\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>这种\"想到了、说出去了、就是没动手\"的错失，是AI创业圈里最痛的一种痛。创意不值钱，执行才是关键——这个老道理，在Claude Code的成功面前，又被残忍地复习了一遍。</p>\n\n<hr>\n\n<h2><strong>Claude 新版落地，AI编程工具竞争白热化</strong></h2>\n\n<p>Anthropic 方面，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 连发数条推文，节奏感十足地预告并确认了一次重要更新的上线：</p>\n\n<blockquote>\n\"已经落地。\" —— <a href=\"https://x.com/thsottiaux/status/2115297093879472332\" data-handle=\"thsottiaux\">@thsottiaux</a>（获5200余赞，176次转发）\n</blockquote>\n\n<p>具体内容尚未完全披露，但从互动数据来看，社区反应热烈。与此同时，<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">@garrytan</a> 也在展示他的 <a href=\"https://x.com/capydotai\" data-handle=\"capydotai\">@capydotai</a> 软件工厂——一套同时运行10到20个子智能体的系统——对其 GitHub 贡献图产生的\"重新着色\"效果：</p>\n\n<blockquote>\n\"我之前就不是个省令牌的人，但现在有了 Capy Captains（GStack 和 GBrain 同时运行10到20个子智能体），PR 真的又多又猛。\" —— <a href=\"https://x.com/garrytan/status/2115193524152860771\" data-handle=\"garrytan\">@garrytan</a>\n</blockquote>\n\n<p>这是一个微小但有趣的信号：AI辅助编程的\"产出密度\"正在以肉眼可见的方式改变开发者的工作节律。</p>\n\n<hr>\n\n<h2><strong>智能体真正落地：从\"单次LLM调用\"到\"工作流重构\"</strong></h2>\n\n<p>今天最值得认真读完的一段话，来自 Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a>。他对当前企业AI应用现状做了一次清醒的诊断：</p>\n\n<blockquote>\n\"绝大多数企业工作流其实根本没有以任何有意义的方式应用过智能体。目前整个经济体的部署量可能还不到1%。最好的情况，是一家公司有几个自动化系统，做一次LLM的单轮调用来辅助决策或提供反馈，但几乎没有真正的'自动化'。\"\n</blockquote>\n\n<blockquote>\n\"这一切正在改变。有了计算机使用能力、长时运行的智能体、工具链改进和周边基础设施，我们终于到了可以将智能体应用于更复杂工作流的节点……这不会是用户提示智能体完成某个具体任务，而是组织重新设计底层工作流，让智能体融入其流程。\" —— <a href=\"https://x.com/levie/status/2115305369799110905\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a>（Replit CEO）的判断形成有趣呼应。他认为，前沿模型在编程和知识工作领域的优势正在被次前沿模型快速追平，真正的长期投资价值在于科学发现及其应用：</p>\n\n<blockquote>\n\"如果我投资前沿AI，我会主要押注于新发现及其应用——比如医学——因为编程和大多数知识工作正在被次前沿模型迅速饱和。\" —— <a href=\"https://x.com/amasad/status/2115207856496480261\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2><strong>AI原生交互与开源分发的下一个形态</strong></h2>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 分享了一个颇具启发性的个人实验：一个AI原生的 macOS Dock，可以根据用户当前活动实时切换\"写作模式\"\"构建模式\"等场景，并由智能体自动管理通知和注意力。他坦承目前仍有很多边界情况未处理，但这个方向值得关注——<strong>操作系统层面的AI原生交互</strong>，或许才是下一个真正的平台机会。</p>\n\n<p>同时，他还抛出了一个关于开源软件分发的深层问题：</p>\n\n<blockquote>\n\"感觉需要一种新的开源软件分发方式，让人们可以通过智能体进行修改，同时也能自动合并上游更新。编程智能体能做到这些，但它们不会自动去做。\" —— <a href=\"https://x.com/trq212/status/2115188992861970693\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>这是一个被低估的基础设施问题：当智能体成为主要的代码修改者，现有的 Git 工作流和开源协作模式是否还适用？</p>\n\n<hr>\n\n<h2><strong>创业常识的崩塌：联合创始人越多越好？</strong></h2>\n\n<p>最后，一个轻松的反常识时刻。<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">@mattturck</a> 指出：</p>\n\n<blockquote>\n\"常规创业建议：联合创始人太多是坏事！稀释太多！创始人摩擦风险！决策瘫痪！<br>\n然而：Anthropic 7位联创，OpenAI 11位联创，Databricks 7位联创。\" —— <a href=\"https://x.com/mattturck/status/2115132327131328806\" data-handle=\"mattturck\">@mattturck</a>\n</blockquote>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 的总结或许是最好的注脚：\"没有'正确'的方式，只有适合你的方式。\" 在AI时代，这句话或许比以往任何时候都更加适用——无论是对创业方法论，还是对那些\"差点就做了\"的想法。</p>"
+}
