@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T06:32:19.194Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Can You Use AI To Make Good Art? — With Fred Graver",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">Google is mounting a genuine comeback at the frontier, creative workers are renegotiating their relationship with AI tools, and a quieter philosophical debate about what technology is actually <em>for</em> is getting louder — all on the same Tuesday.</p>\n\n<h2>🏆 Comeback Season: Google Storms the Benchmarks</h2>\n\n<p>The AI rankings reshuffled again this week, and this time it's Google's turn in the spotlight. <a href=\"https://x.com/swyx/status/2115624308567658713\" data-handle=\"swyx\">@swyx</a> flagged what might be the day's biggest signal:</p>\n\n<blockquote>\n\"Gemini #1 on AAv5??? This is making me open up Antigravity for the first time in a long time... if Google actually pulls this off it is officially comeback season with Meta, Grok and now GDM being cool again. @saranormous talked about model neurodiversity last year. We have roughly 2x more frontier labs than when she was last on the AIE stage. Absolutely bizarre counter example to the bitter lesson.\"\n</blockquote>\n\n<p>That last line is the kicker. The \"bitter lesson\" in ML — that scale and compute beat hand-crafted approaches every time — has long suggested the field would consolidate around a few dominant players. Instead, the opposite seems to be happening: more labs, more competitive models, more genuine diversity at the frontier.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/joshwoodward/status/2115495943948902517\" data-handle=\"joshwoodward\">@joshwoodward</a> at Google confirmed the cadence is blistering:</p>\n\n<blockquote>\n\"2 weeks ago: Gemini 4 Argon. Today: Gemini 4 Carbon. The frontier is fast, and the internal vibes on this model are good. Rolling out to cyber defenders first, then more widely available as the next step!\"\n</blockquote>\n\n<p>Google also announced a practical consumer move: <a href=\"https://x.com/joshwoodward/status/2115580552170627080\" data-handle=\"joshwoodward\">Gemini can now connect to your Strava account</a> to turn years of workout logs into personalized coaching plans. It's a small product beat, but it signals the real race: who owns the personal data layer that makes AI actually useful day-to-day.</p>\n\n<hr>\n\n<h2>⚖️ The Inversion: Technical People Are Scared, Non-Technical People Want In</h2>\n\n<p>Perhaps the sharpest observation of the day came from <a href=\"https://x.com/trq212/status/2115544056038350960\" data-handle=\"trq212\">@trq212</a>, and it's already racking up tens of thousands of engagements:</p>\n\n<blockquote>\n\"Very weird thing happening rn — technical people are sad, they think their skills are now useless. Non-technical people are desperately wishing they were more technical so they could use agents better.\"\n</blockquote>\n\n<p>The same account captured the creative worker's equivalent of this anxiety — and its flip side:</p>\n\n<blockquote>\n\"I think the same is true of creative fields, like I see artists really worrying about AI — but I wish so badly that I could sketch animation ideas and character concepts for my agent to flesh out instead of trying to find examples. I don't have the language!\"\n</blockquote>\n\n<p>This is perhaps the central paradox of the current moment. The people who built the tools feel dispossessed; the people who could never access those tools feel newly empowered. The podcast conversation with Emmy-winning filmmaker Fred Graver on <em>AI & I</em> adds texture here. Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Can You Use AI To Make Good Art? — Every</a></p>\n\n<blockquote>\n\"The industry is in a tailspin. There are fewer opportunities for writers and producers and people who make things. And I really had the conviction that AI can help you figure out who you are, how you have to survive in this world, and also how to make things that will then promote you and promote your career.\" — Fred Graver\n</blockquote>\n\n<p>Graver's career arc — National Lampoon → Letterman → Norman Lear → Disney Imagineers → Twitter → Microsoft AI — is a useful lens for the current moment. His core thesis: technical skills get you in the door, and people who understand what's happening under the hood will be \"incredibly in demand.\" The show's host puts the stakes simply: \"Can you use AI to make good art, or can you only use it to make slop?\"</p>\n\n<hr>\n\n<h2>🏛️ Government and Enterprise: Claude Earns Its Keep</h2>\n\n<p>While the discourse debates displacement, the deployment numbers keep climbing. <a href=\"https://x.com/bcherny/status/2115491259381072269\" data-handle=\"bcherny\">@bcherny</a> shared a striking result from a real-world pilot:</p>\n\n<blockquote>\n\"Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot.\"\n</blockquote>\n\n<p>State government is not exactly the bleeding edge of tech adoption. The fact that it's working this well, this fast, says something. <a href=\"https://x.com/claudeai/status/2115467192276025500\" data-handle=\"claudeai\">Anthropic's Claude</a> also launched a legal-specific feature set — ready-made artifacts for contract review, regulatory scans, and cite checks — with a gallery model that lets firms customize and share across teams. The enterprise land-grab is very much underway.</p>\n\n<hr>\n\n<h2>🔧 Infrastructure: The Plumbing Gets Smarter</h2>\n\n<p>Beneath the model wars, a quieter but important infrastructure layer is taking shape. <a href=\"https://x.com/rauchg/status/2115539426684408300\" data-handle=\"rauchg\">@rauchg</a> at Vercel made the case for \"Agentic CI\" — letting AI agents not just write code but actively manage the continuous integration pipeline:</p>\n\n<blockquote>\n\"Agentic CI is the future of how we ship software. You can expect a lot of hooks and capabilities to make CI something far more intelligent, that can even capture the nuance and judgment an engineer would have ('Are those tests even worth running?')\"\n</blockquote>\n\n<p>Vercel also announced a partnership with Suhail's <strong>Particle</strong> — a model and inference startup — to serve its models via the Vercel AI Gateway. <a href=\"https://x.com/levie/status/2115516370695987435\" data-handle=\"levie\">@levie</a> framed the token economy behind this buildout:</p>\n\n<blockquote>\n\"Agents are going to consume 1,000X more tokens than we consume today. Because they're going to be running in our workflows, processing all of our data, building out nearly all software, securing enterprises, and much more.\"\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg/status/2115573969369845855\" data-handle=\"rauchg\">@rauchg</a> described the model aliasing concept that underpins Vercel's routing layer as \"like DNS for models\" — a clean analogy for giving teams traffic-steering control without locking into specific model versions.</p>\n\n<hr>\n\n<h2>💭 The Slow Burn: What Is Technology Actually For?</h2>\n\n<p>The most thoughtful piece of writing in today's feed came from <a href=\"https://x.com/ryolu_/status/2115683228027912634\" data-handle=\"ryolu_\">@ryolu_</a>, riffing on Engelbart's 1962 vision of augmenting human intellect — and worrying we're losing the thread:</p>\n\n<blockquote>\n\"Somewhere along the way, we started telling a much smaller story about a much more powerful technology. More automation. More agents. More software producing more software. More output from fewer people. More growth. More numbers to prove that something is happening. And less attention to the person any of this is supposed to be for.\"\n</blockquote>\n\n<blockquote>\n\"The machine can become more capable without making the person smaller. But that won't happen just because we make the models better. We have to care about it. Design for it. Notice when we are making someone more dependent while calling it empowerment... I don't want to measure the future only by how much work happens without us.\"\n</blockquote>\n\n<p>It's a long read, but worth the time. It sits in productive tension with everything else in today's digest — the benchmark wins, the token volume projections, the Agentic CI announcements. All of those are real. So is the question underneath them.</p>\n\n<p><a href=\"https://x.com/trq212/status/2115493334324310463\" data-handle=\"trq212\">@trq212</a> may have put it most succinctly: <em>\"Courage in shorter supply than genius.\"</em></p>",
+  "html_zh": "<p class=\"lead\">基准测试的王座悄然易主，Gemini 登顶 AAv5；与此同时，一场关于\"AI 究竟是在增强人类还是取代人类\"的深层讨论，正在硅谷最聪明的头脑之间悄然蔓延。</p>\n\n<h2>🏆 Gemini 卷土重来：Google 的复仇时刻</h2>\n\n<p>本周最令人振奋的消息，或许来自一个意想不到的方向。<a href=\"https://x.com/swyx/status/2115624308567658713\" data-handle=\"swyx\">@swyx</a> 对 Gemini 登顶 AAv5 基准榜首感到震惊，并表示要重新打开尘封已久的 <a href=\"https://x.com/antigravity\" data-handle=\"antigravity\">@antigravity</a> 进行评测：</p>\n\n<blockquote>\n\"如果 Google 真的做到了，那就正式宣告了复兴季的到来——Meta、Grok、还有现在的 GDM，都变得很酷了。前沿实验室的数量大约是去年的两倍，这与'苦涩的教训'形成了绝对诡异的反例。\"\n— <a href=\"https://x.com/swyx/status/2115624308567658713\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>与此同时，Google 旗下 Gemini 产品负责人 <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> 也在马不停蹄地推新功能。两周内，Gemini 4 从 Argon 迭代到了 Carbon，他写道：</p>\n\n<blockquote>\n\"前沿在快速移动，这个模型的内部氛围很好。先向网络安全防御者推出，然后更广泛地开放——这是下一步！\"\n— <a href=\"https://x.com/joshwoodward/status/2115495943948902517\" data-handle=\"joshwoodward\">@joshwoodward</a>\n</blockquote>\n\n<p>此外，Gemini 新增了与 <a href=\"https://x.com/strava\" data-handle=\"strava\">@Strava</a> 的集成，可以将多年的运动记录转化为个性化训练计划——AI 助理正在从工作场景向生活场景渗透，速度之快令人咂舌。</p>\n\n<hr>\n\n<h2>🏛️ 政府买单：Claude Code 进驻犹他州</h2>\n\n<p>如果说企业级 AI 落地还只是 PPT，那么犹他州的案例已经是实打实的数据了。Anthropic 工程师 <a href=\"https://x.com/bcherny/status/2115491259381072269\" data-handle=\"bcherny\">@bcherny</a> 分享了一则政府试点结果，堪称教科书级别的推广素材：</p>\n\n<blockquote>\n\"犹他州向 10 个州政府机构的 34 名开发者开放了 Claude Code。80% 的人在 30 分钟内就搭好了可运行的环境，71% 的人在四周试点结束后表示节省了 20 小时以上。\"\n— <a href=\"https://x.com/bcherny/status/2115491259381072269\" data-handle=\"bcherny\">@bcherny</a>\n</blockquote>\n\n<p>与此同时，Claude 也在法律领域发力。<a href=\"https://x.com/claudeai/status/2115467192276025500\" data-handle=\"claudeai\">@claudeai</a> 官方宣布推出 Claude for Legal，提供合同审查、监管扫描、引文核查等开箱即用的工作流模板。专业服务行业的\"AI 平权\"正在提速。</p>\n\n<hr>\n\n<h2>🔧 开发者基础设施：从 CI 到模型网关，一切都在\"智能化\"</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 本周抛出了\"AI 编程瓶颈\"的解法，并将 Agentic CI 定义为软件交付的未来：</p>\n\n<blockquote>\n\"现在你的 Agent 可以检查、中止、触发、重放 CI 流程……我们可以期待更多钩子和能力，让 CI 变得更智能，甚至能够捕捉工程师的细微判断——'这些测试值得跑吗？'\"\n— <a href=\"https://x.com/rauchg/status/2115539426684408300\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>他还将模型别名（Model Alias）比作\"模型的 DNS\"：</p>\n\n<blockquote>\n\"一个可以<em>解析</em>到某个模型的别名，赋予你流量调度能力。解决了大量问题：团队不会被困在旧版本，可以节省成本，消除'选择困难症'。\"\n— <a href=\"https://x.com/rauchg/status/2115573969369845855\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> 则从更宏观的视角做了预判：</p>\n\n<blockquote>\n\"Agent 消耗的 token 将是我们今天的 1000 倍。它们将运行在我们的工作流中，处理所有数据，构建几乎所有软件，保护企业……\"\n— <a href=\"https://x.com/levie/status/2115516370695987435\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>🎭 技术人的焦虑，非技术人的渴望</h2>\n\n<p>本周 AI 讨论区里转发量最高的一条推文，来自 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>，以令人不安的简洁点出了当下的结构性矛盾：</p>\n\n<blockquote>\n\"现在发生了一件很奇怪的事：技术人很沮丧，觉得自己的技能变得无用；非技术人却拼命希望自己更懂技术，这样才能更好地使用 Agent。\"\n— <a href=\"https://x.com/trq212/status/2115544056038350960\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>同一位作者也补了一句耐人寻味的话：<a href=\"https://x.com/trq212/status/2115493334324310463\" data-handle=\"trq212\">\"勇气比天才更稀缺。\"</a></p>\n\n<p>这种焦虑在创意领域表现得尤为明显。Every 播客本周邀请了四次艾美奖得主 Fred Graver，探讨 AI 能否用来创作真正好的艺术。Graver 的观点犀利而实用：</p>\n\n<blockquote>\n\"他们把 AI 当搜索引擎用，或者因为它给出错误答案而抓狂，却没意识到——这是一段关系。\"\n— Fred Graver，Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">Can You Use AI To Make Good Art?</a>\n</blockquote>\n\n<p>好莱坞的\"潜规则\"也被他顺带点破：AI 工具已被广泛使用，只是没人愿意公开承认。</p>\n\n<hr>\n\n<h2>🌱 增强人类，还是替代人类？一场关于计算本质的追问</h2>\n\n<p>在所有嘈杂的产品公告之外，<a href=\"https://x.com/ryolu_/status/2115683228027912634\" data-handle=\"ryolu_\">@ryolu_</a> 写下了今天最值得慢读的一段文字，回溯 Engelbart 1962 年关于\"增强人类智识\"的初心：</p>\n\n<blockquote>\n\"机器可以变得更强大，而不必让人变得更渺小。但这不会仅仅因为我们让模型变得更好而自动发生。我们必须去在乎它，为它设计，并在我们把依赖叫做赋权时认清真相。\"\n— <a href=\"https://x.com/ryolu_/status/2115683228027912634\" data-handle=\"ryolu_\">@ryolu_</a>\n</blockquote>\n\n<p>这段话与 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 的焦虑遥相呼应，也与 Fred Graver 对 AI 作为\"创作关系\"而非\"生产机器\"的理解一脉相承。当基准测试的数字每两周刷新一次，也许最值得追问的，仍然是那个最古老的问题：这一切，<em>究竟是为谁而建？</em></p>"
+}
