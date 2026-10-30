@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T06:32:11.233Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "the-mad-podcast-with-matt-turck": {
+      "name": "The MAD Podcast with Matt Turck",
+      "handle": "the-mad-podcast-with-matt-turck",
+      "bio": "Podcast: State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry's dual tempo — breathtaking capability progress and chaotic product growing pains — was on full display today, as Cursor reversed usage limit cuts, NotebookLM unlocked a library, and the smartest voices in the room debated whether AGI arrives in 2027.</p>\n\n<h2>The Cursor Pivot: From \"The Reset Company\" to \"The Token Company\"</h2>\n\n<p>The biggest drama of the day belonged to Cursor. After apparent community backlash over reduced usage limits, <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> (Thomas Sottiaux, Cursor's CEO) posted a remarkable reversal that racked up nearly 35,000 likes:</p>\n\n<blockquote>\n\"Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won't be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same.\"\n— <a href=\"https://x.com/thsottiaux/status/2115850175868727621\">@thsottiaux</a>\n</blockquote>\n\n<p>He followed up with characteristic wit: <a href=\"https://x.com/thsottiaux/status/2115851621137784832\">\"Graduating from The Reset Company to The Token Company.\"</a> The speed of the reversal — and the transparency of the day-count framing — suggests Cursor is operating in something close to permanent public beta, where community sentiment is a product signal. Love it or find it exhausting, it works.</p>\n\n<hr>\n\n<h2>The Coding Agent Paradox</h2>\n\n<p>Amid the vibe-coding boom, a necessary dose of skepticism arrived from <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>, whose observation went quietly viral:</p>\n\n<blockquote>\n\"There's 100% a kind of mania you can get into with coding agents, where it feels like you're getting a lot done and working all the time but nothing is really happening. I think it's often a form of avoidance of something else in life.\"\n— <a href=\"https://x.com/trq212/status/2115937378674372783\">@trq212</a>\n</blockquote>\n\n<p>It's a sharp cultural diagnosis. The dopamine loop of watching an agent churn — tickets closing, diffs merging — can mask whether anything meaningful shipped. Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> offered a more optimistic frame from the infrastructure side, noting that agents are already sending Vercel feedback on how to improve the platform: <a href=\"https://x.com/rauchg/status/2115874115118834153\">\"The future of software engineering is agents talking to other agents. Even across different companies.\"</a> The same technology; two very different relationships with it.</p>\n\n<hr>\n\n<h2>NotebookLM's Library Moment</h2>\n\n<p>Google's <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> announced what may be the most quietly significant product move of the week:</p>\n\n<blockquote>\n\"Notebook has just unlocked over 700 textbooks from the world's leading publishers. Every single one is available to you, completely free of charge!\"\n— <a href=\"https://x.com/joshwoodward/status/2115953461108023400\">@joshwoodward</a>\n</blockquote>\n\n<p>This is the Expert Intelligence program in action — grounding AI responses in authoritative, curated source material rather than the open web's noise. Over 1,100 likes and 122 retweets suggests the audience for \"AI that actually knows things\" is large and hungry. More updates are coming, Woodward teased.</p>\n\n<hr>\n\n<h2>AGI in 2027? Nathan Benaich Makes His Case</h2>\n\n<p>The day's most substantive conversation came from Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">State of AI 2026 — The MAD Podcast with Matt Turck and Nathan Benaich</a>, which covered the just-released State of AI Report. Benaich's AGI-by-2027 prediction is the headline, but his reasoning is worth sitting with:</p>\n\n<blockquote>\n\"I could see like in the next twelve months that whether it's legal, finance, like my investment job — thinking intelligently about topics I don't know — that the model could potentially be better than what I could do in any compressed amount of time that I have to do the work. And so for me, that would be like approximately AGI.\"\n— Nathan Benaich\n</blockquote>\n\n<p>He highlighted a striking data point from Anthropic: Claude was leading 26% of its measured model R&D in August — up from roughly 1% just months earlier. And on the question of \"research taste\" — whether AI can pick the <em>right</em> problem, not just execute on a given one — Benaich was cautiously optimistic, citing Anthropic's dual-arm experiments where human graders preferred a frontier model's research direction 64% of the time over the human path.</p>\n\n<blockquote>\n\"The cyber risk is much more real than AI exterminating humanity... It's bananas what's happened in the last year alone, so let's see AGI next year.\"\n— Nathan Benaich\n</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> echoed the acceleration theme from a business perspective, in one of today's more widely-shared threads: <a href=\"https://x.com/levie/status/2116029912243184006\">\"The curve of AI progress is basically going vertical right now, which means if you had codified your processes 3-6 months ago you're likely already behind again.\"</a> The implication for enterprises is uncomfortable: the finish line keeps moving.</p>\n\n<hr>\n\n<h2>Quick Hits: Claude Gets Wheels, Cloudflare Gets Ambitions</h2>\n\n<p><a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a> pushed a quietly delightful mobile update: <a href=\"https://x.com/claudeai/status/2115859388191912193\">voice mode now works with Apple CarPlay</a>, putting a frontier model in the passenger seat of your commute. A pull-down search for past chats is also coming to iPhone and iPad. Small features, but they signal Anthropic's intent to make Claude ambient rather than destination-only.</p>\n\n<p>And <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> flagged something worth watching: <a href=\"https://x.com/swyx/status/2115993441004036131\">\"excited for @Cloudflare's debut as a frontier lab.\"</a> Cloudflare stepping into AI infrastructure at a deeper level is a story that deserves more attention than it's currently getting — especially as the agent-to-agent communication layer becomes the next battleground.</p>",
+  "html_zh": "<p class=\"lead\">今天的核心议题是：AI能力的加速曲线正在拉开真正的赢家与输家，而这条鸿沟每隔几个月就会加深一次。</p>\n\n<h2>🏆 领先者与跟随者：一道越来越宽的鸿沟</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 写下了今天最值得收藏的一段话，直接点出了当前AI竞争格局的残酷性：</p>\n\n<blockquote>\n\"处于AI前沿的人与其他所有人之间的差距，已经大得几乎难以想象。更疯狂的是，这条线并没有在收窄，而是越拉越远。如果AI进步的曲线趋于平缓，大多数公司或许还有时间追赶。但实际发生的恰恰相反——AI进步的曲线几乎是在垂直向上。这意味着如果你在三到六个月前固化了自己的工作流程，你很可能已经落后了。\"\n<br>— <a href=\"https://x.com/levie/status/2116029912243184006\">@levie</a>\n</blockquote>\n\n<p>这段话与 <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 和风险投资人 <a href=\"https://x.com/nathanbenaich\" data-handle=\"nathanbenaich\">Nathan Benaich</a> 在播客中的讨论相互呼应。Watch/Listen: <a href=\"https://www.youtube.com/@DataDrivenNYC/videos\">State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?)</a></p>\n\n<blockquote>\n\"你要么拼命冲向前沿，要么活得足够久，最终沦为推理服务的提供商。\"\n<br>— Nathan Benaich\n</blockquote>\n\n<p>Benaich 今年在 State of AI 报告中首次做出了 <strong>AGI 2027</strong> 的预测。他的逻辑是：当模型在任何领域都只受限于算力和合成数据，而不是任务本身的复杂度时，AGI就已经很近了。</p>\n\n<hr>\n\n<h2>🤖 AI自我迭代：递归改进已不是假设</h2>\n\n<p>播客中最令人印象深刻的数据来自 Anthropic：Claude 在8月份已主导了该公司 <strong>26%</strong> 的可量化模型研发工作——而几个月前这一数字还是1%。</p>\n\n<blockquote>\n\"那是八月份的数据，听起来好像很久以前了。所以谁知道十月份是多少。\"\n<br>— Nathan Benaich\n</blockquote>\n\n<p>更有意思的是关于\"研究品味\"（research taste）的讨论。Benaich 引用 Anthropic 的实验数据：人类评审者有 <strong>64%</strong> 的概率更倾向于由新一代模型（Mythic 级别）主导的研究方向，而旧模型仅有约10%。换句话说，模型在\"选择正确问题\"这件事上，已经开始超越人类。</p>\n\n<blockquote>\n\"研究品味——也就是识别哪个问题值得探索——是我认为智能的核心标志之一，也是递归自我改进能否成功的关键变量。\"\n<br>— Nathan Benaich\n</blockquote>\n\n<hr>\n\n<h2>📚 Google NotebookLM：免费开放700本教材</h2>\n\n<p>今天最受欢迎的产品公告来自 Google。<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> 宣布：</p>\n\n<blockquote>\n\"Notebook 刚刚解锁了来自全球顶级出版商的700多本教材。每一本都对你完全免费开放！\"\n<br>— <a href=\"https://x.com/joshwoodward/status/2115953461108023400\">@joshwoodward</a>\n</blockquote>\n\n<p>这是 Google 更大的\"专家智能\"（Expert Intelligence）计划的一部分，还有更多更新即将到来。对学生和研究者而言，这或许是本周最实用的一个公告。</p>\n\n<hr>\n\n<h2>🛠️ 编码 Agent 的躁动与清醒</h2>\n\n<p>在工具层面，今天有几条值得关注的动态：<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel 的 Guillermo Rauch</a> 提出了一个有趣的愿景——未来是 agent 和 agent 之间的对话，甚至跨越不同公司；<a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit 的 Amjad Masad</a> 上线了直接粘贴 GitHub 链接即可运行任意仓库的功能；<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 则在力推 Particle-1 代码生成模型与 Capy agent 框架的组合。</p>\n\n<p>不过，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 给这股热情泼了一盆冷水，也是今天转发最多的观察之一：</p>\n\n<blockquote>\n\"和编码 agent 一起工作，有一种100%真实存在的狂热状态——感觉你做了很多事、一直在忙，但其实什么都没发生。我认为这往往是对生活中某些其他事物的一种逃避。\"\n<br>— <a href=\"https://x.com/trq212/status/2115937378674372783\">@trq212</a>\n</blockquote>\n\n<hr>\n\n<h2>🔔 Claude 的小更新，Cursor 的大逆转</h2>\n\n<p><a href=\"https://x.com/claudeai\" data-handle=\"claudeai\">Claude</a> 官方宣布了几项移动端新功能：CarPlay 语音模式支持，以及即将上线的 iPhone/iPad 下拉搜索功能。小步快跑，但方向清晰。</p>\n\n<p>而今天最戏剧性的事件来自 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Cursor 联合创始人 Thomas Sottiaux</a>，他在宣布削减用量限制后迅速遭到用户强烈反弹，随即全面撤回决定，并宣布为所有 Pro 用户<strong>加倍</strong>使用限额：</p>\n\n<blockquote>\n\"我们听到了你们的反馈，不会削减 Pro 200 的使用限制。今天起，我们将所有 Pro 100/200/500 及 Business Premium 等级的使用限额翻倍。\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2115850175868727621\">@thsottiaux</a>\n</blockquote>\n\n<p>他随后自嘲式地宣布：公司正式从\"重置公司\"（The Reset Company）更名为\"Token公司\"（The Token Company）。用户的声音，有时候还是管用的。</p>"
+}
