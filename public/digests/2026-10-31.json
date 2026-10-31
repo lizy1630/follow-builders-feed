@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T06:25:12.592Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Taking on ServiceNow: Coding Agents the Rest of Us with Serval Co-Founder and CEO Jake Stauch",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">A big day for AI product updates — Claude drops usage limits, Gemini lands on the iPhone Duo at launch, and a broader debate simmers about whether AI will wreck the economy or supercharge it.</p>\n\n<h2>Claude Goes Ultra: Anthropic Cleans Up Its Pricing (and Its Branding)</h2>\n\n<p>Anthropic made two moves today that power users have been waiting for. First, the company retired the awkward \"Max 5x / Max 20x\" naming in favor of something cleaner: <strong>Max</strong> ($100/month) and <strong>Ultra</strong> ($200/month). Second — and more importantly — it removed the five-hour usage cap that had been the bane of heavy Claude users on the top tier.</p>\n\n<blockquote>\n  \"We're removing the 5-hour limit for verified Ultra accounts... Newer accounts keep a temporary limit until they're verified, which helps us prevent fraud and abuse.\" — <a href=\"https://x.com/claudeai/status/2116220869479428500\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>The announcement (nearly 27,000 likes at time of writing) was one of the day's most-engaged posts. <a href=\"https://x.com/bcherny/status/2116222842413142111\" data-handle=\"bcherny\">@bcherny</a> confirmed the change with a terse post that racked up over 8,000 likes. <a href=\"https://x.com/alexalbert__/status/2116227345501880781\" data-handle=\"alexalbert__\">Alex Albert</a> offered his own editorial gloss:</p>\n\n<blockquote>\n  \"Ultra has a better ring to it than Max 20x. Also no more 5 hour rate limits for Ultra subs.\" — <a href=\"https://x.com/alexalbert__/status/2116227345501880781\" data-handle=\"alexalbert__\">@alexalbert__</a>\n</blockquote>\n\n<p>Weekly limits remain in place, so this isn't quite unlimited — but for the kind of users who were hitting the five-hour wall, it's a meaningful unlock. Meanwhile, <a href=\"https://x.com/steipete/status/2116153238563242385\" data-handle=\"steipete\">@steipete</a> used the moment to make a broader point about platform dependency, warning users that relying on any vendor means accepting their ability to change the rules at any time — a tension that's only going to grow as these tools become infrastructure.</p>\n\n<hr>\n\n<h2>Gemini and ryOS: The iPhone Duo Finds Its AI Companions</h2>\n\n<p>Apple's new iPhone Duo hardware is barely out and the AI ecosystem is already jockeying for position on it. Google moved fast.</p>\n\n<blockquote>\n  \"Last Friday, the iPhone Duo came out. @GeminiApp was there on day 1, optimized for it.\" — <a href=\"https://x.com/joshwoodward/status/2116220878593900775\" data-handle=\"joshwoodward\">@joshwoodward</a>\n</blockquote>\n\n<p>But the most visually striking reaction came from the indie side. <a href=\"https://x.com/ryolu_/status/2116126528060973480\" data-handle=\"ryolu_\">@ryolu_</a> posted a demo of <strong>ryOS running on the iPhone Duo</strong> — a custom OS layer that generated over 1,100 likes and a chorus of TestFlight requests. The cheeky tagline: \"better than iOS ☺️.\" It's exactly the kind of scrappy, imaginative response to new hardware that signals a healthy dev ecosystem forming around the device.</p>\n\n<p>Separately, <a href=\"https://x.com/thsottiaux/status/2116405414921384099\" data-handle=\"thsottiaux\">@thsottiaux</a> teased upcoming multi-account switching on mobile — and hinted at something bigger coming in the next two days with a cryptic \"👀.\"</p>\n\n<hr>\n\n<h2>The Agent Economy: From Self-Maintaining Software to Enterprise Guardrails</h2>\n\n<p>The race to make software agents actually <em>useful</em> — not just impressive in demos — dominated builder conversation today. <a href=\"https://x.com/amasad/status/2116343923925041462\" data-handle=\"amasad\">Amjad Masad</a> at Replit unveiled what he's calling <strong>Self-Maintaining Software</strong>:</p>\n\n<blockquote>\n  \"If you host your apps on Replit and enable 'autofix' it becomes Self-Maintaining Software.\" — <a href=\"https://x.com/amasad/status/2116343923925041462\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>Replit also launched a <strong>Government edition</strong> and published a whitepaper on sandboxing agents safely — a sign that the company is pushing hard into regulated, risk-sensitive verticals where the stakes for an agent doing something unexpected are considerably higher than in consumer apps.</p>\n\n<p>That exact tension — autonomy vs. control — sits at the heart of today's most substantive podcast. On <em>No Priors</em>, Jake Stauch, CEO of enterprise startup <strong>Serval</strong>, made the case that general-purpose AI agents fail in large organizations not because the AI is bad, but because enterprise permission structures are so constrained that even a brilliant agent can \"barely read your emails.\"</p>\n\n<blockquote>\n  \"The agent becomes pretty competent. They could theoretically just start writing code that could take action on all your systems, and that is an unbounded security risk that I don't think anyone's gonna be able to take anytime soon.\" — Jake Stauch, Serval\n</blockquote>\n\n<p>Serval's pitch: be the guardrail layer that makes coding agents safe enough for IT departments — who can then pass the capability to HR, finance, and legal. It's a distinctly unsexy value proposition (\"we are the guardrails\") but potentially a very large business if it works. Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — Taking on ServiceNow: Coding Agents for the Rest of Us</a></p>\n\n<hr>\n\n<h2>The AGI Optimism Wars</h2>\n\n<p>Every day now brings a fresh skirmish in the debate over what advanced AI actually means for human economic life. Today's most-liked contribution came from <a href=\"https://x.com/trq212/status/2116212322838655014\" data-handle=\"trq212\">@trq212</a>, who argued that catastrophist framings are themselves a kind of failure of imagination:</p>\n\n<blockquote>\n  \"The solution to economic doomerism is to be even more AGI-pilled. I believe in a well-aligned ASI that can explain its work and bring us along, one that makes each individual maximally effective.\" — <a href=\"https://x.com/trq212/status/2116212322838655014\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<blockquote>\n  \"Basically everyone is bad at predicting how more intelligence will actually show up in the economy. And the simplest answer of 'it'll cost a lot and unemploy everyone' is actually not very AGI-pilled imo — we should avoid hyperstitioning it into reality.\" — <a href=\"https://x.com/trq212/status/2116212324696777073\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg/status/2116369601508593911\" data-handle=\"rauchg\">Guillermo Rauch</a> kept it even simpler: <em>\"We're in humanity's golden age.\"</em> Meanwhile, <a href=\"https://x.com/mattturck/status/2116335155535052951\" data-handle=\"mattturck\">Matt Turck</a> poured cold water on a viral story about France allegedly moving to regulate AI, noting that the vote involved \"11 populist morons in the lower chamber\" with 35 of 577 MPs present — \"zero chance of becoming law,\" but \"still embarrassing.\"</p>\n\n<p>The optimism is easy to mock, but it's worth noting who's saying it: builders who are watching their tools improve in real time. <a href=\"https://x.com/rauchg/status/2116253050742694182\" data-handle=\"rauchg\">Rauch noted</a> that his AI systems are now \"continuously benchmarking and asking it to improve its own performance\" — self-improving infrastructure that was science fiction a couple of years ago. Whether that translates to broadly shared prosperity or concentrated gains remains the central unanswered question of the moment.</p>",
+  "html_zh": "<p class=\"lead\">今天的主旋律是<strong>边界的消融</strong>——AI工具的使用限制在松动，企业级自动化的门槛在降低，而乐观主义者与悲观主义者之间关于AI经济影响的论战，也比任何时候都更加激烈。</p>\n\n<h2>🤖 Claude Ultra：告别五小时魔咒</h2>\n\n<p>本周最受瞩目的产品动态，来自Anthropic。<a href=\"https://x.com/claudeai/status/2116220869479428500\" data-handle=\"claudeai\">@claudeai</a> 官方宣布对订阅计划进行品牌重塑，并取消了备受诟病的使用限制：</p>\n\n<blockquote>\n\"我们正在重命名 Max 计划：Max 5x → Max，Max 20x → Ultra。Max 依然 $100/月，Ultra 依然 $200。我们也正在为已验证的 Ultra 账户取消五小时使用限制，今天起对大多数现有订阅者生效。\"\n<br>— <a href=\"https://x.com/claudeai/status/2116220869479428500\" data-handle=\"claudeai\">@claudeai</a>\n</blockquote>\n\n<p>这条推文获得了近 27,000 个点赞，是今日全场数据最高的一条。Anthropic 产品负责人 <a href=\"https://x.com/bcherny/status/2116222842413142111\" data-handle=\"bcherny\">@bcherny</a> 也单独确认了这一消息，而 <a href=\"https://x.com/alexalbert__/status/2116227345501880781\" data-handle=\"alexalbert__\">@alexalbert__</a> 则补充道：</p>\n\n<blockquote>\n\"Ultra 听起来比 Max 20x 顺耳多了。另外，Ultra 订阅者不再有五小时速率限制。\"\n</blockquote>\n\n<p>值得注意的是，<a href=\"https://x.com/steipete/status/2116183103530217488\" data-handle=\"steipete\">@steipete</a> 对此表示认可，同时也借机提醒开发者：</p>\n\n<blockquote>\n\"这很聪明。奇怪的是这不是默认设置。不可预测的推理质量通常是我建议绕过中间商的原因。\"\n</blockquote>\n\n<p>同一天，Claude 还宣布即将支持移动端多账户切换功能，桌面端也即将跟进，构建者 <a href=\"https://x.com/thsottiaux/status/2116405414921384099\" data-handle=\"thsottiaux\">@thsottiaux</a> 在其连载\"产品日志\"第26天中透露了这一消息，并留下了耐人寻味的伏笔：\"接下来两天会有重置……储备……你们懂的 👀\"。</p>\n\n<hr>\n\n<h2>📱 新硬件，新战场：iPhone Duo 首日争夺战</h2>\n\n<p>苹果发布 iPhone Duo 的同一天，各大 AI 应用纷纷亮出了自己的成绩单。Google 的 <a href=\"https://x.com/joshwoodward/status/2116220878593900775\" data-handle=\"joshwoodward\">@joshwoodward</a> 宣布：</p>\n\n<blockquote>\n\"上周五，iPhone Duo 发布。@GeminiApp 在第一天就上线了，并专门为其进行了优化。\"\n</blockquote>\n\n<p>而独立开发者 <a href=\"https://x.com/ryolu_/status/2116126528060973480\" data-handle=\"ryolu_\">@ryolu_</a> 则用一种更叛逆的方式宣示存在——他将自己打造的 ryOS 运行在 iPhone Duo 上，并称其\"比 iOS 还好用\"，引发了超过 1,100 个点赞的关注。</p>\n\n<hr>\n\n<h2>🏢 企业级 AI 的\"护城河\"：Serval 的赌注</h2>\n\n<p>本期播客中，<strong>No Priors</strong> 访谈了 Serval 联合创始人兼 CEO Jake Stauch，他们聊的核心问题是：为什么面向普通员工的 AI Agent 在大企业里几乎无法落地？</p>\n\nWatch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Taking on ServiceNow: Coding Agents the Rest of Us — No Priors</a>\n\n<p>Jake 的判断直击要害——企业里个人权限的天花板，才是个人 AI 助手的真正敌人：</p>\n\n<blockquote>\n\"在大型企业里，有大量关于审批、关于你能做什么不能做什么的流程……你的个人权限受到极大限制，即使你被允许把自己的 Agent 带去工作——很多情况下你根本不被允许——它能做的事情也极其有限。它甚至几乎无法读取你的邮件。\"\n<br>— Jake Stauch，Serval CEO\n</blockquote>\n\n<p>Serval 的解法是：以 IT 部门为切入点，用代码生成 Agent 替代 ServiceNow 的昂贵顾问模式，同时引入严格的确定性审批流程和审计追踪。Jake 将其定位为\"<strong>面向普通人的代码 Agent</strong>\"，让不懂编程的 IT、HR、法务团队也能成为构建者。</p>\n\n<blockquote>\n\"Serval 就是那道边界，就是那道护栏。我们是让一个拥有大量规则、审批流程和政治博弈的大型企业，能够安全、舒适地大规模采用这些工具的方式。\"\n</blockquote>\n\n<hr>\n\n<h2>🌐 乐观主义作为一种战略</h2>\n\n<p>今天推特上还有一场低调但值得关注的思想交锋，主角是 <a href=\"https://x.com/trq212/status/2116212322838655014\" data-handle=\"trq212\">@trq212</a>，他对流行的\"AI 经济末日论\"发起了正面反驳：</p>\n\n<blockquote>\n\"几乎所有人都不擅长预测更强的智能究竟会如何在经济中显现。而'它会花很多钱并让所有人失业'这个最简单的答案，在我看来其实并不是真正的 AGI 信徒该有的观点。我们应该避免把它变成现实。\"\n</blockquote>\n\n<blockquote>\n\"对抗经济末日论的解药，是更彻底地相信 AGI。我相信一个对齐良好的 ASI——它能解释自己的工作，带着我们一起前进，让每个个体都能发挥最大的效能。\"\n</blockquote>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg/status/2116369601508593911\" data-handle=\"rauchg\">@rauchg</a> 的一句话则以极简的方式呼应了这种情绪：</p>\n\n<blockquote>\n\"我们正处于人类的黄金时代。\"\n</blockquote>\n\n<p>当然，并非所有乐观都指向宏大叙事。<a href=\"https://x.com/amasad/status/2116343923925041462\" data-handle=\"amasad\">Replit 创始人 @amasad</a> 发布了\"自我维护软件\"功能——开启 autofix 后，托管在 Replit 上的应用可以自动检测并修复问题；同时还宣布了面向政府机构的 Replit for Government 产品线。黄金时代，或许真的已经悄悄开始了。</p>"
+}
