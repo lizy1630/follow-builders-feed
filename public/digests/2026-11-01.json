@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T06:26:17.261Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "handle": "latent-space",
+      "bio": "Podcast: Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
+      "url": "https://www.youtube.com/@LatentSpacePod"
+    }
+  },
+  "html_en": "<p class=\"lead\">AI is quietly moving from productivity multiplier to something more fundamental — a new operating layer for entire businesses. Today's dispatches show that shift happening in real time, from wealth management back offices to the eternal debate over how hard to make your models think.</p>\n\n<h2>The \"Did You Really Need AI For That?\" Test</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> offered what might be the most useful benchmark for AI adoption floating around right now — a single question that cuts through the hype:</p>\n\n<blockquote>\n\"The simple test is: if you could have done what you're doing before AI, you're likely not pushing it enough.\"\n— <a href=\"https://x.com/levie/status/2116652002830963114\">@levie</a>\n</blockquote>\n\n<p>It's a provocative framing, but Levie's broader point holds up. He argues we've crossed a threshold where AI shouldn't just be making you marginally faster — it should be enabling qualitatively different outcomes entirely:</p>\n\n<blockquote>\n\"The research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could.\"\n— <a href=\"https://x.com/levie/status/2116652002830963114\">@levie</a>\n</blockquote>\n\n<p>He's careful to note that intelligence remains \"jagged\" — AI isn't uniformly smarter than us — but the combination of human judgment and AI capability is where the qualitative leap happens. It's less a prediction than a diagnostic tool for teams still using LLMs as glorified autocomplete.</p>\n\n<hr>\n\n<h2>Agents Running the Back Office: A Wealth Management Case Study</h2>\n\n<p>The most substantive material today comes from the <strong>Latent Space</strong> podcast, recorded live at AI Engineer New York 2026, featuring Aman Singh of <strong>Arca</strong> — a recently funded ($64M) AI-native wealth management firm. The conversation is a rare, granular look at what deploying agents in a regulated, high-stakes industry actually looks like.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Using Agents for Long-Horizon Financial Work — Latent Space Pod</a></p>\n\n<p>The core design philosophy at Arca is worth sitting with: clients never see the AI. They just experience better service.</p>\n\n<blockquote>\n\"The role of AI at Arca is not to replace the advisor. It is to replace all of the work around the advisor... All they experience is a level of service that has not been possible in this industry before, delivered through the empathy and care of a human advisor.\"\n— Aman Singh, Arca\n</blockquote>\n\n<p>Crucially, Singh describes a system where agents are proactive participants, not passive tools waiting to be prompted:</p>\n\n<blockquote>\n\"Agents prompt people more than people prompt agents — it is a proactive kind of service that is running for them twenty-four seven.\"\n— Aman Singh, Arca\n</blockquote>\n\n<p>The firm uses a tiered model architecture — Claude as the primary workhorse, with heavier tasks like tax analysis routed to \"Opus-tier\" models and lighter background activity handled by cheaper, faster options. All of this is abstracted away from the financial advisors entirely. Interestingly, Singh noted that a newer model (\"Luna\") failed their internal benchmarks despite strong external reviews — too slow, too costly — underscoring why Arca maintains its own evaluation suite and stays deliberately model-agnostic.</p>\n\n<p>Perhaps the most telling detail: a portfolio rebalancing workflow — from a client emailing a surprise tax bill to trades being reviewed and executed — spans <em>ten days</em>. Agents handle the analysis autonomously, but strict human-in-the-loop guardrails apply to any actual money movement or direct client communication. Long-horizon, multi-day agent runs are still the frontier; Arca is quietly living there.</p>\n\n<hr>\n\n<h2>The Inference Effort Wars: Tabs vs. Spaces, 2025 Edition</h2>\n\n<p>On the lighter (but genuinely useful) side of the builder discourse, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> waded into the ongoing debate about how much \"thinking\" effort to invoke from frontier models — and made a case for restraint:</p>\n\n<blockquote>\n\"low effort + critique loop > superultramaxhighwhatever (for the throughput-constrained)\"\n— <a href=\"https://x.com/swyx/status/2116642586387730593\">@swyx</a>\n</blockquote>\n\n<p>His point: for developers who are bottlenecked by review bandwidth rather than raw compute, iterating quickly on cheaper outputs often beats waiting for maximally-effortful generations. He also noted, almost in passing, that <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> uses <em>medium</em> effort on Claude Opus for his new project HackerTube — a data point that will inevitably be cited in every inference settings argument for the next six months.</p>\n\n<blockquote>\n\"Overall I think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours.\"\n— <a href=\"https://x.com/swyx/status/2116773135668404286\">@swyx</a>\n</blockquote>\n\n<p>It's a good reminder that \"more compute = better\" is a heuristic, not a law — and that for many workflows, the binding constraint isn't the model, it's the human on the other end.</p>\n\n<hr>\n\n<h2>The Rest</h2>\n\n<p>Halloween brought out the usual SF tech-culture observations. <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> captured the moment perfectly: <a href=\"https://x.com/nikunj/status/2116554844207198501\">\"what do you mean you dressed up as cybersecurity awareness month for halloween — I hate sf.\"</a> <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> argued Halloween should happen quarterly. No notes. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> spotted something that would, apparently, <a href=\"https://x.com/rauchg/status/2116710688550994042\">\"go so hard in SF\"</a> — context deliberately left as an exercise for the reader.</p>",
+  "html_zh": "<p class=\"lead\">当AI代理开始主动\"提示\"人类，而不再只是被动等待指令——金融行业的一场静悄悄的革命正在发生。与此同时，开发者们也在争论：究竟多大的\"努力\"才是正确的努力？</p>\n\n<hr>\n\n<h2>💼 AI原生财富管理：代理在前台，人类在把关</h2>\n\n<p>在纽约AI Engineer大会上，Arca的AI平台负责人Aman Singh分享了一个令人深思的案例。Arca刚刚完成6400万美元融资，是一家完全以AI驱动的财富管理公司——但他们最重要的设计决策，恰恰是让客户<em>感觉不到</em>AI的存在。</p>\n\n<blockquote>\n\"AI在Arca的角色，不是取代理财顾问，而是取代顾问身边所有的繁琐工作。我们的客户不直接与AI打交道。他们所体验到的，是这个行业从未有过的服务水准——通过人类顾问的同理心和关怀传递出来。\"<br>— Aman Singh，Arca AI平台负责人\n</blockquote>\n\n<p>更耐人寻味的是他们对\"主动性\"的重新定义：</p>\n\n<blockquote>\n\"代理主动提示人，远多于人主动提示代理。这是一种全天候为客户运行的主动服务。\"\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Using Agents for Long-Horizon Financial Work — Latent Space Podcast</a></p>\n\n<p>在技术层面，Arca构建了自己的模型无关（model-agnostic）调度框架：复杂的税务分析任务调用\"最重\"的模型层级（如Opus或重量级GPT），而大量后台活动则使用轻量模型。值得注意的是，他们曾测试过一款外部评测表现亮眼的新模型，最终因速度太慢、成本过高而放弃——内部基准永远比排行榜更诚实。</p>\n\n<p>最关键的\"人机边界\"设计：分析全部自动化，但凡涉及资金划转、资产清算或直接联系客户，必须有人工在回路中审批。一个典型案例横跨10天：客户发来一张10万美元税单，代理完成全部分析并给出投资组合清算方案，最终由人类顾问审核并执行交易。</p>\n\n<hr>\n\n<h2>⚙️ 努力等级之争：AI时代的\"Tab vs. 空格\"</h2>\n\n<p>本周，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 在推特上挑起了一场关于AI使用\"努力等级\"的轻松论战。他力推\"低努力+批评循环\"的工作流，并顺带爆料：</p>\n\n<blockquote>\n\"顺便说一句，<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">@karpathy</a> 在他最新项目（今天发布的 Hackertube）里用的是 Claude 的 medium 档。总体来说，我觉得对努力等级持强烈意见，就像'Tab vs. 空格'之争一样。随心调整就好——虽然我的方式肯定比你的更优越。\"<br>— <a href=\"https://x.com/swyx/status/2116773135668404286\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<blockquote>\n\"低努力 + 批评循环 &gt; 超超超高努力。（适用于受吞吐量限制的场景）\"<br>— <a href=\"https://x.com/swyx/status/2116642586387730593\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>这场争论的背后，其实是一个更深的工程哲学问题：在AI辅助开发中，\"用力过猛\"是否也是一种浪费？对于需要高频迭代的开发者而言，轻量推理加快速反馈的组合，可能远比单次重量级生成更有效率。</p>\n\n<hr>\n\n<h2>📏 你还没真正用上AI：一个简单的测试</h2>\n\n<p>Box的CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a> 给出了一个直截了当的自我检验标准，获得了广泛共鸣：</p>\n\n<blockquote>\n\"如果你现在做的事情，在没有AI的情况下你本来也能做到——那你很可能还没有真正用好AI。<br><br>\n大约六个月前，AI顶多让你原本能做的事快一点。但现在，我们正进入一个新阶段：与AI协作的产出，不仅应该在时间上大幅压缩，在质量上也应该远超你过去的上限。<br><br>\n产品原型不只是能跑，功能本身就应该比以前更好。工程架构应该能实现你以前追不上的性能目标。研究应该覆盖每一个维度的每一个事实。业务流程应该能从所有过去的失败中学习——这是任何人类都做不到的。\"<br>\n— <a href=\"https://x.com/levie/status/2116652002830963114\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这段话与Arca的实践形成了有趣的呼应：Arca的代理不只是\"帮顾问快一点\"，而是彻底改变了财富管理服务的可能性边界——让一个人类顾问能够维系以前需要整个团队才能支撑的客户关系深度。</p>\n\n<hr>\n\n<h2>🎃 硅谷日常：万圣节与第一场雪</h2>\n\n<p>技术之外，AI圈的人也是普通人。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 认为万圣节应该每季度举办一次（\"反正我只在乎变装\"）；<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 晒出了第一场雪的照片，同时吐槽旧金山有人把\"网络安全意识月\"当成万圣节服装——\"我恨旧金山\"。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 则转发了一张图，称\"这个在旧金山一定很燃\"。</p>\n\n<p>这些碎片提醒我们：即便在这个AI加速的时代，人类最持久的需求——节日、初雪、一点点荒诞的幽默——依然构成了这个行业最真实的底色。</p>"
+}
