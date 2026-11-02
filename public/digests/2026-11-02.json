@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T06:35:38.590Z",
+  "builders": {
+    "karpathy": {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "",
+      "twitter": "https://x.com/karpathy"
+    },
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market &amp; Origins of the Sandbox Bet",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">From a weekend hack that replaced YouTube's recommendation engine to GPU deals brokered on WhatsApp, today's feed captures a builder culture moving at a pace that makes traditional product timelines feel almost quaint — and raises serious questions about who controls your AI infrastructure.</p>\n\n<h2>🛠️ The Weekend Project That Shouldn't Have Been Possible</h2>\n\n<p>The most-shared item in today's feed is almost embarrassingly illustrative of the current moment. <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> spent a weekend building <strong>HackerTube</strong> — a curated video discovery site that filters 43 million Hacker News comments over 20 years down to 6,454 genuinely recommended videos. The kicker: he estimates about two hours of actual work, using Claude Opus 5.5.</p>\n\n<blockquote>\n\"I only talk to Claude and have it do everything. The only 'manual work' I helped with was in the browser: 1) I had to create some kind of API key from Google Cloud UI, 2) I booted up a VPS box for serving, and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it to update, secure, harden, deploy and optimize the code — and it did the whole thing.\" — <a href=\"https://x.com/karpathy/status/2116957135661945283\" data-handle=\"karpathy\">@karpathy</a>\n</blockquote>\n\n<p>The project is a neat critique of platform incentives baked into a product: thumbnails on HackerTube are pulled from the middle of the video rather than the \"super duper A/B test hyper-optimized\" images YouTube uses. The underlying data is <a href=\"https://x.com/karpathy/status/2116957135661945283\">available as a zip file</a> for anyone who wants to build their own version. Karpathy's closing question lands with weight:</p>\n\n<blockquote>\"Many awesome projects that would have normally taken weeks or months can now be few-shotted for breakfast. What else are we not thinking of.\" — <a href=\"https://x.com/karpathy/status/2116957135661945283\" data-handle=\"karpathy\">@karpathy</a>\n</blockquote>\n\n<hr>\n\n<h2>💸 Own Your Intelligence — Or Someone Will Sell It Back to You</h2>\n\n<p>Two threads today converge on a single anxiety: dependency. <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> fired a blunt warning at anyone coasting on subsidized AI access:</p>\n\n<blockquote>\"If you're enjoying a subsidized AI subscription get ready to get rug pulled.\" — <a href=\"https://x.com/amasad/status/2117010858845089805\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> took the argument further, framing infrastructure sovereignty as a first-order concern for any serious builder:</p>\n\n<blockquote>\"Own your intelligence. Anyone that opposes this has something to sell you — perhaps your own intelligence back to you. Local models need to continue proliferating. Own your harness, data, connections, runtime: your agents. Embrace open source.\" — <a href=\"https://x.com/rauchg/status/2117000819623243925\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>It's a tension the industry hasn't resolved: the convenience of hosted AI is real, but so is the platform risk. The most sophisticated builders are quietly hedging — <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> candidly noted he can't consolidate to one tool yet, using ChatGPT for browser/computer use, Claude for design and \"taste,\" and Grok for 24/7 scheduled agents.</p>\n\n<hr>\n\n<h2>🎲 The GPU Market Is Still a WhatsApp Group</h2>\n\n<p>While the application layer races ahead, the infrastructure beneath it remains charmingly chaotic. In a new episode of the Unsupervised Learning podcast, Modal CEO Eric Glyman gave perhaps the most vivid description yet of what it actually looks like to source compute at scale.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market & Origins of the Sandbox Bet</a></p>\n\n<blockquote>\"I went to GTC last year in San Jose. It was like an open air drug market, but GPUs. Walking around, talking to people, trying to get GPUs, meeting people in hotel lobbies, exchanging numbers... at some point we got connected with someone who had GPUs because our VP of sales' cousin was golfing with someone. There are many such cases.\"\n</blockquote>\n\n<p>Modal now does two to three compute deals <em>per week</em>, working with 25 different clouds globally — including, notably, GPUs in Indonesia. The fungibility problem is real: compute can't be traded on an exchange the way commodity futures can, because location, reliability, networking, and chip generation all vary wildly. Neo-cloud providers, Glyman noted with some diplomacy, include \"former crypto miners who haven't really thought about running a 24/7 operation.\"</p>\n\n<blockquote>\"We aggregate all this capacity. And when Neo Clouds die or have failures... we can just take it out of rotation. In many cases we just file a ticket automatically. Someone goes and looks at it.\"\n</blockquote>\n\n<p>Modal's value proposition, then, is being the abstraction layer above this chaos — so developers never have to golf with the right person's cousin.</p>\n\n<hr>\n\n<h2>🤖 From Individual Contributors to Agent Managers</h2>\n\n<p>The most intellectually substantive thread of the day came from <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a>, who articulated what's actually changing about knowledge work — not in the breathless way, but with some structural precision:</p>\n\n<blockquote>\"We're clearly moving from a world where agents help us do our work incrementally better or faster, to us helping agents do their work. This turns everyone in one of these positions to that of a manager of a team of agents, instead of an individual contributor with just some added leverage from AI.\"\n</blockquote>\n\n<blockquote>\"For essentially the history of knowledge work, the main variable you had to play with was hours of work done... Now we've separated these variables because agents can parallelize work for us. The people and organizations that discover this sooner will see compounding gains in their workflows.\" — <a href=\"https://x.com/levie/status/2117134917847093491\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>A complementary thought came from a <a href=\"https://x.com/petergyang/status/2116987415319740756\" data-handle=\"petergyang\">conversation Peter Yang surfaced</a> with a product director at Google Labs, asking what it means to have a \"user\" at all:</p>\n\n<blockquote>\"It really makes you question, why do you want a person in your product? Is your product something that needs a UI? Anytime I want to be entertained or consume something, I'm still the one using the product. But there are definitely products that I use today that I would be more than happy to not use — or at least not be the main person interacting with the interface.\" — @jacalulu, product director at Google Labs\n</blockquote>\n\n<p>That's the design question hiding underneath all the capability announcements: not <em>can</em> agents do this, but <em>who</em> is the product actually for?</p>\n\n<hr>\n\n<h2>🎮 On the Margins: Games, Trees, and the AI Taste Gap</h2>\n\n<p>A few lighter notes worth flagging. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> is building an AI-assisted game and <a href=\"https://x.com/trq212/status/2116976789046350040\">updated the art style</a> from 3D models to generated sprites this week, adding a taekwondo master who fights with fire — the kind of small creative decision that hints at how generative tools are reshaping solo game development. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> asked the obvious question no one had asked before: <a href=\"https://x.com/zarazhangrui/status/2117086544586780867\">what if your Linktree were an actual tree?</a> And Replit's <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> quietly dropped a feature worth noting: <a href=\"https://x.com/amasad/status/2116998155925360965\">a feedback widget that turns user complaints directly into agent build prompts</a> — closing the loop between what users want and what gets built, with no human PM in between.</p>\n\n<p><em>That last one might be the most consequential item buried in today's feed.</em></p>",
+  "html_zh": "<p class=\"lead\">AI开发者正以惊人的速度将几周的工程工作压缩进一个周末——而与此同时，整个行业开始认真思考：当智能体接管执行层，人类的角色究竟是什么？</p>\n\n<h2>🛠️ 周末项目的新标准：Karpathy的HackerTube实验</h2>\n\n<p>如果你还在用\"这需要几个月开发\"来为拖延找借口，<a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a> 这个周末的项目大概会让你坐立不安。他用约两小时、借助 Claude Opus 5.5，构建并部署了 <a href=\"https://t.co/JIhXN7OSh1\">HackerTube</a>——一个从20年、4300万条 Hacker News 评论中筛选出6454个优质视频的 YouTube 替代前端。</p>\n\n<blockquote>\n\"我只跟 Claude 说话，让它做所有事情。我唯一亲手做的'体力活'是：1）在 Google Cloud UI 创建 API key，2）启动一台 VPS，3）买了个域名。一旦服务器跑起来，我把 IP 给 Claude，告诉它去更新、加固、部署和优化代码——它全部搞定了。\"\n<br>—— <a href=\"https://x.com/karpathy/status/2116957135661945283\" data-handle=\"karpathy\">@karpathy</a>\n</blockquote>\n\n<p>更值得关注的是他结尾那句反问：<strong>\"原本需要几周甚至几个月的项目，现在可以在早餐前'few-shot'完成。我们还没想到的是什么？\"</strong> 这不是修辞，而是一个真实的工程问题。</p>\n\n<hr>\n\n<h2>🤖 从个人贡献者到智能体经理：工作角色的结构性重塑</h2>\n\n<p>Karpathy 的实验不只是一个酷炫的周末 hack——它是一场更大转变的缩影。<a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 用更系统的语言描述了这一趋势：</p>\n\n<blockquote>\n\"我们正在从'智能体帮我们把工作做得更快'，转向'我们帮智能体完成它们的工作'。这让每一个信息密集型岗位的人，都从个人贡献者变成了一支智能体团队的管理者……智能体可以为我们并行化工作，理论上可以执行我们完成任何目标所需的一切。越早发现这一点并重新组织运营的人和组织，将在工作流中看到复利式的收益。\"\n<br>—— <a href=\"https://x.com/levie/status/2117134917847093491\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>与此同时，Google Labs 产品总监在 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 的播客中抛出了一个更尖锐的问题：</p>\n\n<blockquote>\n\"这真的让你开始质疑：为什么你的产品里需要一个真人？你的产品真的需要一个 UI 吗？……凡是我今天还在用的产品，如果让智能体来做主要交互，我完全不介意。\"\n<br>—— <a href=\"https://x.com/petergyang/status/2116987415319740756\" data-handle=\"petergyang\">@jacalulu（Google Labs 产品总监）via @petergyang</a>\n</blockquote>\n\n<hr>\n\n<h2>💻 GPU市场：比你想象的还要混乱</h2>\n\n<p>在 Redpoint 的播客 <em>Unsupervised Learning</em> 中，<a href=\"https://www.youtube.com/@RedpointAI\">Modal CEO Eric 详细描述了当前 GPU 市场的真实状态</a>——令人惊讶地原始。</p>\n\n<blockquote>\n\"我去年参加了 GTC，就像一个露天毒品市场，只不过卖的是 GPU。就是走来走去，跟人搭话，试图搞到 GPU，在酒店大堂见人、交换联系方式……有一次我们能搞到 GPU，是因为我们销售副总裁的表弟在打高尔夫时认识了某人。类似的情况多了去了。这离一个有效市场差得远。\"\n<br>—— Modal CEO，<a href=\"https://www.youtube.com/@RedpointAI\">Unsupervised Learning Ep. 95</a>\n</blockquote>\n\n<p>Modal 目前与25家云服务商合作，每周签署两到三笔算力采购协议。他指出，算力市场难以标准化的核心原因是<strong>可靠性差异</strong>——\"有些供应商其实是前加密矿工，根本没认真考虑过7×24小时运营的问题。\"</p>\n\n<hr>\n\n<h2>🔓 \"拥有你的智能\"：开源与平台依赖之争</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 发出了今天最掷地有声的一句话：</p>\n\n<blockquote>\n\"拥有你的智能。任何反对这一点的人都有东西要卖给你——也许就是把你的智能再卖回给你。本地模型需要继续普及……拥抱开源。\"\n<br>—— <a href=\"https://x.com/rauchg/status/2117000819623243925\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit CEO Amjad Masad</a> 的警告形成呼应——他直接提醒用户：<a href=\"https://x.com/amasad/status/2117010858845089805\">\"如果你正在享受补贴的 AI 订阅，准备好被割韭菜吧。\"</a> 在算力成本居高不下、定价体系仍不透明的今天，平台依赖的风险不是抽象的。</p>\n\n<hr>\n\n<h2>🎮 边注：AI游戏创作的美学进化</h2>\n\n<p>在更轻松的一角，独立开发者 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 正用 AI 生成的精灵图（sprites）替换原有的3D模型，为他的格斗游戏增加了一位\"用火焰战斗的跆拳道大师\"角色。<a href=\"https://x.com/trq212/status/2116976789046350040\">效果出奇地有风格</a>——这提醒我们，AI 辅助创作的边界，正在从\"能不能做\"快速移向\"做得好不好看\"。</p>"
+}
