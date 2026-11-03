@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T06:27:49.784Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "handle": "latent-space",
+      "bio": "Podcast: Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "url": "https://www.youtube.com/@LatentSpacePod"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is bifurcating along a familiar axis: raw capability versus thoughtful deployment — and today's most interesting signals come from builders who've learned that shipping great software with AI is more about workflow architecture than model horsepower.</p>\n\n<h2>The Weight of the Future: Programming Models Directly</h2>\n\n<p>A quiet but profound shift is underway in how developers think about AI systems. <a href=\"https://x.com/swyx/status/2117492548780589510\" data-handle=\"swyx\">@swyx</a> reached for a literary frame, noting that \"with weight-space programming, we are now at paragraph 2 of Exhalation\" — a reference to Ted Chiang's story about beings who literally rewrite their own cognitive substrate. The analogy is apt: we're moving from prompting models to <em>editing</em> them.</p>\n\n<p><a href=\"https://x.com/garrytan/status/2117384926052135106\" data-handle=\"garrytan\">Garry Tan</a> picked up the thread, calling attention to \"interesting new use of smaller models: direct manipulation of weights\" — suggesting that the next wave of model customization won't just be fine-tuning on data, but surgical, targeted edits to model internals. For those tracking the arc of AI development, this feels like a genuine inflection.</p>\n\n<hr>\n\n<h2>The Infrastructure Layer Matures: Sandboxes, Agents, and Stateful Work</h2>\n\n<p>Several builders converged on a shared conviction this week: stateless AI tooling is a dead end. <a href=\"https://x.com/rauchg/status/2117338179535810957\" data-handle=\"rauchg\">Guillermo Rauch</a> put it plainly:</p>\n\n<blockquote>\"Stateless sandboxes are the wrong benchmark. Agents are only useful if they have their workspace with them — identity, skills, repos, memories…\"</blockquote>\n\n<p>Rauch's Vercel sandbox team is now running clusters across 19 global regions, with double-digit weekly growth in customer demand — a sign that production-grade agent infrastructure is no longer theoretical. Meanwhile, <a href=\"https://x.com/amasad/status/2117499074496872882\" data-handle=\"amasad\">Amjad Masad</a> added an important security note: \"AI agents should operate in dedicated, organization-controlled environments with limited access to the resources each task requires.\" As agentic workloads scale into enterprise, the blast radius question becomes unavoidable.</p>\n\n<p>On the product side, <a href=\"https://x.com/garrytan/status/2117410016730964358\" data-handle=\"garrytan\">Garry Tan</a> reported a striking personal data point from using Capy Captains, a multi-agent coordination tool: \"Being able to coordinate across captains and subthreads is an insane unlock\" — claiming a 5x increase in issue-fixing throughput overnight. Anecdote, yes. But the kind that starts category definitions.</p>\n\n<hr>\n\n<h2>Dot, Argon, Antigravity: The Model-Routing Wars Heat Up</h2>\n\n<p>The products that generated the most chatter today are united by a single architectural bet: no single model wins every task, so the smart play is intelligent routing. <a href=\"https://x.com/thsottiaux/status/2117283355427495983\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> teased Dot's approach succinctly:</p>\n\n<blockquote>\"Your dot will choose the best model for the task, drawing on different models for different parts of the work.\"</blockquote>\n\n<p>The team also dropped a Git-fu hint, with Sottiaux adding \"Excited the team is finally able to talk about it a bit\" — pointing to <a href=\"https://x.com/thsottiaux/status/2117412956950638872\">this thread</a> for context.</p>\n\n<p>Meanwhile, the tension between Argon and Antigravity (ChatGPT's rumored new interface) played out in real time. <a href=\"https://x.com/petergyang/status/2117333424403042330\" data-handle=\"petergyang\">Peter Yang</a> ran an informal head-to-head for copy editing:</p>\n\n<blockquote>\"ChatGPT's suggestions were almost entirely bad but Gemini's suggestions were actually great. Unfortunately, Antigravity doesn't seem to have working browser use so I basically have to paste all of Gemini's edits back into ChatGPT to make the edits in my browser.\"</blockquote>\n\n<p><a href=\"https://x.com/danshipper/status/2117363007340609556\" data-handle=\"danshipper\">Dan Shipper</a> offered a more sympathetic reading: \"Partly Argon is so good, partly Antigravity is stuck in 2025 so it doesn't have all of the crazy features and complexity.\" The harness, not the model, is often the bottleneck — a theme that keeps resurfacing across the builder community.</p>\n\n<hr>\n\n<h2>Legal AI Grows Up: Legora's Lessons from the Trenches</h2>\n\n<p>The <a href=\"https://www.youtube.com/@LatentSpacePod\">Latent Space podcast</a> published a sharp conversation with Jacob Lauritzen, CTO of Legora — one of the fastest-growing legal tech companies in history, out of Stockholm. The episode is a masterclass in pragmatic AI product development. Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Building Legal Agents When You Can't See the Data — Latent Space</a></p>\n\n<p>Lauritzen's model philosophy mirrors the routing-first thinking above. Legora uses different models for different subtasks, routing dynamically as it decomposes legal work — though he's candid about the product tension:</p>\n\n<blockquote>\"In the agent, there's a model selector for the primary model, but there are certain tools that we use different models in… I'm not sure if that's gonna stay there always, to be honest.\"</blockquote>\n\n<p>Perhaps the most telling moment: a citation accuracy problem that plagued an early model version resolved itself entirely with the next model release, jumping from 70% to 99% — with zero engineering effort from the Legora team. The double-edged sword of model dependency, made vivid. Lauritzen is sanguine about it, but also clear-eyed about where the ceiling is:</p>\n\n<blockquote>\"If you're doing a four hundred million dollar M&A transaction, you're gonna want Legora.\"</blockquote>\n\n<p>The company started with 20 engineers and a dream of staying lean forever. They're at 100 now, and Lauritzen admits \"it feels like we're way too small.\" Legal AI, it turns out, is less about replacing lawyers than about dramatically compressing the time it takes for a small team to do serious work.</p>\n\n<hr>\n\n<h2>The Price of Intelligence Is Falling, and Everyone Knows It</h2>\n\n<p>Perhaps the most-shared observation of the day came from <a href=\"https://x.com/trq212/status/2117305792923889731\" data-handle=\"trq212\">@trq212</a>, who distilled a week of experience with frontier models into one resonant line:</p>\n\n<blockquote>\"One week in, my takeaway is that you don't need unlimited tokens to do great work, the $200 plans are amazing — and this is the most expensive intelligence will ever be.\"</blockquote>\n\n<p>Nearly 7,000 likes suggests this landed. It's the kind of observation that sounds obvious in hindsight but shifts how you think about AI pricing, competition, and the value of moving fast today. Whatever you're building on these models, the cost curve only goes one direction. The question is whether your product's moat does too.</p>",
+  "html_zh": "<p class=\"lead\">AI行业正在悄然经历一场基础设施革命——从模型本身的编程方式，到代理运行的沙盒环境，再到垂直领域应用的爆炸式成熟，今天的信号共同指向一个结论：<strong>智能的基础设施时代已经到来。</strong></p>\n\n<h2>🧠 权重空间编程：一种全新的计算范式正在成形</h2>\n\n<p>本周最具哲学深度的观察来自 <a href=\"https://x.com/swyx/status/2117492548780589510\" data-handle=\"swyx\">@swyx</a>，他援引了科幻小说《呼吸》（Exhalation）的隐喻，指出我们正处于\"权重空间编程\"叙事的第二段——</p>\n\n<blockquote>「有了权重空间编程，我们现在处于《呼吸》的第二段。」<br>—— <a href=\"https://x.com/swyx/status/2117492548780589510\" data-handle=\"swyx\">@swyx</a></blockquote>\n\n<p>与此呼应，<a href=\"https://x.com/garrytan/status/2117384926052135106\" data-handle=\"garrytan\">Garry Tan</a> 也注意到这一趋势，转发了关于\"直接操控模型权重\"的新兴用法：</p>\n\n<blockquote>「小模型的有趣新用途：直接操控权重。」<br>—— <a href=\"https://x.com/garrytan/status/2117384926052135106\" data-handle=\"garrytan\">@garrytan</a></blockquote>\n\n<p>这不再是微调或提示工程，而是将模型本身作为可编程材料。这一范式若成熟，将从根本上改变AI开发的抽象层次。</p>\n\n<hr>\n\n<h2>🏗️ 代理基础设施：有状态沙盒才是正确答案</h2>\n\n<p>Vercel 创始人 <a href=\"https://x.com/rauchg/status/2117338179535810957\" data-handle=\"rauchg\">Guillermo Rauch</a> 对代理运行环境发表了一段掷地有声的判断：</p>\n\n<blockquote>「无状态沙盒是错误的基准。只有当代理携带自己的工作空间时，它们才真正有用——包括身份、技能、代码库、记忆……Vercel Sandbox 团队在延迟和吞吐量上持续交付，同时在全球19个区域部署集群，每周发布新功能，客户需求以两位数周增长。」<br>—— <a href=\"https://x.com/rauchg/status/2117338179535810957\" data-handle=\"rauchg\">@rauchg</a></blockquote>\n\n<p>他同时对 WebMCP 表示强烈看好。与此同时，<a href=\"https://x.com/amasad/status/2117499074496872882\" data-handle=\"amasad\">Amjad Masad</a> 强调了安全边界的重要性：</p>\n\n<blockquote>「AI代理应在专属的、由组织控制的环境中运行，对每项任务所需资源的访问权限应严格限制。」<br>—— <a href=\"https://x.com/amasad/status/2117499074496872882\" data-handle=\"amasad\">@amasad</a></blockquote>\n\n<p>两种声音并不矛盾，反而共同描绘出理想代理基础设施的轮廓：有状态、有边界、有安全护栏。</p>\n\n<hr>\n\n<h2>⚖️ 播客深度：法律AI的真实战场</h2>\n\n<p>本周最值得细听的播客来自 Latent Space，主角是法律AI独角兽 Legora 的 CTO Jacob Lauritzen。Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Building Legal Agents When You Can't See the Data — Latent Space Pod</a></p>\n\n<p>Legora 从斯德哥尔摩一间地下室起步，最初的产品不过是\"带瑞典法律检索工具的 ChatGPT\"。如今他们已扩张至百人规模，服务高达4亿美元的并购交易。Jacob 对模型选择的态度颇具代表性：</p>\n\n<blockquote>「我们根据任务使用多种不同模型。在代理中有一个主模型选择器，但某些工具会用不同的模型——比如 Tabular View。我们发现，把问题细分后再路由，效果最好。不过这个选择器是否会一直保留，我也不确定。」<br>—— Jacob Lauritzen，Legora CTO</blockquote>\n\n<p>他也坦承了一个行业共同困境——数据可见性：律所不会让你看到客户文件，这使得训练和评估极为困难。但模型能力的自然提升有时会意外解决问题：</p>\n\n<blockquote>「有个引用格式的问题，我们本来以为要自己修。结果下一个模型版本一出，准确率从70%直接跳到99%。我们什么都没做。」</blockquote>\n\n<p>对于\"AI会消灭律师\"的论断，Jacob 态度冷静：初级律师和律师助理的确面临压力，但顶级复杂交易依然需要人类判断——以及 Legora。</p>\n\n<hr>\n\n<h2>📈 产品信号：模型能力之外，\"套具\"才是瓶颈</h2>\n\n<p><a href=\"https://x.com/petergyang/status/2117333424403042330\" data-handle=\"petergyang\">Peter Yang</a> 分享了一个颇具代表性的用户体验：Gemini 的写作编辑建议远优于 ChatGPT，但因为 Antigravity（Google 旗下编辑工具）缺乏浏览器操作能力，他不得不手动将 Gemini 的建议粘贴回 ChatGPT 来执行。</p>\n\n<blockquote>「最适合写作与编辑的模型，正被其套具所拖累。」<br>—— <a href=\"https://x.com/petergyang/status/2117333424403042330\" data-handle=\"petergyang\">@petergyang</a></blockquote>\n\n<p>这句话是今天最精炼的产品洞察：<strong>模型能力已不再是唯一差距，工具链的完整性正在成为新的护城河。</strong></p>\n\n<p>另一条值得关注的信号来自 <a href=\"https://x.com/thsottiaux/status/2117283355427495983\" data-handle=\"thsottiaux\">@thsottiaux</a>（疑似 Google DeepMind 相关人士）：</p>\n\n<blockquote>「你的 dot 将为任务选择最佳模型，在工作的不同环节调用不同模型。」</blockquote>\n\n<p>多模型路由正在从架构选项变成产品标配。</p>\n\n<hr>\n\n<h2>💬 今日金句：智能的价格只会更便宜</h2>\n\n<p>今天转发量最高的洞察之一，来自 <a href=\"https://x.com/trq212/status/2117305792923889731\" data-handle=\"trq212\">@trq212</a>，简洁有力：</p>\n\n<blockquote>「用了一周，我的结论是：你不需要无限额度也能做出出色的工作，$200套餐已经非常惊人。而且——这是智能有史以来最贵的时刻。」<br>—— <a href=\"https://x.com/trq212/status/2117305792923889731\" data-handle=\"trq212\">@trq212</a></blockquote>\n\n<p>这句话获得了近7000个点赞。它既是对当下焦虑的安慰，也是对未来趋势的清醒预判：现在入场，成本只会越来越低。</p>"
+}
