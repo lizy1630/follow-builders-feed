@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T06:28:22.825Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "_catwu": {
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "twitter": "https://x.com/_catwu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is living in two speeds at once: elite practitioners are pulling away from the pack at an exponential rate, while even the most seasoned builders confess the technology is still maddeningly unfinished. Today's digest captures that productive tension.</p>\n\n<h2>The Productivity Chasm Is Widening — Fast</h2>\n\n<p>The most striking observation of the day came from <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a>, who put a number on something many are sensing but few have articulated clearly:</p>\n\n<blockquote>\n\"A few years ago the best productivity gains you could get, even in the most capability-aligned field (like coding), was maybe 30-50%... Now, the upper limits on productivity gains have gone from 30-50% to now likely 5-10X depending on the field. So we've gone from an environment where living at the frontier vs. not paying attention at all could be an order of magnitude difference in your output. This distance is only getting wider.\"\n<br>— <a href=\"https://x.com/levie/status/2117505799937577263\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>The flip side of that euphoria? The honest admission from <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a>, whose <a href=\"https://x.com/thsottiaux/status/2117746467058405665\">post garnered over 8,000 likes</a> — a signal that the sentiment resonated deeply:</p>\n\n<blockquote>\n\"Things will change again and again and again. We're still very early and agents today are incredible, and yet so frustrating still. Can't wait to crack things to get that flow state back. Long journey ahead.\"\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit offered a pithy diagnosis of the current moment: <a href=\"https://x.com/amasad/status/2117761721750475146\">\"We're deep in the chaotic phase of enterprise adoption of agents and vibe coding.\"</a> Chaos, it seems, is the texture of progress.</p>\n\n<hr>\n\n<h2>The Bitter Lesson Comes for Verification</h2>\n\n<p>A quietly provocative take from <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> — who is also speaking at the upcoming AIE SF conference — cuts against the current trend of building elaborate verification loops into agentic pipelines:</p>\n\n<blockquote>\n\"This is basically the bitter lesson at work — the smartest models will need fewer and fewer tokens, they won't need to verify their work or check it for bugs, they will just be right.\"\n<br>— <a href=\"https://x.com/trq212/status/2117670540148347273\">@trq212</a>\n</blockquote>\n\n<p>It's a contrarian bet: that the solution to agentic unreliability isn't more scaffolding, but smarter models that render the scaffolding obsolete. That said, Anthropic's own approach right now is <em>very much</em> in the verification camp. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> flagged a standout talk from AIE NYC where <a href=\"https://x.com/addyosmani\" data-handle=\"addyosmani\">Addy Osmani</a> described how <a href=\"https://t.co/bx6aYCqlW8\">Anthropic ships 30,000 code changes a day in a \"dark factory\" approach</a>, with independent verification baked into every loop — a methodology <a href=\"https://x.com/SonarSource\" data-handle=\"sonarsource\">SonarSource</a> is researching at scale.</p>\n\n<hr>\n\n<h2>Claude Code's Founding Moment — and Its First Goodbye</h2>\n\n<p>One of the most-shared posts today was a farewell. <a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Cat Wu</a>, an early member of the Claude Code team, announced her departure from Anthropic after two years — and her <a href=\"https://x.com/_catwu/status/2117731934340337676\">origin story is a perfect encapsulation of the product's arc</a>:</p>\n\n<blockquote>\n\"Two years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team. When we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. Today, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products.\"\n</blockquote>\n\n<p>The post crossed 9,400 likes — a reflection of how central Claude Code has become to the developer community's daily reality. Her departure also touches on a broader trend flagged by <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>: <a href=\"https://x.com/petergyang/status/2117825980115067035\">\"It feels increasingly normal to see very talented people leave AI-native companies after 1-2 years or less... I do wonder how sustainable these jobs are, especially for parents.\"</a> The intensity of building at the frontier extracts a real human cost.</p>\n\n<hr>\n\n<h2>Security, Tooling, and the \"Dark Factory\" Becomes Infrastructure</h2>\n\n<p>On the product side, two notable launches addressed the unglamorous but essential work of making AI-generated code trustworthy at scale. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> of Vercel unveiled what he describes as an internal security agent — \"lovingly called @hacker\" — now available externally as <strong>Vercel Security Review</strong>:</p>\n\n<blockquote>\n\"You cannot just bank on your engineers having a skill installed, prompting 'please make secure', or rolling the weights' dice that the code is good out of the gate... If you wanted to 'download a security team' as software, this is the closest you get today.\"\n<br>— <a href=\"https://x.com/rauchg/status/2117734833824948373\">@rauchg</a>\n</blockquote>\n\n<p>Separately, <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">Boris Cherny</a> announced a quality-of-life improvement for Claude's enterprise users: <a href=\"https://x.com/bcherny/status/2117693181651542387\">auto-connection to company plugins</a>, so teammates are signed in automatically rather than having to authenticate one by one. Small friction, big impact at org scale.</p>\n\n<hr>\n\n<h2>The Infrastructure Layer: Racing the Hyperscalers</h2>\n\n<p>This week's <em>Unsupervised Learning</em> podcast from Redpoint offers a valuable window into the AI cloud wars from someone operating inside them. Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up</a>. Nebius CTO Danila makes a sharp case for why the hyperscalers haven't captured this market — and may not:</p>\n\n<blockquote>\n\"There is a niche for an independent — as in not affiliated with a large company with huge internal consumption — player that will serve the markets of the mid-tier players who want to be the large companies... Google, Meta, and Microsoft have a lot of capacity but are constantly juggling between giving it out to the market to rent or giving it out to internal teams.\"\n</blockquote>\n\n<p>His demand forecast is bold: <em>\"I think the overall demand in the next three years will increase tenfold, hundredfold maybe. We are barely scratching the surface.\"</em> Whether you believe the number or not, the structural argument — that vertically integrated AI giants are poor neutral infrastructure providers — is increasingly hard to dismiss.</p>\n\n<hr>\n\n<p><em>The thread connecting today's feed: the gap between AI's promise and its daily friction is simultaneously the industry's biggest problem and its biggest commercial opportunity. The engineers living in that gap are building something genuinely new — and burning bright doing it.</em></p>",
+  "html_zh": "<p class=\"lead\">AI行业正站在一个奇特的分水岭上——工具已经强大到足以改变整个行业，却又让最资深的从业者感到既兴奋又迷茫。今天的信息流，从Claude Code的核心团队离职，到超大规模云计算的军备竞赛，无不折射出这个时代特有的张力。</p>\n\n<h2>🏁 一个时代的句号：Cat Wu与Claude Code的故事</h2>\n\n<p>本周最动人的一幕，来自<a href=\"https://x.com/_catwu\" data-handle=\"_catwu\">Cat Wu</a>在离开Anthropic时留下的告别信。这篇帖子迅速获得近万个点赞，成为今日AI圈最广为流传的内容。</p>\n\n<blockquote>\n\"两年前，当Claude Code还只是一个小型内部工具时，我让它帮我搭建一个强化学习环境。我引导了它数十个小时，但从未亲手写过一行代码。它成功了，我着迷了，于是加入了这个团队。<br><br>\n我们刚上线时，大多数用户手动批准每一个权限提示，主要用Claude来回答问题、写测试。而如今，默认设置是信任Claude的判断，让它自动批准。Claude在做大型代码迁移，在构建全新的产品。<br><br>\n帮助将Claude Code打造成一款定义行业的产品，是我人生中最难忘的旅程。\"<br>\n— <a href=\"https://x.com/_catwu/status/2117731934340337676\" data-handle=\"_catwu\">@_catwu</a>\n</blockquote>\n\n<p>两年，从\"手动批准每个权限\"到\"让Claude自主完成大型代码迁移\"——这段个人叙事，恰好也是整个行业的缩影。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>则<a href=\"https://x.com/petergyang/status/2117738099627450657\">调侃道</a>，\"难以置信竟有这么多人离开Anthropic去打《魔兽世界》……开玩笑的，Cat这是一段属于一代人的精彩旅程。\"</p>\n\n<hr>\n\n<h2>⚡ 生产力鸿沟：从30%提升到10倍的两年跨越</h2>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 写下了今天最值得收藏的一段分析，试图量化AI带来的生产力差距究竟有多大——以及这道鸿沟正在以多快的速度扩大。</p>\n\n<blockquote>\n\"就在两年前，即便是在最适合AI发挥的领域（如编程），你能获得的最佳生产力提升也不过是30%到50%。你还要花大量时间修正模型的错误，上下文窗口太小无法处理长时间任务，界面也要求高度同步的交互。<br><br>\n而现在，模型可以在有限人工干预的情况下完成更长的任务……生产力提升的上限，已经从30%到50%跃升至5到10倍。我们已经从一个'站在前沿与毫不关注之间差一个数量级'的环境，进入了一个差距更悬殊的新时代。\"<br>\n— <a href=\"https://x.com/levie/status/2117505799937577263\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 从模型能力的角度提供了理论支撑：</p>\n\n<blockquote>\n\"这基本上是'苦涩教训'（Bitter Lesson）的具体体现。最聪明的模型需要的token会越来越少，它们不需要验证自己的工作或检查bug，它们就是会直接给出正确答案。\"<br>\n— <a href=\"https://x.com/trq212/status/2117670540148347273\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>两个视角合在一起，描绘出同一幅图景：模型变得更强，同时也变得更自主——而这正是让生产力曲线突然变陡的根本原因。</p>\n\n<hr>\n\n<h2>🔐 安全与自动化：Vercel的\"安全特工\"</h2>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 今天宣布推出 Vercel Security Review，一个对所有代码库自动进行安全审计的AI Agent。他用了一个颇具画面感的描述：</p>\n\n<blockquote>\n\"Vercel有一个内部安全Agent，效果<strong>惊人地好</strong>（我们亲切地叫它'hacker'）。每一行代码都会被自动审计。<br><br>\n你不能只依赖工程师的个人技能，或者提示'请写安全的代码'，或者赌模型权重碰巧产出了没有漏洞的代码。<br><br>\n如果你想'把一个安全团队下载成软件'，这是当前最接近的选项。\"<br>\n— <a href=\"https://x.com/rauchg/status/2117734833824948373\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>在同一天，Anthropic的产品设计师 <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> 也宣布了一个小而实用的更新：Claude现在支持为团队自动连接插件，管理员配置一次，成员首次使用时即自动接入，省去了逐个登录的繁琐。<a href=\"https://x.com/bcherny/status/2117693181651542387\">这条推文</a>收获了近两千个点赞，可见开发者对\"减少摩擦\"的渴望程度。</p>\n\n<hr>\n\n<h2>☁️ 云计算的另一场战争：Nebius如何在AWS醒来之前跑赢</h2>\n\n<p>本周的播客精选来自 Unsupervised Learning 的<a href=\"https://www.youtube.com/@RedpointAI\">第96期节目</a>，对话 Nebius CTO Danila，聊的是一个被大多数人忽视的战场——AI云基础设施的中间层竞争。</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up</a></p>\n\n<blockquote>\n\"我们的收入大约是AWS的1%，但我们跑得很快。我们服务一个非常特定的市场……如果我对比两年前和现在所看到的，我们不过才刚刚触及皮毛。我认为未来三年的总体需求将增长十倍，甚至百倍。\"<br>\n— Danila，Nebius CTO\n</blockquote>\n\n<p>他的核心论点是：AWS、Google Cloud、Azure虽然拥有庞大的GPU算力，但它们始终在\"对外出租\"和\"内部自用\"之间左右为难。Nebius的机会，恰恰在于成为那个<strong>没有内部消耗包袱的独立AI云</strong>，专门服务那些\"想成为大公司\"的中型玩家。这个逻辑清晰，且目前来看，市场验证正在进行中。</p>\n\n<hr>\n\n<h2>🤔 行业情绪：兴奋与疲惫并存</h2>\n\n<p>最后，有几条更私人化的声音，值得记录。</p>\n\n<p><a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 的一条感慨，以8000多个点赞成为今日共鸣最强的帖子：</p>\n\n<blockquote>\n\"事情会一变再变。我们依然处于非常早期的阶段，今天的Agent既令人叹为观止，又让人沮丧至极。迫不及待想突破瓶颈，重新找回那种心流状态。前路漫漫。\"<br>\n— <a href=\"https://x.com/thsottiaux/status/2117746467058405665\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>而 OpenAI 的 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>，则在这股技术浪潮中，发出了一条关于人类主权的宣言：</p>\n\n<blockquote>\n\"人们应该始终掌控自己的未来。OpenAI反对这样一种观念：人们被降格为'做那些AI系统认为值得奖励的事情'是可以接受的。人们不应该将未来的控制权拱手相让给超级智能，这一要求应当最终约束AI的发展进程。\"<br>\n— <a href=\"https://x.com/sama/status/2117794005165748448\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>在一个工具日益自主的时代，这句话究竟是承诺，还是宣言，或许只有时间能给出答案。</p>"
+}
