@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T06:25:13.003Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "handle": "latent-space",
+      "bio": "Podcast: Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "url": "https://www.youtube.com/@LatentSpacePod"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is bifurcating along a familiar axis: those building the picks and shovels of a new computational era, and those asking what, exactly, we should be doing with them. Today's feed captures both impulses in full force.</p>\n\n<h2>🧬 Biology's World Model Moment</h2>\n\n<p>The most substantive conversation in today's feed comes from the <a href=\"https://www.youtube.com/@LatentSpacePod\">Latent Space AI for Science podcast</a>, featuring <a href=\"https://x.com/search?q=fabian+theis\" data-handle=\"fabtheis\">Fabian Theis</a> of Helmholtz Munich — one of computational biology's most productive labs. The episode is a masterclass in how the \"world model\" framing that has dominated language AI is now migrating to the life sciences.</p>\n\n<blockquote>\n\"From mapping, we went to prediction. But now we can go to actually steering the next experiment... A new thing we call Lab Compass, which is an inverse generative model that actually allows you, once you have a forward world model, to tell you what you need to do in order to reach a certain state. The ultimate vision being that we want to RL everything.\"\n<br><em>— Fabian Theis, Helmholtz Munich</em>\n</blockquote>\n\n<p>The framing is striking: biology has been stuck in a loop of map → paper → next project, with no compounding. Lab Compass proposes to close that loop, turning biological experimentation into something closer to a reinforcement learning environment. Theis also contextualizes why virtual cells — despite years of hype — are finally ready for their moment:</p>\n\n<blockquote>\n\"Pharma is really desperately needing to be cell type context specific in their screens, which at the moment they can't do yet on that scale... I hope that these are not just a kindling of a flame because everyone adds AI to their things.\"\n<br><em>— Fabian Theis</em>\n</blockquote>\n\n<p>The honest caveat at the end is worth noting. Theis is clearly aware of the hype cycle risk — and his lab's track record (Scanpy, AnnData, scVerse) gives him credibility when he says the data generation is now genuinely different. Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Controlling Biology — Fabian Theis, Latent Space Pod</a></p>\n\n<hr>\n\n<h2>🖥️ The Interface Layer Gets Interesting</h2>\n\n<p>Two of today's most-liked technical observations converge on a single question: where does the agent meet the human? <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> put forward what he's calling the dominant paradigm to come:</p>\n\n<blockquote>\n\"Generative UI for conversational agents. Combining @aisdk with Chat SDK and json-render, you can go straight from LLM to UI on platforms like Slack and Teams. I believe this will become the dominant Human-Agent Interaction (HAI) paradigm.\"\n<br>— <a href=\"https://x.com/rauchg/status/2118856239719608353\">@rauchg</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> spotted an adjacent pattern gaining traction in consumer apps:</p>\n\n<blockquote>\n\"A pattern I'm liking: creator apps like Instagram Edits and Roblox Studio shipping with built-in MCPs, so agents can do some of the work while power users can collaborate and continue the work in tools that they're used to.\"\n<br>— <a href=\"https://x.com/trq212/status/2118822238262853904\">@trq212</a>\n</blockquote>\n\n<p>The common thread: the interface isn't a chatbox or a dashboard — it's the tool you're already in, extended by an agent that hands work back to you. That's a meaningfully different vision from the \"autonomous agent that runs in the background\" school of thought, and arguably a more durable one for the near term.</p>\n\n<hr>\n\n<h2>📈 Watching the Anthropic IPO Clock</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> is launching what might become required reading for anyone tracking AI market structure: a weekly series on the Anthropic IPO, co-produced with <a href=\"https://x.com/jaminball\" data-handle=\"jaminball\">Jamin Ball</a>.</p>\n\n<blockquote>\n\"We are committing to weekly coverage of the Anthropic IPO all the way until it does or doesn't happen. Having covered mega-IPOs from $BABA to $TEAM, I get to dust off my equity hedge fund analyst hat with my AI Engineer hat once more.\"\n<br>— <a href=\"https://x.com/swyx/status/2118905788915982341\">@swyx</a>\n</blockquote>\n\n<p>The timing is deliberate. Anthropic's valuation trajectory, its revenue model, and its unusual public benefit corporation structure make it one of the most complicated IPO stories in recent memory. Swyx's dual lens — engineer and analyst — is exactly what this story needs.</p>\n\n<p>Separately, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> flagged a quieter consolidation trend worth watching:</p>\n\n<blockquote>\n\"Feels like all the apps that can use models from different labs like @conductor_build, Cursor and others are getting acquired by the labs themselves. The ones remaining like @t3dotcodes and @orca_build are open source. Personally I think there's still a lot of user and enterprise demand for apps that can use models from different labs.\"\n<br>— <a href=\"https://x.com/petergyang/status/2118811231545122998\">@petergyang</a>\n</blockquote>\n\n<p>This is a real dynamic: the multi-model middleware layer is getting quietly absorbed, leaving open-source as the only neutral ground. The question of whether labs will eventually wall off their models entirely — or whether enterprise demand for model agnosticism is enough to sustain an independent layer — is one of the more consequential structural questions in the industry right now.</p>\n\n<hr>\n\n<h2>😂 Vibes, Satire, and the Eval Tide</h2>\n\n<p>Not everything today was earnest. <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> posted a pitch-perfect (and explicitly labeled) satire of the current seed fundraising meta:</p>\n\n<blockquote>\n\"$200k for the launch video, $200k to promote the launch video... $500k for the tokens I'm going to obliterate to have a resemblance of a product. Again it's all token spend and no employee spend because VCs don't want that... incorporate the company as late as possible so I can claim 0→10M in revenue on day 14.\"\n<br>— <a href=\"https://x.com/nikunj/status/2118758688567792008\">@nikunj</a>\n</blockquote>\n\n<p>He adds the important caveat: \"every sentence in there individually has personally happened to me.\" The satire lands because it's largely documentary.</p>\n\n<p>On the more optimistic end, <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> offered a crisp encapsulation of what it feels like to build with increasingly capable models:</p>\n\n<blockquote>\n\"Eval-driven development loops for agent skills is necessary. Every new model gets better. You can remove things you don't need anymore. I just removed /investigate as a skill because Opus 5.5 does it better without it. You can feel the AGI tide rising.\"\n<br>— <a href=\"https://x.com/garrytan/status/2118920030243139596\">@garrytan</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> delivered perhaps the week's most viral reality check, with 2,200+ likes: <a href=\"https://x.com/trq212/status/2118859267314958761\">\"too many people building agents and not enough people using software to improve the quality of fish.\"</a> No notes.</p>",
+  "html_zh": "<p class=\"lead\">AI行业本周的焦点交织在三条主线之间：生物学与AI的深度融合正在悄然重塑药物研发，生成式界面正在重新定义人机交互范式，而创业生态系统则在泡沫与真实价值之间反复拉锯。</p>\n\n<h2>🧬 虚拟细胞：被低估的下一个战场</h2>\n\n<p>当大家的目光都聚焦在AlphaFold与蛋白质设计上时，一场更深层的革命正在细胞层面悄然发生。<a href=\"https://www.youtube.com/@LatentSpacePod\" data-handle=\"latentspacepod\">Latent Space</a> 本周邀请了 Helmholtz Munich 的 <a href=\"https://x.com/fabian_theis\" data-handle=\"fabian_theis\">Fabian Theis</a>，深入探讨虚拟细胞与系统生物学的前景。Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Controlling Biology - Fabian Theis, Helmholtz Munich</a></p>\n\n<blockquote>「我们现在真的可以开始引导实验本身了。从'绘图'到'预测'，现在我们可以走向真正的'干预'。我们把这个系统称为 Lab Compass——一个逆向生成模型，当你有了一个前向世界模型之后，它能告诉你需要做什么才能达到某个特定的细胞状态。」<br>—— Fabian Theis</blockquote>\n\n<p>Theis 坦言，\"扰动预测\"（perturbation prediction）正是当下虚拟细胞概念的核心——即给定不同输入，预测细胞的输出行为。他将其称为计算生物学的\"圣杯\"。与此同时，Biohub 刚刚宣布与 DOE、NIH、Meta 和 Google 达成18亿美元合作，用于收集和开源多尺度生物数据。这场数据军备竞赛，或许才是真正决定未来AI制药格局的底层变量。</p>\n\n<blockquote>「制药公司迫切需要在细胞类型层面进行特异性筛选，而目前他们还无法在这个规模上做到这一点。」<br>—— Fabian Theis</blockquote>\n\n<hr>\n\n<h2>🖥️ 生成式界面：人机交互的下一个范式</h2>\n\n<p>如果说过去一年是\"AI能做什么\"的探索期，那么现在的问题正在变成\"AI如何与人协作\"。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 本周抛出了一个颇具前瞻性的判断：</p>\n\n<blockquote>「将 AI SDK 与 Chat SDK 和 json-render 结合，你可以直接从大模型输出跳转到 Slack、Teams 等平台上的 UI 界面。我相信这将成为主流的人机交互（HAI）范式。」<br>—— <a href=\"https://x.com/rauchg/status/2118856239719608353\">@rauchg</a></blockquote>\n\n<p>与此同时，<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 观察到一个值得关注的产品趋势：</p>\n\n<blockquote>「我越来越喜欢这个模式：Instagram Edits 和 Roblox Studio 这样的创作者应用，内置了 MCP（Model Context Protocol），让 AI 代理可以完成部分工作，同时让高级用户在熟悉的工具中继续协作。」<br>—— <a href=\"https://x.com/trq212/status/2118822238262853904\">@trq212</a></blockquote>\n\n<p>这一\"AI代理+人类协作\"的混合模式，正在成为产品设计的新共识。</p>\n\n<hr>\n\n<h2>🏗️ 模型层吞噬应用层：独立者的出路在哪？</h2>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 本周提出了一个让许多创业者不安的问题：</p>\n\n<blockquote>「感觉所有能够调用多家实验室模型的应用——比如 Conductor、Cursor 等——都在陆续被实验室自己收购。剩下的独立者，比如 t3.chat 和 Orca，都是开源的。我个人认为，用户和企业对于'能灵活使用不同实验室模型'的需求依然很大。」<br>—— <a href=\"https://x.com/petergyang/status/2118811231545122998\">@petergyang</a></blockquote>\n\n<p>这道题没有标准答案，但方向已经清晰：要么被收购，要么走开源路线，要么找到模型层无法替代的独特价值。<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 则从另一个角度给出了实践者的洞察：</p>\n\n<blockquote>「以评估驱动的开发循环对于 Agent 能力来说是必要的。每个新模型都会更好。我刚刚移除了 /investigate 技能，因为 Opus 5.5 不需要它就能做得更好。你能感受到 AGI 的浪潮正在涌来。」<br>—— <a href=\"https://x.com/garrytan/status/2118920030243139596\">@garrytan</a></blockquote>\n\n<hr>\n\n<h2>💸 创业泡沫的镜中镜</h2>\n\n<p>本周最具娱乐性、也最具讽刺意味的内容来自 <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a>，他写了一段关于当下AI创业募资荒诞剧的\"饱和式讽刺\"：</p>\n\n<blockquote>「首先，我们要融$200万。为什么是$200万？很简单：$20万用于发布视频，$20万用于推广，$50万用于烧 token 来凑出一个勉强像产品的东西……然后用最有创意的财务指标来包装，把 LOI 说成 cARR，把 ARR 说成随便什么意思……当然要尽可能晚地注册公司，这样就能声称'第14天实现 0→1000万美金营收'。」<br>—— <a href=\"https://x.com/nikunj/status/2118758688567792008\">@nikunj</a>（注：这是讽刺，但他说每一句话都曾在现实中发生过）</blockquote>\n\n<p>这段文字的流传，折射出当下 AI 创业生态的真实焦虑：融资逻辑与产品逻辑之间的裂缝，正在被越来越多的人看见。</p>\n\n<hr>\n\n<h2>📡 值得关注的信号</h2>\n\n<ul>\n  <li><a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 宣布将与 <a href=\"https://x.com/jaminball\" data-handle=\"jaminball\">@jaminball</a> 联手，对 <strong>Anthropic IPO</strong> 进行每周持续追踪报道，直到上市或宣告终止。对于关注 AI 资本市场的读者，这将是不可错过的系列内容。</li>\n  <li><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 分享了一项研究：<a href=\"https://x.com/garrytan/status/2118950671886287323\">仅用300万 token 的普通人道德困境建议，就能将模型恶意行为降至0%，并实现跨代效率28倍提升。</a></li>\n  <li><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 的那条关于\"用 AI 提升鱼类品质\"的推文获得了2200+点赞，原文简洁有力：<a href=\"https://x.com/trq212/status/2118859267314958761\">「太多人在造 Agent，没有足够多的人用软件来提升鱼的品质。」</a>——这是一种对 AI 应用脱离实际的温柔嘲讽。</li>\n</ul>"
+}
