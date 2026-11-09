@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T06:36:37.960Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "handle": "latent-space",
+      "bio": "Podcast: [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE"
+    }
+  },
+  "html_en": "<p class=\"lead\">The defining tension of this AI moment isn't between humans and machines — it's between clarity and confusion, ambition and anxiety, speed and soul. Today's builders are wrestling with all three.</p>\n\n<h2>🤖 The Agent Era Is Here, and Our Brains Aren't Ready</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> published what may be the most cogent framing of the agentic shift we've seen in a while — not hype, but a genuinely useful mental model for why this transition feels different from prior AI waves.</p>\n\n<blockquote>\n\"We're moving from an era of AI where the output comes roughly at the rate that you can chat back and forth with the AI, to a period where you can set a problem for a set of agents to go off and do an arbitrarily large amount of work for you. This means productivity gains that are maybe 20–50% to gains that don't really have an upper limit.\" — <a href=\"https://x.com/levie/status/2119592025440092192\">@levie</a>\n</blockquote>\n\n<p>His follow-up thread is equally sharp: the unlock isn't just smarter models, it's models that can <em>use tools</em>. Security agents plugging into existing data feeds. IT agents executing across software stacks. Design agents wielding CAD software.</p>\n\n<blockquote>\n\"We are no longer dependent on <em>just</em> the models generating everything from whole cloth, but instead they can fully utilize existing systems very effectively. This creates immense leverage for agents.\" — <a href=\"https://x.com/levie/status/2119502716770902234\">@levie</a>\n</blockquote>\n\n<p>His practical advice: check back in every 3–6 months on use cases that previously failed. The models of six months ago are not the models of today.</p>\n\n<hr>\n\n<h2>🏫 Stanford Is Teaching What Twitter Has Been Arguing About</h2>\n\n<p>The <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>-hosted Latent Space podcast is celebrating one million subscribers with a timely episode: an interview with <a href=\"https://x.com/mihail_eric\" data-handle=\"mihail_eric\">Mihail Eric</a>, who teaches Stanford's CS146S — \"The Modern Software Developer\" — while simultaneously serving as Head of AI at Monaco.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=dpY7YzZo4kE\">How Stanford Teaches AI-Native Engineering — Latent Space</a></p>\n\n<p>The course, now in its second iteration, has evolved from a \"grand tour\" of AI coding tools into something more principled. Eric identifies context engineering and upfront design as the skills that separate productive AI-native engineers from people just generating slop.</p>\n\n<blockquote>\n\"A well-trained AI-native engineer can be some of the most useful assets at any company around... I really believe that every company needs you.\" — Mihail Eric, on the anxiety students feel about CS careers\n</blockquote>\n\n<p>His framing for students is reassuring without being naive: the anxiety is real, but the floor for a <em>genuinely skilled</em> AI-native engineer has never been higher. Traditional CS fundamentals remain the prerequisite — not the replacement.</p>\n\n<hr>\n\n<h2>🔨 \"Dumb First\" and the Philosophy of Building Well</h2>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> had a quietly viral moment with a deceptively simple principle that cuts against the grain of clever engineering culture:</p>\n\n<blockquote>\n\"Choose the dumbest architecture that'll work. Choose the dumbest design that gets the job done. Being clever means your users also have to be just as clever to understand your cleverness.\" — <a href=\"https://x.com/thenanyu/status/2119462979179892925\">@thenanyu</a>\n</blockquote>\n\n<p>He sharpened it further in a follow-up:</p>\n\n<blockquote>\n\"You should definitely pick 'dumbest' over 'simplest'. Simple is something you iterate to. Dumb is the correct starting point. Otherwise, you start to outsmart yourself.\" — <a href=\"https://x.com/thenanyu/status/2119493015190249556\">@thenanyu</a>\n</blockquote>\n\n<p>And the most quotable of the trio:</p>\n\n<blockquote>\n\"Software got a lot easier if you know what you wanna build, and a lot harder if you don't. With clarity, you can straight-shot to the solution. Without it, you'll ship a pile of junk and spend a lot of money doing it. Pre-AI era you would ship nothing, which is an improvement.\" — <a href=\"https://x.com/thenanyu/status/2119462224721002560\">@thenanyu</a>\n</blockquote>\n\n<p>This dovetails with a parallel conversation started by <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>, who is leaning hard into the inevitability of personal, just-in-time software:</p>\n\n<blockquote>\n\"Once you realize software is so easily changed with frontier models, these bugs become a little bit unbearable. And simultaneously, it seems obvious personal just-in-time software will be inevitable.\" — <a href=\"https://x.com/garrytan/status/2119612084220842483\">@garrytan</a>\n</blockquote>\n\n<hr>\n\n<h2>✨ Rebranding the Builder: Beyond \"Vibe Coding\"</h2>\n\n<p>A quieter but important cultural conversation is brewing around language. <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">Zara Zhang</a> made a crisp case for retiring a phrase that's overstayed its welcome:</p>\n\n<blockquote>\n\"I've almost stopped using the term 'vibe coding' because there's a negative connotation to it. It implies that you didn't put a lot of effort or soul into the output and it's just AI slop. But oftentimes people ARE putting their heart and soul into the work even when using AI coding tools. The 2 are not contradictory. We need a better word.\" — <a href=\"https://x.com/zarazhangrui/status/2119592080318341128\">@zarazhangrui</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> delivered what sounds like the philosophical companion piece to this debate — a full talk from AI Engineer Shanghai, with handmade Keynote slides and subtitles in both English and Chinese, asking a question worth sitting with:</p>\n\n<blockquote>\n\"When we can do anything, do we still know what we want?\" — <a href=\"https://x.com/ryolu_/status/2119586846657454152\">@ryolu_</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://t.co/EeyHu7l3Fc\">Full talk from AI Engineer Shanghai</a></p>\n\n<hr>\n\n<h2>🎵 Bonus: The Most Beautiful AI-Adjacent Thing Online Today</h2>\n\n<p>Not everything needs to be about productivity. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> built a WebGL2 + Web Audio physical simulation of a vinyl record player — and the engineering is genuinely jaw-dropping:</p>\n\n<blockquote>\n\"Instead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a second, and you hear the voltage that motion would induce in a cartridge. So the crackle, the pops, the wow/flutter, the dull inner grooves are natural byproducts of the simulation.\" — <a href=\"https://x.com/rauchg/status/2119536313712230802\">@rauchg</a>\n</blockquote>\n\n<p>Over 2,200 likes and counting. Sometimes the best demo of technical mastery is the one that makes you feel something.</p>",
+  "html_zh": "<p class=\"lead\">当AI从对话工具演变为自主执行复杂任务的\"智能体集群\"，整个科技行业正在经历一场认知革命——不仅是关于技术，更是关于人类如何重新定义工作、创造与意义。</p>\n\n<h2>🤖 智能体时代的临界点：计算力成为新变量</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 本周发表了一段颇具前瞻性的思考，将AI发展分为两个截然不同的阶段：一是与AI\"来回对话\"的时代，二是将复杂任务交给智能体集群\"无限并行\"处理的时代。</p>\n\n<blockquote>\n\"我们正在从AI输出速度大致与你聊天速度相匹配的时代，迈入一个可以让一组智能体去完成任意规模工作的时期。这意味着生产力的提升，从之前的20-50%，变成了没有上限。\"\n<br>— <a href=\"https://x.com/levie/status/2119592025440092192\">@levie</a>\n</blockquote>\n\n<p>他进一步指出，这一转变的关键在于智能体对现有工具和API的调用能力——网络安全、数据迁移、CAD设计工具，都将成为智能体的\"肢体延伸\"。而最深刻的挑战，或许是认知层面的：</p>\n\n<blockquote>\n\"我们的大脑并不是为这种新场景设计的——在那个场景里，计算力成了我们可以弹性调用来解决任何问题的变量。我们习惯于认为投入一项任务的时间与产出成正比。这一点正在永远改变。\"\n<br>— <a href=\"https://x.com/levie/status/2119592025440092192\">@levie</a>\n</blockquote>\n\n<p>Levie 还补充了一条实用建议：每三到六个月重新评估一次AI的能力边界，因为\"在AI历史上，没有哪个时刻比现在更需要这样做\"。</p>\n\n<hr>\n\n<h2>🏫 Stanford 课堂里的 AI 原生工程师养成记</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=dpY7YzZo4kE\">Latent Space — How Stanford Teaches AI-Native Engineering</a></p>\n\n<p>Latent Space 本周推出一期特别节目，庆祝 AI Engineer YouTube 频道突破百万订阅，对话嘉宾是 Stanford 兼职教授、Monaco AI 负责人 <a href=\"https://x.com/mihail_eric\" data-handle=\"mihail_eric\">Mihail Eric</a>。他主讲的课程 CS 146S《现代软件开发者》正在校园内迅速走红——其课程大纲几乎覆盖了所有 AI 原生开发的最佳实践。</p>\n\n<p>Eric 坦言，课程从第一年到今年的最大变化，是编程智能体从\"广度调研\"走向了\"原则固化\"：</p>\n\n<blockquote>\n\"去年的课程更像是一场大巡游——到处都在用编程智能体。今年，一些原则正在沉淀下来：非常细致的上下文工程，以及通过设计和架构来处理真正复杂任务的思维方式。\"\n<br>— Mihail Eric\n</blockquote>\n\n<p>对于\"还要不要学计算机科学\"这个让无数学生焦虑的问题，他的答案是肯定的，但角度独特：</p>\n\n<blockquote>\n\"一个训练有素的 AI 原生工程师，可以成为任何公司最有价值的资产之一。\"\n<br>— Mihail Eric\n</blockquote>\n\n<p>这门课的定位并非取代传统 CS 基础，而是在扎实地基之上，教会学生如何在真实生产环境中发挥最大效能——算法与数据结构是前置课程，不是竞争对手。</p>\n\n<hr>\n\n<h2>💻 \"笨\"才是正确的起点</h2>\n\n<p>当大家都在讨论智能体有多强大时，<a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 却在泼一盆冷水——一盆很有价值的冷水。</p>\n\n<blockquote>\n\"你应该选'最笨的'而不是'最简单的'。'简单'是你迭代出来的结果，'笨'才是正确的起点。否则，你会把自己绕进去。\"\n<br>— <a href=\"https://x.com/thenanyu/status/2119493015190249556\">@thenanyu</a>\n</blockquote>\n\n<p>他的另一条推文获得了263个点赞，可谓字字珠玑：</p>\n\n<blockquote>\n\"选择能用的最笨架构，选择能完成任务的最笨设计。聪明意味着你的用户也必须和你一样聪明，才能理解你的聪明。\"\n<br>— <a href=\"https://x.com/thenanyu/status/2119462979179892925\">@thenanyu</a>\n</blockquote>\n\n<p>他还点出了 AI 时代一个新出现的危险：</p>\n\n<blockquote>\n\"如果你知道自己要做什么，软件变得容易多了；如果你不知道，它就变得更难了。有了清晰度，你可以直接命中目标。没有清晰度，你会花很多钱，交出一堆垃圾。在前 AI 时代，你可能什么都交不出来——那反而还好一些。\"\n<br>— <a href=\"https://x.com/thenanyu/status/2119462224721002560\">@thenanyu</a>\n</blockquote>\n\n<hr>\n\n<h2>🏭 \"你需要自己的软件工厂\"</h2>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>（YC 总裁）本周连发数条推文，核心论点只有一个：个人定制化软件的时代即将到来。</p>\n\n<blockquote>\n\"你真的会想要拥有自己的软件工厂。\"\n<br>— <a href=\"https://x.com/garrytan/status/2119615647592395037\">@garrytan</a>\n</blockquote>\n\n<p>他还分享了自己用 <code>gstack-evals</code> 项目复现 Jev Engineering 文章的经历，并发现 particle-1 模型的表现甚至更好。与此同时，他感叹：一旦意识到前沿模型能如此轻松地修改软件，那些长期存在的 bug 就变得\"让人难以忍受\"，而\"即时生成的个人专属软件\"似乎已是必然趋势。</p>\n\n<p>这与 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 对\"vibe coding\"这个词的反思形成了有趣的呼应：</p>\n\n<blockquote>\n\"我几乎已经停止使用'vibe coding'这个词了，因为它带有负面含义——暗示你没有投入太多心血，只是在生产 AI 垃圾。但很多时候，人们即便在使用 AI 编程工具，也是全情投入的。两者并不矛盾。我们需要一个更好的词来描述这件事。\"\n<br>— <a href=\"https://x.com/zarazhangrui/status/2119592080318341128\">@zarazhangrui</a>\n</blockquote>\n\n<hr>\n\n<h2>🎵 当能力无限，我们还知道自己要什么吗？</h2>\n\n<p>本期最值得深思的内容，来自 <a href=\"https://x.com/ryolu_\" data-handle=\"ryolu_\">@ryolu_</a> 在 AI Engineer 上海峰会的演讲。每张幻灯片都手工制作于 Keynote，附有中英双语字幕，主题是一个哲学问题：</p>\n\n<blockquote>\n\"当我们能做任何事，我们还知道自己想要什么吗？\"\n<br>— <a href=\"https://x.com/ryolu_/status/2119586846657454152\">@ryolu_</a>\n</blockquote>\n\n<p>这个问题，或许正是整个 AI 行业在狂飙突进之余，最需要静下来认真回答的。Watch/Listen: <a href=\"https://t.co/EeyHu7l3Fc\">完整演讲视频（中英字幕）</a>。</p>\n\n<p>而 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel CEO Guillermo Rauch</a> 用一种更具体的方式诠释了\"纯粹的创造欲\"：他用 WebGL2 和 Web Audio 构建了一个黑胶唱片机的物理仿真，模拟针头每秒384,000次划过唱槽，连噪声、抖动和内圈音质衰减都是仿真的自然产物。<a href=\"https://x.com/rauchg/status/2119536313712230802\">项目链接与代码均已开放</a>，供所有人 remix。</p>\n\n<p>技术在加速，但人类对意义的追问从未停止。</p>"
+}
