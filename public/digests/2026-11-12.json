@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T06:28:54.625Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: A New Vision for Human Work After Automation",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  },
+  "html_en": "<p class=\"lead\">The Jensen Huang scandal is consuming AI Twitter's attention — but beneath the gossip, a quieter revolution in how humans and AI actually work together is producing the week's more durable ideas.</p>\n\n<h2>The Jensen Story Nobody Can Stop Talking About</h2>\n\n<p>It dominated feeds all day: reports of NVIDIA CEO <a href=\"https://x.com/nvidia\" data-handle=\"nvidia\">Jensen Huang</a> embroiled in personal controversy sent the AI community into full speculation mode. Reactions split sharply between the personal and the geopolitical.</p>\n\n<blockquote>\n\"Man I am so disappointed in Jensen. So many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the world... What the hell happened man?\" — <a href=\"https://x.com/petergyang/status/2120649149389627493\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>But <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> stopped short of calling for Huang's head, adding that \"before the board takes action they should do a proper investigation and involve shareholders.\" <a href=\"https://x.com/garrytan/status/2120657462353330604\" data-handle=\"garrytan\">Garry Tan</a> was blunter about the business stakes:</p>\n\n<blockquote>\n\"Seems ill advised for Nvidia's board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. His day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion.\" — <a href=\"https://x.com/garrytan/status/2120657462353330604\" data-handle=\"garrytan\">@garrytan</a>\n</blockquote>\n\n<p>The most provocative read came from <a href=\"https://x.com/amasad/status/2120671838909194695\" data-handle=\"amasad\">Amjad Masad</a>, who questioned the timing outright:</p>\n\n<blockquote>\n\"Why are old stories that were not even covered up all that well become sudden international and geopolitical news? If Jensen, the premier champion of open models, is taken out then anyone who wants AI closed, centralized, and controlled might benefit.\" — <a href=\"https://x.com/amasad/status/2120671838909194695\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>Conspiracy or not, the optics are messy — and <a href=\"https://x.com/mattturck/status/2120640868483006533\" data-handle=\"mattturck\">Matt Turck</a> <a href=\"https://x.com/mattturck/status/2120640868483006533\">captured the vibe succinctly</a> with a well-timed French executive GIF as a second Huang story surfaced.</p>\n\n<hr>\n\n<h2>The Intimate vs. The Aggregate: Dan Shipper's Case for Human Perspective</h2>\n\n<p>The most substantive idea of the day came from <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>'s closing talk at Every's conference, now available as a podcast episode. His argument cuts against both AI panic and AI triumphalism with unusual precision.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">A New Vision for Human Work After Automation — Every Podcast</a></p>\n\n<p>The setup: OpenAI's GDPVal benchmark shows AI beating human experts 83% of the time on economically valuable tasks in 2026, up from 12.4% in 2024. Shipper himself used Claude last week to do work that \"would have taken five people and $200,000\" — a data scientist, game developer, marketer, engineer, and BDR. And yet:</p>\n\n<blockquote>\n\"We gave everyone at Every access to the same customer survey and the same AI models. I found an opportunity to sell to teams. @poojary_yash saw that first-time subscribers were churning because we send too much email. @dabrundage noticed that many of our readers feel lonely. @jackcheng turned the results into a Claymation game show. Could you ask Claude to produce what each of them found? Maybe. But generating possibilities is cheap. Knowing which ones matter is hard.\" — <a href=\"https://x.com/danshipper/status/2120539547620790424\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p>His framing of \"aggregate vs. intimate\" is worth sitting with. The aggregate — benchmarks, scaling laws, trend lines — tells us AI capability is compounding fast. The intimate reveals what it actually means to use these tools inside a messy organization, with real responsibilities and real stakes. One of his researchers even ran an experiment: Claude given 400 attempts matched Shipper's Slack messages 93% of the time, but could only rank its own answers into his top 10% about 60% of the time. Generation is cheap. Judgment is not.</p>\n\n<blockquote>\n\"As models improve and spread, they raise the floor for everyone. The default answer becomes the baseline. The value is in using your perspective and responsibility to push past it.\" — <a href=\"https://x.com/danshipper/status/2120539547620790424\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> put a sharper point on the same idea with characteristic economy:</p>\n\n<blockquote>\n\"PSA: creating wonderful products still requires extraordinary amounts of human focus, effort, motivation, and love. And an attention span.\" — <a href=\"https://x.com/rauchg/status/2120601000176439478\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>The AI Infrastructure Stack, By the Data</h2>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> scraped sub-processor lists from 803 companies to map what AI-native builders are actually using under the hood. The findings are a useful reality check on market share narratives:</p>\n\n<blockquote>\n\"44% of companies list two+ model providers (up from 33%). Small n, but Anthropic grew twice as fast as OpenAI. 33% of companies list an inference provider (up from 22%). @modal continues to crush. @typesafeai is the breakout hit, going from 0 to many companies in a short period. Chinese models are primarily coming through video (think Bytedance) rather than text.\" — <a href=\"https://x.com/nikunj/status/2120669243918418237\" data-handle=\"nikunj\">@nikunj</a>\n</blockquote>\n\n<p>Sub-processor lists lag real usage, but they're one of the most reliable signals of genuine production deployment. The multi-provider trend is notable — hedging against model risk is becoming standard practice.</p>\n\n<hr>\n\n<h2>Where the Real AI Returns Will Come From</h2>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> at South Park Commons offered a clean taxonomy of the current startup landscape that cuts through a lot of noise:</p>\n\n<blockquote>\n\"There are basically two kinds of companies to build right now. 1. Diffusion of AI — the 'vertical SaaS' of today... 2. Frontier of AI — use AI to accelerate scientific progress, then build products from that progress. Category 2 is not well understood or much talked about externally. It should be because I think that is where the vast majority of model driven returns will come from.\" — <a href=\"https://x.com/adityaag/status/2120578134177464356\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p>His portfolio examples are striking: companies adding new chemical building blocks to proteins, genomic AI for autoimmune therapies, drug discovery from venoms, multi-physics modeling for semiconductors. This is a category that rarely makes the conference circuit but may be where the decade's most consequential companies are quietly assembling.</p>\n\n<hr>\n\n<h2>Quick Hits</h2>\n\n<p><strong>Google's new toy:</strong> <a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">Google Labs</a> launched <a href=\"https://x.com/GoogleLabs/status/2120549258692882702\">Tabletop</a>, a collaborative AI workspace for group planning — road trip maps, event brackets, seating charts. Light, consumer-y, and genuinely useful-sounding. US waitlist only for now.</p>\n\n<p><strong>Claude makes art:</strong> Artist Mariko Mori used <a href=\"https://x.com/claudeai/status/2120669165316915259\">Claude to write code for a computer-generated animation</a> as part of her three-decade retrospective \"All That Shines.\" A quiet reminder that the creative frontier is already here.</p>\n\n<p><strong>AIE World's Fair notes:</strong> <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> reported <a href=\"https://x.com/swyx/status/2120582147107078356\">standing room only</a> for <a href=\"https://x.com/poteto\" data-handle=\"poteto\">@poteto</a>'s keynote. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> is delivering what he's calling the \"sweet side of the bitter lesson\" — <a href=\"https://x.com/trq212/status/2120620900785820143\">a talk on how the experience of using coding agents could evolve next year</a>. Worth catching.</p>\n\n<p><strong>On technology disappearing into the background:</strong> A quietly resonant observation from <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a>: <a href=\"https://x.com/zarazhangrui/status/2120429971718156375\">\"Technology only finishes its most important work once the audience forgets the technology.\"</a> The best benchmark for AI's success may be how rarely we mention it.</p>",
+  "html_zh": "<p class=\"lead\">在 AI 能力以惊人速度侵蚀\"人类专属工作\"边界的今天，真正的问题不再是\"AI 能做什么\"，而是\"人类视角还剩下什么价值\"——与此同时，英伟达 CEO 黄仁勋的私生活风波让整个行业陷入一场关于权力、动机与时机的集体追问。</p>\n\n<h2>🧠 人类工作的未来：视角才是护城河</h2>\n\n<p>本周最值得细读的思考，来自 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 在 Every 旗下首届会议 Thesis: 2027 上的压轴演讲。他描述了自己上周在会议间隙完成的事情：分析季度客户调研、为全员会议 vibe-code 了一款实时视频游戏、发现了向企业团队销售 Every 的新机会，并顺手搭了一套 CRM 开始主动触达客户。</p>\n\n<blockquote>\n\"换成 2020 年的说法，这需要一名数据科学家、一名游戏开发者、一名产品营销、一名工程师和一名 BDR，大概要花掉 20 万美元。而我用一个 Claude 订阅，在一周的碎片时间里全做完了。\"<br>— <a href=\"https://x.com/danshipper/status/2120539547620790424\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p>但 Shipper 的核心论点并非\"AI 让人类失业\"，而恰恰相反。他把预测未来的方法分为两种：<strong>宏观聚合</strong>（收集大量数据、画出趋势线）与<strong>微观亲历</strong>（深入一个真实案例，从中外推）。OpenAI 的 GDPVal 基准测试显示，AI 在专家任务上击败人类的概率已从 2024 年的 12.4% 飙升至 2026 年的约 83%——这是聚合视角。</p>\n\n<p>但微观视角告诉我们另一件事：Every 团队里每个人用同样的调研数据和同样的 AI，得出的洞察截然不同。Shipper 发现了企业销售机会，另一位同事 Yash 发现新订阅用户因邮件过多而流失，还有人注意到读者群体的孤独感……</p>\n\n<blockquote>\n\"生成可能性是廉价的。知道哪些可能性真正重要，才是难的。\"<br>— <a href=\"https://x.com/danshipper/status/2120539547620790424\" data-handle=\"danshipper\">@danshipper</a>\n</blockquote>\n\n<p>这个论点得到了 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a>（Vercel CEO Guillermo Rauch）的呼应：</p>\n\n<blockquote>\n\"PSA：打造出色的产品，依然需要人类投入大量专注、努力、动力和热爱。还有——注意力。\"<br>— <a href=\"https://x.com/rauchg/status/2120601000176439478\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\nWatch/Listen: <a href=\"https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL\">A New Vision for Human Work After Automation — Every Podcast</a>\n\n<hr>\n\n<h2>⚡ 编程 Agent 的下一章：AIE 大会现场</h2>\n\n<p>AI Engineer World's Fair（AIE）本周在旧金山举行，现场人气爆棚。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 发布的一张照片显示 <a href=\"https://x.com/poteto\" data-handle=\"poteto\">@poteto</a> 的主题演讲\"座无虚席，连站位都没有\"——620 个点赞的共鸣说明了一切。</p>\n\n<p>压轴压轴压轴：Anthropic 研究员 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>（Thomas R.）拿到了大会\"闭幕主题演讲\"的位置——也就是所有人都累了或在赶飞机的那个时段。他对此毫不在意：</p>\n\n<blockquote>\n\"Swyx 给了我 AIE 大会的'闭幕主题演讲'，也就是所有人都累了或者在赶飞机的那场。如果你不在这两种情况之列，明天下午 5 点来听我的分享，主题叫'苦涩教训的甜蜜一面'。\"<br>— <a href=\"https://x.com/trq212/status/2120620900785820143\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<blockquote>\n\"内容关于我认为明年使用编程 Agent 的体验会是什么样，以及我们如何塑造它。\"<br>— <a href=\"https://x.com/trq212/status/2120621112807866620\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 爬取了 803 家公司的子处理商名单，得出了一份 AI 基础设施版图的\"真实账单\"：44% 的公司使用两个以上模型提供商，Anthropic 的增速是 OpenAI 的两倍；推理提供商 Modal 持续强势；而 <a href=\"https://x.com/typesafeai\" data-handle=\"typesafeai\">@typesafeai</a> 是本次统计中最大的黑马，从零暴涨至被众多公司采用。</p>\n\n<hr>\n\n<h2>🔬 AI 创业的两条赛道：扩散 vs. 前沿</h2>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">SPC 合伙人 @adityaag</a> 提出了一个清晰的框架，区分当下最值得下注的两类公司：</p>\n\n<blockquote>\n\"第一类是 AI 的扩散——这是今天的'垂直 SaaS'，核心是把 AI 推到工作发生的最近处。第二类是 AI 的前沿——用 AI 加速科学进步，再从这种进步中构建产品。这个类别更难被看见，但我认为绝大多数模型驱动的回报将来自这里。\"<br>— <a href=\"https://x.com/adityaag/status/2120578134177464356\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p>他举的例子包括：用 AI 向蛋白质添加数百种新化学构建模块的 Externa，以及从毒液中做 AI 加速药物发现的 VenomicsAI。这是一个被公开讨论严重低估的赛道。</p>\n\n<p>Google Labs 本周也推出了一个有趣的新实验 <strong>Tabletop</strong>——一个让\"我们应该去做\"真正变成\"我们在做了\"的协作 AI 空间，支持拖拽式座位图、实时排行榜、互动路线图等。目前在美国开放候补名单。(<a href=\"https://x.com/GoogleLabs/status/2120549258692882702\">原推</a>)</p>\n\n<hr>\n\n<h2>🔥 黄仁勋风波：丑闻、时机与阴谋论</h2>\n\n<p>本周科技圈最热的八卦，是关于英伟达 CEO 黄仁勋（Jensen Huang）的一系列报道——疑似婚外情涉及一名英伟达高管和另一名争议人物。反应迅速分成两极。</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 表达了真实的失望：</p>\n\n<blockquote>\n\"我对 Jensen 太失望了。那么多人曾把他视为榜样，包括我。从洗碗工、服务员一路做到全球市值最高公司的 CEO……这到底是怎么了？\"<br>— <a href=\"https://x.com/petergyang/status/2120649149389627493\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>但 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit CEO @amasad</a> 更关注的是时机问题：</p>\n\n<blockquote>\n\"这些并未被刻意掩盖的旧事为何突然成为国际新闻？时机很可疑，值得追问：谁从中获益，为何偏偏是现在？如果 Jensen——开放模型的头号倡导者——被拿下，任何希望 AI 保持封闭、集中和受控的人都可能从中受益。\"<br>— <a href=\"https://x.com/amasad/status/2120671838909194695\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Y Combinator CEO @garrytan</a> 则从市场角度表态：</p>\n\n<blockquote>\n\"英伟达董事会若要驱逐 Jensen Huang，似乎是个极不明智的决定——他的领导力对这台'未来丰盛引擎'的运转至关重要。很难想象权力交接不引发大规模市值崩塌。\"<br>— <a href=\"https://x.com/garrytan/status/2120657462353330604\" data-handle=\"garrytan\">@garrytan</a>\n</blockquote>\n\n<p>目前整个事件仍高度不确定。值得关注的是，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 也发推提醒，已有冒充 Latent Space 员工的诈骗邮件出现，使用的是伪造域名——混乱时期，骗子从不缺席。</p>\n\n<hr>\n\n<h2>✨ 编辑尾注</h2>\n\n<p>今天还有一句话值得收藏，来自 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 转述的一个观点，或许是对整个 AI 时代最深刻的预言：</p>\n\n<blockquote>\n\"技术只有在让用户忘记技术本身时，才真正完成了它最重要的工作。\"\n</blockquote>\n\n<p>当 Claude 帮艺术家 Mariko Mori 写代码生成动画装置、当 Dan Shipper 在开会间隙顺手建了个 CRM——那个让人\"忘记技术\"的时刻，或许已经悄然到来。</p>"
+}
