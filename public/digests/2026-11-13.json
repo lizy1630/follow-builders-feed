@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T06:28:02.651Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "alexalbert__": {
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI",
+      "twitter": "https://x.com/alexalbert__"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">Google's Gemini 4 Hydrogen lands with a bang, Claude quietly walks into your meetings, and the AI world keeps one eye on the Jensen Huang saga — a day of product launches shadowed by human drama at the top of the chip stack.</p>\n\n<h2>🚀 Google Drops Gemini 4 Hydrogen — and It's Fast</h2>\n\n<p>The day's biggest product news came from Google, where <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> announced <strong>Gemini 4 Hydrogen</strong>, a new model rolling out in the Gemini app now:</p>\n\n<blockquote>\n\"Introducing Gemini 4 Hydrogen, cutting-edge intelligence for everyone! Now in @GeminiApp. It's fast. It's smart. It's a big jump. Enjoy!\" — <a href=\"https://x.com/joshwoodward/status/2120942262054232392\">@joshwoodward</a>\n</blockquote>\n\n<p>The hardware side got some attention too: Hydrogen is launching alongside a point-of-view AI glasses push, available for pre-order at select Warby Parker, Gentle Monster, and Google stores, shipping December 10th.</p>\n\n<p>Early enterprise benchmarks back up the hype. <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> of Box shared real numbers from production testing:</p>\n\n<blockquote>\n\"Hydrogen is 5 percentage points better in accuracy than Gemini 3.8 Flash. That alone would be a great boost in capability, but possibly more importantly it did the tasks in less than half the time with about 12% fewer tokens on a typical task... Gemini team is definitely cooking.\" — <a href=\"https://x.com/levie/status/2120947988143198302\">@levie</a>\n</blockquote>\n\n<p>Half the time, 12% fewer tokens — for enterprise document work across finance, life sciences, and consulting, that's not an incremental win. That's a repricing of what a \"fast\" model can do.</p>\n\n<hr>\n\n<h2>🤝 Claude Joins the Meeting</h2>\n\n<p>Anthropic quietly shipped one of the more practically useful AI features in recent memory: <strong>Claude Meetings</strong>, a live Google Meet integration that lets Claude participate as a visible participant, answer questions in real time, and generate notes and action items afterward.</p>\n\n<blockquote>\n\"Claude joins as a visible participant. Ask it a question out loud or in chat, or have it start a doc. Your team can see what it's building and correct it as it takes shape.\" — <a href=\"https://x.com/claudeai/status/2120973996304830859\">@claudeai</a>\n</blockquote>\n\n<p><a href=\"https://x.com/alexalbert__\" data-handle=\"alexalbert__\">Alex Albert</a> of Anthropic framed the product philosophy well:</p>\n\n<blockquote>\n\"A lot of getting good work out of Claude now is just finding the context it's missing and figuring out how to close that gap. Claude Meetings is one way to bring in the remaining slices and has proved very useful internally.\" — <a href=\"https://x.com/alexalbert__/status/2120983722182988206\">@alexalbert__</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>, with characteristic wit, imagined Claude's reaction to its first meeting — and the broader point isn't lost: AI is moving from async text box to live collaborator. Support for other video conferencing platforms is coming soon.</p>\n\n<hr>\n\n<h2>🏗️ Agents Are Eating the UI Stack</h2>\n\n<p>A thread worth saving: <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> laid out a sharp thesis on what happens to frontend frameworks and component libraries in the agentic era:</p>\n\n<blockquote>\n\"What happens to frameworks in the agents era? to component libraries? to @shadcn? The answer is: we need to drill deeper. Delete the part, optimize, accelerate, automate. UI SDK is like the x86 instruction set for agents to build new UI components spontaneously. Agents are the new design engineers, and they're ready to build <em>anything</em> you ask, tailored to your usecase. High-level, rigid, single-framework abstractions are like kryptonite for what is essentially an infinite, untiring creation machine.\" — <a href=\"https://x.com/rauchg/status/2120966768483262648\">@rauchg</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> at Replit pushed the agent-as-actor thesis further into commerce: Replit Agent can now buy ads on behalf of your business. The line between \"AI assistant\" and \"AI employee\" keeps blurring.</p>\n\n<p>And <a href=\"https://x.com/steipete\" data-handle=\"steipete\">Peter Steinberger</a> shared a worthwhile read on the infrastructure side: Watch/Listen: <a href=\"https://x.com/steipete/status/2121058770767982997\">how his team runs persistent agents inside OpenAI</a> — the engineering of keeping agents alive and stateful remains a genuinely hard problem.</p>\n\n<hr>\n\n<h2>⚡ The Jensen Huang Situation</h2>\n\n<p>The day's gravitational center for tech Twitter wasn't a product launch — it was the unfolding Jensen Huang controversy, involving allegations of foreign ties, congressional scrutiny, and personal scandal. The mood among longtime AI industry observers ranged from grief to dark wit.</p>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">Aditya Agarwal</a> was blunt:</p>\n\n<blockquote>\n\"We would not be where we are today without Jensen. It is viscerally painful to see what is happening.\" — <a href=\"https://x.com/adityaag/status/2120924059709956201\">@adityaag</a>\n</blockquote>\n\n<p><a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> tallied the institutional loss if Jensen's role changes:</p>\n\n<blockquote>\n\"With Jensen, the AI ecosystem loses: its central banker (backstops etc), its most active investor, a bold acquirer... Those are the kind of aggressive moves only a founder can make.\" — <a href=\"https://x.com/mattturck/status/2120951444526264388\">@mattturck</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> offered the most philosophically entertaining take, in full Žižek mode — arguing that Jensen isn't the one who betrayed the system, but the living embodiment of its contradictions: America simultaneously demanding chip dominance <em>and</em> China containment, then expressing shock when someone tried to serve both masters at once.</p>\n\n<p>Whatever the resolution, <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> offered the sobering meta-observation: nine hours without resolution, and the broader lesson may apply far beyond NVIDIA:</p>\n\n<blockquote>\n\"It's going to happen to every single organization — big and small ☠️\" — <a href=\"https://x.com/nikunj/status/2121096888023932949\">@nikunj</a>\n</blockquote>\n\n<hr>\n\n<h2>🧬 AI and the Drug Discovery Moonshot</h2>\n\n<p>Away from the daily churn, the <em>No Priors</em> podcast sat down with <strong>Max Jaderberg</strong>, President of Isomorphic Labs — Alphabet's bet on using AI to solve all human disease. It's a conversation worth your time if you care about where the decade ends up.</p>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">Powering AI-Driven Drug Discovery with Max Jaderberg — No Priors</a></p>\n\n<p>Jaderberg's framing of the core problem in pharma is striking:</p>\n\n<blockquote>\n\"Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, 'Oh no, there's toxicity that we didn't account for.' The really big opportunity is to have much more of that understanding before you go into patients.\" — Max Jaderberg, No Priors\n</blockquote>\n\n<p>The ambition is genuinely staggering — take the entire empirical loop of drug discovery and move it onto a computer. AlphaFold was proof-of-concept. Isomorphic, founded in 2021, is the scaled-up attempt. Jaderberg says he'd be \"really disappointed\" if, in five years, \"the predictive understanding of disease biology has not step changed in a massive way.\" Given everything else moving in AI right now, that's not an idle boast.",
+  "html_zh": "<p class=\"lead\">今天的AI圈有两条主线同时运行：一边是产品发布的喜庆热闹，另一边是笼罩在Jensen Huang丑闻阴影下的集体哀叹——科技界正在目睹一位偶像的坠落。</p>\n\n<h2>🔬 AI制药的宏大赌注：Isomorphic Labs的使命</h2>\n\n<p>在所有今日内容中，最值得深思的来自 No Priors 播客对 Isomorphic Labs 总裁 Max Jaderberg 的专访。这家由 Alphabet 支持、以\"解决所有疾病\"为目标的公司，正试图把整个药物发现过程搬上计算机。</p>\n\n<blockquote>\n\"真正大的机会，是在把药物用于患者之前，拥有更多的理解。如何把药物发现工作全部搬到计算机上？如何走出真实世界？\"——Max Jaderberg\n</blockquote>\n\n<p>Jaderberg 坦言，AlphaFold 的早期成果是给团队打下信心的关键——那是深度学习模型在生物学空间真正泛化的第一个概念验证。而药物开发的困境同样触目惊心：每款新药成本从数亿美元飙升至15亿美元，开发周期从八九年延长到十五年，而新药批准数量却几乎没有增长。</p>\n\n<blockquote>\n\"如果五年后，对疾病生物学的预测性理解没有发生阶跃式的巨大变化，我会非常失望。\"——Max Jaderberg\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors｜AI驱动药物发现：与Isomorphic Labs总裁Max Jaderberg对话</a></p>\n\n<hr>\n\n<h2>✨ Gemini 4 Hydrogen 闪亮登场：快、省、强</h2>\n\n<p>Google 今日发布 Gemini 4 Hydrogen，<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> 形容它\"快速、智能、是一次重大飞跃\"。这款面向所有人的前沿模型已在 Gemini App 上线，同时还宣布了可在 Warby Parker 等门店体验的 AI 眼镜，<a href=\"https://x.com/joshwoodward/status/2120990821902397885\">12月10日正式发货</a>。</p>\n\n<p>企业界的反馈同样亮眼。Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 分享了实测数据：</p>\n\n<blockquote>\n\"Hydrogen 在准确率上比 Gemini 3.8 Flash 高出5个百分点，完成任务的时间不到后者的一半，token 消耗减少约12%……Gemini 团队确实在认真做事。\"——<a href=\"https://x.com/levie/status/2120947988143198302\">@levie</a>\n</blockquote>\n\n<p>速度与效率的双重提升，对企业级应用来说意义重大——这不仅是能力的跃升，更是经济账上的实质利好。</p>\n\n<hr>\n\n<h2>🤖 Claude 进会议室，Agent 时代的UI革命</h2>\n\n<p>Anthropic 今日推出 <a href=\"https://x.com/claudeai/status/2120973996304830859\">Claude Meetings</a>，Claude 将以可见参与者身份加入 Google Meet，实时回答问题、生成文档、记录笔记与行动事项。</p>\n\n<blockquote>\n\"现在让 Claude 产出好工作，很大程度上是找到它缺失的上下文，然后想办法弥补这个缺口。Claude Meetings 是引入那些缺失片段的一种方式，在内部已经非常有用。\"——<a href=\"https://x.com/alexalbert__/status/2120983722182988206\">@alexalbert__</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则幽默地<a href=\"https://x.com/danshipper/status/2121029280432075157\">配图调侃</a>：Claude 第一次旁听他的会议时的\"表情\"，引发广泛共鸣。</p>\n\n<p>与此同时，Vercel 的 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 抛出了一个更深层的框架问题：Agent 时代，前端组件库还有意义吗？他的答案是：需要\"往更深处钻\"——</p>\n\n<blockquote>\n\"UI SDK 就像是 Agent 自发构建新 UI 组件的 x86 指令集……Agent 是新一代的设计工程师，他们准备好构建你要求的任何东西。高层、僵化、单一框架的抽象，对于这台本质上无限、不知疲倦的创造机器来说，就是氪星石。\"——<a href=\"https://x.com/rauchg/status/2120966768483262648\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>😔 Jensen Huang 风波：一个时代的悲歌</h2>\n\n<p>今日科技圈最沉重的话题，无疑是围绕 NVIDIA CEO Jensen Huang 的丑闻持续发酵。多位知名人士表达了复杂的情绪。</p>\n\n<blockquote>\n\"我们能走到今天，离不开 Jensen。看到正在发生的一切，真的很痛。\"——<a href=\"https://x.com/adityaag/status/2120924059709956201\">@adityaag</a>\n</blockquote>\n\n<blockquote>\n\"随着 Jensen 的事件，AI 生态失去了：它的中央银行家（兜底者）、最活跃的投资人、以及一个大胆的收购者。这些激进的举动，只有创始人才能做到。\"——<a href=\"https://x.com/mattturck/status/2120951444526264388\">@mattturck</a>\n</blockquote>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 则借齐泽克式的哲学腔调写下了一段<a href=\"https://x.com/danshipper/status/2121036252350972222\">辛辣评论</a>，直指美国政策的内在矛盾：一边要求遏制中国，一边又要最大化资本主义收益——Jensen 不过是这个体系矛盾的产物，却成了替罪羊。</p>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">Nikunj</a> 则提醒所有人，这场风波背后有更普遍的警示：</p>\n\n<blockquote>\n\"这将发生在每一个组织身上——无论大小。\"——<a href=\"https://x.com/nikunj/status/2121096888023932949\">@nikunj</a>\n</blockquote>\n\n<hr>\n\n<h2>🎉 社区一瞥：蛋糕、百老汇与代码变数学</h2>\n\n<p>轻松收尾。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 今日参加了 AI Engineer 活动，<a href=\"https://x.com/swyx/status/2121060183988486493\">制作团队为他们准备了蛋糕</a>庆祝 #aie1m 里程碑，随后他直奔百老汇彩排。活动keynote上，主讲人以费马大定理开场，宣布\"AIE Code\"正式更名为\"AIE Math\"，<a href=\"https://x.com/swyx/status/2120981552561844593\">数学味道十足</a>。</p>\n\n<p>OpenAI 的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 则抛出了一个耐人寻味的开放式问题，获得近5500个点赞：</p>\n\n<blockquote>\n\"如何改进 Codex？请尽量不要说'模型'。\"——<a href=\"https://x.com/thsottiaux/status/2121062974161092792\">@thsottiaux</a>\n</blockquote>\n\n<p>这句话本身，或许就是对当下AI产品开发哲学最精炼的一句注脚。</p>"
+}
