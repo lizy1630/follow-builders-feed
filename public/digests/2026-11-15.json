@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T06:26:52.164Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 97: Jev Creator on Decision Models, Benchmark Fatigue &amp; Why the Labs Missed It",
+      "url": "https://www.youtube.com/@RedpointAI"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry is reckoning with a fundamental tension: models are becoming extraordinarily capable and cheap, yet the interfaces and mental models we've built around them remain stubbornly primitive. Meanwhile, autonomous systems are quietly eating more of the world than most people realize.</p>\n\n<h2>🧠 The UX Gap Nobody Is Fixing Fast Enough</h2>\n\n<p>One of the more resonant observations circulating today came from <a href=\"https://x.com/swyx/status/2121757606801023085\" data-handle=\"swyx\">@swyx</a>, who put it bluntly:</p>\n\n<blockquote>\"obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter\"</blockquote>\n\n<p>It's a point worth sitting with. The cost of inference has collapsed to near-zero for many use cases, yet we're largely still interacting with frontier models through chat boxes. The design imagination hasn't kept pace with the underlying economics.</p>\n\n<p><a href=\"https://x.com/levie/status/2121686564078297461\" data-handle=\"levie\">Box CEO Aaron Levie</a> offered a more structural frame for why this gap might close faster than expected — not through general-purpose AI getting smarter about everything, but through work itself becoming \"coding-shaped\":</p>\n\n<blockquote>\"Our mental model traditionally has been that the models have to be able to know everything about anything to generate value, but in reality they *really* have to know how to use or generate software effectively combined with deep domain expertise to make the right judgment calls inside of workflows. When you have that powerful combination, almost everything else gets unlocked.\"</blockquote>\n\n<p>The implication is quietly radical: rather than waiting for AI to master every domain, the domains will adapt to what AI does well.</p>\n\n<hr>\n\n<h2>🤖 Agents in the Wild: From Finance to Autonomous Business</h2>\n\n<p>Google moved to make this less theoretical today. <a href=\"https://x.com/joshwoodward/status/2121755282326102417\" data-handle=\"joshwoodward\">Josh Woodward</a> announced that Gemini can now connect to Google Wallet, enabling personal finance insights for US users — instant spend charts, subscription price-hike detection, holiday budgeting based on actual past behavior. It's a small but telling example of agents finally getting access to the data that makes them genuinely useful rather than merely impressive.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/amasad/status/2121765647168483589\" data-handle=\"amasad\">Replit's Amjad Masad</a> made a bolder claim: <a href=\"https://x.com/amasad/status/2121765647168483589\">\"Autonomous Businesses are here.\"</a> He's been building toward this thesis for a while, and his broader framing is worth quoting:</p>\n\n<blockquote>\"Technology is inherently recursively self-improving and the degree of autonomy has been going up overtime. AI is an accelerant but it did not start this cycle. Douglas Engelbart understood this.\"</blockquote>\n\n<p>On the tooling side, <a href=\"https://x.com/rauchg/status/2121739228698886454\" data-handle=\"rauchg\">Guillermo Rauch</a> shared his personal workflow for agentic development — planning with the most capable model, then delegating execution to faster subagents, configured with a single line in a markdown file. The mundane logistics of this are becoming standardized fast.</p>\n\n<hr>\n\n<h2>🛠️ Developer Tooling: Fable, Claude Code, and the Prompt Audit Era</h2>\n\n<p>A cluster of builders are converging on the idea that your AI setup itself needs to be audited and maintained like software. <a href=\"https://x.com/petergyang/status/2121649295950762363\" data-handle=\"petergyang\">Peter Yang</a> highlighted two prompts for Fable 5.2 that do exactly this:</p>\n\n<blockquote>\"/doctor prompt-audit: Audits your Claude Code setup (Claude md, skills, commands) and proposes fixes. /claude-api prompt-audit [skill name]: Audits one skill in depth. I wish Claude Code auto-suggested running these every time Anthropic releases a new model.\"</blockquote>\n\n<p>It's a reasonable wish. As models update, the prompts and configurations built around them go stale — and few developers have systematic ways to catch that drift. Watch/Listen: <a href=\"https://www.youtube.com/@RedpointAI\">Peter Yang's full Fable + Opus tutorial</a>.</p>\n\n<p><a href=\"https://x.com/danshipper/status/2121620539655819305\" data-handle=\"danshipper\">Dan Shipper</a> pointed readers toward Every's \"frontier feed\" — raw experiments, code, and writeups from their AI research team — as the fastest way to stay current on what's actually working in production.</p>\n\n<hr>\n\n<h2>⚠️ Murphy's Law at Scale</h2>\n\n<p>Not everything about accelerating autonomy is celebratory. Masad offered a sobering counterpoint to his own optimism:</p>\n\n<blockquote>\"We've entered Murphy's world. Anything that can go wrong will go wrong. With billions of things happening at once, recursively interdependent and accelerating rapidly, what's once considered a rare failure is now a daily thing.\"</blockquote>\n\n<p>This is the systems-thinking version of a problem that also showed up in infrastructure today: <a href=\"https://x.com/garrytan/status/2121727702025765094\" data-handle=\"garrytan\">Garry Tan</a> called for modernizing the FAA, arguing that \"paper charts and copper wire and an antiquated system that is brittle and doesn't have enough failsafes\" is failing Americans. The connection to AI is implicit but real — legacy systems weren't designed for the failure rates that come with scale and speed.</p>\n\n<hr>\n\n<h2>🎙️ Benchmark Fatigue and the JEV Thesis</h2>\n\n<p>The most intellectually rich content today came from the <a href=\"https://www.youtube.com/@RedpointAI\">Unsupervised Learning podcast</a>, featuring the CEO of TypeSave on the JEV model's research direction. The core insight — that the overwhelming majority of LLM calls are destined for machine consumption, not human reading — reframes how we should think about what AI outputs should even look like:</p>\n\n<blockquote>\"What percentage of those calls going into the LLMs are actually meant for human consumption — things like style matter and prose and all of that — versus for computer consumption, which is going to be very, very different. I don't think a computer really ever wants a string except when that string happens to be an extreme cardinality enum... even the most string-pilled of people will give many nines of percent for the machine-native component.\"</blockquote>\n\n<p>On Anthropic's upcoming IPO, he was characteristically candid about valuation risk:</p>\n\n<blockquote>\"My guess is that because some people might be valuing, like, 'building god' as basically infinite, there'll be some amount of miscalibration there. And I think the 'let them cure cancer' is going to be like Marie Antoinette's 'let them eat cake.'\"</blockquote>\n\n<p>It's a pointed warning: extraordinary valuations built on extraordinary futures have a poor track record when the futures turn out to be merely good.</p>",
+  "html_zh": "<p class=\"lead\">AI行业正在经历一场关于\"形态\"的深刻辩论——不仅是模型该如何运作，更是整个知识工作应该如何重塑自身以适应智能体时代的到来。</p>\n\n<h2>🧠 知识工作的\"代码化\"转型</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 发表了本周最值得细读的一段长推，核心论断颇具前瞻性：未来的知识工作不是等待AI学会所有领域的知识，而是工作本身会逐渐\"代码化\"，向智能体最擅长的形态靠拢。</p>\n\n<blockquote>\n\"我们传统的思维模型是：模型必须无所不知才能创造价值。但现实是，它们真正需要的是有效地使用或生成软件，并结合深度领域专长在工作流中做出正确判断。当你拥有这种强大组合，几乎一切都会随之解锁。\"\n<br>— <a href=\"https://x.com/levie/status/2121686564078297461\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这一判断与 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Replit CEO Amjad Masad</a> 的观点形成呼应。他连发数条推文，从技术哲学角度阐述自主性的历史演进——</p>\n\n<blockquote>\n\"技术本质上是递归自我改进的，自主程度随时间不断提升。AI是加速剂，但它并不是这个循环的起点。Douglas Engelbart早已理解这一点。\"\n<br>— <a href=\"https://x.com/amasad/status/2121549054173757554\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>他同时警告，这种加速也有代价：</p>\n\n<blockquote>\n\"我们已进入墨菲定律的世界。任何可能出错的事都会出错。数十亿件事同时发生、递归相互依存、急速加速，曾经罕见的故障如今已成日常。\"\n<br>— <a href=\"https://x.com/amasad/status/2121519931741127144\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<hr>\n\n<h2>🤖 AI UX严重滞后于模型能力</h2>\n\n<p>模型越来越强，但用户界面还停留在上个时代——这是 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 今天转发的一条推文所引发的讨论核心。他的点评言简意赅：</p>\n\n<blockquote>\n\"显然是对的，我们现在的AI UX糟糕透了，尤其是考虑到模型已经便宜到几乎免费的地步，这简直是疯了。\"\n<br>— <a href=\"https://x.com/swyx/status/2121757606801023085\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel CEO Guillermo Rauch</a> 正在用实践给出答案。他展示了用 UI SDK 和 Gemini Argon 两个提示词生成纯 Web Components 应用的过程，智能体自动复用了14种UI行为——包括窗口缩放、拖拽、菜单栏切换、ARIA无障碍访问等。他还分享了在 <a href=\"https://x.com/rauchg/status/2121739228698886454\" data-handle=\"rauchg\">fx.land 上使用子智能体</a>的工作流：</p>\n\n<blockquote>\n\"我所有的项目都是用最强的模型规划，再委派给快速子智能体执行。只需在 ~/.fx/AGENTS.md 里写一行指令。\"\n<br>— <a href=\"https://x.com/rauchg/status/2121739228698886454\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>🛠️ 开发者工具：从 Fable 到 Gemini Wallet</h2>\n\n<p>产品层面，今天有两个值得关注的落地进展。</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 分享了 Fable 5.2 的两个实用提示词——<code>/doctor prompt-audit</code> 可以审计你的 Claude Code 配置并提出修复建议，<code>/claude-api prompt-audit [技能名]</code> 则可深度审计单个技能。他感慨道，希望 Claude Code 能在每次 Anthropic 发布新模型时自动建议运行这些审计。Watch/Listen: <a href=\"https://t.co/slyEbWvvqA\">完整教程视频</a>。</p>\n\n<p>Google 方面，<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> 宣布 Gemini 应用新增 Google Wallet 连接功能，面向美国用户开放，可用于可视化消费、发现涨价订阅、基于历史数据制定假日预算。这是 AI 助手与个人金融数据深度整合的一个重要信号。</p>\n\n<hr>\n\n<h2>🎙️ 播客精选：JEV创始人谈基准疲劳与\"机器原生\"未来</h2>\n\n<p>本期 <em>Unsupervised Learning</em> 播客（<a href=\"https://www.youtube.com/@RedpointAI\">Watch/Listen: Ep 97</a>）邀请到了 TypeSave CEO Jogo，深入探讨了 JEV 模型背后的核心研究逻辑。他提出了一个发人深省的问题：所有调用 LLM 的请求中，真正面向人类消费的占多大比例？</p>\n\n<blockquote>\n\"我不认为计算机真的需要字符串输出，除非那个字符串恰好是一个极高基数的枚举值。计算机操作的是比特。即便是最执着于字符串输出的人，也会承认机器原生的调用占绝大多数——问题只是这个未来什么时候到来。\"\n<br>— Jogo，TypeSave CEO\n</blockquote>\n\n<p>他对 Anthropic 即将 IPO 的估值也持审慎态度：</p>\n\n<blockquote>\n\"我感觉很多预期的背后，不仅仅是产品层面的判断，而是基于对AI未来能力的误解。'让AI去治愈癌症'这句话，将会成为玛丽·安托瓦内特'让他们吃蛋糕'那样的历史笑话。\"\n<br>— Jogo，TypeSave CEO\n</blockquote>\n\n<p>这种对行业泡沫的清醒警示，在今天充斥着\"自主商业\"、\"智能体加速\"叙事的信息流中，显得格外难得。</p>\n\n<hr>\n\n<h2>⚡ 快讯一瞥</h2>\n\n<ul>\n  <li><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">@garrytan</a> 认为 <a href=\"https://x.com/garrytan/status/2121824006819258485\">Aside Browser 是AI智能体的重大解锁</a>，同时呼吁现代化改造 FAA 系统，直言纸质图表和铜线基础设施\"无法服务美国人民\"。</li>\n  <li>OpenAI 网络安全团队 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 公开征集对 Daybreak 平台的用户反馈，涵盖模型、插件、蓝/红队访问权限等多个维度，显示其安全产品线正在快速扩张。</li>\n  <li><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">@danshipper</a> 推荐 Every 团队的 <a href=\"https://t.co/S9TTJQsfnB\">Frontier Feed</a>，包含原始实验代码和简报，\"没有比这更快获取 AI 前沿灵感的方式了\"。</li>\n</ul>"
+}
