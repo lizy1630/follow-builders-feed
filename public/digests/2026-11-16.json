@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T06:42:15.797Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    }
+  },
+  "html_en": "<p class=\"lead\">From agentic trading going mainstream to AI tools reshaping design and infrastructure, today's feed captures an industry quietly crossing several thresholds at once — the kind of day that looks ordinary until you realize it isn't.</p>\n\n<h2>💸 Robinhood's Vlad Tenev on Ownership, Agents, and Math Superintelligence</h2>\n\n<p>The most substantive conversation in today's feed comes from the <em>No Priors</em> podcast, where <a href=\"https://x.com/vladtenev\" data-handle=\"vladtenev\">Vlad Tenev</a> sat down to describe a Robinhood that looks almost unrecognizable from the zero-commission stock app that launched a decade ago. Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors — Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership</a></p>\n\n<p>Tenev's framing for the company is deceptively simple:</p>\n\n<blockquote>\"If I had to sum up Robinhood in one word or one idea, it would be ownership. I think we're the ownership company... a society without broad ownership is inherently very unstable. It's a fragile society, and if you have more people that own things, they're more bought in, they have more stake in the outcome.\"</blockquote>\n\n<p>That philosophy now extends to agentic trading — AI agents executing financial decisions on behalf of retail users. And the numbers suggest it's not a niche experiment:</p>\n\n<blockquote>\"Agentic trading, clearly product market fit. We're seeing really strong adoption. Over 150,000 customers have opened agentic trading accounts with us.\"</blockquote>\n\n<p>150,000 accounts is a real signal. Institutional traders have had algorithmic execution for decades; the question was always whether retail would trust machines with their money. Apparently they will. Tenev's backstory — growing up in Bulgaria during 2,000% annualized inflation, watching his grandfather store wealth in copper cookware because the currency was worthless — gives his missionary zeal for democratized finance a texture that most fintech CEOs simply don't have.</p>\n\n<p>He's also funding <strong>Harmonic</strong>, a bet on AI-driven mathematical superintelligence, and pushing back on the centralization of AI research more broadly:</p>\n\n<blockquote>\"It's too centralized, right? It's like AI companies with their big data centers and their employees using secret models to sort of do all this work.\"</blockquote>\n\n<hr>\n\n<h2>🎨 Claude Has a Default Aesthetic — And Anthropic Is Telling It Not to Use It</h2>\n\n<p>A quietly fascinating thread from <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> surfaced a conversation with <a href=\"https://x.com/nateparrott\" data-handle=\"nateparrott\">Nate Parrott</a>, a designer at Anthropic, about a problem that will resonate with anyone who's asked Claude to build a UI. Watch the full episode: <a href=\"https://t.co/HPX5HjXafX\">linked here</a>.</p>\n\n<blockquote>\"When you ask Claude to create something, it's operating in a fresh context where it thinks: Oh my God, the user asked me to make an app. I'm going to invent the most brilliant visual style. It's going to be serif text, an off-white background, orange, and these bars on the edges of the cards. Because in Claude's mind, it's only ever done this once, so it thinks this is totally original.\"</blockquote>\n\n<p>The fix is almost comedically human: Anthropic literally tells Claude in its system prompt that it has design tics and to knock it off.</p>\n\n<blockquote>\"In our Claude Design prompt, we tell Claude, 'For this particular model, you tend to overly bias toward these two fonts and colors. So don't use them unless the user asks you to.' That tends to help a lot.\"</blockquote>\n\n<p>Parrott also offered one of the more grounded takes on what AI actually compresses in the creative process — and what it doesn't:</p>\n\n<blockquote>\"You've really compressed the cycle of building. What you haven't compressed is the cycle of putting it in people's hands and understanding if they're going to use it.\"</blockquote>\n\n<p>That distinction matters. Speed of prototyping is up 10x. Speed of learning from users is unchanged. The bottleneck has simply moved.</p>\n\n<hr>\n\n<h2>🦀 Vercel's \"Autorepo\" and the Art of Agent-Native Infrastructure</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> shipped something genuinely interesting today: <a href=\"https://t.co/YaLEMbmKwf\"><strong>xeet</strong></a>, a pixel-perfect X post renderer written in safe Rust/WASM that renders a post to PNG in roughly 1 millisecond — no browser, no network, no filesystem.</p>\n\n<blockquote>\"Rendering with xeet is 100x-1000x faster than booting up a browser and taking a screenshot, yet it's just as accurate. It reproduces Blink & HarfBuzz text shaping, 1/64px line breaking, RTL bidi, 28 Chirp font subsets, CJK/Math/Emoji fallbacks... It's the kind of thing that would be wildly impractical, if not impossible, for a human engineer to pull off.\"</blockquote>\n\n<p>The more interesting structural note is how it was built. Rauch describes xeet as an <strong>\"autorepo\"</strong> — an oracle boots Chrome, verifies tens of thousands of text layout rules, a CI canary watches for changes, and files signed PRs for agents to act on. It's verification engineering as a first-class design principle, not an afterthought. This is what agent-native infrastructure actually looks like in practice.</p>\n\n<p>In a lighter vein, Rauch also noted that AI models are getting eerily good at naming things — his CLI tool for diagnosing system slowdowns got named <strong>hog</strong> 🐖 by the model. <a href=\"https://x.com/rauchg/status/2122127120055034258\">\"Given they're already good at cache invalidation, maybe computer science's hardest problems are solved after all.\"</a></p>\n\n<hr>\n\n<h2>🤖 Codex Capacity Fixes, Home Automation Ambitions, and the Agentic Every Day</h2>\n\n<p>A few shorter signals worth tracking. First, good news for frustrated Codex users: <a href=\"https://x.com/thsottiaux/status/2122206990101536852\" data-handle=\"thsottiaux\">@thsottiaux</a> flagged that the Codex team appears to have resolved the \"model at capacity\" errors that have plagued the product — a friction point significant enough to have driven real user drop-off.</p>\n\n<p><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> is thinking bigger, <a href=\"https://x.com/thenanyu/status/2122096965865664924\">asking for home automation hub recommendations</a> specifically optimized for Codex control — wanting something that the agent \"just sees as another computer, more or less.\" It's a small tweet that gestures at something larger: the assumption, now commonplace among builders, that coding agents should be able to reach out and touch physical infrastructure.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> at Every published a <a href=\"https://t.co/2MT0NTucoK\">writeup on \"compounding skills\"</a> — agent capabilities that improve with use. His team built a skill for writing context window summaries and iterated it with autoresearch until it hit 80% of human taste vs. a no-skill baseline. The framing of skills as persistent, improving assets rather than one-shot prompts is a small but meaningful conceptual shift in how people are thinking about agent design.</p>\n\n<hr>\n\n<h2>⚡ Quick Hits</h2>\n\n<p><strong>Replit drama:</strong> <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> cryptically noted <a href=\"https://x.com/amasad/status/2122185760799609017\">\"It's been an interesting 48 hours\"</a> — the tweet has nearly 500 likes with no further context, which in founder-on-X terms is practically a press release.</p>\n\n<p><strong>New arena:</strong> <a href=\"https://x.com/trq212/status/2122154124024381828\" data-handle=\"trq212\">@trq212</a> teased a new arena and two new characters — context unclear, engagement high (956 likes).</p>\n\n<p><strong>RL deep dive coming:</strong> <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> is hosting a Friday session with <a href=\"https://x.com/kanavg1\" data-handle=\"kanavg1\">@kanavg1</a> from Core Auto on reinforcement learning — methods, synthetic data, automation loops. <a href=\"https://t.co/gOHqA2XtZB\">Register here</a> if you're in SF.</p>",
+  "html_zh": "<p class=\"lead\">AI工具的普及正在重塑设计、交易和工程的边界——而真正的挑战，不是构建速度，而是如何让用户真正上手。</p>\n\n<h2>🎨 Claude的\"审美惯性\"：当AI总是画出同一张脸</h2>\n\n<p>如果你用过Claude生成UI界面，你可能已经注意到某种熟悉的感觉：衬线字体、米白色背景、橙色点缀，以及卡片边缘的装饰条。这不是巧合。</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 在播客中采访了Anthropic设计师 <a href=\"https://x.com/nateparrott\" data-handle=\"nateparrott\">Nate Parrott</a>，后者揭示了这个\"风格漂移\"问题的根源：</p>\n\n<blockquote>\n\"每次Claude被要求创建东西，它都在一个全新的上下文里运作。它会想：天啊，用户让我做一个App，我要发明最绝妙的视觉风格。在Claude的认知里，它只做过一次这个，所以它认为这完全是原创的。\"<br>\n—— <a href=\"https://x.com/petergyang/status/2122132596352327816\">@petergyang 引用 Nate Parrott</a>\n</blockquote>\n\n<p>Anthropic的解决方案颇为直接——直接在系统提示中告诉Claude它自己的偏见：</p>\n\n<blockquote>\n\"在我们的Claude Design提示里，我们会告诉Claude：'对于这个特定模型，你倾向于过度偏向这两种字体和颜色，除非用户明确要求，否则不要使用它们。'这个方法非常有效。\"<br>\n—— Nate Parrott，<a href=\"https://x.com/petergyang/status/2122132596352327816\">via @petergyang</a>\n</blockquote>\n\n<p>Parrott的另一个观察同样值得关注：AI压缩了构建周期，但没有压缩验证周期。</p>\n\n<blockquote>\n\"你真正压缩的是构建的循环。你没有压缩的是：把东西交到用户手中、理解他们是否真正会使用它——这个循环。\"<br>\n—— <a href=\"https://x.com/petergyang/status/2122060856498524510\">@petergyang</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://x.com/petergyang/status/2122132596352327816\">完整播客片段</a></p>\n\n<hr>\n\n<h2>🤖 Codex容量告急与智能家居的AI野心</h2>\n\n<p>OpenAI的Codex最近饱受\"模型容量不足\"报错困扰，不过好消息来了。<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 透露：</p>\n\n<blockquote>\n\"Codex团队可能已经修复了一直困扰大家的'模型容量不足'错误。\"<br>\n—— <a href=\"https://x.com/thsottiaux/status/2122206990101536852\">@thsottiaux</a>（2500点赞）\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> 正在探索一个更有趣的用例——用Codex直接控制家庭自动化设备：</p>\n\n<blockquote>\n\"如果我只是想用Codex控制一切，哪款家庭自动化中枢最好？最好是即插即用，让我的Codex把它看成另一台普通电脑。\"<br>\n—— <a href=\"https://x.com/thenanyu/status/2122096965865664924\">@thenanyu</a>\n</blockquote>\n\n<p>从修复容量瓶颈到控制物理世界——Codex的应用场景正在快速扩张。</p>\n\n<hr>\n\n<h2>⚙️ \"验证工程\"：用AI构建AI的基础设施</h2>\n\n<p>本周最具技术含量的发布来自 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a>，他推出了 <strong>xeet</strong>——一个用Rust/WASM编写的X帖子像素级渲染器：</p>\n\n<blockquote>\n\"用xeet渲染比启动浏览器截图快100到1000倍，但精度完全一致。它复现了Blink和HarfBuzz的文字排版、1/64像素换行、RTL双向文字、28种Chirp字体子集、CJK/数学/Emoji回退……这种事情对人类工程师来说几乎不可能完成。\"<br>\n—— <a href=\"https://x.com/rauchg/status/2122184794209714368\">@rauchg</a>\n</blockquote>\n\n<p>更值得关注的是其架构理念——\"autorepo\"：由一个oracle启动Chrome验证数万条文字排版规则，CI金丝雀监控原始变化，并自动提交签名PR供AI处理。Rauch称之为\"验证工程\"，这或许是AI辅助开发的下一个范式。</p>\n\n<p>他还顺手炫了一下AI的命名能力：</p>\n\n<blockquote>\n\"AI模型在命名方面越来越厉害了。我让它给一个诊断系统卡顿的CLI工具起名，它起了'hog'🐖，我太爱了。既然它已经擅长缓存失效，计算机科学最难的两个问题也许都解决了哈哈。\"<br>\n—— <a href=\"https://x.com/rauchg/status/2122127120055034188\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>📈 Robinhood的AI下注：让散户也能用上智能交易</h2>\n\n<p>本周的 <strong>No Priors</strong> 播客请来了Robinhood CEO <a href=\"https://x.com/vladtenev\" data-handle=\"vladtenev\">Vlad Tenev</a>，谈及AI Agent交易的落地进展，数据颇为惊人：</p>\n\n<blockquote>\n\"Agentic交易，明显找到了产品市场契合点。我们看到了非常强劲的采用——超过15万名客户已经开设了智能交易账户。\"<br>\n—— Vlad Tenev，<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors Podcast</a>\n</blockquote>\n\n<p>Tenev将Robinhood定位为\"所有权公司\"——从零佣金股票到代币化资产，再到AI Agent代替散户执行复杂交易策略。他的逻辑是：机构投资者拥有的能力，AI可以让普通人也用上。</p>\n\n<p>他还谈及自己的另一个项目 <strong>Harmonic</strong>，致力于打造数学领域的超级智能，并反思AI发展过于中心化的问题：</p>\n\n<blockquote>\n\"现在太中心化了。是AI公司用他们的大型数据中心和员工，使用秘密模型来完成所有这些工作。\"<br>\n—— Vlad Tenev，<a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors Podcast</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@NoPriorsPodcast\">No Priors · Robinhood with Vlad Tenev</a></p>\n\n<hr>\n\n<h2>🌱 技能复利与其他值得关注的信号</h2>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 分享了 Every 团队在\"复利技能\"上的进展——即每次使用都会变得更好的AI技能模块。他们用它优化了上下文窗口摘要的生成质量，并在 <a href=\"https://x.com/every\" data-handle=\"every\">@every</a> 的 Frontier Feed 上发布了完整写法。对于在构建AI Agent工作流的开发者，这个方向值得持续关注。</p>\n\n<p>此外，Replit CEO <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 神秘地表示\"过去48小时很有意思\"，配上一个链接，吊足了关注者的胃口。细节未明，但鉴于Replit近期的产品节奏，值得留意后续。</p>"
+}
