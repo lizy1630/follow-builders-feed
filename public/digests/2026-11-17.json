@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T06:29:04.786Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "handle": "latent-space",
+      "bio": "Podcast: [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://www.youtube.com/@LatentSpacePod"
+    }
+  },
+  "html_en": "<p class=\"lead\">The token economy has no ceiling in sight — and from Stanford classrooms to agent workspaces to Google's latest acquisition, the entire industry is reorganizing itself around that single premise.</p>\n\n<h2>🪙 Tokens Are Only Going Up From Here</h2>\n\n<p>If you want one number to understand where the AI industry thinks it's headed, it's tokens. <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> published what may be the most articulate bull case of the week in a <a href=\"https://x.com/levie/status/2122508098351038532\">sprawling thread</a> that's worth reading in full:</p>\n\n<blockquote>\"Coding, in retrospect, was basically trash even 12 months ago. Now it's finally starting to get good. And now that coding is actually working, you're getting tool and computer use, which open up a wide variety of knowledge work domains that weren't possible to throw agents at before... Agent swarms and background agents are going to eat up vastly more tokens than anything we can imagine.\"<br>— <a href=\"https://x.com/levie\" data-handle=\"levie\">@levie</a></blockquote>\n\n<p>The implication is structural: we're not in a mature market, we're at the bottom of an S-curve. Infrastructure investor <a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> tried to <a href=\"https://x.com/nikunj/status/2122543500814336281\">map out what comes next</a> in the infra stack — \"Vibe coding in Q1, Harnesses in Q2, Sandboxes in Q3, Agentic CI in Q4\" — before admitting he's already lost count of providers. Vercel's <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> put a sharper frame on the paradigm shift:</p>\n\n<blockquote>\"The old way: users are human, you run user interviews, get inspired, mock up user journeys. The new way: users are agents, you run evals, evals inform the software engineering loop.\"<br>— <a href=\"https://x.com/rauchg/status/2122415506451841215\" data-handle=\"rauchg\">@rauchg</a></blockquote>\n\n<hr>\n\n<h2>🏗️ The Agent Workspace Problem</h2>\n\n<p>While the infrastructure debate rages, one of the most-shared observations of the day came from a game developer, not an ML researcher. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> posted a <a href=\"https://x.com/trq212/status/2122438328079524159\">video of collaborating with agents on a new game character</a> alongside a deceptively simple thesis:</p>\n\n<blockquote>\"Software factories feel like a temporary problem. The models will learn to build them for you. The more interesting question to me is how to build a workspace where agents can collaborate with you.\"<br>— <a href=\"https://x.com/trq212/status/2122438326431154210\" data-handle=\"trq212\">@trq212</a></blockquote>\n\n<p>Nearly 5,000 likes suggest this landed. The framing cuts through a lot of current noise: the race to build scaffolding and harnesses may be a transitional phase, but the human-agent collaboration interface is a durable design problem. Meanwhile, <a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> offered a wry counterpoint on the platform side — <a href=\"https://x.com/steipete/status/2122463466304971068\">Apple, apparently, responded to developer requests for fewer agent permission prompts by shipping more scary alerts</a>. Autonomous agents on macOS remain, to put it gently, an adversarial experience.</p>\n\n<hr>\n\n<h2>📚 Stanford Is Teaching the New Stack</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Latent Space — \"How Stanford Teaches AI-Native Engineering\" with Mihail Eric</a></p>\n\n<p>The Latent Space podcast used its one-million-subscriber milestone to sit down with <a href=\"https://x.com/mihail_eric\" data-handle=\"mihail_eric\">Mihail Eric</a>, adjunct professor at Stanford and head of AI at Monaco, whose course <em>CS 146: The Modern Software Developer</em> has been making the rounds. The conversation is a useful calibration of where formal AI education actually is — which turns out to be more grounded than the discourse suggests.</p>\n\n<p>Eric's core argument: the anxiety among CS students is real, but misplaced. The practitioner who can work fluidly with coding agents on large, complex codebases is <em>more</em> valuable than their pre-AI equivalent, not less. His course explicitly requires traditional CS prerequisites — this is not a prompt-engineering bootcamp — but its focus is on \"context engineering\" and architectural thinking as the new high-leverage skills.</p>\n\n<blockquote>\"A well-trained AI-native engineer can be some of the most useful assets at any company around.\"<br>— Mihail Eric, Stanford / Monaco</blockquote>\n\n<p>What changed from last year's syllabus to this year's? Less survey-of-everything, more solidifying principles. The scattered \"here's a coding agent for every part of the SDLC\" energy of 2024 is giving way to something more focused: how do you actually ship production software on a massive codebase when agents are part of the team?</p>\n\n<hr>\n\n<h2>🎨 Escaping AI Slop in Design</h2>\n\n<p>On the more immediately practical side, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> distilled a genuinely useful <a href=\"https://x.com/petergyang/status/2122347721298510021\">five-point framework</a> from designer <a href=\"https://x.com/nateparrott\" data-handle=\"nateparrott\">@nateparrott</a> on getting Claude to produce designs that don't look like, well, Claude designs. The most pointed piece of advice:</p>\n\n<blockquote>\"Make Claude aware of its design biases. 'The model has no idea what its own biases are.' In your design.md or another file, consider discouraging Claude's tells like serif text, off-white backgrounds, and card-edge bars.\"<br>— via <a href=\"https://x.com/petergyang/status/2122347721298510021\" data-handle=\"petergyang\">@petergyang</a> summarizing @nateparrott</blockquote>\n\n<p>The full episode and a written version are both <a href=\"https://x.com/petergyang/status/2122347721298510021\">linked in the thread</a>. The broader principle — that you need to explicitly debug a model's aesthetic defaults just as you'd debug its factual ones — feels underappreciated.</p>\n\n<hr>\n\n<h2>🔭 Signals & Sidebars</h2>\n\n<p><strong>Google acquires Howie.</strong> <a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">Google Labs</a> <a href=\"https://x.com/GoogleLabs/status/2122461899178820069\">announced</a> it's welcoming the <a href=\"https://x.com/Howie_ai\" data-handle=\"howie_ai\">@Howie_ai</a> team, specialists in AI-powered scheduling and calendar management for small businesses. Given that <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> was simultaneously <a href=\"https://x.com/swyx/status/2122427240441131203\">complaining that Gmail still can't search Google Calendar events</a>, the timing feels pointed.</p>\n\n<p><strong>Own your intelligence stack.</strong> <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> posted a crisp four-step framework for enterprise AI sovereignty: <a href=\"https://x.com/rauchg/status/2122458782294847807\">\"Own your traces and data, enforce ZDR. Own your models with private inference.\"</a> As AI becomes critical infrastructure, the build-vs-buy-vs-capture question gets sharper.</p>\n\n<p><strong>Semiconductor sovereignty.</strong> <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> announced leading a <a href=\"https://x.com/adityaag/status/2122386958101959118\">$24M seed round in BharatSemi</a>, with a pointed note: \"We can build semiconductors in India. People said it wasn't possible. We are proving them wrong.\" Embedding AI close to the silicon, in his framing, is table stakes for the next wave of hard tech.</p>",
+  "html_zh": "<p class=\"lead\">Token消耗没有天花板，AI工程师的时代才刚刚开始——从Stanford的课堂到企业的agent工作流，今天的信号指向同一个方向：我们仍在曲线的早期。</p>\n\n<h2>🚀 Token大爆炸：为什么现在才是起点</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 写下了今天最值得反复阅读的一段话，把当前AI采用的全景图描绘得清晰又令人兴奋：</p>\n\n<blockquote>\n\"每位员工的token消耗图表至今看不到上限。编码，回头来看，哪怕12个月前还基本上是垃圾。现在它终于开始好用了。一旦你拥有了能写代码、能使用电脑、能调用任何工具、能理解各类领域的agent，你就可以把它们用于大量此前难以自动化的知识工作……agent集群和后台agent将会消耗比我们目前能想象的多得多的token。\"<br>\n— <a href=\"https://x.com/levie/status/2122508098351038532\">@levie</a>\n</blockquote>\n\n<p>这与 Latent Space 播客庆祝百万订阅的特别节目高度呼应。Stanford 兼职教授、Monaco AI负责人 <a href=\"https://x.com/mihail_eric\" data-handle=\"mihail_eric\">Mihail Eric</a> 在节目中谈到，他的课程 CS 146S《现代软件开发者》正在经历第二次大改版——因为自主编码agent的能力跃升，让上一年的课程内容已经显得保守。</p>\n\n<blockquote>\n\"去年的课程更多是一次广泛的巡游——这里可以用coding agent，那里也可以。今年，一些原则正在固化：非常细致的上下文工程，以及把设计与架构作为处理复杂任务的方式。\"<br>\n— Mihail Eric，<a href=\"https://www.youtube.com/@LatentSpacePod\">Latent Space 播客</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/@LatentSpacePod\">Latent Space — How Stanford Teaches AI-Native Engineering</a></p>\n\n<hr>\n\n<h2>🏗️ 基础设施军备赛：2026年战场已清晰</h2>\n\n<p>AI基础设施的竞争格局正在快速分层。<a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> 用一张简洁的路线图总结了2026年的走势：</p>\n\n<blockquote>\n\"2026年基础设施战争简述：Q1 Vibe coding，Q2 Harnesses，Q3 Sandboxes，Q4 Agentic CI。供应商多到数不过来。下一个是什么？\"<br>\n— <a href=\"https://x.com/nikunj/status/2122543500814336281\">@nikunj</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Vercel CEO Guillermo Rauch</a> 则给出了企业侧的四步自主权框架：</p>\n\n<blockquote>\n\"掌控你的智能路线图：① 使用开放SDK和harnesses；② 通过Gateway掌控模型选择；③ 拥有你的traces和数据，强制执行ZDR；④ 通过私有推理拥有你自己的模型。\"<br>\n— <a href=\"https://x.com/rauchg/status/2122458782294847807\">@rauchg</a>\n</blockquote>\n\n<p>他还点出了一个范式转移：<a href=\"https://x.com/rauchg/status/2122415506451841215\">\"旧方式：用户是人，你做用户访谈。新方式：用户是agent，你跑evals，evals驱动软件工程循环。\"</a> 这句话值得每个产品团队贴在墙上。</p>\n\n<p>与此同时，<a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> 正在用 Vorflux 作为他的\"软件工厂\"，把 GBrain 的后端用 Rust 重写，以取代 postgres+pgvector 作为向量搜索和RAG的底层存储。他对 GBrain 的愿景是将个人记忆汇聚为团队记忆、再汇聚为公司大脑——<a href=\"https://x.com/garrytan/status/2122517681740124271\">\"记忆按你想要的方式工作。\"</a></p>\n\n<hr>\n\n<h2>🎨 如何让Claude设计出不像AI的作品</h2>\n\n<p>AI生成UI的\"千篇一律\"问题引发了广泛讨论。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 整理了设计师 <a href=\"https://x.com/nateparrott\" data-handle=\"nateparrott\">@nateparrott</a> 的五条实战建议，获得近140个点赞：</p>\n\n<blockquote>\n1. 提前给Claude提供上下文：截图、你喜欢的页面、你的历史作品。<br>\n2. 研究熟悉的UX模式：让Claude找出类似产品的布局，参考用户已经熟悉的设计。<br>\n3. 让Claude意识到自身的设计偏见：<strong>\"模型根本不知道自己的偏见是什么。\"</strong> 在 design.md 中明确禁止Claude的惯用手法，比如衬线字体、米白色背景、卡片边框。<br>\n4. 先从线框图开始，再深入字体和色彩。<br>\n5. 一次要5个方案，然后混搭再迭代。<br>\n— <a href=\"https://x.com/petergyang/status/2122347721298510021\">@petergyang</a>，完整视频：<a href=\"https://t.co/HPX5HjXafX\">Watch here</a>\n</blockquote>\n\n<hr>\n\n<h2>🤝 Google收购日历AI，平台战场延伸至小企业</h2>\n\n<p><a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">Google Labs</a> 宣布收购日程管理AI初创公司 <a href=\"https://x.com/Howie_ai\" data-handle=\"howie_ai\">Howie</a>，将其纳入面向小企业的AI工具建设中。</p>\n\n<blockquote>\n\"Howie团队花了数年时间搞清楚日程安排和日历管理。我们迫不及待地想向他们学习，共同为小企业打造下一代直觉式AI工具。\"<br>\n— <a href=\"https://x.com/GoogleLabs/status/2122461899178820069\">@GoogleLabs</a>\n</blockquote>\n\n<p>这一举动耐人寻味。就在同一天，<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 吐槽 <a href=\"https://x.com/swyx/status/2122427240441131203\">Gmail 至今无法搜索日历事件</a>，尽管日历邀请本来就是通过Gmail发送的。Google在AI助手领域大举收购，但自家产品的基础体验仍有明显短板——这种张力或许正是Howie被收购的核心原因。</p>\n\n<p>此外，<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Google Labs的Josh Woodward</a> 展示了 <a href=\"https://x.com/joshwoodward/status/2122453269842886788\">Gemini Notebook 新功能</a>：可将资料来源一键转化为可交互、可分享的网站，并以元素周期表作为演示案例，获得近300个点赞。</p>\n\n<hr>\n\n<h2>🤖 Agent协作：下一个工作界面长什么样？</h2>\n\n<p>今天转发量最高的洞察之一来自游戏开发者 <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a>，他展示了自己与agent共同创作游戏角色的工作流，并留下了一个值得深思的问题：</p>\n\n<blockquote>\n\"软件工厂感觉是个临时问题。模型会学会替你建造它们。对我来说更有趣的问题是：如何打造一个agent能与你协作的工作空间。\"<br>\n— <a href=\"https://x.com/trq212/status/2122438326431154210\">@trq212</a>（4800+点赞）\n</blockquote>\n\n<p>这个问题让人想起 Stanford 课堂里学生们的焦虑。Mihail Eric 给出了他的答案：<em>\"一个训练有素的AI原生工程师，是任何公司都需要的最有价值的资产之一。\"</em> 工具会继续进化，但懂得如何与agent协作的人，才是真正稀缺的。</p>"
+}
