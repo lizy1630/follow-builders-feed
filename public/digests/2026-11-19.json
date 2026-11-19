@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T06:30:05.741Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "googlelabs": {
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "twitter": "https://x.com/GoogleLabs"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: Notion’s Founder on the One Thing Your AI Is Missing",
+      "url": "https://www.youtube.com/watch?v=PGWvMrF4XIA"
+    }
+  },
+  "html_en": "<p class=\"lead\">A day of genuine infrastructure ambition — from agent message boards to model launches — set against a backdrop of corporate drama at Nvidia and a quieter reckoning with what \"making software\" actually means.</p>\n\n<h2>The Agent Coordination Layer Gets Real</h2>\n\n<p>The most technically interesting thread of the day wasn't a model launch — it was the emerging consensus that <em>message boards for agents</em> are becoming a genuine primitive of the AI stack. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> announced <strong>Vercel Board</strong>, framing it as \"headless Slack\" for autonomous systems:</p>\n\n<blockquote>\n\"Message boards were the enabling technology of both the Navier-Stokes math breakthrough and even the OpenAI/HuggingFace cyber feat. We built a message board infrastructure primitive... This is an important building block for software factories, self-optimizing systems, and scientific research, where the human prompting is just the seed of the system, and millions of agents can operate in a decentralized fashion.\"\n<br>— <a href=\"https://x.com/rauchg/status/2123237505810178434\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> echoed the theme from the Replit side, noting that the most fascinating artifact of recent AI headline events was the agent communication itself:</p>\n\n<blockquote>\n\"One of the more fascinating things in the OpenAI/Hugging Face incident was reading the message boards where agents communicate. With Replit Missions you can see how the agents are coordinating and talking.\"\n<br>— <a href=\"https://x.com/amasad/status/2123133509028008331\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> put the broader trajectory into words, describing a step-change from \"agents that spit out a quick answer\" toward systems that <em>design, deploy, and self-optimize</em> — with engineering as the first proving ground before the pattern spreads across all knowledge work.</p>\n\n<hr>\n\n<h2>Google Ships, OpenAI Defends Its Frontier Crown</h2>\n\n<p>Google had a busy morning. <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> announced <strong>Gemini 4 Neon</strong> — \"frontier-grade intelligence that's faster, cheaper, and follows complex instructions well\" — alongside an upgraded <a href=\"https://t.co/SImBT48Ya3\">Project Genie</a> experience running on Genie 4, which lets subscribers create and edit interactive 3D worlds mid-session. <a href=\"https://x.com/GoogleLabs\" data-handle=\"googlelabs\">Google Labs</a> also unveiled <strong>Stitch Loop</strong>, an \"always-on product agent that works non-stop to help lean teams build better products.\" A lot of shipping for one day.</p>\n\n<p>Meanwhile, OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> was quietly making the case for GPT-6.2 Astra on hard technical benchmarks:</p>\n\n<blockquote>\n\"GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations. I do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment.\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2123175166519992652\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>And <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> posted an unusually warm tribute to <a href=\"https://x.com/gdb\" data-handle=\"gdb\">Greg Brockman</a> after a DealBook appearance, calling him indispensable: <a href=\"https://x.com/sama/status/2123103873166381287\">\"OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.\"</a></p>\n\n<hr>\n\n<h2>The Nvidia Mystery Deepens</h2>\n\n<p>The week's most puzzling corporate story continues to generate more questions than answers. <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> laid out the unresolved tensions around Jensen Huang's abrupt departure:</p>\n\n<blockquote>\n\"What led Jensen to resign so abruptly? Was there a smoking gun? Why has the board who spent so many years with him moved on so quickly? If there is a smoking gun why is the president saying he's fine with Jensen coming back? Is this just about some board members losing trust in him that he lied or is there some other info we (and most Nvidia employees) are not aware of?\"\n<br>— <a href=\"https://x.com/petergyang/status/2123290075882807352\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>The situation reads less like a clean governance decision and more like a story still in the middle of being written.</p>\n\n<hr>\n\n<h2>Vibe Coding's Honest Reckoning</h2>\n\n<p>The most thoughtful content today came from two directions converging on the same uncomfortable truth about AI-generated software. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> put it plainly:</p>\n\n<blockquote>\n\"Making your own software is tough, even with AI, because it's hard to know what you really want... good software is a set of strong opinions and I'd rather have something that's been really thought through by someone else.\"\n<br>— <a href=\"https://x.com/trq212/status/2123106370161705127\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p>This dovetails with the week's most intellectually rich long-form: <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>'s conversation with <strong>Notion founder Ivan Zhao</strong> for the <em>AI & I</em> podcast. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=PGWvMrF4XIA\">Notion's Founder on the One Thing Your AI Is Missing</a>. Zhao reframes the entire vibe-coding moment not as disruption but as <em>fulfillment</em> of computing's original promise:</p>\n\n<blockquote>\n\"In the 60s and 70s, people thought about why don't we bring computing power to everyone — just like we can all read and write English. And unfortunately, that never happened. History sort of made an interesting turn in the late 70s... the computing that we had was the Steve Jobs and Bill Gates generation computing, which is frozen into applications. There's a separation of software application makers versus application users. Then until two years ago — until the Claude Code era — everybody can start making their own software now.\"\n<br>— Ivan Zhao, via <a href=\"https://www.youtube.com/watch?v=PGWvMrF4XIA\">AI & I podcast</a>\n</blockquote>\n\n<p>Dan Shipper's framing in the episode preview is worth noting: Ivan represents a rare archetype in AI leadership — someone who cares about craft, feeling, and the texture of work, not just capability benchmarks. That's a genuinely scarce perspective right now.</p>\n\n<hr>\n\n<h2>The Inference Economy Keeps Expanding</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> also shared a striking data point alongside his broader infrastructure thinking: Vercel's AI Gateway token demand has been <strong>compounding ~40% month-over-month</strong> all year with no sign of slowing. His read on the neocloud frenzy is characteristically blunt — he's pitched a new inference startup every two days on average — but his longer view is bullish:</p>\n\n<blockquote>\n\"Compute is the new economy, and tokens the new energy unit. There's a new Industrial Revolution taking place. Every aspect of our lives is being replatformed on top of this new system... More like an 'oil rush' than a 'gold rush': it's durable, not a fad.\"\n<br>— <a href=\"https://x.com/rauchg/status/2123203741570740504\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>Consolidation, he expects, will come — driven by cybersecurity requirements, capital intensity, and enterprise demands. But the underlying demand curve? Nobody's found a reason to doubt it yet.</p>",
+  "html_zh": "<p class=\"lead\">AI行业正在经历多条叙事线同时推进的罕见时刻：模型能力持续跃升、智能体基础设施悄然成型，而\"人人都能造软件\"的老问题，正在被重新定义。</p>\n\n<h2>🚀 模型军备竞赛：Gemini与GPT-6.2双双亮相</h2>\n\n<p>本周的发布节奏令人应接不暇。Google方面，<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> 宣布推出 <a href=\"https://x.com/joshwoodward/status/2123177835254952348\">Gemini 4 Neon</a>，定位为\"前沿级智能、更快、更便宜、更擅长遵循复杂指令\"，同时 <a href=\"https://x.com/GoogleLabs/status/2123118145552749015\">Project Genie</a> 也升级到 Genie 4，支持用户在沉浸式世界中途修改环境，并开放社区画廊供 Google AI Ultra 订阅用户探索。</p>\n\n<p>OpenAI这边，<a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 对 GPT-6.2 Astra 给出了颇具信心的评价：</p>\n\n<blockquote>GPT-6.2 Astra 在处理高难度任务时表现相当出色。团队分享了一些关于AMD和Jalapeño芯片优化的结果。对于我们收到的关于其沟通风格的反馈，我们正在改进；但在目前世界上最难的任务上，它似乎确实处于独一档。</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 也在DealBook后公开向联合创始人 Greg Brockman 致敬：</p>\n\n<blockquote>Greg在OpenAI的角色已经从早期每周写100小时代码，演变为如今领导公司最艰难也最重要的业务板块。我可以确信地说，没有Greg就没有OpenAI，而没有他，世界走向AI未来的路也会糟糕得多。</blockquote>\n\n<hr>\n\n<h2>🤖 智能体的\"消息板\"时刻：基础设施悄然成型</h2>\n\n<p>如果说模型发布是台前，那这周最值得细读的，是幕后基础设施的进展。<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 宣布推出 Vercel Board——一个面向智能体的\"无头Slack\"消息基础设施：</p>\n\n<blockquote>消息板是Navier-Stokes数学突破和OpenAI/HuggingFace网络壮举的关键使能技术。你可以把它理解成面向智能体的\"无头Slack\"（或者回忆一下IRC？）。这是软件工厂、自优化系统和科学研究的重要构建模块——人类的提示只是系统的种子，数百万个智能体可以去中心化地运转。</blockquote>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 也从Replit的视角印证了这一趋势，指出在最近的 OpenAI/Hugging Face 事件中，智能体之间的通信消息板成为了关键观察窗口：\"通过 Replit Missions，你可以看到智能体是如何协调和对话的。\"</p>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 则从更宏观的视角描绘了智能体的下一阶段：</p>\n\n<blockquote>我们很快就能给智能体设定一组目标，让它们自己设计最优方案，同时根据执行结果持续改进。你可以告诉一个智能体去优化你的客户入职流程以达到某个目标，或者让智能体持续降低你的业务风险。这将带来人类字面上无法单独完成的结果。</blockquote>\n\n<hr>\n\n<h2>💡 \"人人造软件\"的幻觉与现实</h2>\n\n<p>Notion创始人 <a href=\"https://www.youtube.com/watch?v=PGWvMrF4XIA\">Ivan Zhao在Every播客</a>中，给Vibe coding热潮泼了一盆温水，却也点出了它的精神内核。他将当前的AI编程浪潮追溯到1960年代的理想：</p>\n\n<blockquote>那时人们认为，软件应该像读写一样，是一种人人皆可掌握的媒介。不幸的是，这个愿景从未真正实现。历史在70、80年代拐了个弯，出现了乔布斯和盖茨那一代——软件被冻结成了\"应用\"，造软件的人和用软件的人彻底分离。直到两年前，每个人才终于可以开始造自己的软件。</blockquote>\n\n<p>但这并不意味着\"人人造软件\"的时代已经到来。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 的一条推文获得了超过3000个点赞，直击要害：</p>\n\n<blockquote>我认为大多数人并不会真正去生成自己的软件。好软件是一套强烈的主张，我更愿意使用经过别人深思熟虑打磨过的东西。</blockquote>\n\n<p>即便是这位作者自己，也坦承在用AI造个人工具时碰了壁：\"自己造软件很难，即便有AI——因为你很难知道自己真正想要什么。\"</p>\n\n<hr>\n\n<h2>⚡ 推断算力：新石油，还是泡沫？</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 在另一条推文中，以Vercel平台的数据为推断算力市场做了一番冷静的研判：</p>\n\n<blockquote>我平均每两天就会收到一家新推断新云公司的融资邀约。与此同时，Vercel AI Gateway的token需求自年初以来每月环比增长约40%，没有停止的迹象。调和这两个现象的方式是：算力是新经济，token是新能源单位。这更像\"石油热\"而非\"淘金热\"——它是持久的，不是昙花一现。</blockquote>\n\n<p>短期来看，他预计市场将先扩张，再因规模效应、网络安全合规、资本需求和监管演变而走向整合。</p>\n\n<hr>\n\n<h2>🎬 场外花絮：英伟达与好莱坞</h2>\n\n<p>本周还有一条颇具戏剧性的花边新闻持续发酵。<a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 对英伟达创始人Jensen Huang的突然辞职提出了多个悬而未决的问题：\"是什么导致了Jensen的突然辞职？为何董事会反应如此迅速？如果存在'实锤'，为何美国总统又表示支持他回来？\" 目前仍无定论。</p>\n\n<p>而 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 对这场风波的评论则更为犀利：他称为此拍摄的相关影视作品\"把Monica Barbaro选角为平价版Mira Murati，这选角真是疯了。\"行业的速度之快，连好莱坞都已经来不及跟上了。</p>"
+}
