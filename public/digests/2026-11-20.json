@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T06:29:26.095Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
+      "url": "https://www.youtube.com/watch?v=_wLzJINt9iQ"
+    }
+  },
+  "html_en": "<p class=\"lead\">Today's feed is dominated by two overlapping stories: a landmark moment for Anthropic that has the industry feeling its feelings, and a growing philosophical debate about what AI progress actually <em>means</em> when the physical world remains stubbornly unchanged.</p>\n\n<h2>🎉 Anthropic's Moment — and the People Behind It</h2>\n\n<p>Something significant happened at Anthropic today — the details are sparse in the feed, but the emotional temperature is unmistakable. The congratulations are pouring in from people who know the company and its founders personally, and they carry real weight.</p>\n\n<blockquote>\n\"Two of the people who helped build Anthropic spent significant time at SPC. <a href=\"https://x.com/nottombrown\" data-handle=\"nottombrown\">@nottombrown</a> showed up at SPC in 2016 with no ML background. He spent his days working through papers with other members, then co-founded Anthropic. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> joined SPC having just wound down his gaming company. He was working on interpretability when a fellow member asked if he'd tried Claude Code. Soon he was helping build a tool most of us use every day.\" — <a href=\"https://x.com/adityaag/status/2123494873919783073\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">Thariq Shihipar</a> himself was characteristically understated, sharing what appear to be links to remarkable demonstrations — one of which pulled nearly <strong>10,000 likes</strong> — alongside a simple caption: <a href=\"https://x.com/trq212/status/2123452888248992024\">\"an age of miracles.\"</a> He also offered a rare philosophical note:</p>\n\n<blockquote>\n\"Software is both art and utility. AI is both an Industrial Revolution and a Renaissance. Factories are for utilities — at AIE Code I talked about how we can make better art.\" — <a href=\"https://x.com/trq212/status/2123524052195463568\" data-handle=\"trq212\">@trq212</a>\n</blockquote>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> put a broader frame around it: <a href=\"https://x.com/adityaag/status/2123579739868959110\">\"I am just immensely proud of our industry today. This is not a zero-sum day.\"</a> On days like this, that sentiment lands differently than usual.</p>\n\n<hr>\n\n<h2>🏭 The 1000x Engineer — and the -10x One</h2>\n\n<p>While the celebrations were underway, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> was doing what he does best: re-framing the stakes of software engineering with uncomfortable precision.</p>\n\n<blockquote>\n\"An outcome-oriented, creative engineer is now a 1000x engineer. A tabs-vs-spaces-debating, miss-forest-for-trees engineer is now a -10x engineer. The regular knowledge worker is now a 2x engineer... If there's a takeaway from Anthropic's success, it's that coding is the #1 killer app of AI.\" — <a href=\"https://x.com/rauchg/status/2123505400591106113\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>The implication — backed, he says, by Vercel's own token consumption data across startups and enterprise — is that the distribution of engineering value is <em>spreading apart</em>, not compressing. The good get dramatically better; the unfocused become a drag. He also offered a glimpse of where agent infrastructure is headed, describing Vercel Board as \"the Redux state manager of your agents\" — <a href=\"https://x.com/rauchg/status/2123468825538789380\">headless, composable, indifferent to UI</a> because \"UI is free now.\"</p>\n\n<hr>\n\n<h2>🤖 The ChatGPT Redesign — and Google's Quiet Advantage</h2>\n\n<p>OpenAI is rolling out a redesigned mobile experience for ChatGPT, and the person announcing it is <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a>, who isn't shy about the ambition involved:</p>\n\n<blockquote>\n\"Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.\" — <a href=\"https://x.com/thsottiaux/status/2123612889416339762\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>The new design — <a href=\"https://x.com/thsottiaux/status/2123612433923051976\">dubbed \"Le ChatGPT 2.0\"</a> by Sottiaux himself — gives your personal AI \"dot\" its own tab, with pinnable shortcuts to Codex, Projects, Images, and more. It's rolling out first to Pro users. Meanwhile, <a href=\"https://x.com/joshwoodward/status/2123534862569324703\" data-handle=\"joshwoodward\">@joshwoodward</a> announced that the Gemini app on Mac can now perform computer tasks — a top feature request fulfilled.</p>\n\n<p>On the subject of Google: <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> made a point that often gets lost in the \"Google is slow\" narrative:</p>\n\n<blockquote>\n\"People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they have 100,000+ employees testing their latest models and tools before wide release. At that employee population you can even run staff-only A/B tests that are stat sig.\" — <a href=\"https://x.com/petergyang/status/2123648490844897389\" data-handle=\"petergyang\">@petergyang</a>\n</blockquote>\n\n<p>His <a href=\"https://x.com/petergyang/status/2123540875733315815\">hands-on comparison of Gemini 4 Neon vs. Claude Opus 5.5</a> across five use cases is worth watching — his verdict: Opus still leads on 3D and design, but Neon has pulled even or ahead on writing and personality. Watch/Listen: <a href=\"https://x.com/petergyang/status/2123540875733315815\">Neon vs Opus: 5 Use Cases</a>.</p>\n\n<hr>\n\n<h2>🌍 Why Superintelligence Needs Atoms, Not Just Bits</h2>\n\n<p>The most thought-provoking content today came from outside the social feed entirely. On <em>No Priors</em>, <a href=\"https://x.com/bobmcgrew\" data-handle=\"bobmcgrew\">Bob McGrew</a> — former Chief Research Officer at OpenAI, now CEO of Arda — made a crisp and somewhat contrarian case against the \"hard takeoff\" theory of AI acceleration.</p>\n\n<blockquote>\n\"Researchers are not the bottleneck. The amount of time it takes in order for you to discover something is not primarily bounded by the number of researchers you have. Fundamentally, those researchers are running experiments... Even in 2024 when I was chief research officer at OpenAI, the actual limiting factor was not the number of researchers we could hire. It was the amount of GPUs that we had on hand.\" — Bob McGrew\n</blockquote>\n\n<p>His argument: automating researchers is a big, one-time S-curve improvement — but not recursive self-improvement, because compute and physical infrastructure remain the true bottleneck. And the physical world, he observes, has barely changed despite the AI boom:</p>\n\n<blockquote>\n\"If you look around outside, how different is anything from ten years ago before AI happened? Not very different at all... The first time you were in your Waymo, you thought, this is amazing. Probably the third time you're in your Waymo, you're like, man, this traffic sucks.\" — Bob McGrew\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=_wLzJINt9iQ\">Superintelligence Needs the Physical World — No Priors</a>. It's a useful corrective to some of the wilder acceleration narratives circulating this week.</p>\n\n<hr>\n\n<h2>📢 The Incentive Structure of Being Wrong Online</h2>\n\n<p>Finally, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> offered a wry observation that deserves to be framed and hung in every analyst's office:</p>\n\n<blockquote>\n\"You can say 'odds of reaching SOTA have dropped to zero' and get a lot of likes and then 3 months later when they have reached SOTA you post apology form and get even more likes and the subject of your writing prints it out and thanks you for motivation. There's no consequences at all for inaccuracy and every incentive for hyperbole and the X algorithm is tuned for this.\" — <a href=\"https://x.com/swyx/status/2123591875349422435\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>On a day full of triumphant announcements and bold predictions, it's a healthy reminder: the loudest voices in the room are optimized for engagement, not accuracy. Calibration is a competitive advantage — but it's rarely viral.</p>",
+  "html_zh": "<p class=\"lead\">今天的AI行业有一条清晰的主线：数字世界的边界正在被逼近，无论是模型能力的天花板之争、产品界面的全面重构，还是对物理世界的渴望——所有人都在问同一个问题：下一个突破在哪里？</p>\n\n<hr>\n\n<h2><strong>🏭 超级智能需要原子，不只是比特</strong></h2>\n\n<p>本周最发人深省的观点，来自前OpenAI首席研究官、Arda创始人 <a href=\"https://x.com/bobmcgrew\" data-handle=\"bobmcgrew\">Bob McGrew</a>。在 No Priors 播客中，他提出了一个对\"AI递归自我改进\"叙事的根本性挑战。</p>\n\n<blockquote>\n\"研究员根本不是瓶颈。发现新事物所需的时间，主要不取决于你有多少研究员。这些研究员归根结底是在跑实验……即便在2024年我还在OpenAI当首席研究官时，真正的限制因素也不是我们能招多少人，而是我们手头有多少GPU。\"\n<br>— Bob McGrew，<a href=\"https://www.youtube.com/watch?v=_wLzJINt9iQ\">Watch/Listen: No Priors — Superintelligence Needs the Physical World</a>\n</blockquote>\n\n<p>McGrew认为，自动化研究员能带来一次性的巨大提升——类似于从GPT-4o到o3的跨越——但这并不会触发真正的\"失控加速循环\"。每次突破都只是一条新的S曲线，然后必须寻找下一个突破口。而他认为，真正的下一步在于物理世界：让机器能够制造机器。</p>\n\n<blockquote>\n\"如果你环顾四周，十年前AI出现之前，外面有什么本质区别吗？几乎没有。即使你坐在Waymo里，第一次你会想'太神奇了'，但第三次你只会想'这破路堵成这样'。\"\n<br>— Bob McGrew\n</blockquote>\n\n<p>这是对整个行业\"数字乌托邦\"情绪的一次清醒泼水。原子世界的改变，才是检验AI真正影响力的最终标准。</p>\n\n<hr>\n\n<h2><strong>📱 ChatGPT与Gemini的产品战：界面即战场</strong></h2>\n\n<p>就在模型能力的讨论持续发酵时，两大平台同日推出了重大产品更新，战线转移到了用户体验层面。</p>\n\n<p>OpenAI产品负责人 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 宣布了ChatGPT移动端的全新设计，并附上了一句令人印象深刻的注脚：</p>\n\n<blockquote>\n\"团队疯狂到认为自己能在原地改造一个拥有12亿用户的产品体验。让我们看看这个策略能否奏效。\"\n<br>— <a href=\"https://x.com/thsottiaux/status/2123612889416339762\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>新设计让Pro用户的\"dot\"获得专属标签页，可将Codex、Projects、Images等功能固定到底部栏。<a href=\"https://x.com/thsottiaux/status/2123612433923051976\" data-handle=\"thsottiaux\">他还把新版本称为\"Le ChatGPT 2.0\"</a>——这个法式命名颇有深意，暗示这是一次真正的代际重启。</p>\n\n<p>与此同时，Google方面，<a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">@joshwoodward</a> 宣布 <a href=\"https://x.com/joshwoodward/status/2123534862569324703\">Gemini Mac版现已支持电脑操作任务</a>——这是呼声最高的功能之一。创作者 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 则发布了Gemini 4 Neon与Claude Opus 5.5的横向对比，给出了务实的评价：</p>\n\n<blockquote>\n\"Opus在3D和设计上仍然更好，但Neon在写作和个性上已经持平甚至更强，这是一项巨大的成就……$100/月的Gemini Ultra订阅是笔好买卖：你获得Gemini 4、YouTube Premium家庭版、20TB存储空间……\"\n<br>— <a href=\"https://x.com/petergyang/status/2123540875733315815\" data-handle=\"petergyang\">@petergyang</a>，<a href=\"https://x.com/petergyang/status/2123620968568676457\">完整对比视频</a>\n</blockquote>\n\n<hr>\n\n<h2><strong>⚙️ Agent基础设施：从\"完成任务\"到\"经营公司\"</strong></h2>\n\n<p>这一天，关于AI Agent的讨论明显从\"能做什么单项任务\"升级到了\"能承担什么系统性角色\"。</p>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 给出了目前关于工程师价值分化最清晰的一段论述：</p>\n\n<blockquote>\n\"一个以结果为导向、有创造力的工程师，现在是1000倍工程师。一个纠结于tabs还是spaces、见树不见林的工程师，现在是-10倍工程师。普通知识工作者现在是2倍工程师。如果从Anthropic的成功里有什么结论，那就是：写代码是AI的第一杀手级应用。\"\n<br>— <a href=\"https://x.com/rauchg/status/2123505400591106113\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>他还描述了Vercel内部如何用\"headless\"的Agent基础设施来管理工作流——<a href=\"https://x.com/rauchg/status/2123553975945556144\">将公司的诞生本身，视为一个帮你创建公司的Agent</a>。Replit的 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> 则<a href=\"https://x.com/amasad/status/2123535362568134894\">提出了\"与Agent签合同\"的范式</a>，认为这将被广泛借鉴。</p>\n\n<hr>\n\n<h2><strong>📉 社交媒体的\"末日预言经济学\"</strong></h2>\n\n<p>今天最值得收藏的一条推文，来自 <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>，精准解剖了AI舆论场的激励结构：</p>\n\n<blockquote>\n\"你可以发一篇'达到SOTA的概率已降至零'来获得大量点赞，然后三个月后当他们真的达到了SOTA，你发一篇道歉信，获得更多点赞——而你写作对象的主角还会把它打印出来，感谢你提供了动力。对不准确的预测毫无惩罚，对夸大其词却有充分激励，X的算法也是为此调校的。\"\n<br>— <a href=\"https://x.com/swyx/status/2123591875349422435\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<p>这段话在AI Twitter广泛传播，恰恰印证了它本身的逻辑——说真话，往往不如说惊天大话来得有回报。在一个每隔几周就有\"不可能的事情\"发生的行业里，保持认识论上的谦逊，比预测更难，也更稀缺。</p>\n\n<hr>\n\n<h2><strong>🌟 \"奇迹时代\"的情绪底色</strong></h2>\n\n<p>今天还弥漫着一种不寻常的集体自豪感。SPC的 <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> 记录了两位Anthropic核心成员早年在创业社区的故事——<a href=\"https://x.com/adityaag/status/2123494873919783073\">一位2016年带着零ML背景加入，另一位刚关闭游戏公司就转向可解释性研究</a>，最终共同参与构建了Claude Code。</p>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 则连发数条被大量转发的推文，其中一条以\"奇迹时代\"作标题，获得近3000个点赞；另一条更是突破了一万赞。</p>\n\n<p>在所有的技术争论和市场竞争之外，今天的AI行业有一种罕见的气质：人们真的相信自己正在参与某件重要的事情。这种情绪本身，也许就是这个行业最强大、也最需要审慎对待的燃料。</p>"
+}
