@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T06:27:13.995Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "handle": "latent-space",
+      "bio": "Podcast: Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "url": "https://www.youtube.com/watch?v=x0VSm6IjcDQ"
+    }
+  },
+  "html_en": "<p class=\"lead\">A day of genuine scientific drama — possible proof of the Riemann Hypothesis — collides with the quieter, grinding work of building AI products that actually ship: faster apps, better agents, and the dawning realization that the old ways of working are simply finished.</p>\n\n<h2>The Riemann Moment</h2>\n\n<p>If you follow one thing today, make it this: simultaneous claims of proofs of the Riemann Hypothesis — one from an AI system, one from a human mathematician — are circulating, and the AI world is predictably electric about it.</p>\n\n<blockquote>\n\"With two separate Riemann proofs, one AI and one Human, coming out at the same time, assuming they're both correct, it'll be interesting to see the difference especially on elegance.\" — <a href=\"https://x.com/amasad/status/2123874539218010491\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/levie/status/2123792233535332448\" data-handle=\"levie\">Aaron Levie</a> called it simply <a href=\"https://x.com/levie/status/2123792233535332448\">\"a big day in math.\"</a> And <a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> put the broader mood bluntly:</p>\n\n<blockquote>\n\"We are solving Riemann and also crushing pancreatic cancer with a pill. But sure, let's debate whether the 'AI trade' is good lol.\" — <a href=\"https://x.com/adityaag/status/2124019178843894078\">@adityaag</a>\n</blockquote>\n\n<p>The elegance question <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> raises is the really interesting one. If both proofs hold up, mathematicians will spend years arguing about which approach reveals more — the human intuition or the machine's combinatorial reach. That debate alone will reshape how we think about AI as a creative, not just computational, force.</p>\n\n<hr>\n\n<h2>The Agent Era Is Actually Here — and It's Messy</h2>\n\n<p>While theorists debate grand futures, practitioners are living the unglamorous present of agentic AI. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a>'s conference anecdote this week is the perfect parable:</p>\n\n<blockquote>\n\"Guy emails me twice to meet at a conference (Slush). I reply once. He then emails me 3 times in rapid succession... I bump into him later that day... He reads my name tag, twice. Blank face. He clearly has no idea who I am. He says 'oh hi' and walks away. The end.\" — <a href=\"https://x.com/mattturck/status/2123777488786538982\">@mattturck</a>\n</blockquote>\n\n<p>Automated agentic outreach, deployed without discretion, is already becoming social noise. Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> is building toward something more considered — a personal shopper agent on Vercel's <a href=\"https://x.com/rauchg/status/2123879031049449791\">@eve platform</a> that he describes as \"pure delight,\" now that AgentCard, iMessage/WhatsApp channels, and durability infrastructure have matured enough to support it.</p>\n\n<p>Levie, meanwhile, articulated what may be the clearest framing of the current capability shift:</p>\n\n<blockquote>\n\"This year we've had a clear jump in model capability where instead of telling agents precisely what to do, it's better to use these systems to solve problems you can't easily define yourself... Now, increasingly, the agent likely can come up with a better implementation than you'd have thought of.\" — <a href=\"https://x.com/levie/status/2123686350410912145\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>Shipping: Cursor AI, Gemini Neon, and the Race to Delight</h2>\n\n<p>On the product front, it was a week of genuine shipping energy. The <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Cursor</a> team dropped a desktop app upgrade —</p>\n\n<blockquote>\n\"Faster, simpler and a lot more pleasant to use.\" — <a href=\"https://x.com/thsottiaux/status/2123861214644347122\">@thsottiaux</a>\n</blockquote>\n\n<p>— and introduced what appears to be a new AI persona named Akshay, with the note to \"be nice to this one, he's special.\" The internal reception was apparently a problem:</p>\n\n<blockquote>\n\"We've been messing around a bit and inadvertently created an experience that's a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.\" — <a href=\"https://x.com/thsottiaux/status/2123997735326232775\">@thsottiaux</a>\n</blockquote>\n\n<p>Over at Google, <a href=\"https://x.com/joshwoodward\" data-handle=\"joshwoodward\">Josh Woodward</a> described the team's Friday-afternoon shipping culture at its best: they saw a community post about Gemini Neon, loved it, and just built it into production. <a href=\"https://x.com/joshwoodward/status/2123943606906138868\">\"Long click on the model picker on the web and enjoy.\"</a> <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> followed up with tips for adding the Antigravity Neon interface to your phone's home screen, noting its thread management is actually <em>better</em> than Claude's mobile experience.</p>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> was asking pointed questions about <a href=\"https://x.com/swyx/status/2123690305736396925\">Cursor AI's origins and CI/CD capabilities</a> — a signal that the developer tools space is overdue for a proper accounting of what these coding agents can actually do end-to-end, not just in the happy path.</p>\n\n<hr>\n\n<h2>GTM Lessons from Linear's $100M ARR Journey</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=x0VSm6IjcDQ\">Scaling Linear's GTM to $100M ARR — Cristina Cordova, COO (Latent Space)</a></p>\n\n<p>The Latent Space podcast this week features <strong>Cristina Cordova</strong>, Linear's COO, in a quietly essential conversation about what it actually takes to scale a product-led growth company into the enterprise. Cordova, who came up through Stripe and Notion, joined Linear at around 40 employees — and presided over a 10x revenue expansion in under four years.</p>\n\n<p>The most interesting tension in the episode is the company navigating its own CEO writing a blog post declaring \"issue tracking is dead\" — Linear's core product — and having to explain that to customers mid-sales cycle.</p>\n\n<blockquote>\n\"Most of our customers were like, 'Yeah. Issue tracking is dead. And by the way, like, what are you guys? What am I buying?'\"\n</blockquote>\n\n<p>Cordova is refreshingly candid about the COO role itself — she actively cautions founders against hiring someone like her too early. Her trial project before joining? Simply: write the go-to-market plan for the next six to twelve months. \"That is the job,\" she notes. No fictional case studies.</p>\n\n<p>Her GTM framing — making Linear \"inevitable,\" so that every company is either already on it or planning their migration — is the kind of clean strategic thinking that separates companies that scale from those that plateau at mid-market. The parallel to the broader AI tooling moment is hard to miss: every category is about to face its own \"issue tracking is dead\" reckoning.</p>\n\n<hr>\n\n<h2>One Line Worth Keeping</h2>\n\n<p><a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> with the consultant's warning of the moment:</p>\n\n<blockquote>\n\"Do not send your clients Claude Artifacts/ChatGPT sites. It makes them feel like 'Well I could have just prompted Claude/Codex myself.'\" — <a href=\"https://x.com/zarazhangrui/status/2123813583339532321\">@zarazhangrui</a>\n</blockquote>\n\n<p>As AI lowers the floor on what constitutes \"deliverable work,\" the premium shifts entirely to judgment, taste, and things that can't be reproduced by a Friday afternoon prompt. The builders who understand that early will be fine. The ones still shipping raw artifacts to clients won't be.</p>",
+  "html_zh": "<p class=\"lead\">黎曼猜想或将被证明，AI代理正在悄悄重塑从数学到购物的每个领域——今天的科技圈里，\"不可能\"这个词正在快速失效。</p>\n\n<h2>🧮 数学史上的高光时刻：黎曼猜想的双重突破</h2>\n\n<p>今天最让人屏住呼吸的话题，不是某款新模型，而是一道困扰数学界逾165年的难题。多个消息源暗示，黎曼猜想同时出现了AI与人类各自独立的证明。</p>\n\n<blockquote>\n\"两个独立的黎曼证明同时出现——一个来自AI，一个来自人类——假设都正确，看看两者在优雅性上的差异会非常有趣。\"<br>\n—— <a href=\"https://x.com/amasad/status/2123874539218010491\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p><a href=\"https://x.com/levie/status/2123792233535332448\" data-handle=\"levie\">@levie</a> 也转发感叹\"今天将是数学史上的大日子\"，而 <a href=\"https://x.com/adityaag/status/2124019178843894078\" data-handle=\"adityaag\">@adityaag</a> 则更直接：</p>\n\n<blockquote>\n\"我们正在解决黎曼猜想，同时用一颗药丸攻克胰腺癌。但大家还在争论'AI交易'到底好不好玩。\"<br>\n—— <a href=\"https://x.com/adityaag/status/2124019178843894078\" data-handle=\"adityaag\">@adityaag</a>\n</blockquote>\n\n<p>这种语气背后，折射出整个行业对AI能力边界的集体重估。</p>\n\n<hr>\n\n<h2>🤖 Gemini Neon与Antigravity：AI\"人格化\"的新实验</h2>\n\n<p>Google内部这周似乎玩嗨了。<a href=\"https://x.com/joshwoodward/status/2123943606906138868\" data-handle=\"joshwoodward\">@joshwoodward</a> 透露，团队在假期前的周五下午把一个叫 Gemini Neon 的东西直接推上了生产环境：</p>\n\n<blockquote>\n\"我们几个人在玩 Gemini Neon，太喜欢 @UFO2002616 的那篇帖子了，就直接把它做出来扔进生产了！在网页版长按模型选择器，享受吧 🙂\"<br>\n—— <a href=\"https://x.com/joshwoodward/status/2123943606906138868\" data-handle=\"joshwoodward\">@joshwoodward</a>\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/thsottiaux/status/2123864112694509995\" data-handle=\"thsottiaux\">@thsottiaux</a> 展示了一个叫\"Akshay\"的AI——似乎是某种具有独特人格的智能体，并配文\"善待他，他很特别\"。更戏剧性的是他随后的一条推文：</p>\n\n<blockquote>\n\"我们不小心创造了一个内部体验，太好玩了，现在所有人都在玩而不是工作。我们可能缓不过来了。\"<br>\n—— <a href=\"https://x.com/thsottiaux/status/2123997735326232775\" data-handle=\"thsottiaux\">@thsottiaux</a>\n</blockquote>\n\n<p>在消费端，<a href=\"https://x.com/petergyang/status/2123879309463228445\" data-handle=\"petergyang\">@petergyang</a> 分享了用 <a href=\"https://antigravity.app\">Antigravity</a> 在手机上访问 Neon 线程的技巧，称其远程控制体验甚至优于 Claude 的移动端。AI助手的\"人格\"与\"便携性\"，正成为新的产品竞争维度。</p>\n\n<hr>\n\n<h2>🚀 代理能力跃升：从\"指令执行者\"到\"问题解决者\"</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 写下了今天最值得反复阅读的一段话：</p>\n\n<blockquote>\n\"今年我们看到了模型能力的明显跃升——与其精确告诉代理做什么，不如用它来解决你自己也说不清楚的问题……现在，代理很可能能想出比你更好的实现方案，因为它能连接比你更大的解决方案空间。\"<br>\n—— <a href=\"https://x.com/levie/status/2123686350410912145\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p>这一判断与 Vercel 的 <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">@rauchg</a> 对基础设施层的信心相互呼应。他宣布 Vercel 获得 ISO 42001:2023 认证——他称之为\"AI领域的SOC2\"——同时展示了基于开放智能栈搭建的个人购物代理平台：</p>\n\n<blockquote>\n\"结果是你可以搭建一个 Muse/Instinct 级别的平台，完全自己掌控，运行在我们的开放智能栈上。体验纯粹令人愉悦。\"<br>\n—— <a href=\"https://x.com/rauchg/status/2123879031049449791\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>📈 Linear的GTM启示：从40人到$100M ARR</h2>\n\n<p>本周 Latent Space 播客请来了 Linear COO Cristina Cordova，讲述了一家产品驱动公司如何跨越\"只服务初创公司\"的天花板。Watch/Listen: <a href=\"https://www.youtube.com/watch?v=x0VSm6IjcDQ\">Scaling Linear's GTM to $100M ARR</a></p>\n\n<p>当 Linear CEO 写下\"Issue Tracking已死\"的博文时，销售团队面临的处境颇为尴尬。Cordova 的解读却意外坦然：</p>\n\n<blockquote>\n\"我们大多数客户的反应是'对啊，Issue Tracking 确实死了。顺便问一句，你们是干什么的？我买的是什么？'\"<br>\n—— Cristina Cordova，Linear COO\n</blockquote>\n\n<p>她同样分享了 Linear 独特的\"试用期\"文化——COO候选人入职前需提交真实的GTM计划，而非虚构案例。这种\"以工作代面试\"的方式，或许值得更多公司借鉴。</p>\n\n<hr>\n\n<h2>⚠️ 信号与噪音：代理时代的礼仪困境</h2>\n\n<p>并非所有AI应用都令人鼓舞。<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">@mattturck</a> 在 Slush 大会上亲历了一出关于\"自动化邮件代理\"的闹剧——对方的AI连发多封会议邀约，真人见面后却对他毫无印象，读完名牌直接走人。</p>\n\n<blockquote>\n\"他显然完全不知道我是谁。他说'哦，你好'然后就走了。故事结束。\"<br>\n—— <a href=\"https://x.com/mattturck/status/2123777488786538982\" data-handle=\"mattturck\">@mattturck</a>\n</blockquote>\n\n<p>而 <a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 则提醒那些用AI工具接客户活儿的人：</p>\n\n<blockquote>\n\"不要把 Claude Artifacts 或 ChatGPT 生成的网站直接发给客户。这会让他们觉得：'那我自己去提示 Claude 不就好了。'\"<br>\n—— <a href=\"https://x.com/zarazhangrui/status/2123813583339532321\" data-handle=\"zarazhangrui\">@zarazhangrui</a>\n</blockquote>\n\n<p>代理时代的核心悖论正在浮现：工具越强大，人类判断力的价值反而越高。自动化可以提升效率，但不能替代你对\"什么值得做\"的判断。</p>"
+}
