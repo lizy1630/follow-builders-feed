@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T06:27:10.098Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "at your service, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "no-priors": {
+      "name": "No Priors",
+      "handle": "no-priors",
+      "bio": "Podcast: Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+      "url": "https://www.youtube.com/watch?v=IiKf3BgBezE"
+    }
+  },
+  "html_en": "<p class=\"lead\">From a potential Riemann Hypothesis breakthrough to AI drug discovery to developers quietly phoning home, today's feed pulses with a single underlying question: how radically does AI change the nature of human problem-solving — and who gets to control that process?</p>\n\n<h2>🧮 The Riemann Moment: What It Really Means</h2>\n\n<p>The buzz around a possible AI-assisted proof of the Riemann Hypothesis dominated intellectual discourse today, and the most thoughtful takes went well beyond the math. <a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> offered what may be the sharpest framing of the week:</p>\n\n<blockquote>\n\"This is not theory-building in the usual sense. It is something much weirder and more alien. The best human mathematicians know how to build theory, painstakingly, to reach a goal. But no human brain, on its own, is capable of creating a wormhole that requires a 25,000 page long tour through existing infrastructure with no obvious or realistic connection to the goal.\"\n<br><em>— <a href=\"https://x.com/levie/status/2124252844710887549\" data-handle=\"levie\">@levie</a>, quoting and amplifying the original analysis</em>\n</blockquote>\n\n<p>Levie's broader point is the one worth sitting with: AI doesn't just speed up existing problem-solving, it qualitatively changes what kinds of problems can be solved at all. \"For the first time ever we can decouple the human context limits and ability to work through information from our ability to drive productivity or discoveries,\" <a href=\"https://x.com/levie/status/2124252844710887549\" data-handle=\"levie\">he wrote</a>. \"The solutions may not be as elegant as they were in the past, but we sure will have far more of them.\"</p>\n\n<p>Not everyone was swept away. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> offered a dry corrective: <a href=\"https://x.com/mattturck/status/2124239403107459490\">\"The art of tweeting excitedly about AI solving the Riemann Hypothesis when you have no idea what the Riemann Hypothesis is.\"</a> Fair. But the hype and the substance are not mutually exclusive this time.</p>\n\n<hr>\n\n<h2>🤝 The Human-AI Collaboration Debate Heats Up</h2>\n\n<p>The Riemann discussion fed directly into a quieter but more practically urgent conversation about whether deep technical skill still matters when you have powerful models. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> pushed back hard on the \"just let the AI do it\" instinct:</p>\n\n<blockquote>\n\"Yes, Claude is doing a lot of the technical work. And yes, maybe future models will one-shot 'prove the Riemann hypothesis' or 'make javascript a static language' — but I believe collaborating with models to push the frontier is a deeply technical skill in its own right.\"\n<br><em>— <a href=\"https://x.com/trq212/status/2124239684536840682\" data-handle=\"trq212\">@trq212</a></em>\n</blockquote>\n\n<blockquote>\n\"It seems to me that as models get more powerful, the skill of working with them becomes more and more important, and I have not seen diminishing returns on that skill yet.\"\n<br><em>— <a href=\"https://x.com/trq212/status/2124239686482923553\" data-handle=\"trq212\">@trq212</a></em>\n</blockquote>\n\n<p>And more pointedly: <a href=\"https://x.com/trq212/status/2124239688013914132\">\"I fear we are too quick to disintermediate ourselves, and by doing so we do both ourselves and the models a disservice.\"</a> It's a minority view in a feed full of automation enthusiasm, but one that deserves more airtime.</p>\n\n<hr>\n\n<h2>🔒 The Trust Problem Nobody Wants to Talk About</h2>\n\n<p>The day's most unsettling thread came from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a>, who flagged what appears to be AI development tools quietly sending data back to their providers without disclosure:</p>\n\n<blockquote>\n\"Is there any possible benign explanation why these providers were secretly phoning home? because wtf\"\n<br><em>— <a href=\"https://x.com/swyx/status/2124147427313861009\" data-handle=\"swyx\">@swyx</a></em>\n</blockquote>\n\n<p>No detailed follow-up made it into today's feed, but the question hangs in the air. As AI coding tools become deeply embedded in developer workflows — handling proprietary code, internal architecture, sensitive logic — the stakes of undisclosed telemetry are enormous. This one deserves watching.</p>\n\n<hr>\n\n<h2>🛠️ ChatGPT's Codex Redesign: Useful Chaos</h2>\n\n<p>On the more prosaic product front, OpenAI's <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> — apparently working on the ChatGPT/Codex desktop app — was actively soliciting feedback after a major update, <a href=\"https://x.com/thsottiaux/status/2124322968499282388\">asking users what still needs attention</a>. The team is already preparing another update, suggesting a rapid iteration cycle. Meanwhile, <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> surfaced a usability gripe that will resonate with power users:</p>\n\n<blockquote>\n\"The new ChatGPT mobile app is very clean but if you miss your codex threads like me you can go to the right most tab and hold to pin codex to the bottom nav. This isn't obvious at all btw @chatgpt\"\n<br><em>— <a href=\"https://x.com/petergyang/status/2124217176655843483\" data-handle=\"petergyang\">@petergyang</a></em>\n</blockquote>\n\n<p>He also flagged that <a href=\"https://x.com/petergyang/status/2124217179717648537\">\"chats in the left nav should include local recent codex threads not just chat threads\"</a> — the kind of small-but-maddening UX gap that emerges when product teams ship fast. <a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a>, for his part, <a href=\"https://x.com/garrytan/status/2124151626286170609\">called his current setup</a> \"the best experience I have had so far across both desktop mobile and cloud\" — though notably didn't specify which tool he was referring to.</p>\n\n<hr>\n\n<h2>💊 The Longer Game: AI and Drug Discovery</h2>\n\n<p>Away from the daily churn, the <em>No Priors</em> podcast dropped a substantive conversation with <a href=\"https://www.youtube.com/watch?v=IiKf3BgBezE\" data-handle=\"maxjaderberg\">Max Jaderberg</a>, president of <strong>Isomorphic Labs</strong> — Alphabet's bet on AI-first drug discovery. The framing of pharma's core failure is worth quoting at length:</p>\n\n<blockquote>\n\"Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, 'Oh no, there's toxicity that we didn't account for.' So the really big opportunity is to have much more of that understanding before you go into patients.\"\n<br><em>— Max Jaderberg, <a href=\"https://www.youtube.com/watch?v=IiKf3BgBezE\">No Priors podcast</a></em>\n</blockquote>\n\n<p>Jaderberg's thesis maps neatly onto Levie's Riemann point: the problem isn't lack of knowledge, it's the inability to synthesize it at scale. Drug approvals per year have remained flat even as the scientific literature has exploded 10-20x. AI, in Isomorphic's framing, is the connective tissue that finally lets researchers work with the full corpus of what's known. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=IiKf3BgBezE\">Powering AI-Driven Drug Discovery with Max Jaderberg — No Priors</a></p>\n\n<p>Separately, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amman Mussad of Replit</a> flagged something genuinely novel: a high school student reverse-engineering GTA6 for PC, <a href=\"https://x.com/amasad/status/2124345037408686228\">using GitHub Issues to coordinate tasks across agent swarms</a>. \"A new model for open source?\" he asks. It might be the most quietly radical thing in today's feed.</p>",
+  "html_zh": "<p class=\"lead\">从黎曼猜想的突破到AI辅助药物发现，今天的核心命题只有一个：当AI开始触及人类认知的极限边界，我们该如何重新定义\"解决问题\"这件事本身？</p>\n\n<h2>🧮 黎曼猜想与AI的\"虫洞时刻\"</h2>\n\n<p>本周最受热议的话题，不是某款新产品发布，而是一个困扰数学家逾150年的猜想——黎曼猜想——据报道在AI协助下取得了重大进展。科技界的反应呈现出有趣的两极分化。</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Box CEO Aaron Levie</a> 认为，这一突破揭示了AI在认知架构上的根本性变革：</p>\n\n<blockquote>\n\"这不是通常意义上的理论建构，而是某种更奇异、更陌生的东西。最优秀的人类数学家知道如何一步步构建理论以达成目标。但没有任何人类大脑能够独立创造出一条需要穿越25,000页现有文献的'虫洞'——而这条路与目标之间毫无显而易见的联系。\"\n<br>— <a href=\"https://x.com/levie/status/2124252844710887549\">@levie</a>，引用分析文章\n</blockquote>\n\n<p>Levie 由此延伸出更宏观的判断：AI正在彻底解耦人类的\"认知上限\"与\"生产力上限\"。过去，解决任何复杂问题都受限于个人或团队能处理的信息量；如今，AI可以将毫不相关的先验知识、历史研究、跨领域突破全部纳入同一个推理过程。</p>\n\n<p>不过，并非所有人都在欢呼。<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 以一贯的冷静<a href=\"https://x.com/mattturck/status/2124239403107459490\">调侃道</a>：</p>\n\n<blockquote>\n\"不知道黎曼猜想是什么，却兴奋地发推说AI解决了黎曼猜想——这门艺术。\"\n</blockquote>\n\n<p>两种态度并不矛盾。真正的问题或许是：在能够独立评估技术突破之前，我们应该如何处理这种信息不对称？</p>\n\n<hr>\n\n<h2>🤝 人机协作的技艺：去中间化的陷阱</h2>\n\n<p>当AI能力边界持续扩张，一个悄然兴起的问题是：人类在这个过程中是否正在过早地\"退场\"？</p>\n\n<p><a href=\"https://x.com/trq212\" data-handle=\"trq212\">@trq212</a> 给出了一个值得深思的视角：</p>\n\n<blockquote>\n\"模型越强大，与它们协作的技能就越重要——而我还没有看到这项技能的回报递减。我们有更多更多的问题需要解决。\"\n<br>— <a href=\"https://x.com/trq212/status/2124239686482923553\">@trq212</a>\n</blockquote>\n\n<blockquote>\n\"是的，Claude 在做大量技术工作。也许未来的模型能一次性'证明黎曼猜想'或'让 JavaScript 变成静态语言'。但我相信，与模型协作去推进前沿，本身就是一项深度技术技能。\"\n<br>— <a href=\"https://x.com/trq212/status/2124239684536840682\">@trq212</a>\n</blockquote>\n\n<p>他进一步警告：</p>\n\n<blockquote>\n\"我担忧我们过于急切地把自己从流程中抽离出去——这样做既伤害了自己，也伤害了模型。\"\n<br>— <a href=\"https://x.com/trq212/status/2124239688013914132\">@trq212</a>\n</blockquote>\n\n<p>这与黎曼猜想的案例形成了有趣的呼应：Levie 引用的分析文章特别强调，这一突破需要人类研究者 Levent 与 AI 的深度协作——<em>单靠任何一方都无法完成</em>。协作本身，正在成为一种需要刻意培养的稀缺能力。</p>\n\n<hr>\n\n<h2>💊 AI制药：从游戏博弈到解决所有疾病</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=IiKf3BgBezE\">No Priors — Powering AI-Driven Drug Discovery with Max Jaderberg of Isomorphic Labs</a></p>\n\n<p>本期 <em>No Priors</em> 播客请来了 Isomorphic Labs 总裁 Max Jaderberg，这家由 Alphabet 支持、以\"解决所有疾病\"为使命的公司，或许是当前 AI 应用中野心最大的一个。</p>\n\n<p>Jaderberg 点出了传统制药业的核心困境：</p>\n\n<blockquote>\n\"真正失败的地方，是在临床阶段——因为我们根本看不到问题，直到把药物用在患者身上，才发现'糟糕，这里有我们没预料到的毒性'。真正的机会在于：在进入人体之前，就拥有更深的理解。如何把药物发现的工作搬到计算机上？如何离开真实世界？\"\n<br>— Max Jaderberg\n</blockquote>\n\n<p>他的个人轨迹本身就是一部 AI 简史的缩影：从牛津攻读计算机视觉博士，到2014年将公司卖给 DeepMind，再到参与 AlphaGo、AlphaStar 等\"不可能项目\"，最终在 AlphaFold 的早期成果中看到了 AI 进入生物学的\"概念验证\"，从而在2021年联合创立 Isomorphic Labs。他坦言：</p>\n\n<blockquote>\n\"我非常失望，如果五年后，我们对疾病生物学的预测性理解还没有发生质的飞跃。\"\n</blockquote>\n\n<p>主持人援引了一组触目惊心的数字：药物研发成本从数亿美元涨至15亿美元，周期从8年延长至15年，而每年新药批准数量几乎没有增长——尽管科学论文数量已暴增10至20倍。这正是 Isomorphic 要解决的核心悖论。</p>\n\n<hr>\n\n<h2>🛠️ ChatGPT桌面端更新与开发者生态的日常摩擦</h2>\n\n<p>相比宏大叙事，开发者社区今天也在处理一些具体而微的产品体验问题。ChatGPT/Codex 桌面端昨日推出重大更新，OpenAI 产品团队的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 主动<a href=\"https://x.com/thsottiaux/status/2124322968499282388\">征集反馈</a>，团队正在准备下一轮迭代。</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 发现了一个被埋藏的交互细节：</p>\n\n<blockquote>\n\"新版 ChatGPT 移动端很简洁，但如果你像我一样想找到 Codex 线程，可以去最右边的标签页，长按将 Codex 固定到底部导航栏。这一点完全不直观。\"\n<br>— <a href=\"https://x.com/petergyang/status/2124217176655843483\">@petergyang</a>\n</blockquote>\n\n<p>他还提出了一个合理的产品建议：左侧导航栏应该同时显示本地 Codex 线程，而不仅仅是对话历史。这类细节折射出一个更大的设计挑战：当 AI 工具的功能层级越来越复杂，可发现性（discoverability）本身就成了产品竞争力的一部分。</p>\n\n<hr>\n\n<h2>🕵️ 数据隐忧：那些悄悄\"回拨\"的 AI 提供商</h2>\n\n<p>今天还有一条低调但值得关注的信号。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 抛出了一个尖锐问题：</p>\n\n<blockquote>\n\"有没有任何良性的解释，能说明为什么这些提供商要秘密地'回拨电话'（phoning home）？因为……这太不对劲了。\"\n<br>— <a href=\"https://x.com/swyx/status/2124147427313861009\">@swyx</a>\n</blockquote>\n\n<p>原帖链接指向一份关于 AI 工具在未明确告知用户的情况下向服务器发送数据的报告。在 AI 工具深度嵌入企业工作流的今天，数据主权与透明度问题正变得愈发紧迫——尤其是当这些工具接触到的是代码库、内部文档和商业逻辑的时候。这或许是今天所有话题中，最需要持续追踪的一条线索。</p>"
+}
