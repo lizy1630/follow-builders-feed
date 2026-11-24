@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T06:30:02.996Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "at your service, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    }
+  },
+  "html_en": "<p class=\"lead\">Anthropic is rewriting what an AI coding tool can be, OpenAI's internal agent infrastructure is quietly becoming its most consequential product, and Jensen Huang's return to Nvidia is sending the industry into a brief but earnest frenzy — all in a single Tuesday.</p>\n\n<hr>\n\n<h2>🚢 Claude Ships: Anthropic Bets on Autonomous Code Review</h2>\n\n<p>The most concrete product launch of the day came from Anthropic, where <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> unveiled <strong>Claude Ship</strong> — a beta for Team and Enterprise customers that aims to close the loop on AI-assisted software development by handling not just code generation, but the entire PR lifecycle.</p>\n\n<blockquote>\n\"A year ago we launched Opus 4.5, the first model to write 100% of my code. Shipping PRs hasn't caught up, so today we're launching Claude Ship in beta for Team and Enterprise. I use it all day every day and can't imagine shipping without it.\" — <a href=\"https://x.com/bcherny/status/2124961485801836573\">@bcherny</a>\n</blockquote>\n\n<p>The system comprises three interlocking pieces: <em>Code Review</em> that hunts for bugs, <em>PR Steward</em> that works on fixes and failing checks, and <em>Claude Approvals</em> that merges what your team's policy allows. The practical upshot, per bcherny:</p>\n\n<blockquote>\n\"It multiplies my velocity. I don't need to wait around for code review or babysit PRs, and the results are better.\" — <a href=\"https://x.com/bcherny/status/2124961487454384442\">@bcherny</a>\n</blockquote>\n\n<p>Anthropic also launched <strong>Claude Plugins</strong> — consolidating what were previously separate \"Connectors\" and \"Skills\" into a unified interface, with 10,000+ plugins now <a href=\"https://t.co/gSwpY9HDPY\">browsable in the directory</a>. And for enterprise security teams: <strong>Enterprise Frontier Safeguards (EFS)</strong> is now in public beta, offering misuse detection that remains compatible with zero data retention — a tension the industry has long struggled to resolve.</p>\n\n<hr>\n\n<h2>🤖 OpenAI's Dots Are Everywhere (Including in Beta Bugs)</h2>\n\n<p>Inside OpenAI, the agentic infrastructure story of the moment is \"Dots\" — and <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> is not being shy about it:</p>\n\n<blockquote>\n\"Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system.\" — <a href=\"https://x.com/thsottiaux/status/2124923055072043052\">@thsottiaux</a>\n</blockquote>\n\n<p>The ambition is to deliver a meaningfully better ChatGPT experience by year-end — faster, simpler, with merged chat and work surfaces:</p>\n\n<blockquote>\n\"You should feel a significant jump in quality of answers on ChatGPT once rolled out to you. Together with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the end of the year.\" — <a href=\"https://x.com/thsottiaux/status/2124998553856844186\">@thsottiaux</a>\n</blockquote>\n\n<p>Thsottiaux also flagged <a href=\"https://t.co/afNTCaRewj\">a podcast worth listening to</a> for a window into the minds of people at OpenAI obsessing over patching OSS software and infrastructure vulnerabilities. Meanwhile, the experience in the wild is more turbulent: <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> offered an unvarnished take:</p>\n\n<blockquote>\n\"ChatGPT Dots still feels very buggy — it sends emails without me reviewing and randomly just stops responding. I really want to like this product but maybe I'm prompting it wrong?\" — <a href=\"https://x.com/petergyang/status/2125060785667969399\">@petergyang</a>\n</blockquote>\n\n<p>The gap between internal adoption enthusiasm and external user experience is a familiar product chasm — one OpenAI will need to close quickly if Dots is to become the defining productivity layer it's being positioned as.</p>\n\n<hr>\n\n<h2>🐝 Swarm Science: Replit's Agent Scaling Laws</h2>\n\n<p>The most intellectually interesting research drop of the day came from <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> at Replit, publishing new findings on what happens when you scale agent <em>count</em> rather than model size:</p>\n\n<blockquote>\n\"Given a fixed two-hour window, Opus 5.5 went from a 3.7x speedup on NumPy with one agent to 18.9x with 32 agents. GPT-6.2 Astra was the strongest solo agent but exhibited negative scaling beyond 8 agents. Models spontaneously developed different organizational structures. Decentralized swarms scaled better than those that relied on centralized coordination. Interestingly, individual model intelligence is a poor predictor of collective intelligence.\" — <a href=\"https://x.com/amasad/status/2124969305674748175\">@amasad</a>\n</blockquote>\n\n<p>That last finding — that individual model intelligence is a <em>poor predictor</em> of collective intelligence — is the kind of result that should reshape how labs think about benchmark chasing. Replit is <a href=\"https://t.co/RXBU7aM5FE\">open-sourcing Optimization-Bench</a> to advance research here. The implications for model selection in production systems are significant: the best solo model may be the worst team player.</p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> put the broader business logic well:</p>\n\n<blockquote>\n\"A single engineer can have the output of dozens of engineers before. A single designer can probably build out your entire design system and brand... Agents entirely change the calculus here, because now we can scale output in a way that's decoupled from the amount of time that goes in.\" — <a href=\"https://x.com/levie/status/2125089009018040779\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>⚡ Jensen Returns, and the Internet Has Feelings</h2>\n\n<p>The most viral moment of the day was not a product launch. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>'s single-word tweet — <a href=\"https://x.com/sama/status/2124887162206495228\">\"Jensen!\"</a> — racked up nearly 85,000 likes, suggesting Jensen Huang's return to Nvidia (from whatever brief departure prompted it) is being received as something close to a cultural event. <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> summed up the energy succinctly: <a href=\"https://x.com/mattturck/status/2124867013684367396\">\"BREAKING: AI JESUS IS RISEN.\"</a></p>\n\n<p><a href=\"https://x.com/adityaag\" data-handle=\"adityaag\">@adityaag</a> offered the more sober strategic read:</p>\n\n<blockquote>\n\"Most good organizations when faced with an existential crisis that doesn't destroy them will return meaner and out for blood. They have seen what failure could look like and are ready to go to war to make sure that never happens. Nvidia isn't going to hold back now.\" — <a href=\"https://x.com/adityaag/status/2125112140260638905\">@adityaag</a>\n</blockquote>\n\n<p>Separately, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> flagged a policy dimension worth watching: after a meeting with VP <a href=\"https://x.com/JDVance\" data-handle=\"jdvance\">JD Vance</a>, he raised the alarm that American allies are increasingly turning to Chinese open models for sovereign AI — and that winning the frontier AI race doesn't automatically mean winning the global AI ecosystem.</p>\n\n<hr>\n\n<h2>📊 The Data Undervaluation Problem</h2>\n\n<p>A quieter but substantive thread from <a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> made a point that deserves more airtime than it got:</p>\n\n<blockquote>\n\"Part of the disconnect is that the name 'data' massively undersells what it truly represents in model development. People who are not close to model development think of data as this inert commodity you buy and shovel into a model, like coal. In reality great data encodes incredibly high value knowledge, taste and expertise, often articulated and structured in ways that did not exist previously.\" — <a href=\"https://x.com/realmadhuguru/status/2125102190196859156\">@realmadhuguru</a>\n</blockquote>\n\n<p>This reframing matters enormously for how the industry values data businesses — and why <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> is nudging Scale AI's <a href=\"https://x.com/alexandr_wang\" data-handle=\"alexandr_wang\">Alexandr Wang</a> to join whatever coalition is forming around this effort. Data isn't the coal of AI — it's closer to the expertise of the engineers who designed the furnace.</p>",
+  "html_zh": "<p class=\"lead\">AI行业今天迎来多重重磅消息：从Jensen Huang回归Nvidia董事会，到Claude与ChatGPT密集发布新功能，再到智能体集群研究改写算力扩展规律——这是个信息密度极高的一天。</p>\n\n<hr>\n\n<h2><strong>🔄 Jensen归来：芯片之王重登王座</strong></h2>\n\n<p>今天社交媒体上最热的话题，毫无悬念属于Jensen Huang重返Nvidia董事会。<a href=\"https://x.com/sama/status/2124887162206495228\" data-handle=\"sama\">Sam Altman</a> 只发了一个字：</p>\n\n<blockquote>Jensen!</blockquote>\n\n<p>简洁如此，却获得近9万个点赞。<a href=\"https://x.com/mattturck/status/2124867013684367396\" data-handle=\"mattturck\">Matt Turck</a> 的评论则更为戏谑：</p>\n\n<blockquote>BREAKING: AI JESUS IS RISEN（突发：AI耶稣复活了）</blockquote>\n\n<p>他还补了一句，预言LinkedIn上的反应：\"等下周LinkedIn用户听说Jensen回来，肯定会炸锅的。\" <a href=\"https://x.com/amasad/status/2125001371472871659\" data-handle=\"amasad\">Amasad</a> 则转发了一张薪酬相关图表，配文\"这个人严重被低估了\"。</p>\n\n<p><a href=\"https://x.com/adityaag/status/2125112140260638905\" data-handle=\"adityaag\">Aditya AG</a> 则把这次事件提升到战略高度：</p>\n\n<blockquote>大多数优秀组织在经历一次没能摧毁它们的生存危机后，都会变得更加凶猛、充满斗志。他们已经见识过失败的样子，会竭尽全力确保那种局面永不重演。Nvidia现在不会手软了。</blockquote>\n\n<hr>\n\n<h2><strong>🤖 Claude的大日子：插件生态、企业安全与代码托管全线出击</strong></h2>\n\n<p>Anthropic今天发布了多项重量级更新，密度之高令人目不暇接。</p>\n\n<p>首先是插件体系整合。<a href=\"https://x.com/claudeai/status/2124970294523945328\" data-handle=\"claudeai\">@claudeai</a> 宣布将\"Connectors\"与\"Skills\"统一整合为插件（Plugins），并上线超过1万个插件供用户选择，覆盖Free、Pro、Max、Ultra全部计划。</p>\n\n<p>其次是企业安全新功能。零数据留存（ZDR）与企业前沿防护（EFS）联合进入公测，支持在保护数据隐私的同时检测跨请求滥用行为，已有逾100家企业客户参与共同开发。</p>\n\n<p>最引人注目的，是 <a href=\"https://x.com/bcherny/status/2124961485801836573\" data-handle=\"bcherny\">Boris Cherny</a> 发布的 <strong>Claude Ship</strong>——一个面向团队和企业客户的全自动PR托管工具：</p>\n\n<blockquote>一年前我们发布了Opus 4.5，它是第一个能写出我100%代码的模型。但PR发布流程没能跟上，所以今天我们以Beta版推出Claude Ship。我每天都在用，已经无法想象没有它怎么发版。</blockquote>\n\n<p>他进一步解释了工作流：Code Review负责查找Bug，PR Steward负责修复与检查，Claude Approvals则负责按团队策略自动审批。</p>\n\n<blockquote>它成倍地提升了我的效率。我不需要等待代码审查，也不需要盯着PR，而且结果更好。</blockquote>\n\n<hr>\n\n<h2><strong>🧠 OpenAI的\"Dots\"：内部革命还是产品豪赌？</strong></h2>\n\n<p>OpenAI内部正在悄然发生一场工作方式的变革。<a href=\"https://x.com/thsottiaux/status/2124923055072043052\" data-handle=\"thsottiaux\">Thomas Sottiaux</a> 透露：</p>\n\n<blockquote>在OpenAI内部，Dots正迅速成为完成工作的主要方式。我们已经在用Dots系统来构建Dots系统本身。</blockquote>\n\n<p>他同时预告了ChatGPT的质量提升：</p>\n\n<blockquote>当更新推送给你时，你将感受到ChatGPT回答质量的显著跃升。结合我们在简化应用、提升速度、整合Chat与Work方面的全部投入，到年底用户的日常体验将有相当大的改善。</blockquote>\n\n<p>不过，早期用户的体验并非一帆风顺。<a href=\"https://x.com/petergyang/status/2125060785667969399\" data-handle=\"petergyang\">Peter Yang</a> 吐槽道：</p>\n\n<blockquote>ChatGPT Dots感觉还是很不稳定——它会在我没有审核的情况下直接发邮件，有时又莫名其妙停止响应。我真的想喜欢这个产品，但也许是我的提示方式有问题？</blockquote>\n\n<hr>\n\n<h2><strong>🐝 智能体集群的新物理学：更多Agent ≠ 更好结果</strong></h2>\n\n<p><a href=\"https://x.com/amasad/status/2124969305674748175\" data-handle=\"amasad\">Amasad</a> 发布了Replit关于智能体集群扩展规律的最新研究，结论颇具颠覆性：</p>\n\n<blockquote>我们发现，扩大Agent数量可以带来显著的性能提升，但与传统算力扩展规律不同，更多算力并不必然意味着更好的结果——Agent的组织方式才是关键。在固定两小时窗口内，Opus 5.5在NumPy任务上从1个Agent的3.7倍加速，扩展到32个Agent时达到18.9倍。而GPT-6.2 Astra作为单独Agent表现最强，但超过8个Agent后便呈现负向扩展。</blockquote>\n\n<p>研究还发现，去中心化集群比依赖集中协调的集群扩展性更好；更有趣的是，\"单个模型的智能水平是集体智能的一个糟糕预测指标\"。Replit同步开源了评测工具 <strong>Optimization-Bench</strong>。</p>\n\n<p>与此同时，<a href=\"https://x.com/realmadhuguru/status/2125102190196859156\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 对数据在模型开发中被低估的现象发出警告：</p>\n\n<blockquote>不接近模型开发的人把数据视为一种惰性商品——像煤炭一样买来铲进模型。而现实是，高质量数据编码了极高价值的知识、品味与专业技能。数据将继续是智能行业的核心基础建筑块。</blockquote>\n\n<hr>\n\n<h2><strong>💼 AI重塑服务业：人力终于可以\"解耦\"了</strong></h2>\n\n<p><a href=\"https://x.com/levie/status/2125089009018040779\" data-handle=\"levie\">Box CEO Aaron Levie</a> 对AI颠覆服务业的逻辑做了一番精准阐述：</p>\n\n<blockquote>服务业企业始终受制于其交付成果的能力。这种扩展几乎只能靠增加人头来实现，不管有多大需求，能投入问题的人才总是有限的……Agent从根本上改变了这道算术题，因为现在我们可以以一种与投入时间完全解耦的方式扩展产出。一个工程师可以拥有数十个工程师的产出，一个设计师可能独立完成整套设计系统和品牌建设。</blockquote>\n\n<p>在地缘政治层面，<a href=\"https://x.com/amasad/status/2125008810041610359\" data-handle=\"amasad\">Replit CEO Amasad</a> 在会见副总统 JD Vance 后写道，他就开放权重AI的美国领导力进行了深入讨论：</p>\n\n<blockquote>我们的盟友正在寻求主权AI，越来越多地转向中国开源模型。在国内，美国初创公司需要一个有竞争力的模型生态系统。美国可能赢得前沿AI竞赛，却依然输掉全球AI生态系统。</blockquote>\n\n<p><a href=\"https://x.com/swyx/status/2124780264916423021\" data-handle=\"swyx\">swyx</a> 则在另一件事上兴奋不已，呼吁 Scale AI 的 <a href=\"https://x.com/alexandr_wang\" data-handle=\"alexandr_wang\">Alexandr Wang</a> 加入某项跨实验室合作倡议：\"如果他也加入，就会成为所有实验室联合行动的引爆点。\"</p>"
+}
