@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T06:38:54.921Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "ai-&-i-by-every": {
+      "name": "AI & I by Every",
+      "handle": "ai-&-i-by-every",
+      "bio": "Podcast: A New Vision for Human Work After Automation",
+      "url": "https://www.youtube.com/watch?v=WstNofgQF5Q"
+    }
+  },
+  "html_en": "<p class=\"lead\">The AI industry's most consequential debate is no longer about capability — it's about governance, trust, and what it means to do great work in a world where agents are eating software from the inside out.</p>\n\n<h2>🎯 Altman's Perplexity Gambit: A Metric for the Moment</h2>\n\n<p>The week's most significant development came from <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>, who used a White House policy moment to float something surprisingly concrete: perplexity as an industry-wide regulatory metric for AI development pacing.</p>\n\n<blockquote>\n\"I further propose common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a certain concrete milestone (such as the development of a successor to CoT monitors).\" — <a href=\"https://x.com/sama/status/2124551883130114403\">@sama</a>\n</blockquote>\n\n<p>The proposal is elegant in its simplicity: rather than counting FLOPS (which are hard to verify and easy to game), use a compression-based metric that tracks directly against the emergence of new capabilities. <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> flagged the accompanying chart as \"one of the most beautiful ways to tell the story of the last 4 years,\" noting a pointed implication:</p>\n\n<blockquote>\n\"It also shows that a lot of the post-training issues we debate is kinda the B plot to the overall A plot of large scale pretrain progress.\" — <a href=\"https://x.com/swyx/status/2124583459356373052\">@swyx</a>\n</blockquote>\n\n<p>The OpenAI framing goes further, projecting that \"further transformative capabilities\" should be expected as models enter the \"~0.68–0.7 log-perplexity window.\" Whether rival labs embrace this framing — or view it as OpenAI trying to set the terms of its own regulation — remains to be seen. But the move is savvy: it shifts the conversation from opaque compute thresholds to a shared, observable signal.</p>\n\n<hr>\n\n<h2>🔐 The Trust Layer Becomes the Moat</h2>\n\n<p>Two of the week's most-engaged posts centered not on model capability, but on security — and the gap between builders who cut corners and those who don't.</p>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> issued a sharp warning about \"stealth models\" offering free inference with zero data retention promises:</p>\n\n<blockquote>\n\"These stealth models are mechanisms of industrial scale data exfiltration to nation state programs, I strongly suspect, and the Dragos research seems to confirm. Imagine explaining to your boss: sorry chief, I <em>had</em> to try this really cool ZDR free stealth model… all our secrets, customer data, and code are now in a different continent!\" — <a href=\"https://x.com/rauchg/status/2124595496849445079\">@rauchg</a>\n</blockquote>\n\n<p>Meanwhile, <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> announced that Christie's — yes, the 258-year-old auction house — has chosen Replit Desktop for secure agentic work, citing a security model built in partnership with Windows. The pairing of vibe-coded apps and institutional-grade security is itself a story: the enterprise is arriving faster than the tooling expected.</p>\n\n<hr>\n\n<h2>🤖 Agents as Customers: The Software Stack Turns Inside Out</h2>\n\n<p>A quietly important observation from <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a>'s interview with Microsoft Copilot EVP Chris LaManna captures something the industry is only beginning to reckon with:</p>\n\n<blockquote>\n\"Agents are very harsh customers. They will look for the best performance, price, and reliability. What an agent prefers isn't always what a person would prefer. When a person does a search, you give them 10 links with small snippets. An agent doesn't care. You can return a thousand results. Our APIs and user experiences will start to evolve and have modes that better support agents.\" — Chris LaManna, via <a href=\"https://x.com/petergyang/status/2124669298191090033\">@petergyang</a>\n</blockquote>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=WstNofgQF5Q\">AI & I — A New Vision for Human Work After Automation</a></p>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> extended the thread thoughtfully, noting that multi-agent orchestration isn't just a technical problem — it's an organizational one:</p>\n\n<blockquote>\n\"One of the biggest shifts is how those agents collectively share their knowledge, keep track of the tasks, and also coordinate with human users. This in theory is technically straightforward, but there's a ton of complexity to get right to ensure agents can both get access to the relevant resources without too much or little exposure.\" — <a href=\"https://x.com/levie/status/2124658150771188157\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>💡 What Does Great Human Work Actually Look Like Now?</h2>\n\n<p>Every's conference in Brooklyn last week wrestled with perhaps the most existential question in the room: if AI can do 83% of expert work better than humans (per OpenAI's GDP-Val benchmark), what's left?</p>\n\n<p><a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a>, Every's CEO, offered his answer in a closing talk that's worth reading in full. He described a week in which he personally did the work of a data scientist, game developer, product marketer, engineer, and BDR — all with a single Claude subscription. His conclusion wasn't despair, but a reframe:</p>\n\n<blockquote>\n\"Great work is the perspective you bring to the model… Rather than replacing individuals, recent advances in AI will empower them to make an impact on scale matching some of the biggest businesses, research labs, and creative organizations of today.\"\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> reached for a similar idea from a different angle, arguing that AI's highest calling isn't generating outputs but generating understanding:</p>\n\n<blockquote>\n\"Rather than art, we ought to point AI towards human-understandability and conceptualization. The Riemann proof should come with a paper, a walkthrough, new concepts and insights.\" — <a href=\"https://x.com/rauchg/status/2124654108124848350\">@rauchg</a>\n</blockquote>\n\n<p>The through-line across both: the scarce resource isn't intelligence anymore. It's judgment, perspective, and the ability to ask the right question.</p>\n\n<hr>\n\n<h2>⚡ Quick Hits</h2>\n\n<ul>\n  <li><a href=\"https://x.com/thenanyu\" data-handle=\"thenanyu\">@thenanyu</a> with the deadpan prompt engineering advice of the week: <em>\"Use Postgres.\"</em> <a href=\"https://x.com/thenanyu/status/2124592238974156861\">The secret to making vibecoded apps scale.</a></li>\n  <li><a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> on the VC math problem that remains unsolved: <a href=\"https://x.com/mattturck/status/2124671699245257037\">\"AI fails to solve the most intractable math problem, how VCs are going to return those huge funds when the entry valuation of their deals is >$1B pre-product.\"</a></li>\n  <li><a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> highlights a <a href=\"https://x.com/swyx/status/2124730733147390347\">rare, detailed founder acquisition post-mortem</a> — covering IP assignment pitfalls, acquisition fishing tactics, and the existence of CTO coaches. Essential reading if you're building.</li>\n</ul>",
+  "html_zh": "<p class=\"lead\">今天的AI行业焦点集中在两个相互呼应的主题上：一是人类在自动化浪潮中如何重新定义自身价值，二是整个行业是否需要一套共同的\"减速\"标准——而OpenAI正在推动以困惑度（perplexity）作为那把刻度尺。</p>\n\n<hr>\n\n<h2>🧭 Altman的倡议：用\"困惑度\"给AI能力画一条红线</h2>\n\n<p>本周最具分量的一条推文，来自 <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a>。他公开呼吁AI领军企业共同制定发展边界，并罕见地提出了一个具体的可量化指标——对数困惑度（log-perplexity）。</p>\n\n<blockquote>\n\"我进一步提议，基于困惑度和其他指标，制定开发者承诺不逾越的共同上限——直到我们对AI行为的理解和监控能力达到某个具体里程碑（例如开发出CoT监控的后继技术）。也就是说，我希望建立一套行业标准：明确第一条基于可追踪关键指标的开发限制，以及在突破该限制之前需要具体实现什么。\"\n<br>— <a href=\"https://x.com/sama/status/2124551883130114403\" data-handle=\"sama\">Sam Altman</a>\n</blockquote>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 对此提议给予了相当积极的解读，并配上了一张他称之为\"过去四年最美叙事方式\"的图表：</p>\n\n<blockquote>\n\"OpenAI提议将困惑度作为行业自我监管和节奏控制的通用指标（而非FLOP）……这张图还表明，我们争论的许多后训练问题，其实只是大规模预训练进展这一主线剧情的B面支线。\"\n<br>— <a href=\"https://x.com/swyx/status/2124583459356373052\" data-handle=\"swyx\">swyx</a>\n</blockquote>\n\n<p>值得注意的是，Altman还援引了《白宫协议》的框架，为这一倡议赋予了政策合法性。这不再只是技术讨论，而是一次向监管层面的主动靠拢。</p>\n\n<hr>\n\n<h2>🤖 智能体时代的基础设施：谁来协调\"机器员工\"？</h2>\n\n<p>当AI智能体从工具变成\"同事\"，软件架构、安全模型乃至用户体验都需要重写。这一话题在今天的信息流中引发了多位重量级创始人的共鸣。</p>\n\n<p><a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">Peter Yang</a> 分享了来自微软Copilot高管的洞察：</p>\n\n<blockquote>\n\"智能体是非常苛刻的客户。它们会寻找最佳的性能、价格和可靠性。智能体的偏好与人类不同——当人类搜索时，你给它十条带摘要的链接；智能体不在乎这些，你可以返回一千条结果。我们的API和用户体验将开始演化，出现更好地支持智能体的模式。\"\n<br>— Chris LaManna，微软Copilot EVP，via <a href=\"https://x.com/petergyang/status/2124669298191090033\" data-handle=\"petergyang\">petergyang</a>\n</blockquote>\n\n<p>Box CEO <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 则从企业协作角度深入展开，指出智能体集群的崛起对知识共享和任务协调提出了全新要求：</p>\n\n<blockquote>\n\"智能体如何集体共享知识、追踪任务，并与人类用户协调——这在理论上技术上并不复杂，但要做到让智能体既能获取相关资源，又不过度或不足地暴露权限，其中有大量复杂性需要解决……同时，在智能体更容易成为安全风险向量的世界里，这些基础设施的吞吐量需要远超人类协作的水平。\"\n<br>— <a href=\"https://x.com/levie/status/2124658150771188157\" data-handle=\"levie\">Aaron Levie</a>\n</blockquote>\n\n<p>安全性同样是热点。Replit创始人 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 宣布与Windows合作为Replit Desktop打造企业级安全模型，并赢得了佳士得拍卖行这一标志性客户。与此同时，Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 对\"免费隐身模型\"发出严厉警告：</p>\n\n<blockquote>\n\"这些隐身模型是国家级程序进行工业规模数据渗透的机制——我强烈怀疑如此，而Dragos的研究似乎也证实了这一点。想象一下你如何向老板解释：对不起，长官，我只是忍不住想试试这个超酷的ZDR免费隐身模型……我们所有的机密、客户数据和代码现在都在另一个大陆上！\"\n<br>— <a href=\"https://x.com/rauchg/status/2124595496849445079\" data-handle=\"rauchg\">Guillermo Rauch</a>\n</blockquote>\n\n<hr>\n\n<h2>💡 人类工作的未来：视角才是护城河</h2>\n\n<p>Every联合创始人 <a href=\"https://x.com/danshipper\" data-handle=\"danshipper\">Dan Shipper</a> 在Every举办的首届线下会议VCSS上发表了压轴演讲（Watch/Listen: <a href=\"https://www.youtube.com/watch?v=WstNofgQF5Q\">A New Vision for Human Work After Automation</a>），以自己上周的真实工作为例，提出了关于自动化时代人类价值的核心论点。</p>\n\n<p>他描述了上周在日常工作缝隙中，用Claude独自完成了通常需要五个人才能完成的工作：数据分析、全员会议视频游戏、产品营销洞察、自制CRM系统和批量客户外联。然后他话锋一转：</p>\n\n<blockquote>\n\"你看着那张表，你真的认真想一想，你会觉得——我们完蛋了。我们真的完蛋了……它造成了一种我称之为'能动性断裂'的东西，因为我们用我们所做的事情来定义自己，而当你看到一个模型在做和你一样的工作时，它撼动了我们的自我认同。\"\n<br>— Dan Shipper，via <a href=\"https://www.youtube.com/watch?v=WstNofgQF5Q\">Every Podcast</a>\n</blockquote>\n\n<p>但Shipper并不止步于此。他区分了预测未来的两种方法——\"聚合视角\"（大数据、趋势线）与\"亲密视角\"（深入单一真实案例）——并主张后者才能揭示前者遗漏的东西。他早在2022年便写道：AI\"不会取代个人，而是赋能个人，使其产生与今日最大型企业相匹敌的影响力\"。而今，他认为这一判断已被验证。<strong>真正的护城河不是任务本身，而是你带入模型的独特视角。</strong></p>\n\n<hr>\n\n<h2>🏗️ 创业者的坦白与VC的尴尬</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 力荐了一篇难得一见的创业全程复盘文章——从创立到被收购，附带悔恨与建议：</p>\n\n<blockquote>\n\"亮点包括：All-In播客顶部标记SaaS市场、IP归属困境、不要炫耀你的SEO、如何引起Naval的兴趣、招聘与裁员建议、如何钓出收购意向……还有——CTO教练这个职业真的存在？？\"\n<br>— <a href=\"https://x.com/swyx/status/2124730733147390347\" data-handle=\"swyx\">swyx</a>\n</blockquote>\n\n<p>风险投资圈的自嘲则来自 <a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a>，他以一句话道尽了当前VC的集体焦虑：</p>\n\n<blockquote>\n\"突发：AI未能解决最棘手的数学难题——VC们如何在交易估值超过十亿美元（产品尚未落地）的情况下，向LP返还那些庞大基金。\"\n<br>— <a href=\"https://x.com/mattturck/status/2124671699245257037\" data-handle=\"mattturck\">Matt Turck</a>\n</blockquote>\n\n<p>此外，<a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Rauch</a> 对AI生成内容的边界也发出了值得玩味的呼声：他认为AI不应只产出\"艺术品\"，而应服务于人类的可理解性——就像数学证明应该附带论文、解题思路和新概念，而不仅仅是一个答案。在AI能力爆炸的时代，<em>可解释性本身，也是一种基础设施</em>。</p>"
+}
