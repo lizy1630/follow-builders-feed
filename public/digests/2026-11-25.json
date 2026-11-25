@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T06:30:31.369Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "bcherny": {
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "twitter": "https://x.com/bcherny"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "at your service, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "unsupervised-learning": {
+      "name": "Unsupervised Learning",
+      "handle": "unsupervised-learning",
+      "bio": "Podcast: Ep 98: China Expert on Jensen’s Return",
+      "url": "https://www.youtube.com/watch?v=gkd5eOQGASU"
+    }
+  },
+  "html_en": "<p class=\"lead\">The Jensen Huang saga has officially consumed Silicon Valley's collective attention — and the signal-to-noise ratio has rarely been worse. Meanwhile, the real story may be simpler and more structural: AI adoption is bifurcating companies from within, and the infrastructure layer is quietly being rebuilt from scratch.</p>\n\n<h2>🔥 The Jensen Circus, and What's Actually at Stake</h2>\n\n<p>If you've been anywhere near tech Twitter this week, you know that NVIDIA's CEO Jensen Huang was fired, then reinstated, in what <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> described with characteristic restraint as \"hey is silicon valley okay because wtf\" — <a href=\"https://x.com/swyx/status/2125444028527468699\">paired with screenshots</a> that apparently speak for themselves.</p>\n\n<p>The most grounded take on the geopolitical substance comes from the <em>Unsupervised Learning</em> podcast's emergency episode with Jordan Schneider of ChinaTalk. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=gkd5eOQGASU\">Ep 98: China Expert on Jensen's Return</a>. Schneider's framing cuts through the noise:</p>\n\n<blockquote>\"NVIDIA's gonna have to pay a $25,000,000 fine, and then there's gonna be some sort of settlement. And then the Democrats are gonna be screaming about this for three years. And half the Republican party too — because that is an enormous scandal to just sell off critical technology, which was illegal to be sold off at the time.\" — Jordan Schneider, ChinaTalk</blockquote>\n\n<p>The alleged mechanism is grimly cinematic: Super Micro executives reportedly used <em>hair dryers to remove labels from server racks</em> to ease transport of banned Blackwell chips into China. Schneider's read is that Jensen's reinstatement required Trump's implicit promise of a settlement and pardons — which makes it a political détente, not an exoneration.</p>\n\n<blockquote>\"This does not feel like a steady state for me... I mean, it's kind of giving me a little bit Napoleon back from Elba, hundred day vibes.\" — Jordan Schneider</blockquote>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> offered a sharp meta-observation on the whole spectacle:</p>\n\n<blockquote>\"The predictions around the Jensen saga were a great demo of how little correlation there is between confidence and being right. Our info ecosystem asymmetrically rewards certainty, speed and brashness… 'I don't know, let's see how this plays out' just doesn't get eyeballs.\" — <a href=\"https://x.com/realmadhuguru/status/2125355549202194801\">@realmadhuguru</a></blockquote>\n\n<hr>\n\n<h2>🌍 Open Models as Geopolitical Strategy</h2>\n\n<p>The more durable argument about Jensen's significance comes from <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad (@amasad)</a>, who zooms out from the scandal to the structural stakes:</p>\n\n<blockquote>\"America can build the best frontier models and still lose the global AI race. Governments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control. If American companies won't meet that demand, Chinese companies will. Countries will start with Chinese models, then adopt Chinese infrastructure and chips. Having the smartest model won't mean much if most of the world runs on someone else's stack.\" — <a href=\"https://x.com/amasad/status/2125353849057853876\">@amasad</a></blockquote>\n\n<p>The Huawei parallel is apt. Infrastructure lock-in is long, sticky, and hard to unwind — the US is currently trying to finance replacement operations for Huawei-built telecom networks and finding it brutally difficult. The open model ecosystem, in this framing, isn't just a philosophical stance. It's a distribution strategy for American technological influence.</p>\n\n<hr>\n\n<h2>⚡ The Token Economy's Step-Function Problem</h2>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Masad</a> also made a quieter but important observation about why AI demand isn't linear:</p>\n\n<blockquote>\"Unlike say electricity, token demand grows in step functions as we find ways to put more compute to use on behalf of a single user. Auto-complete → chat → agent → long-running autonomous agents → swarms. Each harness innovation unlocks an order of magnitude more potential token consumption. But then there's a lag between these new tools and users figuring out what to do with them.\" — <a href=\"https://x.com/amasad/status/2125287538911072753\">@amasad</a></blockquote>\n\n<p>This is worth sitting with. Demand doesn't just grow — it <em>jumps</em> when a new interaction paradigm emerges. We may be in one of those lags right now, which explains why the market is both exuberant and uncertain simultaneously.</p>\n\n<hr>\n\n<h2>🛠️ Infrastructure Week (It's Always Infrastructure Week)</h2>\n\n<p>On the builder side, two notable developments. First, <a href=\"https://x.com/bcherny\" data-handle=\"bcherny\">@bcherny</a> dropped what may be the most-liked tweet in today's feed — MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box:</p>\n\n<blockquote>\"Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box.\" — <a href=\"https://x.com/bcherny/status/2125292098165612585\">@bcherny</a> (5,100+ likes)</blockquote>\n\n<p>This is quietly significant: it's the difference between a tool and a tool that teaches itself to be used. Expect this to accelerate MCP adoption considerably.</p>\n\n<p>Meanwhile, <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch (@rauchg)</a> clarified the architectural philosophy behind his CLI tool <code>libfx</code>:</p>\n\n<blockquote>\"The main reason it's a CLI (in this day and age!) is that it's a thin wrapper around libfx. The goal is to produce the smallest and most intelligent coding agent kernel, that's embeddable on any surface: browsers, servers, mobile, desktop, OS, ADEs…\" — <a href=\"https://x.com/rauchg/status/2125320020666565096\">@rauchg</a></blockquote>\n\n<p>And <a href=\"https://x.com/amasad\" data-handle=\"amasad\">@amasad</a> flagged a 3B-parameter local Muse model that apparently impressed him enough for a \"🤯\" — <a href=\"https://x.com/amasad/status/2125414100692041797\">worth a look</a> if you're tracking the local inference frontier.</p>\n\n<hr>\n\n<h2>📊 The Intra-Company AI Divide</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie (@levie)</a> articulated something that feels increasingly true on the ground in enterprises:</p>\n\n<blockquote>\"Even within the same company you can have a 10X delta between the lowest and highest adopters of AI and the impact they're seeing. The teams that are able to actually figure out how to redesign their processes to best deploy agents in their workflows can see up to an order of magnitude jump in productivity depending on the job function. This is going to definitely lead to some wild dynamics within companies.\" — <a href=\"https://x.com/levie/status/2125442246543814686\">@levie</a></blockquote>\n\n<p>This is a genuinely new phenomenon. With cloud or mobile adoption, a company either adopted or didn't — the uplift was relatively uniform once the decision was made. AI is different: it's a skills and workflow game, not just a purchasing decision. The same org can have pockets of 10x productivity sitting next to teams barely using autocomplete. That internal divergence is going to create uncomfortable conversations about headcount, structure, and who's actually driving output.</p>\n\n<p><a href=\"https://x.com/nikunj\" data-handle=\"nikunj\">@nikunj</a> captured the resulting VC pitch landscape with wry precision: from app companies (\"he who owns the workflow controls the universe\") all the way down to energy companies (\"he who controls the electrons controls the universe\"). <a href=\"https://x.com/nikunj/status/2125376105024758112\">Everyone, it seems, controls the universe.</a></p>",
+  "html_zh": "<p class=\"lead\">Jensen黄的\"百日归来\"让硅谷陷入地缘政治漩涡，与此同时，AI工具生态正以令人眩晕的速度重塑企业内部的生产力格局——赢家与输家，往往在同一栋办公楼里。</p>\n\n<h2>🔥 Jensen归来：英雄还是丑闻主角？</h2>\n\n<p>本周最大的戏剧性事件，莫过于英伟达CEO黄仁勋的\"复辟\"。播客 <em>Unsupervised Learning</em> 紧急邀请中国通 Jordan Schneider 拆解这场风暴。Watch/Listen: <a href=\"https://www.youtube.com/watch?v=gkd5eOQGASU\">Ep 98: China Expert on Jensen's Return</a></p>\n\n<p>Schneider 的结论相当直白：这不是什么励志复出，而是一场监管丑闻的临时收场。</p>\n\n<blockquote>\n\"英伟达基本上对芯片流入中国一事睁一只眼闭一只眼，而 Jensen 在电视上公开说根本不存在走私——这些服务器那么重，怎么可能走私？结果 Super Micro 的高管们被查出用吹风机把机架上的标签吹掉，以便更轻松地运进中国。\"<br>— Jordan Schneider，<a href=\"https://www.youtube.com/watch?v=gkd5eOQGASU\">Unsupervised Learning Ep 98</a>\n</blockquote>\n\n<p>他认为，董事会之所以敢让 Jensen 回来，背后必然有政治背书：</p>\n\n<blockquote>\n\"董事会能这么做，唯一的原因是特朗普必然告诉他们：我们会搞定和解，外加赦免——因为这些芯片当时是明令禁止卖给中国的，包括中国军方。这不是马来西亚那档事，这是违禁芯片直接流入中国，而英伟达基本上是睁眼看着发生的。\"<br>— Jordan Schneider\n</blockquote>\n\n<p>与此同时，<a href=\"https://x.com/realmadhuguru/status/2125355549202194801\" data-handle=\"realmadhuguru\">@realmadhuguru</a> 对这轮舆论大战做了一针见血的元评论：</p>\n\n<blockquote>\n\"围绕 Jensen 事件的各种预测，完美示范了自信程度与正确程度之间有多么脱节。那些显赫的 VC、分析师和专家们，每个人都以十足的把握宣布事态走向，有些人甚至在几天内反复翻转——每次都同样胸有成竹。我们的信息生态系统，不对称地奖励确定性、速度和莽撞。'我不知道，走着瞧吧'根本没人看。\"\n</blockquote>\n\n<hr>\n\n<h2>🌏 开放模型即地缘政治：谁的技术栈统治世界？</h2>\n\n<p><a href=\"https://x.com/amasad/status/2125353849057853876\" data-handle=\"amasad\">Amjad Masad</a> 把 Jensen 事件上升到了战略高度，他的论点堪称本周最清醒的长远视角：</p>\n\n<blockquote>\n\"美国可以造出最好的前沿模型，却仍然输掉全球 AI 竞赛。各国政府想要'主权 AI'——能在本国土地、本国基础设施上运行、由本国掌控的模型。如果美国公司不能满足这个需求，中国公司就会填上。各国会从中国模型开始，然后采用中国基础设施和芯片。拥有最聪明的模型，当世界在别人的技术栈上运转时，根本不算什么。这和华为的剧本如出一辙。\"<br>— <a href=\"https://x.com/amasad/status/2125353849057853876\">@amasad</a>\n</blockquote>\n\n<p>他的结论：开放模型不是技术选择，而是地缘政治武器。Jensen 对美国开放模型生态的支持，意义远超一家公司的商业利益。</p>\n\n<hr>\n\n<h2>⚙️ 工具层爆发：MCP、Agent Swarm 与 Claude Code 的新玩法</h2>\n\n<p>在地缘政治的喧嚣之外，开发者生态正在安静地发生剧变。本周最高赞的技术推文来自 <a href=\"https://x.com/bcherny/status/2125292098165612585\" data-handle=\"bcherny\">@bcherny</a>，获得超过5000个点赞：</p>\n\n<blockquote>\n\"对这个非常兴奋。MCP 服务器现在可以自带技能，Claude Code 开箱即知道如何使用它们。\"<br>— <a href=\"https://x.com/bcherny/status/2125292098165612585\">@bcherny</a>\n</blockquote>\n\n<p><a href=\"https://x.com/petergyang/status/2125246815884984398\" data-handle=\"petergyang\">@petergyang</a> 花了整个周末深度测试 Gemini 4 Neon 和 Antigravity，分享了他的 17 分钟实战课程：</p>\n\n<blockquote>\n\"Orchestrator 和 /swarm 对于规划和多 Agent 协作非常有用。有一次我同时跑了 42 个 Agent。/grill-me 是个很棒的内置技能，会主动问你澄清性问题，帮你把计划打磨清楚。远程控制比 Claude Code 的更好，因为每个线程默认都是活跃的。\"<br>— <a href=\"https://x.com/petergyang/status/2125246815884984398\">@petergyang</a>，<a href=\"https://t.co/lmfSTiVBsm\">完整视频课程</a>\n</blockquote>\n\n<p><a href=\"https://x.com/rauchg/status/2125320020666565096\" data-handle=\"rauchg\">Guillermo Rauch</a> 则透露了 <code>v0</code> 坚持做成 CLI 的深层逻辑：</p>\n\n<blockquote>\n\"<code>v0</code> 之所以是 CLI，是因为它是 <code>libfx</code> 的薄封装。目标是做出最小、最智能的编程 Agent 内核，可以嵌入任何界面：浏览器、服务器、移动端、桌面、操作系统……\"<br>— <a href=\"https://x.com/rauchg/status/2125320020666565096\">@rauchg</a>\n</blockquote>\n\n<hr>\n\n<h2>📊 生产力鸿沟：同一家公司里的10倍差距</h2>\n\n<p><a href=\"https://x.com/levie/status/2125442246543814686\" data-handle=\"levie\">Aaron Levie</a> 提出了一个正在悄然发生、却尚未被广泛讨论的企业现象：</p>\n\n<blockquote>\n\"即便在同一家公司内部，AI 采用率最低和最高的团队之间，可能存在10倍的产出差距。那些真正重新设计工作流程、将 Agent 部署到业务流程中的团队，根据岗位职能的不同，可以看到高达一个数量级的生产力跃升。这会在公司内部催生一些非常奇特的动态。\"<br>— <a href=\"https://x.com/levie/status/2125442246543814686\">@levie</a>\n</blockquote>\n\n<p>这与 <a href=\"https://x.com/nikunj/status/2125376105024758112\" data-handle=\"nikunj\">@nikunj</a> 那条广为流传的\"2026年融资话术全景图\"遥相呼应——从芯片到能源，AI 价值链上的每一层都在宣称自己掌握宇宙的控制权。在喧嚣的叙事背后，真正拉开差距的，或许只是每个团队愿不愿意重新设计自己的工作方式。</p>\n\n<p><a href=\"https://x.com/thsottiaux/status/2125299248782778588\" data-handle=\"thsottiaux\">@thsottiaux</a> 也宣布了 ChatGPT Business 团队的年终福利：积分重置（Banked Reset）和快速模式（Fast Mode）免费开放至12月31日——一个小细节，却折射出各家平台争夺企业用户的激烈程度。</p>"
+}
