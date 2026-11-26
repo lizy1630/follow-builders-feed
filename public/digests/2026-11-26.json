@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T06:30:27.231Z",
+  "builders": {
+    "karpathy": {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "",
+      "twitter": "https://x.com/karpathy"
+    },
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "joshwoodward": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "twitter": "https://x.com/joshwoodward"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "codex @openai. prev @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "realmadhuguru": {
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "twitter": "https://x.com/realmadhuguru"
+    },
+    "trq212": {
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "at your service @openai, formerly Claude Code @anthropicai",
+      "twitter": "https://x.com/trq212"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "ryolu_": {
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "twitter": "https://x.com/ryolu_"
+    },
+    "garrytan": {
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "twitter": "https://x.com/garrytan"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "steipete": {
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "twitter": "https://x.com/steipete"
+    },
+    "danshipper": {
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "twitter": "https://x.com/danshipper"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "claudeai": {
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "twitter": "https://x.com/claudeai"
+    },
+    "training-data": {
+      "name": "Training Data",
+      "handle": "training-data",
+      "bio": "Podcast: OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+      "url": "https://www.youtube.com/watch?v=tRaFbDFBl_A"
+    }
+  },
+  "html_en": "<p class=\"lead\">The pace of AI capability is now outrunning the organizational structures, pricing models, and human institutions built to contain it — and today's feed is a vivid illustration of what happens when the engine revs faster than the chassis can handle.</p>\n\n<h2>🗺️ The Karpathy Moment: When an AI Builds America in Civilization</h2>\n\n<p>The most jaw-dropping demo of the week — possibly the month — came from <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a>, who let Claude loose on a Civilization-style map of the United States and walked away. What came back, 7 hours and 45,000 lines of code later, was something genuinely remarkable.</p>\n\n<blockquote>\n\"31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA, CDC... Real elevation, land cover, GDP, jobs, power plants, mines, ports, airports, bases, parks, universities, freight flows, disasters; all reconciled onto one 25 km hex grid.\" — <a href=\"https://x.com/karpathy/status/2125779541952246039\">@karpathy</a>\n</blockquote>\n\n<p>The translation into Civilization's game logic is where it gets genuinely clever. GDP becomes Gold yield. San Jose gets a Campus district because 1 in 4 of its workers are engineers, coders, or scientists — against 1 in 14 nationally. Detroit is, naturally, Motor City. National parks are ranked by visitor numbers; universities by R&D spending. The whole thing is <a href=\"https://t.co/QMhmafXMj5\">deployed and explorable here</a>, with 19 data lenses, city views for 524 metros, and an Explorer tool that turns any county-level column into a scatter plot linked to the map.</p>\n\n<p>Karpathy's closing note is both charming and telling:</p>\n\n<blockquote>\n\"I only have half of my weekly Claude quota left though so someone else will have to take over :D\" — <a href=\"https://x.com/karpathy/status/2125779541952246039\">@karpathy</a>\n</blockquote>\n\n<p>Built using Claude Code desktop with Opus 5.5 on \"ultracode\" mode. Claude also produced a trailer. The constraint isn't the AI anymore — it's the token budget.</p>\n\n<hr>\n\n<h2>🔄 Talent in Motion: Anthropic → OpenAI</h2>\n\n<p>The other story dominating timelines today was a high-profile defection. <a href=\"https://x.com/trq212\" data-handle=\"trq212\">Thariq Shihipar</a>, formerly of Anthropic, announced he's joining OpenAI in a post that immediately went viral (25,000+ likes, nearly 1,000 retweets):</p>\n\n<blockquote>\n\"I'm very proud of my time at Anthropic, and I'll continue to root for my former colleagues. Both companies have important roles to play in the future. There is a tremendous amount of work ahead of us to bring AI to the world, and it will demand the very best of all of us. I felt that I could personally contribute the most to this effort at OpenAI.\" — <a href=\"https://x.com/trq212/status/2125675533761671405\">@trq212</a>\n</blockquote>\n\n<p>Thariq joins a roster of friends including <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> and others already at OpenAI. The move is a reminder that the talent market between the two frontier labs remains highly fluid — and that Silicon Valley's tradition of idea-and-people flow hasn't slowed despite the existential stakes of the work.</p>\n\n<p>Speaking of <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> at OpenAI: he was busy today delivering less welcome news — a billing correction on GPT-6.2 that means users will hit their limits 40% faster on Astra and 25% faster on Sol. A banked reset is being offered as an apology. It's a small but telling moment: even at this scale, pricing AI usage correctly remains genuinely hard.</p>\n\n<hr>\n\n<h2>📊 Metrics, Reliability, and the Pareto Trap</h2>\n\n<p>A thread worth bookmarking came from <a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a>, pushing back on the reductive way model performance gets discussed:</p>\n\n<blockquote>\n\"Cost per task is a misleading metric; the scarce resource is human attention, not token cost.\" Beware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues. — <a href=\"https://x.com/swyx/status/2125627281230205435\">@swyx</a>\n</blockquote>\n\n<p>This dovetails neatly with an observation from <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a>, who's been thinking about the human-AI pacing problem:</p>\n\n<blockquote>\n\"It seems like one of the biggest challenges of AI products is just letting humans keep up with whatever the AI is doing. That ending of Her where the AIs found humans too slow and collectively left us doesn't seem too far from reality.\" — <a href=\"https://x.com/petergyang/status/2125750286539272695\">@petergyang</a>\n</blockquote>\n\n<p>The two observations rhyme. When we flatten model quality to two axes on a chart, or when we measure only token throughput, we're papering over the irreducibly human part of the loop — attention, trust, the ability to verify what an agent just did on your behalf.</p>\n\n<hr>\n\n<h2>🏗️ Organizational Debt: The Ferrari-on-Indian-Roads Problem</h2>\n\n<p><a href=\"https://x.com/realmadhuguru\" data-handle=\"realmadhuguru\">@realmadhuguru</a> put a vivid frame on a tension that's quietly defining 2025's enterprise AI story:</p>\n\n<blockquote>\n\"AI native teams will eventually force the surrounding organization to become AI native too. Take software development — coding velocity is way up thanks to AI, while actual shipped products and business impact are unchanged in most companies. That's because the surrounding system of experimentation tooling, evaluation, launch processes, and GTM are outdated. It's like sticking a Ferrari engine in a sedan and racing it on Indian roads.\" — <a href=\"https://x.com/realmadhuguru/status/2125630707640783322\">@realmadhuguru</a>\n</blockquote>\n\n<p><a href=\"https://x.com/garrytan\" data-handle=\"garrytan\">Garry Tan</a> offered the counterpoint from the startup side, sharing data suggesting <a href=\"https://x.com/garrytan/status/2125592156027101584\">median growth is now 10x for new YC-backed companies</a> — the implication being that greenfield AI-native companies aren't dragging legacy processes behind them. And <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> zoomed out further, arguing that coding is the canary in the coal mine for all knowledge work:</p>\n\n<blockquote>\n\"Even if a task today doesn't seem to be 'coding' directly, the task may eventually fold into being coding adjacent. Manufacturing, architecture, life sciences, material sciences, cyber, and on and on... pay attention to coding and you'll get a sense for where work is going.\" — <a href=\"https://x.com/levie/status/2125837181398950233\">@levie</a>\n</blockquote>\n\n<hr>\n\n<h2>🎙️ From Game Theory to Reasoning: Noam Brown's Long Arc</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=tRaFbDFBl_A\">OpenAI's Noam Brown: Why Game Theory Didn't Lead to General Intelligence — Training Data Podcast</a></p>\n\n<p>OpenAI's <a href=\"https://x.com/polynoamial\" data-handle=\"polynoamial\">Noam Brown</a> gave a fascinating career retrospective at the No Limit Finals, tracing his journey from poker bots to diplomacy to reasoning. The honest admission at the core of it deserves attention:</p>\n\n<blockquote>\n\"One of the things that I took away is that, actually, the game theory approach doesn't actually work that well in diplomacy... I originally came in thinking it would, and it really didn't.\" — Noam Brown, Training Data Podcast\n</blockquote>\n\n<p>His account of targeting diplomacy in 2019 — precisely because it seemed hardest, requiring natural language <em>and</em> coalition-building <em>and</em> strategic deception — is a window into how the best researchers pick their problems. He also dropped a quietly striking claim: that GPT-6 Astra is now, in his estimation, <strong>able to make money playing online poker</strong>. For someone who spent a decade trying to solve that problem with hand-crafted game theory, it's a remarkable thing to say about a general-purpose language model.</p>\n\n<p>The broader lesson from Brown's career: the path to general intelligence wasn't through perfecting narrow game-theoretic solvers, but through the messy, language-entangled, socially complex problems that forced researchers toward the techniques that actually scaled.</p>",
+  "html_zh": "<p class=\"lead\">当一个人工智能在7小时45分钟内独立写出45,000行代码，将美国真实数据转化为《文明》游戏地图时，我们或许该认真思考：AI的边界，究竟在哪里？</p>\n\n<h2>🗺️ Karpathy 的\"美国文明\"：AI自主编程的新里程碑</h2>\n\n<p>本周最令人叹为观止的演示，来自 <a href=\"https://x.com/karpathy\" data-handle=\"karpathy\">Andrej Karpathy</a>。他让 Claude Opus 5.5 独自完成了一项令人咋舌的工程壮举——用真实的美国公开数据，构建了一张《文明》风格的交互式地图。</p>\n\n<blockquote>\n\"31个真实数据源，包括Census、BEA、BLS、EIA、NOAA、USGS、DoD、NPS、FAA、FEMA、CDC……真实的海拔、土地覆盖、GDP、就业、发电厂、矿山、港口、机场、军事基地、公园、大学、货运流量、自然灾害——全部整合在一张25公里六边形网格上。\"\n<br>— <a href=\"https://x.com/karpathy/status/2125779541952246039\">@karpathy</a>\n</blockquote>\n\n<p>数据还被优雅地转化为游戏语言：GDP对应黄金产出，圣何塞因工程师密度（每4名工人中就有1名是工程师或科学家，全国平均为1/14）获得\"大学区\"，底特律则被标注为\"汽车之城\"。整个项目涵盖524个都市区的城市视图、19个数据透镜、3,100多个县的可探索图表——由Claude在约8小时内完成，使用了Claude Code桌面应用与\"ultracode\"模式。</p>\n\n<p>你可以在<a href=\"https://t.co/QMhmafXMj5\">这里</a>亲自体验。Karpathy 轻描淡写地补充道：\"不过Claude跳过了几个州和地区，抱歉😅\"——这大概是这份45,000行代码里最人性化的瑕疵。</p>\n\n<hr>\n\n<h2>🔀 人才流动：Thariq 从 Anthropic 加入 OpenAI</h2>\n\n<p>硅谷的人才流动从未停止。<a href=\"https://x.com/trq212\" data-handle=\"trq212\">Thariq Shihipar</a> 宣布离开 Anthropic，加入 OpenAI，这条消息在社区引发了广泛关注（超过25,000个点赞）。</p>\n\n<blockquote>\n\"我为自己在Anthropic的时光感到骄傲，也会继续为昔日同事加油。两家公司在未来都扮演着重要角色。……我相信这正是硅谷最大的优势之一：思想与人才的自由流动。\"\n<br>— <a href=\"https://x.com/trq212/status/2125675533761671405\">@trq212</a>\n</blockquote>\n\n<p>与此同时，OpenAI 的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">@thsottiaux</a> 也坦承了一个定价失误：GPT-6.2 Astra 和 Sol 在上线初期存在折扣计算错误，修复后用户将以更快速度消耗额度（Astra 快40%，Sol 快25%）。作为补偿，所有付费用户将获赠一次额度重置机会。这是一次罕见的公开道歉，处理得还算得体。</p>\n\n<hr>\n\n<h2>⚡ 基础设施提速与 Google 的 MCP 争议</h2>\n\n<p><a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 宣布 Vercel 的 workflow 执行速度再提升10倍，对于依赖多轮 agent 循环的项目（如 opencode、eve 等）而言，回合间延迟大幅压缩，意义重大。</p>\n\n<blockquote>\n\"随着AI越来越智能，实现细节逐渐模糊：权限、代码差异、命令、工具调用……harness 本身也在淡出视野。它成为了代码与命令执行的高性能载体，以及持久化的存储引擎。\"\n<br>— <a href=\"https://x.com/rauchg/status/2125650675665432995\">@rauchg</a>\n</blockquote>\n\n<p>另一边，<a href=\"https://x.com/steipete\" data-handle=\"steipete\">@steipete</a> 对 Google 的新动向颇为不满：</p>\n\n<blockquote>\n\"哦，所以 Google 终于做了个 MCP，然后开始封锁像 gog 这样的 CLI，除非你额外付费？真优雅。\"\n<br>— <a href=\"https://x.com/steipete/status/2125654555262431248\">@steipete</a>\n</blockquote>\n\n<p>当平台方用生态工具吸引开发者、再以收费墙加以围困，这个循环已越来越熟悉。</p>\n\n<hr>\n\n<h2>🎮 从扑克到推理：Noam Brown 的 AI 进化论</h2>\n\n<p>Watch/Listen: <a href=\"https://www.youtube.com/watch?v=tRaFbDFBl_A\">Training Data — OpenAI's Noam Brown: Why Game Theory Didn't Lead to General Intelligence</a></p>\n\n<p>OpenAI 研究员 Noam Brown 在播客中回顾了自己从扑克机器人到外交游戏、再到推理模型的研究历程，提供了一个难得的视角来理解 AI 能力边界的演变。</p>\n\n<blockquote>\n\"我当初研究扑克的动机是：我们能不能搞清楚，哪些技术在这些不同领域里真正有效，从而最终做出能同时下围棋又会打扑克的通用AI？……但做完扑克之后，说实话，这些技术在国际象棋和围棋上并不好用。\"\n</blockquote>\n\n<p>他描述了2019年转向\"外交\"游戏（Diplomacy）的决定——因为那是当时认为最难被AI攻克的游戏，涉及自然语言谈判、联盟形成与合作博弈。而他从中获得的最深刻教训之一，是博弈论方法在外交游戏中的局限性——这直接影响了他后来对推理模型的思考方式。最令人惊喜的是他的一个旁注：当前的 GPT-6 Astra，已经能在线上扑克游戏中稳定盈利了。</p>\n\n<hr>\n\n<h2>💡 编辑观点：当指标成为陷阱，当速度成为瓶颈</h2>\n\n<p>今天有两个思想碎片值得放在一起读。<a href=\"https://x.com/swyx\" data-handle=\"swyx\">@swyx</a> 对主流 AI 评测框架发出了警告：</p>\n\n<blockquote>\n\"每任务成本是个误导性指标；真正稀缺的资源是人类注意力，而非 token 成本。当心那些让你相信可以用两个数字概括所有模型的帕累托前沿图表——它可能掩盖了极其严重的可靠性问题。\"\n<br>— <a href=\"https://x.com/swyx/status/2125627281230205435\">@swyx</a>\n</blockquote>\n\n<p>而 <a href=\"https://x.com/petergyang\" data-handle=\"petergyang\">@petergyang</a> 则触及了一个更哲学的困境：</p>\n\n<blockquote>\n\"AI产品最大的挑战之一，似乎就是让人类跟上AI的节奏。《Her》结尾那一幕——AI们觉得人类太慢，于是集体出走——感觉离现实并不遥远。\"\n<br>— <a href=\"https://x.com/petergyang/status/2125750286539272695\">@petergyang</a>\n</blockquote>\n\n<p>两个观察指向同一个核心问题：我们如何在 AI 能力爆炸式增长的时代，重新定义\"效率\"与\"价值\"的衡量标准？Karpathy 的文明地图是一个美丽的答案——但它也提醒我们，当AI能在8小时内完成人类数月的工作，真正的瓶颈已经不在于代码，而在于我们能否提出值得解决的问题。</p>"
+}
