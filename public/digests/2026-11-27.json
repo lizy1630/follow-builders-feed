@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T06:30:29.812Z",
+  "builders": {
+    "swyx": {
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "twitter": "https://x.com/swyx"
+    },
+    "thsottiaux": {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "twitter": "https://x.com/thsottiaux"
+    },
+    "petergyang": {
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "twitter": "https://x.com/petergyang"
+    },
+    "thenanyu": {
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "codex @openai. prev @linear",
+      "twitter": "https://x.com/thenanyu"
+    },
+    "amasad": {
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "twitter": "https://x.com/amasad"
+    },
+    "rauchg": {
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "twitter": "https://x.com/rauchg"
+    },
+    "levie": {
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "twitter": "https://x.com/levie"
+    },
+    "mattturck": {
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "twitter": "https://x.com/mattturck"
+    },
+    "zarazhangrui": {
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w GitHub: https://t.co/KCuEajezlL",
+      "twitter": "https://x.com/zarazhangrui"
+    },
+    "nikunj": {
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "twitter": "https://x.com/nikunj"
+    },
+    "adityaag": {
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "twitter": "https://x.com/adityaag"
+    },
+    "sama": {
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "twitter": "https://x.com/sama"
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "handle": "latent-space",
+      "bio": "Podcast: The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "url": "https://www.youtube.com/watch?v=Qe9d9dWyED0"
+    }
+  },
+  "html_en": "<p class=\"lead\">On a Thanksgiving holiday feed, two big ideas cut through the warmth and gratitude: the quiet power of keeping humans in the loop as AI agents proliferate, and the dawning realization that agentic commerce — machines paying for things — may define the next decade more than any model benchmark.</p>\n\n<hr>\n\n<h2>🍂 The Holiday Dispatch: Gratitude, Kids, and the Long Game</h2>\n\n<p>It wouldn't be Thanksgiving without a few heartfelt posts from the people building the future. <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> went fully off-script from AI discourse to reflect on parenthood:</p>\n\n<blockquote>\n\"Most good things get a little less satisfying the 100th time you do them. A quiet evening hanging out with your kids, even doing very mundane stuff, is in the rare category of something repetitive just getting better and better.\" — <a href=\"https://x.com/sama/status/2125984053119836399\">@sama</a>\n</blockquote>\n\n<p>He also gave a rare public nod to a colleague, praising OpenAI's \"Ven\" for having the courage to believe current models could tackle Millennium Prize problems when no one else did. <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> turned his Thanksgiving post into a quiet manifesto:</p>\n\n<blockquote>\n\"These days many people speak in terms of a future we must blindly accept and capitulate to. Instead, we must use our, yes, agency to build and project the amazing future we want for our grandchildren.\" — <a href=\"https://x.com/rauchg/status/2126037393241424065\">@rauchg</a>\n</blockquote>\n\n<p>The word \"agency\" doing a lot of work there — intentional or not.</p>\n\n<hr>\n\n<h2>🤖 Revolution vs. Renaissance: Putting Humans Back in the Loop</h2>\n\n<p>The most substantive intellectual contribution of the day comes from the latest <strong>Latent Space</strong> podcast, featuring <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thariq Shihipar</a> — fresh from Anthropic and now joining OpenAI — who gave the closing keynote at the AIE Code Summit. Watch/Listen: <a href=\"https://www.youtube.com/watch?v=Qe9d9dWyED0\">The Revolution vs. The Renaissance — Latent Space</a>.</p>\n\n<p>The framing is elegant and worth sitting with: AI is simultaneously an <em>industrial revolution</em> (software cheaper, faster, at scale) and a <em>renaissance</em> (finally affordable to build something personal, refined, and beautiful). The industry, Shihipar argues, rushed too hard toward the factory and forgot the artist.</p>\n\n<blockquote>\n\"We spend a lot of time taking the human out of the loop for agents to be autonomous, to be dark factories. But really, to have more taste, you want to actually put some of that human feedback loop in — to actually make it easy to build ephemeral tools, to just try stuff out.\" — Thariq Shihipar, via Latent Space transcript\n</blockquote>\n\n<p>His diagnosis of \"AI slop\" is sharp: a lot of it exists because <strong>the builder never actually used the thing while building it</strong>. The model thinks it did a perfect job. It's a perfectly balanced game. A good macOS dock app. And then nobody opens it.</p>\n\n<p>He was also refreshingly candid about where he was wrong: an earlier conviction that models would only ever work in one narrow way (\"Bash is all you need,\" \"React is all you need\") turned out to miss how models get <em>wider</em> as they get smarter — able to draw in Figma, work in whatever format you want, meeting humans where they already are.</p>\n\n<blockquote>\n\"I think the future doesn't have to be: the models are just looping and creating this unmaintainable mess. You can actually understand what the models are doing and work with them.\" — Thariq Shihipar\n</blockquote>\n\n<hr>\n\n<h2>💳 Agentic Payments: The Bet That Splits the Room</h2>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">Swyx</a> put a sharp stake in the ground on a topic that doesn't get nearly enough serious discussion:</p>\n\n<blockquote>\n\"I think agentic payments is one of the most divisive yet important themes to get right for 2028. No real in between — either you get in early or you declare it's basically never gonna happen.\" — <a href=\"https://x.com/swyx/status/2126106139582677088\">@swyx</a>\n</blockquote>\n\n<p>The logic is binary and compelling. If agents are going to book flights, spin up servers, hire contractors, and manage workflows autonomously, they need to <em>pay for things</em>. The infrastructure for that — identity, authorization, fraud rails, liability — is almost entirely unbuilt. Those who think this is inevitable need to start now; those who think it's science fiction are probably underestimating what agents will look like in three years. No comfortable middle ground.</p>\n\n<hr>\n\n<h2>⚡ Model News: Gemini 4 Turns Heads, New Coding Tools Ship</h2>\n\n<p><a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> of Replit had the most enthusiastic model take of the day:</p>\n\n<blockquote>\n\"Google really cooked with Gemini 4. Take them for a ride on Replit!\" — <a href=\"https://x.com/amasad/status/2126018746884243652\">@amasad</a>\n</blockquote>\n\n<p>High praise from someone who runs one of the most model-agnostic coding platforms out there. Meanwhile, <a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> noted a new coding tool shipping that was <a href=\"https://x.com/swyx/status/2126201671026180469\">\"beating Cursor and t3code on day 0\"</a> — a strong opening move in the increasingly crowded AI dev tools market.</p>\n\n<hr>\n\n<h2>🏢 The Agent Services Opportunity — and the Firm That Moves First Wins</h2>\n\n<p><a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> made the most actionable business observation of the day, and it deserves a full read:</p>\n\n<blockquote>\n\"Huge opportunity right now to build new services firms from the ground up, or transform existing ones, with agents at the center. The expertise that services firms in theory should have is as important as ever... But now the ability to deliver on projects has a 10X multiplier. This means you can make clients happier, compete to win more of them, go after smaller customers not in the TAM before, or deliver outcomes that weren't really conceivable.\" — <a href=\"https://x.com/levie/status/2125983542475894821\">@levie</a>\n</blockquote>\n\n<p>The targets: advertising, IT transformation, management consulting, finance. The catch, as always, is speed. Existing firms have trust and relationships; startups have agility. Whichever side moves faster to build agent-native delivery probably wins the decade. It's the professional services version of the same revolution-versus-renaissance tension Shihipar was describing — just with billable hours instead of commit histories.</p>",
+  "html_zh": "<p class=\"lead\">在感恩节的节日气氛中，AI 圈子并没有完全放假——从 Gemini 4 的惊喜登场，到关于\"工业革命 vs 文艺复兴\"的深度思考，今天的核心议题是：我们究竟想要一个什么样的 AI 未来？</p>\n\n<hr>\n\n<h2>🤖 Gemini 4 登场，代理时代加速</h2>\n\n<p>本周最受关注的技术动态，来自 Google 悄然推出的 Gemini 4。Replit 创始人 <a href=\"https://x.com/amasad\" data-handle=\"amasad\">Amjad Masad</a> 在感恩节当天直接喊话开发者：</p>\n\n<blockquote>\n\"Google 在 Gemini 4 上真的做到了。快去 Replit 上试试吧！\" —— <a href=\"https://x.com/amasad/status/2126018746884243652\" data-handle=\"amasad\">@amasad</a>\n</blockquote>\n\n<p>与此同时，Box 创始人 <a href=\"https://x.com/levie\" data-handle=\"levie\">Aaron Levie</a> 看到了更大的结构性机会——不仅是模型本身，而是整个服务业的重塑：</p>\n\n<blockquote>\n\"现在是从零开始构建新型服务公司、或改造现有公司的巨大机遇，以 agent 为核心。……在广告、IT 转型、管理咨询、金融等领域，这将带来颠覆性变化——这些行业历来都受限于劳动力的输出速度。\" —— <a href=\"https://x.com/levie/status/2125983542475894821\" data-handle=\"levie\">@levie</a>\n</blockquote>\n\n<p><a href=\"https://x.com/swyx\" data-handle=\"swyx\">swyx</a> 则把目光投向了更远的 2028，聚焦\"<strong>代理支付</strong>\"这一尚未被大众充分讨论的议题：</p>\n\n<blockquote>\n\"我认为代理支付是 2028 年最具争议却最重要的主题之一。没有中间地带——要么早进场，要么就基本上认定它永远不会发生。\" —— <a href=\"https://x.com/swyx/status/2126106139582677088\" data-handle=\"swyx\">@swyx</a>\n</blockquote>\n\n<hr>\n\n<h2>🎨 革命还是文艺复兴？人机协作的哲学之争</h2>\n\n<p>本周最值得细读的内容，来自 Latent Space 播客的最新一集。Watch/Listen: <a href=\"https://www.youtube.com/watch?v=Qe9d9dWyED0\">The Revolution vs The Renaissance — Thariq Shihipar, OpenAI</a></p>\n\n<p>主角是刚刚从 Anthropic 跳槽至 OpenAI 的 <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thariq Shihipar</a>。他在 AIE Code Summit 的闭幕演讲中提出了一个犀利框架：AI 时代同时存在两条轨道——</p>\n\n<ul>\n  <li><strong>工业革命轨道</strong>：软件更便宜、更可靠、可大规模生产，但也产出大量\"AI 垃圾\"</li>\n  <li><strong>文艺复兴轨道</strong>：让个人化的精品创作变得可负担，提升\"艺术感\"，把人类品味重新带回循环</li>\n</ul>\n\n<blockquote>\n\"我们花了大量时间把人从 agent 循环中移除，让它们自主运行、成为'暗工厂'。但他认为，要让产品真正有品味，你反而需要把人类反馈环放回去——让工具变得容易尝试，让人真正去用它。大量垃圾之所以产生，是因为人类根本没有在构建过程中亲身测试。\" —— Latent Space 播客总结\n</blockquote>\n\n<p>Thariq 也坦承了自己过去一年的判断失误——他曾深信\"Bash 就是一切\"、\"React 就是终极语言\"，但现实是：模型变得越来越通用，不再局限于某种特定格式：</p>\n\n<blockquote>\n\"我最错误的地方，也是我现在最感兴趣的地方——我以为模型只会用一种方式做事，像个奇怪的外星人。但实际上，随着模型越来越通用，它们能以你想要的任何方式工作……包括在 Figma 里直接画 UI。\" —— <a href=\"https://x.com/thsottiaux\" data-handle=\"thsottiaux\">Thariq Shihipar</a>\n</blockquote>\n\n<hr>\n\n<h2>🦃 感恩节特辑：硅谷的感恩时刻</h2>\n\n<p>感恩节让平时专注讨论技术的创始人们罕见地展露出柔软一面。OpenAI CEO <a href=\"https://x.com/sama\" data-handle=\"sama\">Sam Altman</a> 发了今天转发量最高的几条推文，从对家人的感恩，到对 OpenAI 团队的赞许：</p>\n\n<blockquote>\n\"大多数好事做到第 100 次就会少了些满足感。但和孩子安静地待在一起，哪怕做些极其平凡的事，是那种罕见的、会越来越好的重复体验。\" —— <a href=\"https://x.com/sama/status/2125984053119836399\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<blockquote>\n\"Ven 是最早相信我们能用当时的模型解决千禧年数学难题的人之一。聪明的人世界上有很多，但聪明同时又有准确放置的自信与勇气、在别人认为不可能的事上坚持推进——这非常宝贵，也相当罕见。\" —— <a href=\"https://x.com/sama/status/2125990371897557278\" data-handle=\"sama\">@sama</a>\n</blockquote>\n\n<p>Vercel CEO <a href=\"https://x.com/rauchg\" data-handle=\"rauchg\">Guillermo Rauch</a> 则写下了一段颇具感染力的乐观主义宣言：</p>\n\n<blockquote>\n\"为了定义未来、引领世界，你必须拥有对未来的积极愿景。如今许多人谈论的是一个我们必须盲目接受的未来。相反，我们要用自己的能动性，去构建和投射我们为子孙后代所希望的美好未来。\" —— <a href=\"https://x.com/rauchg/status/2126037393241424065\" data-handle=\"rauchg\">@rauchg</a>\n</blockquote>\n\n<p>风投圈也有人保持了一贯的自嘲风格。<a href=\"https://x.com/mattturck\" data-handle=\"mattturck\">Matt Turck</a> 轻描淡写地调侃道：</p>\n\n<blockquote>\n\"'感谢 VC 们的思想领导力、播客和市场地图。' —— 至今尚无创始人说过这句话（不过感恩节才刚开始）\" —— <a href=\"https://x.com/mattturck/status/2126068708527198482\" data-handle=\"mattturck\">@mattturck</a>\n</blockquote>\n\n<hr>\n\n<h2>💡 值得收藏：从 LinkedIn 迁移到 X 的 12 条建议</h2>\n\n<p>最后，<a href=\"https://x.com/zarazhangrui\" data-handle=\"zarazhangrui\">@zarazhangrui</a> 的一条长推文意外成为今天的\"实用干货\"。她用一年时间在 X 上积累了 8 万粉丝，并分享了给 LinkedIn 用户的<a href=\"https://x.com/zarazhangrui/status/2126055939749118294\">12 条跨平台建议</a>，其中几条尤为值得记住：</p>\n\n<blockquote>\n\"LinkedIn 是一个舞台，X 是一个派对。先找到你的圈子，再听他们在聊什么，别急着开口。……X 上至少一半的内容应该是'反应性内容'：回复、引用推文、对别人已说内容的评论。……写作风格要像在给一个熟人发短信。精心打磨反而让人反感，大家对完美的 AI 风格写作都过敏了。\"\n</blockquote>\n\n<p>这条建议在 AI 内容泛滥的今天格外应景——无论是给人类创作者，还是给那些试图用 AI 批量生产\"社媒内容\"的运营者。</p>"
+}
